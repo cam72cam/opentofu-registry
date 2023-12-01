@@ -17,7 +17,7 @@ jobs:
       - name: Provider Issue to Pull Request
         run: |
           # Pull provider out of issue body
-          provider=`$(echo "$BODY" | grep "### Repository" -A2 | tail -n1)`
+          provider=`echo "$BODY" | grep "### Repository" -A2 | tail -n1`
           echo "Detected Provider '$provider'"
 
           # Check that provider matches expected pattern
