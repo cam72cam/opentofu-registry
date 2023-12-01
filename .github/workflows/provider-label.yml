@@ -1,6 +1,8 @@
 name: Provider Labeled
 on:
-  issues: [opened, edited]
+  issues:
+    types:
+      [opened, edited]
 
 jobs:
   label_issues:
