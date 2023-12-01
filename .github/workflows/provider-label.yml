@@ -7,7 +7,8 @@ jobs:
   label_issues:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Added Label to $NUMBER: $LABEL"
+      - name: Check Label
+        run: echo "Added Label to $NUMBER: $LABEL"
         env:
           NUMBER: ${{ github.event.issue }}
           LABEL: ${{ github.event.label.name }}
