@@ -44,9 +44,9 @@ jobs:
           git commit -m "Create provider $namespace/$name"
           git push -u origin provider-submission_$namespace_$name
 
-          gh pr create --title "$TITLE" --body "#Provider Submission:\n\nCreated $jsonfile for provider $namespace/$name.\n\nSee issue #$NUMBER for details."
+          pr=$(gh pr create --title "$TITLE" --body "Created $jsonfile for provider $namespace/$name.  See issue #$NUMBER for details." #--assignee opentofu/core-engineers)
 
-          gh issue comment $NUMBER -b "TODO Create a PR for $namespace -> $name"
+          gh issue comment $NUMBER -b "Your submission has been accepted and has moved on to the pull request phase ($pr)"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_REPO: ${{ github.repository }}
