@@ -13,7 +13,12 @@ jobs:
       contents: write
       pull-requests: write
     steps:
-      - uses: actions/checkout@v2 
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      - name: Set up Go
+        uses: actions/setup-go@v4
+        with:
+          go-version-file: './src/go.mod'
       - name: Provider Issue to Pull Request
         run: |
           # Pull provider out of issue body
@@ -42,7 +47,12 @@ jobs:
           mkdir -p $(dirname $jsonfile)
           echo '{}' > $jsonfile
 
-
+          echo "Bumping $namespace"
+          cd src
+          # This might "bump" a few extra providers, but it will only commit the specific provider below
+          go run ./cmd/bump-versions -provider-namespace $namespace
+          cd -
+          
           git config --global user.email "no-reply@opentofu.org"
           git config --global user.name "OpenTOFU Automation"
 
@@ -63,6 +73,7 @@ jobs:
 
           gh issue comment $NUMBER -b "Your submission has been accepted and has moved on to the pull request phase ($pr)"
         env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_REPO: ${{ github.repository }}
           NUMBER: ${{ github.event.issue.number }}
