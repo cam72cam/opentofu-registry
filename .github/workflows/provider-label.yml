@@ -6,15 +6,31 @@ on:
 jobs:
   label_issues:
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
     steps:
       - name: Check Label
         run: |
           echo "Label $LABEL added to $TITLE ($URL)"
-          # Check that the label is accepted
+          # Check that the label is accepted, ignore others
           [[ "$LABEL" == "accepted" ]] || exit 0
-          echo "TODO \"$BODY\""
-          gh issue comment $NUMBER -b "TODO Create a PR!"
+
+          # Pull provider out of issue body
+          provider=$(echo "$BODY" | grep "### Repository" -A2 | tail -n1)
+          echo "Detected Provider '$provider'"
+
+          # Check that provider matches expected pattern
+          [[ "$provider" =~ [a-zA-Z0-9\-]+/terraform-provider-[a-zA-Z0-9\-]+ ]] || exit 1
+
+          # Split provider into namespace/terraform-provider-name
+          namespace=${provider/\/*/}
+          name=${provider/*\/terraform-provider-/}
+          echo "Detected Namespace '$namespace'"
+          echo "Detected Name '$name'"
+
+          gh issue comment $NUMBER -b "TODO Create a PR for $namespace -> $name"
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NUMBER: ${{ github.event.issue.number }}
           URL: ${{ github.event.issue.url }}
           TITLE: ${{ github.event.issue.title }}
