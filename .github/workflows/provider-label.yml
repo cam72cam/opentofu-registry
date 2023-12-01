@@ -21,7 +21,7 @@ jobs:
           echo "Detected Provider '$provider'"
 
           # Check that provider matches expected pattern
-          [[ "$provider" =~ [a-zA-Z0-9\-]+/terraform-provider-[a-zA-Z0-9\-]+ ]]; then
+          if [[ "$provider" =~ [a-zA-Z0-9\-]+/terraform-provider-[a-zA-Z0-9\-]+ ]]; then
             gh issue comment $NUMBER -b "Failed validation: Invalid provider '$provider'"
             exit 1
           fi
