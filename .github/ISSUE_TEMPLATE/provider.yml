@@ -1,14 +1,13 @@
 name: Submit new Provider
 description: Submit a new OpenTofu Provider
-title: "New Provider: "
-labels: ["provider"]
+title: "Provider: "
+labels: ["provider", "submission"]
 body:
   - type: input
     id: repository
     attributes:
       label: Repository
-      description: Path to a public GitHub repository following the pattern {owner}/terraform-provider-{name}
-      placeholder: opentofu/terraform-provider-aws
+      description: Path to a public GitHub repository following the pattern {owner}/terraform-provider-{name}, ex: opentofu/terraform-provider-aws
     validations:
       required: true
   - type: checkboxes
