@@ -36,6 +36,9 @@ jobs:
           mkdir -p $(dirname $jsonfile)
           echo '{}' > $jsonfile
 
+
+          git config --global user.email "no-reply@opentofu.org"
+          git config --global user.name "OpenTOFU Automation"
           git checkout -b $branch
           git add $jsonfile
           git commit -m "Create provider $namespace/$name"
