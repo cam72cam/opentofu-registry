@@ -10,5 +10,5 @@ jobs:
       - name: Check Label
         run: echo "Added Label to $NUMBER - $LABEL"
         env:
-          NUMBER: ${{ github.event.issue }}
+          NUMBER: ${{ github.event.issue.id }}
           LABEL: ${{ github.event.label.name }}
