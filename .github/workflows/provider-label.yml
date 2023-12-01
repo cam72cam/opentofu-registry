@@ -8,7 +8,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check Label
-        run: echo "Added Label to $NUMBER - $LABEL"
+        run: |
+          echo "Label $LABEL added to $TITLE ($URL)"
+          # Check that the label is accepted
+          [[ "$LABEL" == "accepted" ]] || exit 0
+          echo "TODO \"$BODY\""
+          gh issue comment $NUMBER -b "TODO Create a PR!"
         env:
-          NUMBER: ${{ github.event.issue.id }}
+          NUMBER: ${{ github.event.issue.number }}
+          URL: ${{ github.event.issue.url }}
+          TITLE: ${{ github.event.issue.title }}
+          BODY: ${{ github.event.issue.body }}
           LABEL: ${{ github.event.label.name }}
