@@ -6,7 +6,7 @@ on:
 
 jobs:
   label_issues:
-    if: contains(github.event.pull_request.labels.*.name, 'provider')
+    if: contains(github.event.issue.labels.*.name, 'provider')
     runs-on: ubuntu-latest
     permissions:
       issues: write
