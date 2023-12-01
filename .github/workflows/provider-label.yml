@@ -44,7 +44,7 @@ jobs:
           git commit -m "Create provider $namespace/$name"
           git push -u origin provider-submission_$namespace_$name
 
-          pr=$(gh pr create --title "$TITLE" --body "Created $jsonfile for provider $namespace/$name.  See issue #$NUMBER for details." #--assignee opentofu/core-engineers)
+          pr=$(gh pr create --title "$TITLE" --body "Created $jsonfile for provider $namespace/$name.  See issue #$NUMBER for details.") #--assignee opentofu/core-engineers)
 
           gh issue comment $NUMBER -b "Your submission has been accepted and has moved on to the pull request phase ($pr)"
         env:
