@@ -8,7 +8,10 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       issues: write
+      contents: write
+      pull-requests: write
     steps:
+      - uses: actions/checkout@v2
       - name: Check Label
         run: |
           echo "Label $LABEL added to $TITLE ($URL)"
@@ -27,6 +30,18 @@ jobs:
           name=${provider/*\/terraform-provider-/}
           echo "Detected Namespace '$namespace'"
           echo "Detected Name '$name'"
+
+          branch="provider-submission_$namespace_$name"
+          jsonfile=$(echo "$namespace/$name" | sed -e 's,\(.\)\(.*\)/\(.*\),./providers/\L\1\E/\1\2/\3.json,')
+          mkdir -p $(dirname $jsonfile)
+          echo '{}' > $jsonfile
+
+          git checkout -b $branch
+          git add $jsonfile
+          git commit -m "Create provider $namespace/$name"
+          git push -u origin provider-submission_$namespace_$name
+
+          gh pr create --title "$TITLE" --body "#Provider Submission:\n\nCreated $jsonfile for provider $namespace/$name.\n\nSee issue #$NUMBER for details."
 
           gh issue comment $NUMBER -b "TODO Create a PR for $namespace -> $name"
         env:
