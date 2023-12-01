@@ -50,7 +50,7 @@ jobs:
           echo "Bumping $namespace"
           cd src
           # This might "bump" a few extra providers, but it will only commit the specific provider below
-          go run ./cmd/bump-versions -provider-namespace $namespace -module-name this-really-should-not-exist-please-ignore-me
+          go run ./cmd/bump-versions -provider-namespace $namespace -module-namespace this-really-should-not-exist-please-ignore-me
           cd -
           
           git config --global user.email "no-reply@opentofu.org"
