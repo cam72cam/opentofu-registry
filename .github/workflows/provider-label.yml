@@ -13,11 +13,11 @@ jobs:
       contents: write
       pull-requests: write
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v2 
       - name: Provider Issue to Pull Request
         run: |
           # Pull provider out of issue body
-          provider=$(echo "$BODY" | grep "### Repository" -A2 | tail -n1)
+          provider=$(echo "$BODY" | grep "### Repository" -A2 | tail -n1 | sed -e 's/[\r\n]//g')
           echo "Detected Provider '$provider'"
 
           # Check that provider matches expected pattern
@@ -46,7 +46,7 @@ jobs:
           git config --global user.email "no-reply@opentofu.org"
           git config --global user.name "OpenTOFU Automation"
 
-          branch="provider-submission_$namespace_$name"
+          branch="provider-submission_${namespace}_${name}"
           set +e
           git checkout -b $branch
           if [[ "$?" != 0 ]]; then
@@ -57,7 +57,7 @@ jobs:
 
           git add $jsonfile
           git commit -s -m "Create provider $namespace/$name"
-          git push -u origin provider-submission_$namespace_$name
+          git push -u origin $branch
 
           pr=$(gh pr create --title "$TITLE" --body "Created $jsonfile for provider $namespace/$name.  See issue #$NUMBER for details.") #--assignee opentofu/core-engineers)
 
