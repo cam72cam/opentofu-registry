@@ -1,7 +1,6 @@
 name: Provider Labeled
 on:
-  issues:
-    types: [labeled]
+  issues: [opened, edited]
 
 jobs:
   label_issues:
@@ -12,18 +11,24 @@ jobs:
       pull-requests: write
     steps:
       - uses: actions/checkout@v2
-      - name: Check Label
+      - name: Provider Issue to Pull Request
         run: |
-          echo "Label $LABEL added to $TITLE ($URL)"
+          echo "Checking if $TITLE ($URL) has provider label $LABELS"
           # Check that the label is accepted, ignore others
-          [[ "$LABEL" == "accepted" ]] || exit 0
+          if [[ "$LABELS" == *provider* ]]; then
+            echo "Provider label not detected"
+            exit 0
+          fi
 
           # Pull provider out of issue body
           provider=$(echo "$BODY" | grep "### Repository" -A2 | tail -n1)
           echo "Detected Provider '$provider'"
 
           # Check that provider matches expected pattern
-          [[ "$provider" =~ [a-zA-Z0-9\-]+/terraform-provider-[a-zA-Z0-9\-]+ ]] || exit 1
+          [[ "$provider" =~ [a-zA-Z0-9\-]+/terraform-provider-[a-zA-Z0-9\-]+ ]]; then
+            gh issue comment $NUMBER -b "Failed validation: Invalid provider '$provider'"
+            exit 1
+          fi
 
           # Split provider into namespace/terraform-provider-name
           namespace=${provider/\/*/}
@@ -31,17 +36,31 @@ jobs:
           echo "Detected Namespace '$namespace'"
           echo "Detected Name '$name'"
 
-          branch="provider-submission_$namespace_$name"
           jsonfile=$(echo "$namespace/$name" | sed -e 's,\(.\)\(.*\)/\(.*\),./providers/\L\1\E/\1\2/\3.json,')
+
+          if [[ -f $jsonfile ]]; then
+            gh issue comment $NUMBER -b "Failed validation: This provider already exists within the registry. $jsonfile"
+            exit 1
+          fi
+
           mkdir -p $(dirname $jsonfile)
           echo '{}' > $jsonfile
 
 
           git config --global user.email "no-reply@opentofu.org"
           git config --global user.name "OpenTOFU Automation"
+
+          branch="provider-submission_$namespace_$name"
+          set +e
           git checkout -b $branch
+          if [[ "$?" != 0 ]]; then
+            gh issue comment $NUMBER -b "Failed validation: A branch already exists for this provider '$branch'"
+            exit 1
+          fi
+          set -e
+
           git add $jsonfile
-          git commit -m "Create provider $namespace/$name"
+          git commit -s -m "Create provider $namespace/$name"
           git push -u origin provider-submission_$namespace_$name
 
           pr=$(gh pr create --title "$TITLE" --body "Created $jsonfile for provider $namespace/$name.  See issue #$NUMBER for details.") #--assignee opentofu/core-engineers)
@@ -54,4 +73,4 @@ jobs:
           URL: ${{ github.event.issue.url }}
           TITLE: ${{ github.event.issue.title }}
           BODY: ${{ github.event.issue.body }}
-          LABEL: ${{ github.event.label.name }}
+          LABELS: ${{ github.event.issue.labels }}
