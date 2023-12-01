@@ -52,6 +52,16 @@ jobs:
           # This might "bump" a few extra providers, but it will only commit the specific provider below
           go run ./cmd/bump-versions -provider-namespace $namespace -module-namespace this-really-should-not-exist-please-ignore-me
           cd -
+
+
+          # Validate json file
+          set +e
+          grep -c '"version":' $jsonfile
+          if [[ "$?" != 0 ]]; then
+            gh issue comment $NUMBER -b "Failed validation: No versions detected in $jsonfile"
+          fi
+          set -e
+
           
           git config --global user.email "no-reply@opentofu.org"
           git config --global user.name "OpenTOFU Automation"
