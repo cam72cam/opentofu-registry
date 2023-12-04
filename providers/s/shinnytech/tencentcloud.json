@@ -1,6 +1,23 @@
 {
   "versions": [
     {
+      "version": "2023.12.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/shinnytech/terraform-provider-tencentcloud/releases/download/2023.12.0/terraform-provider-tencentcloud_2023.12.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/shinnytech/terraform-provider-tencentcloud/releases/download/2023.12.0/terraform-provider-tencentcloud_2023.12.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-tencentcloud_2023.12.0_linux_amd64.zip",
+          "download_url": "https://github.com/shinnytech/terraform-provider-tencentcloud/releases/download/2023.12.0/terraform-provider-tencentcloud_2023.12.0_linux_amd64.zip",
+          "shasum": "8e57656204db04998afc9a212517cd92dc5cfb52c4b61583528e757f15a89df9"
+        }
+      ]
+    },
+    {
       "version": "2023.11.0",
       "protocols": [
         "5.0"
@@ -14,6 +31,23 @@
           "filename": "terraform-provider-tencentcloud_2023.11.0_linux_amd64.zip",
           "download_url": "https://github.com/shinnytech/terraform-provider-tencentcloud/releases/download/2023.11.0/terraform-provider-tencentcloud_2023.11.0_linux_amd64.zip",
           "shasum": "10469de0485191ce8d67b1138665c96975efcc5e33b6dce2936d7207b8a8ed1f"
+        }
+      ]
+    },
+    {
+      "version": "1.81.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/shinnytech/terraform-provider-tencentcloud/releases/download/1.81.0/terraform-provider-tencentcloud_1.81.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/shinnytech/terraform-provider-tencentcloud/releases/download/1.81.0/terraform-provider-tencentcloud_1.81.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-tencentcloud_1.81.0_linux_amd64.zip",
+          "download_url": "https://github.com/shinnytech/terraform-provider-tencentcloud/releases/download/1.81.0/terraform-provider-tencentcloud_1.81.0_linux_amd64.zip",
+          "shasum": "ac524fcd5a6f268f67ae3896495d5e0acce24c59c7d7dd8d37f4e655d11cbb08"
         }
       ]
     },
