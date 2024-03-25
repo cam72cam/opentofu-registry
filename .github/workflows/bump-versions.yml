@@ -26,6 +26,9 @@ jobs:
       actions: write
     env:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    strategy:
+      matrix:
+        prefix: ["0", "1", "2", "3", "4", "5", "6", "7", "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -37,7 +40,7 @@ jobs:
 
       - name: Run version bump script
         working-directory: ./src
-        run: go run ./cmd/bump-versions
+        run: go run ./cmd/bump-versions -module-namespace ${{matrix.prefix}} -provider-namespace ${{matrix.prefix}}
 
       - name: Get branch
         id: get-branch
@@ -49,17 +52,6 @@ jobs:
             export BRANCH="${{ github.ref }}-bump-versions-$TIMESTAMP"
           fi
           echo "BRANCH=$BRANCH" >> $GITHUB_ENV
-
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          file_pattern: 'modules/**/* providers/**/*'
-
-          commit_author: OpenTofu Core Development Team <core@opentofu.org>
-          commit_user_name: OpenTofu Core Development Team
-          commit_message: "Automated bump of versions for providers and modules"
-
-          create_branch: true
-          branch: ${{ env.BRANCH }}
 
       - name: Print Branch name
         run: |
