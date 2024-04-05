@@ -38,22 +38,8 @@ jobs:
         with:
           go-version-file: './src/go.mod'
           cache-dependency-path: './src/go.sum'
-
-      - name: Run version bump script
-        working-directory: ./src
-        run: go run ./cmd/bump-versions -module-namespace ${{matrix.prefix}} -provider-namespace ${{matrix.prefix}}
-
-      - name: Get branch
-        id: get-branch
-        run: |
-          if [ "${{ inputs.environment }}" = "Production" ]; then
-            export BRANCH="${{ github.ref }}"
-          elif [ "${{ inputs.environment }}" = "Development" ]; then
-            TIMESTAMP=$(date +%s)
-            export BRANCH="${{ github.ref }}-bump-versions-$TIMESTAMP"
-          fi
-          echo "BRANCH=$BRANCH" >> $GITHUB_ENV
-
-      - name: Print Branch name
-        run: |
-          echo "Providers and modules changes were pushed to branch: ${{ env.BRANCH }}"
+      - name: Bump Versions
+        run: ./.github/workflows/bump-versions.sh
+        env:
+          PREFIX: ${{ matrix.prefix }}
+          ENVIRONMENT: ${{ inputs.environment }}
