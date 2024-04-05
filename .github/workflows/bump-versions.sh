@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set +e
+set +x
 
 if [ -z "${PREFIX}" ]; then
 	echo "Expecting \$PREFIX to be set"
