@@ -4,8 +4,8 @@ if [ -z "${PREFIX}" ]; then
 	echo "Expecting \$PREFIX to be set"
 	exit 1
 fi
-if [ -z "${GITHUB_REF}" ]; then
-	echo "Expecting \$GITHUB_REF to be set"
+if [ -z "${GITHUB_REF_NAME}" ]; then
+	echo "Expecting \$GITHUB_REF_NAME to be set"
 	exit 1
 fi
 if [ -z "${GITHUB_RUN_NUMBER}" ]; then
@@ -21,9 +21,9 @@ cd ./src
 go run ./cmd/bump-versions -module-namespace "${PREFIX}" -provider-namespace "${PREFIX}"
 cd ../
 
-BRANCH="${GITHUB_REF}-bump-versions-${GITHUB_RUN_NUMBER}"
+BRANCH="${GITHUB_REF_NAME}-bump-versions-${GITHUB_RUN_NUMBER}"
 if [ "${ENVIRONMENT}" = "Production" ]; then
-	export BRANCH="${GITHUB_REF}"
+	export BRANCH="${GITHUB_REF_NAME}"
 fi
 
 # Try to get to the latest HEAD
@@ -33,7 +33,9 @@ git reset --hard origin/$BRANCH
 
 # Commit changes
 git add ./modules ./providers
-git commit --author "OpenTofu Core Development Team <core@opentofu.org>" -m "Automated bump of versions for providers and modules"
+git config user.email "core@opentofu.org"
+git config user.name "OpenTofu Core Development Team"
+git commit -m "Automated bump of versions for providers and modules"
 
 # Racing with other jobs, try a few times to push changes
 for i in {0..30}; do
