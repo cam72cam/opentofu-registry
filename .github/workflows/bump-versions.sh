@@ -27,7 +27,7 @@ if [ "${ENVIRONMENT}" = "Production" ]; then
 fi
 
 # Try to get to the latest HEAD
-git fetch origin
+git fetch origin $BRANCH
 git checkout -b $BRANCH
 git reset --hard origin/$BRANCH
 
@@ -37,16 +37,18 @@ git config user.email "core@opentofu.org"
 git config user.name "OpenTofu Core Development Team"
 git commit -m "Automated bump of versions for providers and modules"
 
+git show HEAD
+
 # Racing with other jobs, try a few times to push changes
 for i in {0..30}; do
-	git fetch origin
-	git rebase origin/$BRANCH
 	git push -u origin $BRANCH
 	if [ $? = 0 ]; then
 		echo "Providers and modules changes were pushed to branch: ${BRANCH}"
 		exit 0
 	fi
 	sleep 1
+	git fetch origin
+	git rebase origin/$BRANCH
 done
 
 echo "Failed to push providers and modules changes to branch: ${BRANCH}"
