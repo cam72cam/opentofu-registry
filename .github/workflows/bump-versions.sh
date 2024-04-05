@@ -32,6 +32,7 @@ git checkout -b $BRANCH
 git reset --hard origin/$BRANCH
 
 # Commit changes
+git status
 git add ./modules ./providers
 git config user.email "core@opentofu.org"
 git config user.name "OpenTofu Core Development Team"
