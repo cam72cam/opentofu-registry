@@ -31,7 +31,6 @@ fi
 # Try to get to the latest HEAD
 git fetch origin $BRANCH
 git checkout -b $BRANCH
-git reset --hard origin/$BRANCH
 
 # Commit changes
 git status
