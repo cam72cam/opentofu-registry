@@ -37,7 +37,7 @@ git status
 git add ./modules ./providers
 git config user.email "core@opentofu.org"
 git config user.name "OpenTofu Core Development Team"
-git commit -m "Automated bump of versions for providers and modules"
+git commit -m "Automated bump of versions for providers and modules (${PREFIX})"
 
 # Racing with other jobs, try a few times to push changes
 for i in {0..30}; do
