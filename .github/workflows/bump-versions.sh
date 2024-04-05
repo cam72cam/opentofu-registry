@@ -42,6 +42,13 @@ for i in {0..30}; do
 	git fetch origin
 	git rebase origin/$BRANCH
 	git push -u origin $BRANCH
+	if [ $? = 0 ]; then
+		echo "Providers and modules changes were pushed to branch: ${BRANCH}"
+		exit 0
+	fi
+	sleep 1
 done
 
-echo "Providers and modules changes were pushed to branch: ${BRANCH}"
+echo "Failed to push providers and modules changes to branch: ${BRANCH}"
+exit -1
+
