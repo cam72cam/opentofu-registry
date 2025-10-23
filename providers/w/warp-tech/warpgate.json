@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.1.1",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.1/terraform-provider-warpgate_1.1.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.1/terraform-provider-warpgate_1.1.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-warpgate_1.1.1_darwin_amd64.zip",
+          "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.1/terraform-provider-warpgate_1.1.1_darwin_amd64.zip",
+          "shasum": "39c7828a656e86264ea27d4e17c9391e0bde42e732f180bc48f7c02f9e730a49",
+          "h1": "h1:bOm8XoPTg9afstcohFYk9yWKTtafDycc/srw1/0Kf9Y="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-warpgate_1.1.1_darwin_arm64.zip",
+          "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.1/terraform-provider-warpgate_1.1.1_darwin_arm64.zip",
+          "shasum": "0aea7a03822418cb8dab861cb1d7c55a75be53d4cd0e8d64f7c3d2c9abb148c5",
+          "h1": "h1:Q4eaMEG7D49b4Y/SiyDpUHj326AYD26VHNID9Ez7rKk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-warpgate_1.1.1_freebsd_386.zip",
+          "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.1/terraform-provider-warpgate_1.1.1_freebsd_386.zip",
+          "shasum": "510a0dd8c21ee1b735ebe731b3b31317f49be344dcccf4baa9670aa55f64524c",
+          "h1": "h1:opYdXY3+NHrQgSsltY9qlp3/FNzO9fqz08bSg+QVbsY="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-warpgate_1.1.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.1/terraform-provider-warpgate_1.1.1_freebsd_amd64.zip",
+          "shasum": "b5d0323248b3f1694539982a0580e25eacfef5b59cddf7d30a48a4eac5af94e2",
+          "h1": "h1:DRkU7SQUxBXrnxBebFw8Rz3CQPFenUGl6BdOqo3pKsc="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-warpgate_1.1.1_freebsd_arm.zip",
+          "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.1/terraform-provider-warpgate_1.1.1_freebsd_arm.zip",
+          "shasum": "ce86d0a251398f348d5e7c123101710ccc95bf820e7721697d0a72c2e2c2794a",
+          "h1": "h1:rPMqG+0aaKGhrjvmw+HncXaH/ziresq5oliHXUv7LsE="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-warpgate_1.1.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.1/terraform-provider-warpgate_1.1.1_freebsd_arm64.zip",
+          "shasum": "5f3fbcc7a787458cd61374d972969d54c75f06acca0a827b575c3d3b615c9ca8",
+          "h1": "h1:L32UYre+oogHVRxNmCAB0SQLTYVL2O9KaWBBsmbAqck="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-warpgate_1.1.1_linux_386.zip",
+          "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.1/terraform-provider-warpgate_1.1.1_linux_386.zip",
+          "shasum": "5a5ef1a92b83c75f8f608260162c1aa6a82a022134f3e0482846474efbcb0d56",
+          "h1": "h1:/gmxvDQpB/f5bcW/bugqDfI4Ybc4hEvshkIoo0kGDok="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-warpgate_1.1.1_linux_amd64.zip",
+          "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.1/terraform-provider-warpgate_1.1.1_linux_amd64.zip",
+          "shasum": "41c57af8cd2dc91482d106437e13786424fb129ae0ba3870750220737383510f",
+          "h1": "h1:RY+jCjImuoFfQeJgdUQwBygX3GK1w3eaKoGRww21oxw="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-warpgate_1.1.1_linux_arm.zip",
+          "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.1/terraform-provider-warpgate_1.1.1_linux_arm.zip",
+          "shasum": "bdc8cd576a1fe091c1e79425bbfcb194aae5a74e23b8056ba19aae0101252c1a",
+          "h1": "h1:NeWx8N3J9cuxNp26YjyY+1RCgtZHEs0UbDuol7ytD8M="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-warpgate_1.1.1_linux_arm64.zip",
+          "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.1/terraform-provider-warpgate_1.1.1_linux_arm64.zip",
+          "shasum": "be8d85f38ba90a1004e9b3d01be9964b7f0a512f42c578f34b8e19a8bbf6af2c",
+          "h1": "h1:nCta0KdB0xlAVXAi9lwrK7LaaPjNEMDdyG6FOKhCPac="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-warpgate_1.1.1_windows_386.zip",
+          "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.1/terraform-provider-warpgate_1.1.1_windows_386.zip",
+          "shasum": "8bdd58da608509097a67d5ab908ef72e3f225b39692f53e8531995dd14538861",
+          "h1": "h1:mRMSzuu49TaMQGKO/U/Koqj1B0fwwjUQh+LYCAK78RU="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-warpgate_1.1.1_windows_amd64.zip",
+          "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.1/terraform-provider-warpgate_1.1.1_windows_amd64.zip",
+          "shasum": "b1c02acba7ab310b41249b6edd6b6bdc776f773f306b7e121381fb313f144a37",
+          "h1": "h1:AolH0wrsWpEK4pazwZ6xM+PyF9UMuWQPQzFr9VCnNh4="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-warpgate_1.1.1_windows_arm.zip",
+          "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.1/terraform-provider-warpgate_1.1.1_windows_arm.zip",
+          "shasum": "f7d72b952c224b80247c1f35793a7f79a1d5f0dbd1a6dfea1c017cf87ab8dffc",
+          "h1": "h1:mMx7UDlLnC9GrIFvNVutvsz6gBrssYROgtNrLqWv0nY="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-warpgate_1.1.1_windows_arm64.zip",
+          "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.1/terraform-provider-warpgate_1.1.1_windows_arm64.zip",
+          "shasum": "a2643a55416f05b83832b4e5c71daef87ea1725c3d51b05038be6bb0669b07a4",
+          "h1": "h1:ecJxDPI2usvaFj+a/XmKGnEFu+Ve39x6lhL7llsSdXE="
+        }
+      ]
+    },
+    {
       "version": "1.1.0",
       "protocols": [
         "6.0"
@@ -13,98 +135,112 @@
           "arch": "amd64",
           "filename": "terraform-provider-warpgate_1.1.0_darwin_amd64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.0/terraform-provider-warpgate_1.1.0_darwin_amd64.zip",
-          "shasum": "b957c9a08658d7d887353f61874a5309510666dccd46cd307523ca69cca3773b"
+          "shasum": "b957c9a08658d7d887353f61874a5309510666dccd46cd307523ca69cca3773b",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-warpgate_1.1.0_darwin_arm64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.0/terraform-provider-warpgate_1.1.0_darwin_arm64.zip",
-          "shasum": "184644ff451004d7d64cb3966b7e57a1889891ebb87c3eb2de4c50144fcbf7b0"
+          "shasum": "184644ff451004d7d64cb3966b7e57a1889891ebb87c3eb2de4c50144fcbf7b0",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-warpgate_1.1.0_freebsd_386.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.0/terraform-provider-warpgate_1.1.0_freebsd_386.zip",
-          "shasum": "37a793bb549b5dbcc5e8a83a4af3c519d9aad6cc2c2d907e14dd0a7b0025d04c"
+          "shasum": "37a793bb549b5dbcc5e8a83a4af3c519d9aad6cc2c2d907e14dd0a7b0025d04c",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-warpgate_1.1.0_freebsd_amd64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.0/terraform-provider-warpgate_1.1.0_freebsd_amd64.zip",
-          "shasum": "3d15531be06c0248ce7d07db80999273c99a9400eec71516c15e5290ef73ad6a"
+          "shasum": "3d15531be06c0248ce7d07db80999273c99a9400eec71516c15e5290ef73ad6a",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-warpgate_1.1.0_freebsd_arm.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.0/terraform-provider-warpgate_1.1.0_freebsd_arm.zip",
-          "shasum": "2ef00d42d025e4a39574cd70ec44bf35a032ebd5f588026f64408ce2f6de5491"
+          "shasum": "2ef00d42d025e4a39574cd70ec44bf35a032ebd5f588026f64408ce2f6de5491",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-warpgate_1.1.0_freebsd_arm64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.0/terraform-provider-warpgate_1.1.0_freebsd_arm64.zip",
-          "shasum": "831f3ee5c730b38164bb099d007a1952aa851752381ce08084f8d0e9ff56c5a2"
+          "shasum": "831f3ee5c730b38164bb099d007a1952aa851752381ce08084f8d0e9ff56c5a2",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-warpgate_1.1.0_linux_386.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.0/terraform-provider-warpgate_1.1.0_linux_386.zip",
-          "shasum": "3ec4e2ffaa6219e6eeba653e3b9152bc24bb5d42a5bb51beb883d0fdb57bb16b"
+          "shasum": "3ec4e2ffaa6219e6eeba653e3b9152bc24bb5d42a5bb51beb883d0fdb57bb16b",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-warpgate_1.1.0_linux_amd64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.0/terraform-provider-warpgate_1.1.0_linux_amd64.zip",
-          "shasum": "7b0e3059e03ac77d8ee67f68189f5fe3a2ea3ce55a4afd677f1bc85303797f39"
+          "shasum": "7b0e3059e03ac77d8ee67f68189f5fe3a2ea3ce55a4afd677f1bc85303797f39",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-warpgate_1.1.0_linux_arm.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.0/terraform-provider-warpgate_1.1.0_linux_arm.zip",
-          "shasum": "8e2632a38d3b4023cd6fcc3f0abb8cfb4d02ce5067c7ca83bc08729d3ffd7a4d"
+          "shasum": "8e2632a38d3b4023cd6fcc3f0abb8cfb4d02ce5067c7ca83bc08729d3ffd7a4d",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-warpgate_1.1.0_linux_arm64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.0/terraform-provider-warpgate_1.1.0_linux_arm64.zip",
-          "shasum": "ca20f88db34cf128cc762a6e8c9db06b5d2ea06b31e58d5102b2f61981a23d76"
+          "shasum": "ca20f88db34cf128cc762a6e8c9db06b5d2ea06b31e58d5102b2f61981a23d76",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-warpgate_1.1.0_windows_386.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.0/terraform-provider-warpgate_1.1.0_windows_386.zip",
-          "shasum": "a013dbf9640d4d9508817f4ba5351b378f0ddda93e8dbc281911f3c57d6b43ba"
+          "shasum": "a013dbf9640d4d9508817f4ba5351b378f0ddda93e8dbc281911f3c57d6b43ba",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-warpgate_1.1.0_windows_amd64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.0/terraform-provider-warpgate_1.1.0_windows_amd64.zip",
-          "shasum": "ccae229353e75662caa61dafbfd18fc98114c2649d1066d4ee33aefddd9ca1ba"
+          "shasum": "ccae229353e75662caa61dafbfd18fc98114c2649d1066d4ee33aefddd9ca1ba",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-warpgate_1.1.0_windows_arm.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.0/terraform-provider-warpgate_1.1.0_windows_arm.zip",
-          "shasum": "9fffadea9d428cdd3713ac768dcaa0be0b013e0338f22026822ee1212bb51822"
+          "shasum": "9fffadea9d428cdd3713ac768dcaa0be0b013e0338f22026822ee1212bb51822",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-warpgate_1.1.0_windows_arm64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.1.0/terraform-provider-warpgate_1.1.0_windows_arm64.zip",
-          "shasum": "376b188a40dd774bbb3ebb8ae42913dca0276834ba842abd88030985389973a6"
+          "shasum": "376b188a40dd774bbb3ebb8ae42913dca0276834ba842abd88030985389973a6",
+          "h1": ""
         }
       ]
     },
@@ -121,98 +257,112 @@
           "arch": "amd64",
           "filename": "terraform-provider-warpgate_1.0.1_darwin_amd64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.1/terraform-provider-warpgate_1.0.1_darwin_amd64.zip",
-          "shasum": "5a1151843e3408a4ce24e26dcadc5db0a9ae7702a71ae5938d8c99a30d57700e"
+          "shasum": "5a1151843e3408a4ce24e26dcadc5db0a9ae7702a71ae5938d8c99a30d57700e",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-warpgate_1.0.1_darwin_arm64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.1/terraform-provider-warpgate_1.0.1_darwin_arm64.zip",
-          "shasum": "39170a7d41352f97e5d9530e55332d37ae00a2841d91dddb5ff4d0da684793aa"
+          "shasum": "39170a7d41352f97e5d9530e55332d37ae00a2841d91dddb5ff4d0da684793aa",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-warpgate_1.0.1_freebsd_386.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.1/terraform-provider-warpgate_1.0.1_freebsd_386.zip",
-          "shasum": "63253735b16edacd64223b98164672aea2d1cfc9c8baa264c6ffebe1e21d8528"
+          "shasum": "63253735b16edacd64223b98164672aea2d1cfc9c8baa264c6ffebe1e21d8528",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-warpgate_1.0.1_freebsd_amd64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.1/terraform-provider-warpgate_1.0.1_freebsd_amd64.zip",
-          "shasum": "a12fa678cfd947096d707fe569f7bee2fce2c17e3197f028d01aa70b887adad0"
+          "shasum": "a12fa678cfd947096d707fe569f7bee2fce2c17e3197f028d01aa70b887adad0",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-warpgate_1.0.1_freebsd_arm.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.1/terraform-provider-warpgate_1.0.1_freebsd_arm.zip",
-          "shasum": "9ed21a99089d7da231e73cf74b6cf28510bdda94ab3e24f54c1d0e5ecb2eaf35"
+          "shasum": "9ed21a99089d7da231e73cf74b6cf28510bdda94ab3e24f54c1d0e5ecb2eaf35",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-warpgate_1.0.1_freebsd_arm64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.1/terraform-provider-warpgate_1.0.1_freebsd_arm64.zip",
-          "shasum": "ffa92019e9e4a8209a9a81d66cd25dfe5e8320f63c27c5a6d4257ddc6de66a88"
+          "shasum": "ffa92019e9e4a8209a9a81d66cd25dfe5e8320f63c27c5a6d4257ddc6de66a88",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-warpgate_1.0.1_linux_386.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.1/terraform-provider-warpgate_1.0.1_linux_386.zip",
-          "shasum": "dfe4e65b9d185779a069e5bfcd4db6e6a36577f3d59b7474adbd644dd39a1236"
+          "shasum": "dfe4e65b9d185779a069e5bfcd4db6e6a36577f3d59b7474adbd644dd39a1236",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-warpgate_1.0.1_linux_amd64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.1/terraform-provider-warpgate_1.0.1_linux_amd64.zip",
-          "shasum": "cfd342ab36b8378f1701df560a403a59bfcb59de2d3640bbd41b2410af4494c8"
+          "shasum": "cfd342ab36b8378f1701df560a403a59bfcb59de2d3640bbd41b2410af4494c8",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-warpgate_1.0.1_linux_arm.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.1/terraform-provider-warpgate_1.0.1_linux_arm.zip",
-          "shasum": "829443e2887fabc8487c634387fd1765b043af87371b2e7c95eb97b8752e6859"
+          "shasum": "829443e2887fabc8487c634387fd1765b043af87371b2e7c95eb97b8752e6859",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-warpgate_1.0.1_linux_arm64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.1/terraform-provider-warpgate_1.0.1_linux_arm64.zip",
-          "shasum": "2f1319382f608324b7027e13d6ca5ddf10c863c463082b39c447900693247e10"
+          "shasum": "2f1319382f608324b7027e13d6ca5ddf10c863c463082b39c447900693247e10",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-warpgate_1.0.1_windows_386.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.1/terraform-provider-warpgate_1.0.1_windows_386.zip",
-          "shasum": "396062d750abf0dd10df56d899fa6e0b1a3fdef8ab76bb831c67a2c227b45825"
+          "shasum": "396062d750abf0dd10df56d899fa6e0b1a3fdef8ab76bb831c67a2c227b45825",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-warpgate_1.0.1_windows_amd64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.1/terraform-provider-warpgate_1.0.1_windows_amd64.zip",
-          "shasum": "7d233779034b27c1c54fd9b9e6baca75d8f9451aff56cabbaedee45dbe25d43c"
+          "shasum": "7d233779034b27c1c54fd9b9e6baca75d8f9451aff56cabbaedee45dbe25d43c",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-warpgate_1.0.1_windows_arm.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.1/terraform-provider-warpgate_1.0.1_windows_arm.zip",
-          "shasum": "0ec80f7691b9eed856923f0c6dc5fe5cff5a9e6cd49767630c416991924396e9"
+          "shasum": "0ec80f7691b9eed856923f0c6dc5fe5cff5a9e6cd49767630c416991924396e9",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-warpgate_1.0.1_windows_arm64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.1/terraform-provider-warpgate_1.0.1_windows_arm64.zip",
-          "shasum": "8285c7501f5759d7f5d6694185fe4f5305e768c655dbea93c3d6eef98a02ae94"
+          "shasum": "8285c7501f5759d7f5d6694185fe4f5305e768c655dbea93c3d6eef98a02ae94",
+          "h1": ""
         }
       ]
     },
@@ -229,98 +379,112 @@
           "arch": "amd64",
           "filename": "terraform-provider-warpgate_1.0.0_darwin_amd64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.0/terraform-provider-warpgate_1.0.0_darwin_amd64.zip",
-          "shasum": "46cc036eef71f0881e2336188d1020491bc6cc561106ebdcbe4f695fbc7a5171"
+          "shasum": "46cc036eef71f0881e2336188d1020491bc6cc561106ebdcbe4f695fbc7a5171",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-warpgate_1.0.0_darwin_arm64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.0/terraform-provider-warpgate_1.0.0_darwin_arm64.zip",
-          "shasum": "a8d716fba8af933df9373e91ab37cacb38f21089763f2a3629784500bb187403"
+          "shasum": "a8d716fba8af933df9373e91ab37cacb38f21089763f2a3629784500bb187403",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-warpgate_1.0.0_freebsd_386.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.0/terraform-provider-warpgate_1.0.0_freebsd_386.zip",
-          "shasum": "81179249d36974b1ea887b3bfed442fa7cb99d25ebc87acc7b24860628a17a1c"
+          "shasum": "81179249d36974b1ea887b3bfed442fa7cb99d25ebc87acc7b24860628a17a1c",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-warpgate_1.0.0_freebsd_amd64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.0/terraform-provider-warpgate_1.0.0_freebsd_amd64.zip",
-          "shasum": "96cf044b81f057cff3a5efce94709f69b1e5c84a704ec3e016e0c907da7ad81b"
+          "shasum": "96cf044b81f057cff3a5efce94709f69b1e5c84a704ec3e016e0c907da7ad81b",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-warpgate_1.0.0_freebsd_arm.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.0/terraform-provider-warpgate_1.0.0_freebsd_arm.zip",
-          "shasum": "2bfeb77be06be68f163fe3179aca4f5702da8f7bd1e1f1d44739d5d71dc001e9"
+          "shasum": "2bfeb77be06be68f163fe3179aca4f5702da8f7bd1e1f1d44739d5d71dc001e9",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-warpgate_1.0.0_freebsd_arm64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.0/terraform-provider-warpgate_1.0.0_freebsd_arm64.zip",
-          "shasum": "7fd9385151a701555f2f469282dba6981d672136274b256f8b113574dadce7e5"
+          "shasum": "7fd9385151a701555f2f469282dba6981d672136274b256f8b113574dadce7e5",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-warpgate_1.0.0_linux_386.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.0/terraform-provider-warpgate_1.0.0_linux_386.zip",
-          "shasum": "c6c080afbf9a406484a0b79eaa6b29ae66240aca64c7d2d3b4bf7fde7b91e205"
+          "shasum": "c6c080afbf9a406484a0b79eaa6b29ae66240aca64c7d2d3b4bf7fde7b91e205",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-warpgate_1.0.0_linux_amd64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.0/terraform-provider-warpgate_1.0.0_linux_amd64.zip",
-          "shasum": "7e1f591b82272c1d98cf44ba7ca76018d17277559c6de5e6193959a02191b4be"
+          "shasum": "7e1f591b82272c1d98cf44ba7ca76018d17277559c6de5e6193959a02191b4be",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-warpgate_1.0.0_linux_arm.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.0/terraform-provider-warpgate_1.0.0_linux_arm.zip",
-          "shasum": "766f6d56769b771d05165a302481bc8b0ad8c13c03ebb8defb46e02463f4bc54"
+          "shasum": "766f6d56769b771d05165a302481bc8b0ad8c13c03ebb8defb46e02463f4bc54",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-warpgate_1.0.0_linux_arm64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.0/terraform-provider-warpgate_1.0.0_linux_arm64.zip",
-          "shasum": "6b6a44fe15d7fdfd2656a1146ff4dc559fc0b05bbfa7961bb49fa38718d37092"
+          "shasum": "6b6a44fe15d7fdfd2656a1146ff4dc559fc0b05bbfa7961bb49fa38718d37092",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-warpgate_1.0.0_windows_386.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.0/terraform-provider-warpgate_1.0.0_windows_386.zip",
-          "shasum": "2a6a3fc3c19e162c74c940973bae40d799e91e61a50ec5d7b2cb3d94f91f6f01"
+          "shasum": "2a6a3fc3c19e162c74c940973bae40d799e91e61a50ec5d7b2cb3d94f91f6f01",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-warpgate_1.0.0_windows_amd64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.0/terraform-provider-warpgate_1.0.0_windows_amd64.zip",
-          "shasum": "f8cb31ab7bbe3efea45f42f1d28c61e03f099cc9f4a0b480fed7aa875966b980"
+          "shasum": "f8cb31ab7bbe3efea45f42f1d28c61e03f099cc9f4a0b480fed7aa875966b980",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-warpgate_1.0.0_windows_arm.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.0/terraform-provider-warpgate_1.0.0_windows_arm.zip",
-          "shasum": "66b7680b0b27f0877e23c080d2254dad01c998051eeca5091fb9b2e7bfe3d3fd"
+          "shasum": "66b7680b0b27f0877e23c080d2254dad01c998051eeca5091fb9b2e7bfe3d3fd",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-warpgate_1.0.0_windows_arm64.zip",
           "download_url": "https://github.com/warp-tech/terraform-provider-warpgate/releases/download/v1.0.0/terraform-provider-warpgate_1.0.0_windows_arm64.zip",
-          "shasum": "084ee436c226493e9419be2d93b1fa1b7d8132579bcff1c037997a6e6b20752c"
+          "shasum": "084ee436c226493e9419be2d93b1fa1b7d8132579bcff1c037997a6e6b20752c",
+          "h1": ""
         }
       ]
     }
