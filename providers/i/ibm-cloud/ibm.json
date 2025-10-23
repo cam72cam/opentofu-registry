@@ -1,6 +1,64 @@
 {
   "versions": [
     {
+      "version": "1.84.3",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/ibm-cloud/terraform-provider-ibm/releases/download/v1.84.3/terraform-provider-ibm_1.84.3_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/ibm-cloud/terraform-provider-ibm/releases/download/v1.84.3/terraform-provider-ibm_1.84.3_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-ibm_1.84.3_darwin_amd64.zip",
+          "download_url": "https://github.com/ibm-cloud/terraform-provider-ibm/releases/download/v1.84.3/terraform-provider-ibm_1.84.3_darwin_amd64.zip",
+          "shasum": "6eeb774ecb64969a83087c21eb5566af434ce7e259b88109ffef76ddef3bf3bb",
+          "h1": "h1:/mN378nx8rhJWQWYM50pB3xrlvim0KnkseaxsvoypjE="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-ibm_1.84.3_darwin_arm64.zip",
+          "download_url": "https://github.com/ibm-cloud/terraform-provider-ibm/releases/download/v1.84.3/terraform-provider-ibm_1.84.3_darwin_arm64.zip",
+          "shasum": "536ea520dcbb3ccfc720554cd70193ea12437ec7cb9e7e549471335374746973",
+          "h1": "h1:bFIIV8hHXMfUHKLeQsPyUaYaJ3UMHcS6k4uKYuY4TyM="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-ibm_1.84.3_linux_amd64.zip",
+          "download_url": "https://github.com/ibm-cloud/terraform-provider-ibm/releases/download/v1.84.3/terraform-provider-ibm_1.84.3_linux_amd64.zip",
+          "shasum": "350838a7cd1dea37d327a9c771a31a7f4d63fbe56e910077234056a409e80dbb",
+          "h1": "h1:3XzOL4Hn93SCQ/7zFJoDJzt3mbNsuz9HroCC3I2571w="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-ibm_1.84.3_linux_arm.zip",
+          "download_url": "https://github.com/ibm-cloud/terraform-provider-ibm/releases/download/v1.84.3/terraform-provider-ibm_1.84.3_linux_arm.zip",
+          "shasum": "ccb8f3c18ea02ed0f0ec64cbf556967a6e968a7038c0576a238e15a8352a3c87",
+          "h1": "h1:EkAJKMAgvsDYekwIB5bn58w0+x8Z2ODmGbTKSFIq0Ek="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-ibm_1.84.3_linux_arm64.zip",
+          "download_url": "https://github.com/ibm-cloud/terraform-provider-ibm/releases/download/v1.84.3/terraform-provider-ibm_1.84.3_linux_arm64.zip",
+          "shasum": "d2b964a9bea9bcf361b58933d404435bfefef9647b78374bf909e80b7cf6c6c8",
+          "h1": "h1:/qKAlNiIKIc/0wwbFjKKacjW+dCSr8OE/Ox++z3ECHs="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-ibm_1.84.3_windows_amd64.zip",
+          "download_url": "https://github.com/ibm-cloud/terraform-provider-ibm/releases/download/v1.84.3/terraform-provider-ibm_1.84.3_windows_amd64.zip",
+          "shasum": "79b98b438b769286da7eb641fa1e430b0123ba94347dd242d7021f44a1ab894b",
+          "h1": "h1:ptUh1cWSP8af8Z1n+8rs/WiUQD010lzdPalsaW5/YLU="
+        }
+      ]
+    },
+    {
       "version": "1.84.2",
       "protocols": [
         "5.0"
