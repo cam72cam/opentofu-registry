@@ -1,6 +1,122 @@
 {
   "versions": [
     {
+      "version": "0.9.10",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/mokto/terraform-provider-hrobot/releases/download/v0.9.10/terraform-provider-hrobot_0.9.10_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/mokto/terraform-provider-hrobot/releases/download/v0.9.10/terraform-provider-hrobot_0.9.10_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-hrobot_0.9.10_darwin_amd64.zip",
+          "download_url": "https://github.com/mokto/terraform-provider-hrobot/releases/download/v0.9.10/terraform-provider-hrobot_0.9.10_darwin_amd64.zip",
+          "shasum": "75b5f6317f854b7c7b6d9220bb1836f2f641cdabb9c30b2c0560d57d1c7cd5e1",
+          "h1": "h1:2rPG7hBXCj+DB7ZCNM7wR2tRbLMM7ibIFwvLKBOmiNY="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-hrobot_0.9.10_darwin_arm64.zip",
+          "download_url": "https://github.com/mokto/terraform-provider-hrobot/releases/download/v0.9.10/terraform-provider-hrobot_0.9.10_darwin_arm64.zip",
+          "shasum": "2d92cea47c5c4ce5e39f7601685c600ffa18e59ed0c81a5980b8800ca34af404",
+          "h1": "h1:fMb5DOvyMHxkOR5zENTPE5+TgzpdYuOBQKlhGH1J/hg="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-hrobot_0.9.10_linux_amd64.zip",
+          "download_url": "https://github.com/mokto/terraform-provider-hrobot/releases/download/v0.9.10/terraform-provider-hrobot_0.9.10_linux_amd64.zip",
+          "shasum": "242941d69b6cc4ca2b26d4e73a0cd4e3789cb3e2a549e790498279b170dc50a6",
+          "h1": "h1:oQNP0rIawdl/xIG4iQLqw+xNjGq6mGAVybs3d24acc0="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-hrobot_0.9.10_linux_arm64.zip",
+          "download_url": "https://github.com/mokto/terraform-provider-hrobot/releases/download/v0.9.10/terraform-provider-hrobot_0.9.10_linux_arm64.zip",
+          "shasum": "74bbe25e1ab9c4c0dff2e878fa525d2bdecc121b0d3d5db612b8870c014c292d",
+          "h1": "h1:gQMfAGSk+DzW2AusP29lXN7GpTu0krZgzqKamjjHHSo="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-hrobot_0.9.10_windows_amd64.zip",
+          "download_url": "https://github.com/mokto/terraform-provider-hrobot/releases/download/v0.9.10/terraform-provider-hrobot_0.9.10_windows_amd64.zip",
+          "shasum": "66e96a0df25b4ca83076cab51b96a2cb3a5c4644db398dd471a6c2b29217fffb",
+          "h1": "h1:GRyPvOe7ub0tu54Qv+huj2smBya64q3suX/q2mLMOeY="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-hrobot_0.9.10_windows_arm64.zip",
+          "download_url": "https://github.com/mokto/terraform-provider-hrobot/releases/download/v0.9.10/terraform-provider-hrobot_0.9.10_windows_arm64.zip",
+          "shasum": "7fec72847ca6a603ffc190ad3b80db05a47b3954ec26195d4e012618d903fc05",
+          "h1": "h1:1kl6kPwU6JVjg2ted2R+9FX8BLeZ/VqmHxR7Utt72qI="
+        }
+      ]
+    },
+    {
+      "version": "0.9.9",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/mokto/terraform-provider-hrobot/releases/download/v0.9.9/terraform-provider-hrobot_0.9.9_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/mokto/terraform-provider-hrobot/releases/download/v0.9.9/terraform-provider-hrobot_0.9.9_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-hrobot_0.9.9_darwin_amd64.zip",
+          "download_url": "https://github.com/mokto/terraform-provider-hrobot/releases/download/v0.9.9/terraform-provider-hrobot_0.9.9_darwin_amd64.zip",
+          "shasum": "4769c5ee61388861c600ba451cbc2e0c84260fbb8d181e4b0a2d6079ce9d2f3c",
+          "h1": "h1:OQEKA6qNeTpca4WfKMVdKVZZ+U2Q8s6gE0DZhWlx8VY="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-hrobot_0.9.9_darwin_arm64.zip",
+          "download_url": "https://github.com/mokto/terraform-provider-hrobot/releases/download/v0.9.9/terraform-provider-hrobot_0.9.9_darwin_arm64.zip",
+          "shasum": "f787f52c74e65827429b31b07077f67167da9be27bc7ea77fac2aa2cebcad63f",
+          "h1": "h1:nTJk1MSaJZ0iB84C/mTpkT2psKswUjsx4Bruszssa70="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-hrobot_0.9.9_linux_amd64.zip",
+          "download_url": "https://github.com/mokto/terraform-provider-hrobot/releases/download/v0.9.9/terraform-provider-hrobot_0.9.9_linux_amd64.zip",
+          "shasum": "624091b609789b368b8fb6e50fe790dad3d97017e0e6823d0df3eec9fbbeeca5",
+          "h1": "h1:eqpsPFpGclRevO03TnCB3MClkcRfteGPHdzXnvPOPF4="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-hrobot_0.9.9_linux_arm64.zip",
+          "download_url": "https://github.com/mokto/terraform-provider-hrobot/releases/download/v0.9.9/terraform-provider-hrobot_0.9.9_linux_arm64.zip",
+          "shasum": "910b8d133b2e31807b81a597265d024ea0ef1efcd6c35ad4504979163a676f3d",
+          "h1": "h1:edEoPlftxlPD5DGQ/oiPI1wHZ96Wn9qKPkSpl/h6QcA="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-hrobot_0.9.9_windows_amd64.zip",
+          "download_url": "https://github.com/mokto/terraform-provider-hrobot/releases/download/v0.9.9/terraform-provider-hrobot_0.9.9_windows_amd64.zip",
+          "shasum": "ee3882164e00156600ffb101651da31a5b3389789d03388d350d347520cb91cf",
+          "h1": "h1:lP8NxL3xAJSmbVaH011tr6RaUto9OkSGgXfbSbvCIRQ="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-hrobot_0.9.9_windows_arm64.zip",
+          "download_url": "https://github.com/mokto/terraform-provider-hrobot/releases/download/v0.9.9/terraform-provider-hrobot_0.9.9_windows_arm64.zip",
+          "shasum": "406eb0f5dad9a34f45e44002185893011861b3cfe76fd39da8280cf9a8084a2f",
+          "h1": "h1:oHQFBCQC+Iuy/N2pmQIrxaXES+q7XYXR58z+bAIn7jQ="
+        }
+      ]
+    },
+    {
       "version": "0.9.8",
       "protocols": [
         "5.0"
