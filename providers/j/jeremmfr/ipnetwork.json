@@ -1,6 +1,72 @@
 {
   "versions": [
     {
+      "version": "1.2.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/jeremmfr/terraform-provider-ipnetwork/releases/download/v1.2.0/terraform-provider-ipnetwork_1.2.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/jeremmfr/terraform-provider-ipnetwork/releases/download/v1.2.0/terraform-provider-ipnetwork_1.2.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-ipnetwork_1.2.0_darwin_amd64.zip",
+          "download_url": "https://github.com/jeremmfr/terraform-provider-ipnetwork/releases/download/v1.2.0/terraform-provider-ipnetwork_1.2.0_darwin_amd64.zip",
+          "shasum": "e70c735eb7efdab2f3c16987584d0ecdc814845b1d5400a0613cd63ce5702973",
+          "h1": "h1:HtK9pZEPcvoP296NBzG/brPPtKS1PG1nSrBGqVJJmRE="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-ipnetwork_1.2.0_darwin_arm64.zip",
+          "download_url": "https://github.com/jeremmfr/terraform-provider-ipnetwork/releases/download/v1.2.0/terraform-provider-ipnetwork_1.2.0_darwin_arm64.zip",
+          "shasum": "4c01926bd6a0d10c95e8c6de9bced65ef6c8a3d365e6e28c6827b1f0fb1fc98e",
+          "h1": "h1:gDLlFxRRTQ9VlfC5ifLm1XGPBCGxJlMalzwV5ve1bB4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-ipnetwork_1.2.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/jeremmfr/terraform-provider-ipnetwork/releases/download/v1.2.0/terraform-provider-ipnetwork_1.2.0_freebsd_amd64.zip",
+          "shasum": "aa1562d336c82855b69eed967e4c4f43b0471f7fe52f216aae9adcd7a303c412",
+          "h1": "h1:f5n6+ouhuSFIMLP5jmttZkyaXmthkFRv3mYAiMgUo2Y="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-ipnetwork_1.2.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/jeremmfr/terraform-provider-ipnetwork/releases/download/v1.2.0/terraform-provider-ipnetwork_1.2.0_freebsd_arm64.zip",
+          "shasum": "eac02c591850cbb6b167e24eeb835e516f226c68501cb52c3977d81794add157",
+          "h1": "h1:AduL+/CEZt5oaNcknXYAvwu1nvvuXZvwot2taQkt9so="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-ipnetwork_1.2.0_linux_amd64.zip",
+          "download_url": "https://github.com/jeremmfr/terraform-provider-ipnetwork/releases/download/v1.2.0/terraform-provider-ipnetwork_1.2.0_linux_amd64.zip",
+          "shasum": "02972e38d50288518b4961147cc739fc00e067f5645ee4840886de22c6e0fdb9",
+          "h1": "h1:Uy/7kbw842t+JThsTEFXjfrCJJ++EQmd8fEciJ22Nmg="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-ipnetwork_1.2.0_linux_arm64.zip",
+          "download_url": "https://github.com/jeremmfr/terraform-provider-ipnetwork/releases/download/v1.2.0/terraform-provider-ipnetwork_1.2.0_linux_arm64.zip",
+          "shasum": "b22d7bbaabb02061b5caa83a75a6065ae16d07de9b17f6cedbd1b06e7cf0a96f",
+          "h1": "h1:I8TNrO4PeE3XfS9QuZqnj4MAc3A5QEh17rkdzjROLHc="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-ipnetwork_1.2.0_windows_amd64.zip",
+          "download_url": "https://github.com/jeremmfr/terraform-provider-ipnetwork/releases/download/v1.2.0/terraform-provider-ipnetwork_1.2.0_windows_amd64.zip",
+          "shasum": "3336bb0acc44fdc901ae2f78b309361b05e411ca50494e07d9ca9d83cd1b1cf2",
+          "h1": "h1:zLDNNZThk4LBIskfxH8h1Nlzi9GCk6/oHxldTEs5DCI="
+        }
+      ]
+    },
+    {
       "version": "1.1.0",
       "protocols": [
         "6.0"
@@ -13,49 +79,56 @@
           "arch": "amd64",
           "filename": "terraform-provider-ipnetwork_1.1.0_darwin_amd64.zip",
           "download_url": "https://github.com/jeremmfr/terraform-provider-ipnetwork/releases/download/v1.1.0/terraform-provider-ipnetwork_1.1.0_darwin_amd64.zip",
-          "shasum": "12c875cb065065d16b3980db5b044b13e69e578e213a589f8205a5bd6b770673"
+          "shasum": "12c875cb065065d16b3980db5b044b13e69e578e213a589f8205a5bd6b770673",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-ipnetwork_1.1.0_darwin_arm64.zip",
           "download_url": "https://github.com/jeremmfr/terraform-provider-ipnetwork/releases/download/v1.1.0/terraform-provider-ipnetwork_1.1.0_darwin_arm64.zip",
-          "shasum": "b647930e44941940710c24345b561f116ed454f6585e8dcd9f910079a6c0ae47"
+          "shasum": "b647930e44941940710c24345b561f116ed454f6585e8dcd9f910079a6c0ae47",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-ipnetwork_1.1.0_freebsd_amd64.zip",
           "download_url": "https://github.com/jeremmfr/terraform-provider-ipnetwork/releases/download/v1.1.0/terraform-provider-ipnetwork_1.1.0_freebsd_amd64.zip",
-          "shasum": "0ee8a7c256daa76e50f120a8f5f0afc91354a344a96b358a968c5f39da33b6cc"
+          "shasum": "0ee8a7c256daa76e50f120a8f5f0afc91354a344a96b358a968c5f39da33b6cc",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-ipnetwork_1.1.0_freebsd_arm64.zip",
           "download_url": "https://github.com/jeremmfr/terraform-provider-ipnetwork/releases/download/v1.1.0/terraform-provider-ipnetwork_1.1.0_freebsd_arm64.zip",
-          "shasum": "1b5117d8872db3fcec8dede6b0e457b11a741832d8b9a507286b46409d05d73b"
+          "shasum": "1b5117d8872db3fcec8dede6b0e457b11a741832d8b9a507286b46409d05d73b",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-ipnetwork_1.1.0_linux_amd64.zip",
           "download_url": "https://github.com/jeremmfr/terraform-provider-ipnetwork/releases/download/v1.1.0/terraform-provider-ipnetwork_1.1.0_linux_amd64.zip",
-          "shasum": "43e0868e7f6a70afd1defd4003c33a0a3b568bde776f9dfbdb7083ff0f99ea97"
+          "shasum": "43e0868e7f6a70afd1defd4003c33a0a3b568bde776f9dfbdb7083ff0f99ea97",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-ipnetwork_1.1.0_linux_arm64.zip",
           "download_url": "https://github.com/jeremmfr/terraform-provider-ipnetwork/releases/download/v1.1.0/terraform-provider-ipnetwork_1.1.0_linux_arm64.zip",
-          "shasum": "65e85afcfd8d475a7526fd14b2b560221e5a06d8a3c3a04f4b1413b985ab43b5"
+          "shasum": "65e85afcfd8d475a7526fd14b2b560221e5a06d8a3c3a04f4b1413b985ab43b5",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-ipnetwork_1.1.0_windows_amd64.zip",
           "download_url": "https://github.com/jeremmfr/terraform-provider-ipnetwork/releases/download/v1.1.0/terraform-provider-ipnetwork_1.1.0_windows_amd64.zip",
-          "shasum": "a2aacd5cc05f7634615481e59889d1807494d70206306afdff36b6a9d0db943d"
+          "shasum": "a2aacd5cc05f7634615481e59889d1807494d70206306afdff36b6a9d0db943d",
+          "h1": ""
         }
       ]
     },
@@ -72,49 +145,56 @@
           "arch": "amd64",
           "filename": "terraform-provider-ipnetwork_1.0.0_darwin_amd64.zip",
           "download_url": "https://github.com/jeremmfr/terraform-provider-ipnetwork/releases/download/v1.0.0/terraform-provider-ipnetwork_1.0.0_darwin_amd64.zip",
-          "shasum": "08c3301e000c1fa3dea4def0271709e9781d6c2b81f768f31ca8a199a49c5308"
+          "shasum": "08c3301e000c1fa3dea4def0271709e9781d6c2b81f768f31ca8a199a49c5308",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-ipnetwork_1.0.0_darwin_arm64.zip",
           "download_url": "https://github.com/jeremmfr/terraform-provider-ipnetwork/releases/download/v1.0.0/terraform-provider-ipnetwork_1.0.0_darwin_arm64.zip",
-          "shasum": "aec67cea6f95cf66218c74ebec5897904d5c2b80791819bdeae9041d577d477b"
+          "shasum": "aec67cea6f95cf66218c74ebec5897904d5c2b80791819bdeae9041d577d477b",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-ipnetwork_1.0.0_freebsd_amd64.zip",
           "download_url": "https://github.com/jeremmfr/terraform-provider-ipnetwork/releases/download/v1.0.0/terraform-provider-ipnetwork_1.0.0_freebsd_amd64.zip",
-          "shasum": "5356575f40b3809f6acb02d88b5aebd74d49bd4df1055644db15024874bd8d45"
+          "shasum": "5356575f40b3809f6acb02d88b5aebd74d49bd4df1055644db15024874bd8d45",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-ipnetwork_1.0.0_freebsd_arm64.zip",
           "download_url": "https://github.com/jeremmfr/terraform-provider-ipnetwork/releases/download/v1.0.0/terraform-provider-ipnetwork_1.0.0_freebsd_arm64.zip",
-          "shasum": "3d59134259ecf8268894e68212d6d5b21d8835344d1be6c759353bd2b550e589"
+          "shasum": "3d59134259ecf8268894e68212d6d5b21d8835344d1be6c759353bd2b550e589",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-ipnetwork_1.0.0_linux_amd64.zip",
           "download_url": "https://github.com/jeremmfr/terraform-provider-ipnetwork/releases/download/v1.0.0/terraform-provider-ipnetwork_1.0.0_linux_amd64.zip",
-          "shasum": "d81c0ab5c556b97a6090251ea31b9e7d6ac0a23043094ff50b2ce16a8ee34303"
+          "shasum": "d81c0ab5c556b97a6090251ea31b9e7d6ac0a23043094ff50b2ce16a8ee34303",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-ipnetwork_1.0.0_linux_arm64.zip",
           "download_url": "https://github.com/jeremmfr/terraform-provider-ipnetwork/releases/download/v1.0.0/terraform-provider-ipnetwork_1.0.0_linux_arm64.zip",
-          "shasum": "c3695270566576803cbeca798be28d601d10d28e9d0342e882b1b6881e6f4caa"
+          "shasum": "c3695270566576803cbeca798be28d601d10d28e9d0342e882b1b6881e6f4caa",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-ipnetwork_1.0.0_windows_amd64.zip",
           "download_url": "https://github.com/jeremmfr/terraform-provider-ipnetwork/releases/download/v1.0.0/terraform-provider-ipnetwork_1.0.0_windows_amd64.zip",
-          "shasum": "7a4e9d6817b2ce3a6a87222222d955724cb5ee5deee17913426deed8b418bd11"
+          "shasum": "7a4e9d6817b2ce3a6a87222222d955724cb5ee5deee17913426deed8b418bd11",
+          "h1": ""
         }
       ]
     }
