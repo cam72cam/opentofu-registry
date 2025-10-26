@@ -1,6 +1,80 @@
 {
   "versions": [
     {
+      "version": "1.2.1",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.2.1/terraform-provider-garage_1.2.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.2.1/terraform-provider-garage_1.2.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-garage_1.2.1_darwin_amd64.zip",
+          "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.2.1/terraform-provider-garage_1.2.1_darwin_amd64.zip",
+          "shasum": "2707046d838eb01f13d328284ca8595f672dbd0a55005fe5e83702535bd5f2ab",
+          "h1": "h1:yyJdDOP7AvyzJg5x2NcrqHPxNwqn2t5TlHMIYblo+FE="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-garage_1.2.1_darwin_arm64.zip",
+          "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.2.1/terraform-provider-garage_1.2.1_darwin_arm64.zip",
+          "shasum": "003f16420747b076a98692f359c436ad61035b28cb58b56c96f2f6c7ceb7098b",
+          "h1": "h1:jxG6aUm86WMU5Haxm8Z6dSVCICtVWCWtCpuPsMThpq4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-garage_1.2.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.2.1/terraform-provider-garage_1.2.1_freebsd_amd64.zip",
+          "shasum": "3855f28155ba81a1e837c01e030f9abc8971d64b29d5d555570203296776e0a3",
+          "h1": "h1:QmpWumqr1xubw4iszPeBvtT7Yr++7FXXwm8ORIR79m4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-garage_1.2.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.2.1/terraform-provider-garage_1.2.1_freebsd_arm64.zip",
+          "shasum": "cfdecf571b9485145223b6657235a0d7c46495d8c583161e7f489f3bb1daf295",
+          "h1": "h1:CfQkc8Ep7S5vmffJ6yNrwyI48TArw5eC+aMuoZPteEM="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-garage_1.2.1_linux_amd64.zip",
+          "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.2.1/terraform-provider-garage_1.2.1_linux_amd64.zip",
+          "shasum": "fbf6085f3fa3a17040a2823221958a2f27d1f6ab4e282a6d05b180cfb76f2322",
+          "h1": "h1:Mc+nRuqJdmY3JPzvnV94+b44VN1LAXyzU478Ny5prC4="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-garage_1.2.1_linux_arm64.zip",
+          "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.2.1/terraform-provider-garage_1.2.1_linux_arm64.zip",
+          "shasum": "05a09e23f0caa8b0d960caec47af8d6865e5fd8d2a2d8fe790b11c50aa552e97",
+          "h1": "h1:Cnk/LSsxYU96Gr0KKk7vd8NX8iXhh8hccuQogMv+Tpc="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-garage_1.2.1_windows_amd64.zip",
+          "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.2.1/terraform-provider-garage_1.2.1_windows_amd64.zip",
+          "shasum": "aa950c250f2147d667bee97af6a5860a51b69682bd29c79682982d5649060fe5",
+          "h1": "h1:Ms8p58UhoIcj0v5RS2I0doGrbH3kiIpREWNQYz5KD10="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-garage_1.2.1_windows_arm64.zip",
+          "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.2.1/terraform-provider-garage_1.2.1_windows_arm64.zip",
+          "shasum": "4ffdaf009a768ed0035bc009bf6978dbb3b567ed4f72979ad31b5b79673a6977",
+          "h1": "h1:nJA5PrFtm/Gmo7z5xzORjlxYr4xk+XlLqn4juYHsMow="
+        }
+      ]
+    },
+    {
       "version": "1.2.0",
       "protocols": [
         "6.0"
@@ -13,56 +87,64 @@
           "arch": "amd64",
           "filename": "terraform-provider-garage_1.2.0_darwin_amd64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.2.0/terraform-provider-garage_1.2.0_darwin_amd64.zip",
-          "shasum": "0af83eb04d012865329cead8a62e20dec657679b711062cd547054d75bb4a841"
+          "shasum": "0af83eb04d012865329cead8a62e20dec657679b711062cd547054d75bb4a841",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-garage_1.2.0_darwin_arm64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.2.0/terraform-provider-garage_1.2.0_darwin_arm64.zip",
-          "shasum": "acd52c5bef0746025cc9d3d32650b6cebbe7c95e3f134a0d5096b0e99523cff9"
+          "shasum": "acd52c5bef0746025cc9d3d32650b6cebbe7c95e3f134a0d5096b0e99523cff9",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-garage_1.2.0_freebsd_amd64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.2.0/terraform-provider-garage_1.2.0_freebsd_amd64.zip",
-          "shasum": "3b87bd82bd2405da452af190cde9f7405286f0d6ee9e9e767e12064cf3f2083b"
+          "shasum": "3b87bd82bd2405da452af190cde9f7405286f0d6ee9e9e767e12064cf3f2083b",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-garage_1.2.0_freebsd_arm64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.2.0/terraform-provider-garage_1.2.0_freebsd_arm64.zip",
-          "shasum": "fa4675ed4a52d49451ad69f6bf93076e5b485e66901ceaca63bd07923bcb5c55"
+          "shasum": "fa4675ed4a52d49451ad69f6bf93076e5b485e66901ceaca63bd07923bcb5c55",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-garage_1.2.0_linux_amd64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.2.0/terraform-provider-garage_1.2.0_linux_amd64.zip",
-          "shasum": "eb28919c64dace51f10bc04f5207a1b8df78c9ccf63be8e733cda248c74bf082"
+          "shasum": "eb28919c64dace51f10bc04f5207a1b8df78c9ccf63be8e733cda248c74bf082",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-garage_1.2.0_linux_arm64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.2.0/terraform-provider-garage_1.2.0_linux_arm64.zip",
-          "shasum": "8bdd54dc128253b77f871ebf0e139b73fcc29f186d76602d85d3484688c6f697"
+          "shasum": "8bdd54dc128253b77f871ebf0e139b73fcc29f186d76602d85d3484688c6f697",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-garage_1.2.0_windows_amd64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.2.0/terraform-provider-garage_1.2.0_windows_amd64.zip",
-          "shasum": "a244d0fb1aee3e355e5a01a1fddb0934cd97be36c26474c0643c60a700213387"
+          "shasum": "a244d0fb1aee3e355e5a01a1fddb0934cd97be36c26474c0643c60a700213387",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-garage_1.2.0_windows_arm64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.2.0/terraform-provider-garage_1.2.0_windows_arm64.zip",
-          "shasum": "f6039d49e8950903042e4f95b70833b0d3a5df2658dd3650aacbb7cb09e403f4"
+          "shasum": "f6039d49e8950903042e4f95b70833b0d3a5df2658dd3650aacbb7cb09e403f4",
+          "h1": ""
         }
       ]
     },
@@ -79,56 +161,64 @@
           "arch": "amd64",
           "filename": "terraform-provider-garage_1.1.0_darwin_amd64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.1.0/terraform-provider-garage_1.1.0_darwin_amd64.zip",
-          "shasum": "ad798bce86a9a100c8fefdca808c9d123814adb06351101a4a708db52e620676"
+          "shasum": "ad798bce86a9a100c8fefdca808c9d123814adb06351101a4a708db52e620676",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-garage_1.1.0_darwin_arm64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.1.0/terraform-provider-garage_1.1.0_darwin_arm64.zip",
-          "shasum": "aaca12d269c6e37069af70ae74c9f0782d97ce8554868cc81a4adf8fcec8b728"
+          "shasum": "aaca12d269c6e37069af70ae74c9f0782d97ce8554868cc81a4adf8fcec8b728",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-garage_1.1.0_freebsd_amd64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.1.0/terraform-provider-garage_1.1.0_freebsd_amd64.zip",
-          "shasum": "f3ddac2edfcf95d3824c55b737c7ed4d0492db98d807c0955aeb96fa9cda01a6"
+          "shasum": "f3ddac2edfcf95d3824c55b737c7ed4d0492db98d807c0955aeb96fa9cda01a6",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-garage_1.1.0_freebsd_arm64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.1.0/terraform-provider-garage_1.1.0_freebsd_arm64.zip",
-          "shasum": "1602ee9fe46ff010928b40b38c87384d4409b2731c795f6ee16228e4f2d4e2e6"
+          "shasum": "1602ee9fe46ff010928b40b38c87384d4409b2731c795f6ee16228e4f2d4e2e6",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-garage_1.1.0_linux_amd64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.1.0/terraform-provider-garage_1.1.0_linux_amd64.zip",
-          "shasum": "f5e926ac5ce5c86df9f326ddded5edc77f43bd04ad169d0e34589b5a26328a76"
+          "shasum": "f5e926ac5ce5c86df9f326ddded5edc77f43bd04ad169d0e34589b5a26328a76",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-garage_1.1.0_linux_arm64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.1.0/terraform-provider-garage_1.1.0_linux_arm64.zip",
-          "shasum": "0a7410e55ceec937f4d99a6c6bcf2a84a33657f9262da59418608a6e21805af5"
+          "shasum": "0a7410e55ceec937f4d99a6c6bcf2a84a33657f9262da59418608a6e21805af5",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-garage_1.1.0_windows_amd64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.1.0/terraform-provider-garage_1.1.0_windows_amd64.zip",
-          "shasum": "338f3c9a3e1f09b6111a6d850d052853de863071f48a3f8ea141ee43281c4218"
+          "shasum": "338f3c9a3e1f09b6111a6d850d052853de863071f48a3f8ea141ee43281c4218",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-garage_1.1.0_windows_arm64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.1.0/terraform-provider-garage_1.1.0_windows_arm64.zip",
-          "shasum": "843ab9374cba3ffb8b2260b1aac0a84d7e8ca799e2bec080183807a669388f93"
+          "shasum": "843ab9374cba3ffb8b2260b1aac0a84d7e8ca799e2bec080183807a669388f93",
+          "h1": ""
         }
       ]
     },
@@ -145,56 +235,64 @@
           "arch": "amd64",
           "filename": "terraform-provider-garage_1.0.0_darwin_amd64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.0.0/terraform-provider-garage_1.0.0_darwin_amd64.zip",
-          "shasum": "eea22f0cba339d5af88915b2ad42bb59b13790ee25bb9c4371d01c62a3943d44"
+          "shasum": "eea22f0cba339d5af88915b2ad42bb59b13790ee25bb9c4371d01c62a3943d44",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-garage_1.0.0_darwin_arm64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.0.0/terraform-provider-garage_1.0.0_darwin_arm64.zip",
-          "shasum": "94fa0ee518b8c0147ffce37b16dda2ed95e62b5151209e7490d5ad5710429a96"
+          "shasum": "94fa0ee518b8c0147ffce37b16dda2ed95e62b5151209e7490d5ad5710429a96",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-garage_1.0.0_freebsd_amd64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.0.0/terraform-provider-garage_1.0.0_freebsd_amd64.zip",
-          "shasum": "819101c08e27d8b31788df1a80bb61f2f6a182db22c971186aa030dbd23e12d6"
+          "shasum": "819101c08e27d8b31788df1a80bb61f2f6a182db22c971186aa030dbd23e12d6",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-garage_1.0.0_freebsd_arm64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.0.0/terraform-provider-garage_1.0.0_freebsd_arm64.zip",
-          "shasum": "3600d1e8bea8b82669fae8c95cbae9628b80cd15cdb8aa64838965ae6d8148cc"
+          "shasum": "3600d1e8bea8b82669fae8c95cbae9628b80cd15cdb8aa64838965ae6d8148cc",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-garage_1.0.0_linux_amd64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.0.0/terraform-provider-garage_1.0.0_linux_amd64.zip",
-          "shasum": "048dd603b60e9b03cf8fe299edb0b0748271247f365eef1e2cd9efc7ff8a8eff"
+          "shasum": "048dd603b60e9b03cf8fe299edb0b0748271247f365eef1e2cd9efc7ff8a8eff",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-garage_1.0.0_linux_arm64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.0.0/terraform-provider-garage_1.0.0_linux_arm64.zip",
-          "shasum": "7972651d72be5ca60d9463714dbdc3643eb9390956d700fc9fc60ccee58bf01e"
+          "shasum": "7972651d72be5ca60d9463714dbdc3643eb9390956d700fc9fc60ccee58bf01e",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-garage_1.0.0_windows_amd64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.0.0/terraform-provider-garage_1.0.0_windows_amd64.zip",
-          "shasum": "2d834997a5e4e26c2f20b1b154f3b1e5dc234bf3aad1b8a5b6cad378e0647f5e"
+          "shasum": "2d834997a5e4e26c2f20b1b154f3b1e5dc234bf3aad1b8a5b6cad378e0647f5e",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-garage_1.0.0_windows_arm64.zip",
           "download_url": "https://github.com/schwitzd/terraform-provider-garage/releases/download/v1.0.0/terraform-provider-garage_1.0.0_windows_arm64.zip",
-          "shasum": "ed95eff9e6389bd120660bafbe59b75fd0cfea713bfc38124351e35eefd95f55"
+          "shasum": "ed95eff9e6389bd120660bafbe59b75fd0cfea713bfc38124351e35eefd95f55",
+          "h1": ""
         }
       ]
     }
