@@ -1,6 +1,112 @@
 {
   "versions": [
     {
+      "version": "3.35.1",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/imperva/terraform-provider-incapsula/releases/download/v3.35.1/terraform-provider-incapsula_3.35.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/imperva/terraform-provider-incapsula/releases/download/v3.35.1/terraform-provider-incapsula_3.35.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-incapsula_3.35.1_darwin_amd64.zip",
+          "download_url": "https://github.com/imperva/terraform-provider-incapsula/releases/download/v3.35.1/terraform-provider-incapsula_3.35.1_darwin_amd64.zip",
+          "shasum": "ab147db358d4e25f198c98b99fa64688f629840388c5ecc93d1fdfe402410f80",
+          "h1": "h1:WLJw8Gj1umNBSGL7EcmmQuQ55bnNbD84JsmATGDUvlU="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-incapsula_3.35.1_darwin_arm64.zip",
+          "download_url": "https://github.com/imperva/terraform-provider-incapsula/releases/download/v3.35.1/terraform-provider-incapsula_3.35.1_darwin_arm64.zip",
+          "shasum": "09ba4dd497f888e283c1d9318d0031eb659ceba1238bc86fb4541eac84dd8cac",
+          "h1": "h1:V3PlxbtWHxYjT1/c97hS35cMlbR6tQ9kmXBTqpLnWvE="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-incapsula_3.35.1_freebsd_386.zip",
+          "download_url": "https://github.com/imperva/terraform-provider-incapsula/releases/download/v3.35.1/terraform-provider-incapsula_3.35.1_freebsd_386.zip",
+          "shasum": "64549fd022b93e51f3183be828e390872333000e7c86aa18defb3771210e13a9",
+          "h1": "h1:vkWtoRqaUa/DJ8Ikn66qcTzByYwUv8NGeEbZJUqS0lQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-incapsula_3.35.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/imperva/terraform-provider-incapsula/releases/download/v3.35.1/terraform-provider-incapsula_3.35.1_freebsd_amd64.zip",
+          "shasum": "63e34b8b5f05683e0c1ac39076079755968e8516fb9261edf84f9b4cd0b9b79e",
+          "h1": "h1:3RwibIogufaRfw9oOJy/0/kpGuNk97EJc6oTcbcOlBQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-incapsula_3.35.1_freebsd_arm.zip",
+          "download_url": "https://github.com/imperva/terraform-provider-incapsula/releases/download/v3.35.1/terraform-provider-incapsula_3.35.1_freebsd_arm.zip",
+          "shasum": "cf1ee7c87d73333b7ef9d3aeacae553a35369a26c283297f7c09a9e0fe5befba",
+          "h1": "h1:9pd8BHjBo3MZv+uQ2n9Enr9EeZD4d7IFEEoA0JWFzmo="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-incapsula_3.35.1_linux_386.zip",
+          "download_url": "https://github.com/imperva/terraform-provider-incapsula/releases/download/v3.35.1/terraform-provider-incapsula_3.35.1_linux_386.zip",
+          "shasum": "cef0d526015f883b507b4467483bf3df2deb438372346dbf70c074147ba7e154",
+          "h1": "h1:LOeNAFJFPPXJyGuOaByFHRth3NJZHqsCo3fh9SgjdXs="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-incapsula_3.35.1_linux_amd64.zip",
+          "download_url": "https://github.com/imperva/terraform-provider-incapsula/releases/download/v3.35.1/terraform-provider-incapsula_3.35.1_linux_amd64.zip",
+          "shasum": "27125c101d6397f97a25114cfa8bd0e436f2545a69735023f48bae93924de748",
+          "h1": "h1:kAzNFzMAJI5E6O4/Suz7UbbhXcqw4Df6A0CcdWjdyBA="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-incapsula_3.35.1_linux_arm.zip",
+          "download_url": "https://github.com/imperva/terraform-provider-incapsula/releases/download/v3.35.1/terraform-provider-incapsula_3.35.1_linux_arm.zip",
+          "shasum": "b8a400be8e328345285cd78d3fa7b3400d7ae6585b1abf521c20656d1163bd78",
+          "h1": "h1:tHmmv3otEwm9s2ETtNuBy14cfOtxyiIqTkOkXJWW3+g="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-incapsula_3.35.1_linux_arm64.zip",
+          "download_url": "https://github.com/imperva/terraform-provider-incapsula/releases/download/v3.35.1/terraform-provider-incapsula_3.35.1_linux_arm64.zip",
+          "shasum": "d6895e9b4f5af0e600c28e5bd9c22394de81989e351bcc3c089d3b2e5cd4faa7",
+          "h1": "h1:vfGRj5T+9a/+IacTDxmQfZaMOu1kLDg1HkUZxi34CKA="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-incapsula_3.35.1_windows_386.zip",
+          "download_url": "https://github.com/imperva/terraform-provider-incapsula/releases/download/v3.35.1/terraform-provider-incapsula_3.35.1_windows_386.zip",
+          "shasum": "5f41fbef5263b647005f956117e655677595797b5a966b1b91db1e84ead605fc",
+          "h1": "h1:C54k0+4GjY7xYdB/QB+L5EVrArIw0KW03zTeEWiAZ1A="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-incapsula_3.35.1_windows_amd64.zip",
+          "download_url": "https://github.com/imperva/terraform-provider-incapsula/releases/download/v3.35.1/terraform-provider-incapsula_3.35.1_windows_amd64.zip",
+          "shasum": "128703d50a2aef83849d87d6f4b826335820a9ed20b4d63b8d322990a7918f80",
+          "h1": "h1:eqFlCOBDQ+0NDqXAz/BQj49X/B6w3HSGCUT5XUWBrzk="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-incapsula_3.35.1_windows_arm.zip",
+          "download_url": "https://github.com/imperva/terraform-provider-incapsula/releases/download/v3.35.1/terraform-provider-incapsula_3.35.1_windows_arm.zip",
+          "shasum": "8cbfe6dd933ca3d31f61644f865111de63aab0bcd183c9ee1bacedb9e5b17e9f",
+          "h1": "h1:hpBSi4wUjdBaRWwKJe11mlJ7Y1oKLB/1utnQGSBL1pw="
+        }
+      ]
+    },
+    {
       "version": "3.35.0",
       "protocols": [
         "5.0"
