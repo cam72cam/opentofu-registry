@@ -1,6 +1,112 @@
 {
   "versions": [
     {
+      "version": "1.15.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/portainer/terraform-provider-portainer/releases/download/v1.15.0/terraform-provider-portainer_1.15.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/portainer/terraform-provider-portainer/releases/download/v1.15.0/terraform-provider-portainer_1.15.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-portainer_1.15.0_darwin_amd64.zip",
+          "download_url": "https://github.com/portainer/terraform-provider-portainer/releases/download/v1.15.0/terraform-provider-portainer_1.15.0_darwin_amd64.zip",
+          "shasum": "d51fc69b12cc3b04213386988896abb24efef6550c2109fef34c518c62b6db5d",
+          "h1": "h1:JgLbFaexrbspappuVRGmf2o5lu0xLTGZV3QowW3OPsw="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-portainer_1.15.0_darwin_arm64.zip",
+          "download_url": "https://github.com/portainer/terraform-provider-portainer/releases/download/v1.15.0/terraform-provider-portainer_1.15.0_darwin_arm64.zip",
+          "shasum": "38a7fdbb2278accb7ea35f352d0ba437f8cc348fd6cbc147dc809808db7b81b2",
+          "h1": "h1:tIhAx0ADZYFJ6MgeM/8y4Skrj58um3UompAA5emSXFk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-portainer_1.15.0_freebsd_386.zip",
+          "download_url": "https://github.com/portainer/terraform-provider-portainer/releases/download/v1.15.0/terraform-provider-portainer_1.15.0_freebsd_386.zip",
+          "shasum": "ffd5f5316c4431be0f7d072f8daae0f02cf7ea8e88486cd266501446d2a8a4be",
+          "h1": "h1:DiJCu7N+1nsTTcAmO1FmarKk2+/N50aeAmIaGm+mAnA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-portainer_1.15.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/portainer/terraform-provider-portainer/releases/download/v1.15.0/terraform-provider-portainer_1.15.0_freebsd_amd64.zip",
+          "shasum": "edc33121847665d83a1838fd0a1e4991ee95eb8d056286d8489e5b567385d90b",
+          "h1": "h1:oaMe5Qk8wkghNbBhSumh7LqISa1C1TuLp9fKAZJ56KE="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-portainer_1.15.0_freebsd_arm.zip",
+          "download_url": "https://github.com/portainer/terraform-provider-portainer/releases/download/v1.15.0/terraform-provider-portainer_1.15.0_freebsd_arm.zip",
+          "shasum": "cb39f8d3405f55288789e8570d6fa4d6c60408b61af52846b71bfc66f1b41a7e",
+          "h1": "h1:4Q5qZptATlQ3/vZqYJPIyFETzMdZV2Ql6u4Jr2KC1XA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-portainer_1.15.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/portainer/terraform-provider-portainer/releases/download/v1.15.0/terraform-provider-portainer_1.15.0_freebsd_arm64.zip",
+          "shasum": "13d434b49f940fb5fbe4d135f070a4f1061ea239d62eb7da04da6dd87efc9e84",
+          "h1": "h1:puoLdrQPRs7ANr7l1awoVN+I8OtvFYxpbTYt5JLpqFU="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-portainer_1.15.0_linux_386.zip",
+          "download_url": "https://github.com/portainer/terraform-provider-portainer/releases/download/v1.15.0/terraform-provider-portainer_1.15.0_linux_386.zip",
+          "shasum": "dc27f05695a9b0fe0e7988834b9031ae3caa2a1a5db774691b0b8544812e601b",
+          "h1": "h1:ql1hUS7kJKYzC757q3TAQYBI8ZjzTOFGLof2YwJ5kYY="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-portainer_1.15.0_linux_amd64.zip",
+          "download_url": "https://github.com/portainer/terraform-provider-portainer/releases/download/v1.15.0/terraform-provider-portainer_1.15.0_linux_amd64.zip",
+          "shasum": "52374e91d1df7a6834c136452877835e5a02f6a51e5c7b1da1ef2762073e2d03",
+          "h1": "h1:pMruyYasugvvIwd84pUCrjxVa+7MOGxXgNpi23leyLk="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-portainer_1.15.0_linux_arm.zip",
+          "download_url": "https://github.com/portainer/terraform-provider-portainer/releases/download/v1.15.0/terraform-provider-portainer_1.15.0_linux_arm.zip",
+          "shasum": "e7ee000edbbda81866e6c066311bd1c132290374e864c3a2a0815fe51a3e62b9",
+          "h1": "h1:HsaYdSz6U/gc8wgnxXaGsc+52lxATkE7Old9zpbkaFQ="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-portainer_1.15.0_linux_arm64.zip",
+          "download_url": "https://github.com/portainer/terraform-provider-portainer/releases/download/v1.15.0/terraform-provider-portainer_1.15.0_linux_arm64.zip",
+          "shasum": "f5b4e4cd9d6994192a0b63a983c4c6d3bd9223294b0b8add789adf7921bd6bbd",
+          "h1": "h1:vigOLmelGI+qtMP8fjGiCKCz8/NWCmhcleqReeNqkP4="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-portainer_1.15.0_windows_386.zip",
+          "download_url": "https://github.com/portainer/terraform-provider-portainer/releases/download/v1.15.0/terraform-provider-portainer_1.15.0_windows_386.zip",
+          "shasum": "76a5495801e6d828ccb685b7ee5fb3f1ddf36ba64ac37432d865054de7cd0bda",
+          "h1": "h1:SXaZ/3BQWdPsXdf9vY9kxJ44+gFoHrap2KeuMcxIJdQ="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-portainer_1.15.0_windows_amd64.zip",
+          "download_url": "https://github.com/portainer/terraform-provider-portainer/releases/download/v1.15.0/terraform-provider-portainer_1.15.0_windows_amd64.zip",
+          "shasum": "715e904c7c36bdd955b9cfb977d3ee9aba4d6f55120aae78d615a85f3773d3de",
+          "h1": "h1:j19dp4sxVvbFfCB4UfHP06oAjGJIr/9CRzt/m5hI9pw="
+        }
+      ]
+    },
+    {
       "version": "1.14.1",
       "protocols": [
         "5.0"
