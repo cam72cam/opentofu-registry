@@ -1,6 +1,154 @@
 {
   "versions": [
     {
+      "version": "1.11.5-qa",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/threefoldtech/terraform-provider-grid/releases/download/v1.11.5-qa/terraform-provider-grid_1.11.5-qa_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/threefoldtech/terraform-provider-grid/releases/download/v1.11.5-qa/terraform-provider-grid_1.11.5-qa_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-grid_1.11.5-qa_darwin_amd64.zip",
+          "download_url": "https://github.com/threefoldtech/terraform-provider-grid/releases/download/v1.11.5-qa/terraform-provider-grid_1.11.5-qa_darwin_amd64.zip",
+          "shasum": "f569aeef511f7938d6851f88e1e048972c7a306c6defe1a48713ac5b1d00f1a8",
+          "h1": "h1:Og36OcGFfQ+6MjihUAvkPs06tQVODH1U5wmgB8D6sa0="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-grid_1.11.5-qa_darwin_arm64.zip",
+          "download_url": "https://github.com/threefoldtech/terraform-provider-grid/releases/download/v1.11.5-qa/terraform-provider-grid_1.11.5-qa_darwin_arm64.zip",
+          "shasum": "40707394c966cfacf7f4c119e4785a53253f070f8929ae4f10840732c081e99b",
+          "h1": "h1:yRcBIs0yQUnayUzuwFiZDyPcQBeNMuIfGPlY7VK+R2E="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-grid_1.11.5-qa_linux_386.zip",
+          "download_url": "https://github.com/threefoldtech/terraform-provider-grid/releases/download/v1.11.5-qa/terraform-provider-grid_1.11.5-qa_linux_386.zip",
+          "shasum": "447d4bc9daac76ed70f49a227bb216eb6ae0e748a6f3ce5bf56990bd8fe8e92c",
+          "h1": "h1:6PC7/woAu+rRl0VQ4KdZOuD3asZ1w48DEsiBEK+kRKw="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-grid_1.11.5-qa_linux_amd64.zip",
+          "download_url": "https://github.com/threefoldtech/terraform-provider-grid/releases/download/v1.11.5-qa/terraform-provider-grid_1.11.5-qa_linux_amd64.zip",
+          "shasum": "688ac6904eccc328fc2e90986f3be3c52dff171f2c7fa006c3aa152b8e5dc906",
+          "h1": "h1:ZRRSyKrzh0EosbA786Nar8Zhy6G2Q3yOhFShgwGcPnU="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-grid_1.11.5-qa_linux_arm.zip",
+          "download_url": "https://github.com/threefoldtech/terraform-provider-grid/releases/download/v1.11.5-qa/terraform-provider-grid_1.11.5-qa_linux_arm.zip",
+          "shasum": "7ce16274003e2698c3d34b216c6b828e3b8aad25791b8fbcb6dd1a7939b36cbe",
+          "h1": "h1:MdKafyVmVwwdFcde0ickIuFH2QF3ftzpyYHLagy2HWo="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-grid_1.11.5-qa_linux_arm64.zip",
+          "download_url": "https://github.com/threefoldtech/terraform-provider-grid/releases/download/v1.11.5-qa/terraform-provider-grid_1.11.5-qa_linux_arm64.zip",
+          "shasum": "3d13edea43b55089bb1c3b7acc17b9cb9780c9589922167bac0f894a0e44732f",
+          "h1": "h1:vU4jE5DYTpoa2ntlvODC9Q93+HQONuP7xp3i1+khyz4="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-grid_1.11.5-qa_windows_386.zip",
+          "download_url": "https://github.com/threefoldtech/terraform-provider-grid/releases/download/v1.11.5-qa/terraform-provider-grid_1.11.5-qa_windows_386.zip",
+          "shasum": "2411140da8710dc24386765a4df9a164c35ea5b87ce6bddfbaeffa3537b29cb2",
+          "h1": "h1:LiA8tl3YCs1Jzkc21QiGMyRU6oxlONrkyjf4uiuFjKE="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-grid_1.11.5-qa_windows_amd64.zip",
+          "download_url": "https://github.com/threefoldtech/terraform-provider-grid/releases/download/v1.11.5-qa/terraform-provider-grid_1.11.5-qa_windows_amd64.zip",
+          "shasum": "eb2b5dcb4c7a621167bde0a82e965810a32f0e7b3c2023428d028be6e18657f9",
+          "h1": "h1:WwPwwcl547IjX3z3zfJcN9NeeqwlmRfRICUefRYK+BY="
+        }
+      ]
+    },
+    {
+      "version": "1.11.5-dev",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/threefoldtech/terraform-provider-grid/releases/download/v1.11.5-dev/terraform-provider-grid_1.11.5-dev_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/threefoldtech/terraform-provider-grid/releases/download/v1.11.5-dev/terraform-provider-grid_1.11.5-dev_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-grid_1.11.5-dev_darwin_amd64.zip",
+          "download_url": "https://github.com/threefoldtech/terraform-provider-grid/releases/download/v1.11.5-dev/terraform-provider-grid_1.11.5-dev_darwin_amd64.zip",
+          "shasum": "4ade3d3e569f7ef58e3626511593dbce426398a1c146ad0108e9c55a01f4bb71",
+          "h1": "h1:tR1Tf62+EBzNqZYE6qQIkA2379eIKbC9K6JmY4guKRw="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-grid_1.11.5-dev_darwin_arm64.zip",
+          "download_url": "https://github.com/threefoldtech/terraform-provider-grid/releases/download/v1.11.5-dev/terraform-provider-grid_1.11.5-dev_darwin_arm64.zip",
+          "shasum": "e7dd67876b905b57ec349247a0350468b5ea8dd2b6600bb54a32f8ebbac33104",
+          "h1": "h1:gYD6HNZXI/c9gZJlLQdelOA+xhNMMYJyCHUMJ49wHts="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-grid_1.11.5-dev_linux_386.zip",
+          "download_url": "https://github.com/threefoldtech/terraform-provider-grid/releases/download/v1.11.5-dev/terraform-provider-grid_1.11.5-dev_linux_386.zip",
+          "shasum": "031beeeced61ab38c11196860ec154d028529ddef3f14fce1c0306e881e27ef6",
+          "h1": "h1:xDJbuE7BuyosXwIfmyiGO6+a585xH96qwa9JJMblNIc="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-grid_1.11.5-dev_linux_amd64.zip",
+          "download_url": "https://github.com/threefoldtech/terraform-provider-grid/releases/download/v1.11.5-dev/terraform-provider-grid_1.11.5-dev_linux_amd64.zip",
+          "shasum": "8ed1c6d274449d6676d6417026ec7f5b1952d30a41641b93e2f859feececcd51",
+          "h1": "h1:WZ6n4u4LL4TG2c4wNUWMTxwMwyrEEn4OcHWbijPy6BU="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-grid_1.11.5-dev_linux_arm.zip",
+          "download_url": "https://github.com/threefoldtech/terraform-provider-grid/releases/download/v1.11.5-dev/terraform-provider-grid_1.11.5-dev_linux_arm.zip",
+          "shasum": "f6ae50fe539f97ac3285b88a4f1b8208ed9e39f9052c04cd001ee98033460545",
+          "h1": "h1:X+/tTgyacbuduesTJiL9GBTQaaJoY+CK3dZkofqeT8c="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-grid_1.11.5-dev_linux_arm64.zip",
+          "download_url": "https://github.com/threefoldtech/terraform-provider-grid/releases/download/v1.11.5-dev/terraform-provider-grid_1.11.5-dev_linux_arm64.zip",
+          "shasum": "a9580ef173aade887be6221d95532231775c3f995b24a5d6dd2ab91bca583a30",
+          "h1": "h1:XkPL9g8Etqn3yjHdj+AAGvoMGuZFrVRkA5y4FM2uQn8="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-grid_1.11.5-dev_windows_386.zip",
+          "download_url": "https://github.com/threefoldtech/terraform-provider-grid/releases/download/v1.11.5-dev/terraform-provider-grid_1.11.5-dev_windows_386.zip",
+          "shasum": "44c42dc1f660153b04858cb33e1ce72d26326f59c51cd5da6992ad0947dc6703",
+          "h1": "h1:0uuhzo941vMviBuKewO3qQKccm5KOEgVtOaGxOggPdI="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-grid_1.11.5-dev_windows_amd64.zip",
+          "download_url": "https://github.com/threefoldtech/terraform-provider-grid/releases/download/v1.11.5-dev/terraform-provider-grid_1.11.5-dev_windows_amd64.zip",
+          "shasum": "978278c3fbdc50cbe643bd0103268df213ddf8929a61fab130c5ad4af1c5a225",
+          "h1": "h1:bfu6vEDL2UAS6V3ABu5WzIePJgxolqyQTcpdT+N4N4Y="
+        }
+      ]
+    },
+    {
       "version": "1.11.4",
       "protocols": [
         "5.0"
