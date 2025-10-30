@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "3.15.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/samsungsdscloud/terraform-provider-samsungcloudplatform/releases/download/v3.15.0/terraform-provider-samsungcloudplatform_3.15.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/samsungsdscloud/terraform-provider-samsungcloudplatform/releases/download/v3.15.0/terraform-provider-samsungcloudplatform_3.15.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-samsungcloudplatform_3.15.0_darwin_amd64.zip",
+          "download_url": "https://github.com/samsungsdscloud/terraform-provider-samsungcloudplatform/releases/download/v3.15.0/terraform-provider-samsungcloudplatform_3.15.0_darwin_amd64.zip",
+          "shasum": "3919ee3520759ad9ef033b5a9b3e508b01c80248a5d938ad72d51869f86cefea",
+          "h1": "h1:ZW+/srth1//1I/KsmePvvvdzKKKI8rNtApmN//dxHk0="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-samsungcloudplatform_3.15.0_darwin_arm64.zip",
+          "download_url": "https://github.com/samsungsdscloud/terraform-provider-samsungcloudplatform/releases/download/v3.15.0/terraform-provider-samsungcloudplatform_3.15.0_darwin_arm64.zip",
+          "shasum": "94919086738850bd275a2c03dc212b79e46f82f6d0271deaa567e8ae5d39161c",
+          "h1": "h1:PhzJbRpMNqIF7AhYz6jKJR7POqf4dJpRjeQd927XeHI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-samsungcloudplatform_3.15.0_freebsd_386.zip",
+          "download_url": "https://github.com/samsungsdscloud/terraform-provider-samsungcloudplatform/releases/download/v3.15.0/terraform-provider-samsungcloudplatform_3.15.0_freebsd_386.zip",
+          "shasum": "8b5e27a14a60a0b9adc915ce6bb56df97d763d91205cf696734d293f23882289",
+          "h1": "h1:WEiqDp1FY5UJ8Xs7xFTsGmByTApTVLsjjhNe/74bpvU="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-samsungcloudplatform_3.15.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/samsungsdscloud/terraform-provider-samsungcloudplatform/releases/download/v3.15.0/terraform-provider-samsungcloudplatform_3.15.0_freebsd_amd64.zip",
+          "shasum": "16d38e28769326789f48198b9c2c06df7beff174978eb02eaf69f33c97761e3d",
+          "h1": "h1:RDEkaUOOOPM+2PrwsjEqqPtmasQz3OJenjL+HWrFG6U="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-samsungcloudplatform_3.15.0_freebsd_arm.zip",
+          "download_url": "https://github.com/samsungsdscloud/terraform-provider-samsungcloudplatform/releases/download/v3.15.0/terraform-provider-samsungcloudplatform_3.15.0_freebsd_arm.zip",
+          "shasum": "24a0e9b2a922ca74c10da9f16e2ae9265dc447efc531c99641735ff8455cd4ac",
+          "h1": "h1:ZjgBY4xl0xLIjruAlgxfgJmmsV/Xv9KjyTn2cXQjsyU="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-samsungcloudplatform_3.15.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/samsungsdscloud/terraform-provider-samsungcloudplatform/releases/download/v3.15.0/terraform-provider-samsungcloudplatform_3.15.0_freebsd_arm64.zip",
+          "shasum": "3eb7377540a980c45c22fd1a9a4f620321d809c7adc957e42ae305ec2422dbc6",
+          "h1": "h1:UubsL2nLZ8wuwpGAuXFJ1QMwAyUVXV6RUOUBpZfg6ro="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-samsungcloudplatform_3.15.0_linux_386.zip",
+          "download_url": "https://github.com/samsungsdscloud/terraform-provider-samsungcloudplatform/releases/download/v3.15.0/terraform-provider-samsungcloudplatform_3.15.0_linux_386.zip",
+          "shasum": "760309cfb7b5eae2ece4eed0ae7cc15454295688192ce9895f0d8d063b40d815",
+          "h1": "h1:aGqnC01J7kKKEzMhJ8tt2AoI6d/6tuqa4A6eTR0N1jg="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-samsungcloudplatform_3.15.0_linux_amd64.zip",
+          "download_url": "https://github.com/samsungsdscloud/terraform-provider-samsungcloudplatform/releases/download/v3.15.0/terraform-provider-samsungcloudplatform_3.15.0_linux_amd64.zip",
+          "shasum": "282aa184767241c38197b3ed7cf729215c3dc77ecb5b0113fae8cce32b799330",
+          "h1": "h1:L3u+I1igWILcQ63gotwKe/djRp/juiNJbO7mJdRE/yg="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-samsungcloudplatform_3.15.0_linux_arm.zip",
+          "download_url": "https://github.com/samsungsdscloud/terraform-provider-samsungcloudplatform/releases/download/v3.15.0/terraform-provider-samsungcloudplatform_3.15.0_linux_arm.zip",
+          "shasum": "a103cd09698276940a22507495508a5e6125a8fb5b637d0e869e2f0f33285372",
+          "h1": "h1:ggAD3Z4MiZK5S8NcIFJYBoritGPKgYIyFCBv68wUzv8="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-samsungcloudplatform_3.15.0_linux_arm64.zip",
+          "download_url": "https://github.com/samsungsdscloud/terraform-provider-samsungcloudplatform/releases/download/v3.15.0/terraform-provider-samsungcloudplatform_3.15.0_linux_arm64.zip",
+          "shasum": "d52fa6b9260c601be81225bb480b465436ef3142512f28571a58ae28b9384cf9",
+          "h1": "h1:9oWdZpUhmsdY8Rc+SqgdlUynWBsF09XEZbkjVDRrkmU="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-samsungcloudplatform_3.15.0_windows_386.zip",
+          "download_url": "https://github.com/samsungsdscloud/terraform-provider-samsungcloudplatform/releases/download/v3.15.0/terraform-provider-samsungcloudplatform_3.15.0_windows_386.zip",
+          "shasum": "85b1ac4aa1b10123dfdcb610f74f707ab393883807f46fa79598eecfc5868358",
+          "h1": "h1:wUT8OJNgSJcwrKLtTDJ1w4JZXa6caBak4mmAGEcWXIw="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-samsungcloudplatform_3.15.0_windows_amd64.zip",
+          "download_url": "https://github.com/samsungsdscloud/terraform-provider-samsungcloudplatform/releases/download/v3.15.0/terraform-provider-samsungcloudplatform_3.15.0_windows_amd64.zip",
+          "shasum": "11e297f9b68a33afc11dd5eac955d9ec72a5c8df8b83918ecf7515bd5f751755",
+          "h1": "h1:VsToU+zEh+lhiDSkWuuwqPwgupInovaDS5peQXNMU7A="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-samsungcloudplatform_3.15.0_windows_arm.zip",
+          "download_url": "https://github.com/samsungsdscloud/terraform-provider-samsungcloudplatform/releases/download/v3.15.0/terraform-provider-samsungcloudplatform_3.15.0_windows_arm.zip",
+          "shasum": "cec98cf267b1837ab43e2372d6afe3d4e1631af8ae3bbf68d531e57680da8430",
+          "h1": "h1:UEcLKEFvno5YuVWjG5U+P4b+8abXYxHvxHyW99OjRMc="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-samsungcloudplatform_3.15.0_windows_arm64.zip",
+          "download_url": "https://github.com/samsungsdscloud/terraform-provider-samsungcloudplatform/releases/download/v3.15.0/terraform-provider-samsungcloudplatform_3.15.0_windows_arm64.zip",
+          "shasum": "f90390b321fa6daf8ec189a989ea3fa5bd04fdc77f51b8c28840c8106770b024",
+          "h1": "h1:6JIlPiPsT0OSs0p7Uh8FaNa7o7rg8rPngoI43u3UAIc="
+        }
+      ]
+    },
+    {
       "version": "3.13.0",
       "protocols": [
         "5.0"
