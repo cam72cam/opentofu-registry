@@ -1,6 +1,120 @@
 {
   "versions": [
     {
+      "version": "1.21.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/control-monkey/terraform-provider-cm/releases/download/v1.21.0/terraform-provider-cm_1.21.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/control-monkey/terraform-provider-cm/releases/download/v1.21.0/terraform-provider-cm_1.21.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-cm_1.21.0_darwin_amd64.zip",
+          "download_url": "https://github.com/control-monkey/terraform-provider-cm/releases/download/v1.21.0/terraform-provider-cm_1.21.0_darwin_amd64.zip",
+          "shasum": "36543c69d6dcd0ce911593d873218d3536f43e9b61b3a7f0cf8c96c52f0fcfed",
+          "h1": "h1:b3NCpggbM0eDJpGD8nzN+gDBccqoIgfsIzH95FqoCNg="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-cm_1.21.0_darwin_arm64.zip",
+          "download_url": "https://github.com/control-monkey/terraform-provider-cm/releases/download/v1.21.0/terraform-provider-cm_1.21.0_darwin_arm64.zip",
+          "shasum": "8f6a32bad37d1cdb47260db1c9a88b8108e430062855ff6da03dec59eb6d924d",
+          "h1": "h1:4fEa91G01VDjw8Npr7Y6V3wWRNrwO3k5ZNgSVZvqwnI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-cm_1.21.0_freebsd_386.zip",
+          "download_url": "https://github.com/control-monkey/terraform-provider-cm/releases/download/v1.21.0/terraform-provider-cm_1.21.0_freebsd_386.zip",
+          "shasum": "3036476f8ece9572b8eed0517b4b746e517b01d5fe9ce03ed890207f3a5bed54",
+          "h1": "h1:qOrWWVuJrGlS1TFfk28oXqsTKYDdwBEHgL3tJg5tgbc="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-cm_1.21.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/control-monkey/terraform-provider-cm/releases/download/v1.21.0/terraform-provider-cm_1.21.0_freebsd_amd64.zip",
+          "shasum": "e5a77358ccbc2fb2e0a3e5e3d39e924a40e29d3d1f5fd3ee246a195f14689f42",
+          "h1": "h1:LuGX1tTXLEHjx10et0lHp715sPienfwIzjcXlhKtQy4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-cm_1.21.0_freebsd_arm.zip",
+          "download_url": "https://github.com/control-monkey/terraform-provider-cm/releases/download/v1.21.0/terraform-provider-cm_1.21.0_freebsd_arm.zip",
+          "shasum": "a288d127ee74fba7fd8ac535fd72087e021b8e563b34fc9ccfba445dfe665e66",
+          "h1": "h1:wBFKKtlmrkIeoypiHDmaklo5lldMcvR3+D4yqsUtOVg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-cm_1.21.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/control-monkey/terraform-provider-cm/releases/download/v1.21.0/terraform-provider-cm_1.21.0_freebsd_arm64.zip",
+          "shasum": "e6f45d56c5f45b6fa8616b2ed6820854c9cebb24f540c7f03f0221fea7d14853",
+          "h1": "h1:jICPaCieTj1+SNMnTcpsmKI9Es7glCCmUs4wuMz5rvI="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-cm_1.21.0_linux_386.zip",
+          "download_url": "https://github.com/control-monkey/terraform-provider-cm/releases/download/v1.21.0/terraform-provider-cm_1.21.0_linux_386.zip",
+          "shasum": "724b499f5193d534ddf49537808873fe77a473c702fcc652cab6abe8c1c1895f",
+          "h1": "h1:vxGymmsG71ryZb4Yhs+qceR3FS655aBMsHLGVmK8ZEg="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-cm_1.21.0_linux_amd64.zip",
+          "download_url": "https://github.com/control-monkey/terraform-provider-cm/releases/download/v1.21.0/terraform-provider-cm_1.21.0_linux_amd64.zip",
+          "shasum": "9c1d5b786a772397d02272e71a995b3b090cfefa67fc9350206ac92ecf58c6d9",
+          "h1": "h1:psIjLK9/rxEfW/UXy31coKhWaIDXLzidUe1t43zx1OQ="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-cm_1.21.0_linux_arm.zip",
+          "download_url": "https://github.com/control-monkey/terraform-provider-cm/releases/download/v1.21.0/terraform-provider-cm_1.21.0_linux_arm.zip",
+          "shasum": "df23059ee1eea775539ef0a8944933c0060343b342108c6a7bbb91e64855b26a",
+          "h1": "h1:w/gOW7WhNw86ARnpwPmbnwvZ9q2B5PQURpYD6YvZOjk="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-cm_1.21.0_linux_arm64.zip",
+          "download_url": "https://github.com/control-monkey/terraform-provider-cm/releases/download/v1.21.0/terraform-provider-cm_1.21.0_linux_arm64.zip",
+          "shasum": "ab75e2efa83164df265fd9e0a3c10ee92edfb598f3b35f8d2e999d72c51034f1",
+          "h1": "h1:hVlDTvVWFb0qG71urKnHfqCinIDcmdfm8B32I8Ljqe0="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-cm_1.21.0_windows_386.zip",
+          "download_url": "https://github.com/control-monkey/terraform-provider-cm/releases/download/v1.21.0/terraform-provider-cm_1.21.0_windows_386.zip",
+          "shasum": "cb754439e579628ee8bf92a961bf773f82702541084b20c235f81c00201cddca",
+          "h1": "h1:vN5sPN0PgPig2Xv65E3c9XIogVK6GALmlAymGWAQRag="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-cm_1.21.0_windows_amd64.zip",
+          "download_url": "https://github.com/control-monkey/terraform-provider-cm/releases/download/v1.21.0/terraform-provider-cm_1.21.0_windows_amd64.zip",
+          "shasum": "cc5019240d2f655309863f8a761f19ae518eabf170181c1977c5fa2a883f9c2c",
+          "h1": "h1:jRGD0JsIiP7JGqA2k+jXyoGhxckq6RJc3YmqgUIgra8="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-cm_1.21.0_windows_arm.zip",
+          "download_url": "https://github.com/control-monkey/terraform-provider-cm/releases/download/v1.21.0/terraform-provider-cm_1.21.0_windows_arm.zip",
+          "shasum": "c3f8e180d5b9f0e5c2d4c8ac53c9d151139ab22c2984943b88908e1a88f3f805",
+          "h1": "h1:pMHovPMCaaTDAASAR8OG33M9Xqc5ZW5LqEeh8Ou4hLE="
+        }
+      ]
+    },
+    {
       "version": "1.20.0",
       "protocols": [
         "6.0"
