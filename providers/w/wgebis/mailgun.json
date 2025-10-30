@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.8.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/wgebis/terraform-provider-mailgun/releases/download/v0.8.0/terraform-provider-mailgun_0.8.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/wgebis/terraform-provider-mailgun/releases/download/v0.8.0/terraform-provider-mailgun_0.8.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-mailgun_0.8.0_darwin_amd64.zip",
+          "download_url": "https://github.com/wgebis/terraform-provider-mailgun/releases/download/v0.8.0/terraform-provider-mailgun_0.8.0_darwin_amd64.zip",
+          "shasum": "30b986241094047d7c775044dcd3aa168d078670476a05e5b345fb48ba0b1219",
+          "h1": "h1:UTOqjZUy4Zhdp5YjNDriHDOD5SIVKFhGUZNPE6gePww="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-mailgun_0.8.0_darwin_arm64.zip",
+          "download_url": "https://github.com/wgebis/terraform-provider-mailgun/releases/download/v0.8.0/terraform-provider-mailgun_0.8.0_darwin_arm64.zip",
+          "shasum": "00ae95252b97f79fe1de9fa0ecb2c2499764f93d64123e25ebcb61f452a868de",
+          "h1": "h1:spuHEyh1YLjOgZ6IGwRobnOwO5M3ofbBNdd+dTpHDoM="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-mailgun_0.8.0_freebsd_386.zip",
+          "download_url": "https://github.com/wgebis/terraform-provider-mailgun/releases/download/v0.8.0/terraform-provider-mailgun_0.8.0_freebsd_386.zip",
+          "shasum": "e9c8230535cc69012b58b69296e964133d8cee6ef5aceb62726621c7567ad9bd",
+          "h1": "h1:eRnifAjdDX/Q5YRJoSb6ICp3Q4e7jI4mQE5S+4Dpu6c="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-mailgun_0.8.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/wgebis/terraform-provider-mailgun/releases/download/v0.8.0/terraform-provider-mailgun_0.8.0_freebsd_amd64.zip",
+          "shasum": "0fdb3b483c65bacf01d5b325afe36d6470eccf5a53b5e2e68aea70cf4b24bbe0",
+          "h1": "h1:CHKZqDusdRXjscVZxleqSUgb6QaE0rYKOTIZGkT6dH4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-mailgun_0.8.0_freebsd_arm.zip",
+          "download_url": "https://github.com/wgebis/terraform-provider-mailgun/releases/download/v0.8.0/terraform-provider-mailgun_0.8.0_freebsd_arm.zip",
+          "shasum": "92ec270a321c1fc8858d17cec5677cf36804dcda97bef9ccfc855f44a03985b7",
+          "h1": "h1:eoKU7Ri7BbQEKEhvV76eVJVfCNO3k8Fy+0r4FmDl7XQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-mailgun_0.8.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/wgebis/terraform-provider-mailgun/releases/download/v0.8.0/terraform-provider-mailgun_0.8.0_freebsd_arm64.zip",
+          "shasum": "b4538c7e3c4c4cbf3b9e95a362efc69bfe71e358d8d83cafffb1ffde158e67b4",
+          "h1": "h1:kLqeUAt+pDgoCMnGUUZyoHFT9alQkGKgqNVZVYPng/Y="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-mailgun_0.8.0_linux_386.zip",
+          "download_url": "https://github.com/wgebis/terraform-provider-mailgun/releases/download/v0.8.0/terraform-provider-mailgun_0.8.0_linux_386.zip",
+          "shasum": "14109e8c71a87d2e63972d2bbbc6a456ff293e13b554401020b35c81dcd950f4",
+          "h1": "h1:QoZH5ojcAf7V5a+xA3J2h1EBSIRiC4Lb6DybqeAP9rA="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-mailgun_0.8.0_linux_amd64.zip",
+          "download_url": "https://github.com/wgebis/terraform-provider-mailgun/releases/download/v0.8.0/terraform-provider-mailgun_0.8.0_linux_amd64.zip",
+          "shasum": "b41d27fe41dd9fa0e699af617024b76540ae3ce4c0121fff72d7706bbfe6813d",
+          "h1": "h1:uRV7ZNza2Dvlsj8c+f8S1itZ0oWD0E3Nbe2cjrE9RyA="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-mailgun_0.8.0_linux_arm.zip",
+          "download_url": "https://github.com/wgebis/terraform-provider-mailgun/releases/download/v0.8.0/terraform-provider-mailgun_0.8.0_linux_arm.zip",
+          "shasum": "1af5ab442e70120b36e421eb679edca89c46b7cb9160fb80e7cb95db4fe59c72",
+          "h1": "h1:ds5It0I2ptVSdFqaCasr0YhHqM8w1BL8FNy/BRa8EOs="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-mailgun_0.8.0_linux_arm64.zip",
+          "download_url": "https://github.com/wgebis/terraform-provider-mailgun/releases/download/v0.8.0/terraform-provider-mailgun_0.8.0_linux_arm64.zip",
+          "shasum": "3fdae2eda59c0a960b0f1906c69d83bc279b70e3b6763744c8bac5cd79dc42e6",
+          "h1": "h1:WrOfd+EUGgB/fbVJng4K9wU3ZT6vxdCw+sc8KHy2AXA="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-mailgun_0.8.0_windows_386.zip",
+          "download_url": "https://github.com/wgebis/terraform-provider-mailgun/releases/download/v0.8.0/terraform-provider-mailgun_0.8.0_windows_386.zip",
+          "shasum": "037e3efee4475d91609d9f6b0203f6f956e345a3178d1dff9bef7bde78ac01db",
+          "h1": "h1:Q8m5FWoeQY9LkQ2efwoSUmCp7BVukQDKK6RxroNsUdk="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-mailgun_0.8.0_windows_amd64.zip",
+          "download_url": "https://github.com/wgebis/terraform-provider-mailgun/releases/download/v0.8.0/terraform-provider-mailgun_0.8.0_windows_amd64.zip",
+          "shasum": "c02e2ea51704080e37be548c3730cda92bf9c2fe4bb5ea8a2219e001bb7fda7b",
+          "h1": "h1:U8UET4gY8ODQCdsjcoozWqlRjuU7QwACAR1/ZfCs3CU="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-mailgun_0.8.0_windows_arm.zip",
+          "download_url": "https://github.com/wgebis/terraform-provider-mailgun/releases/download/v0.8.0/terraform-provider-mailgun_0.8.0_windows_arm.zip",
+          "shasum": "540b1e6efabcb037d7085c2825a354c9ecef580eefd68160699910bcf1f3d292",
+          "h1": "h1:SNA6wQ+vUncwZaJx+CAFUqhvszURte+WVLn2Yhukhlc="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-mailgun_0.8.0_windows_arm64.zip",
+          "download_url": "https://github.com/wgebis/terraform-provider-mailgun/releases/download/v0.8.0/terraform-provider-mailgun_0.8.0_windows_arm64.zip",
+          "shasum": "3ddc44360cb4e567b89ca20df28533f7966ae67f0b6c1a766fccebc59a979bf7",
+          "h1": "h1:0oOapPajxnMeTEMWDhfevw3C/b9wnNUds9Csu3QROhk="
+        }
+      ]
+    },
+    {
       "version": "0.7.7",
       "protocols": [
         "5.0"
