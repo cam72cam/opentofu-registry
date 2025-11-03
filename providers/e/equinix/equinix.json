@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "4.8.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v4.8.0/terraform-provider-equinix_4.8.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v4.8.0/terraform-provider-equinix_4.8.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-equinix_4.8.0_darwin_amd64.zip",
+          "download_url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v4.8.0/terraform-provider-equinix_4.8.0_darwin_amd64.zip",
+          "shasum": "8f86d9a0b111dd365c0bcc48f4fe3c118c7795e4138bbface19b4ddeedfa6e9e",
+          "h1": "h1:Moj8Z2jJ0hDIB1dJ+L75ZuKwVM9gfHjbrF8yk7deqCo="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-equinix_4.8.0_darwin_arm64.zip",
+          "download_url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v4.8.0/terraform-provider-equinix_4.8.0_darwin_arm64.zip",
+          "shasum": "57aac8c7a8af7dbabf13dd1ff4835b72d2d622e83965ae42bcca254cc53e8a5d",
+          "h1": "h1:oa8OKVfEJX26yn5FfyUKHMhW9i//eWyTzxxegsMW3Mo="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-equinix_4.8.0_freebsd_386.zip",
+          "download_url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v4.8.0/terraform-provider-equinix_4.8.0_freebsd_386.zip",
+          "shasum": "3587f83c122f90ce7384831eb859cd2b59b765fdf50b72ddf3589415211f95e3",
+          "h1": "h1:x5FthncdQ9j2Qglporfnbfig3tKTLai5UUvEFgSraVk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-equinix_4.8.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v4.8.0/terraform-provider-equinix_4.8.0_freebsd_amd64.zip",
+          "shasum": "94df4c601d8984d2d9f822b02e7c6381a855085f668acc451d746f281fa2131d",
+          "h1": "h1:3SIgtqWyh/ZMoeqfdK9K43dVIG7OwkkhdDUZIRRMy08="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-equinix_4.8.0_freebsd_arm.zip",
+          "download_url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v4.8.0/terraform-provider-equinix_4.8.0_freebsd_arm.zip",
+          "shasum": "30941521cebd3ec73782757957b966d3144cc8960f4c22e3a47db6f941a65565",
+          "h1": "h1:x+kvsy87KYSGLfRgfK2VVTb930+uWuRLjo2kse1GVUQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-equinix_4.8.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v4.8.0/terraform-provider-equinix_4.8.0_freebsd_arm64.zip",
+          "shasum": "766887813208c0b349ce73134395b6fa27577540253df51c81da3cd3c6f65d75",
+          "h1": "h1:+nYxSNauoTyP6arRq5HzDlXcyS8bAXl4PKJw/DNDQFc="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-equinix_4.8.0_linux_386.zip",
+          "download_url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v4.8.0/terraform-provider-equinix_4.8.0_linux_386.zip",
+          "shasum": "d462b01009d84a75be5ce9076ce786de5d0afaffe4f07a0922bc5e4723dc2605",
+          "h1": "h1:EBsa0Yw8jSK5lVMX0iyTLt2EMeJ5CKIZy7Yd93VxQeQ="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-equinix_4.8.0_linux_amd64.zip",
+          "download_url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v4.8.0/terraform-provider-equinix_4.8.0_linux_amd64.zip",
+          "shasum": "de810564b4bcbe0fa23eca1a1729039e4f022216297374fef97fe61b5e88ee69",
+          "h1": "h1:fwpVen53coK1tjXVJ9Uiyej7Gu+p+clf2noCqJfwTaw="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-equinix_4.8.0_linux_arm.zip",
+          "download_url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v4.8.0/terraform-provider-equinix_4.8.0_linux_arm.zip",
+          "shasum": "1edd51cbf9b24f5a99e22c52c3151d19551a39f53009710bf7597431a4791f76",
+          "h1": "h1:/2h44eemI4SQJ6FVczvLZrE791afuEhu0HnBXSimx+0="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-equinix_4.8.0_linux_arm64.zip",
+          "download_url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v4.8.0/terraform-provider-equinix_4.8.0_linux_arm64.zip",
+          "shasum": "b0d74cce2d587406881a2572c48f45e8eedc45196418475143bc0f191c5ca408",
+          "h1": "h1:dBYGjM/ErYfbT8VzZFVB8dh/mNvYu3wFrfUSdoA1cts="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-equinix_4.8.0_windows_386.zip",
+          "download_url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v4.8.0/terraform-provider-equinix_4.8.0_windows_386.zip",
+          "shasum": "265cdc780397ba30708b11861aad10139b0d2cbcfe2a542f18c96f3f4115ba20",
+          "h1": "h1:bvfGe4kZBuiUe+1SkxjLu3tllFkzNtkjXfbcL9OaNGw="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-equinix_4.8.0_windows_amd64.zip",
+          "download_url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v4.8.0/terraform-provider-equinix_4.8.0_windows_amd64.zip",
+          "shasum": "930d98091ee8be67a34c362013c51ab56e45fd8a37b88e3db6760d1f4f3216bf",
+          "h1": "h1:1O1Lnkr2+cJhEN8ZwSTXn54FZ0BSMpPmoRhs8+2Ux2E="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-equinix_4.8.0_windows_arm.zip",
+          "download_url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v4.8.0/terraform-provider-equinix_4.8.0_windows_arm.zip",
+          "shasum": "bb536f0c4787f86c497c880ed07a4cdcf3de26624535656ed44f33ae02ddaf73",
+          "h1": "h1:KIV7fsQnPSnH2SeV9WD1/p3TIm9fh+n8o2ivVwgGPRA="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-equinix_4.8.0_windows_arm64.zip",
+          "download_url": "https://github.com/equinix/terraform-provider-equinix/releases/download/v4.8.0/terraform-provider-equinix_4.8.0_windows_arm64.zip",
+          "shasum": "369e2461409bff239a87c0eb2ee0196d3bdb1d10ef196aae0a4e4adc5cb13137",
+          "h1": "h1:IqYROZR+T+GChMVFfDUKobL+XOqwKNQpNju2st6neTE="
+        }
+      ]
+    },
+    {
       "version": "4.7.0",
       "protocols": [
         "5.0"
