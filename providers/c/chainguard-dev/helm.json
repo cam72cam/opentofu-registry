@@ -1,6 +1,48 @@
 {
   "versions": [
     {
+      "version": "0.0.8",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.8/terraform-provider-helm_0.0.8_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.8/terraform-provider-helm_0.0.8_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-helm_0.0.8_darwin_amd64.zip",
+          "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.8/terraform-provider-helm_0.0.8_darwin_amd64.zip",
+          "shasum": "8cd3a08f451e843d0a11c27225a3224f5d4002583a6e9e4fba288afbccf4cb0f",
+          "h1": "h1:h/yXHYboHVkaKowaVi2+EYLrN62s77PWdk8USa69VOE="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-helm_0.0.8_darwin_arm64.zip",
+          "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.8/terraform-provider-helm_0.0.8_darwin_arm64.zip",
+          "shasum": "9d19b8b55db0ce96ca68dac59ade01f937cc63b3a4d4414c3c1da380cf982285",
+          "h1": "h1:0ItpbFZUxxwuH8/jAKUMbXLvYaeyiEg4FKOMUny+OhA="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-helm_0.0.8_linux_amd64.zip",
+          "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.8/terraform-provider-helm_0.0.8_linux_amd64.zip",
+          "shasum": "a65bf6450e569976b6105b9b9855267fa2a593e242f5446ce8c401bfc396d0a8",
+          "h1": "h1:fAY5bBLKfFq4z9yGfv4S4l+kTB2nNbWUlbHlHUGqjRA="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-helm_0.0.8_linux_arm64.zip",
+          "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.8/terraform-provider-helm_0.0.8_linux_arm64.zip",
+          "shasum": "9916c41c610883fc1d733f78ef0e36714d95cb726a509ee56e0e6fc46583ed38",
+          "h1": "h1:SgtGkZIXb5W0aEEB0QV3BmbM1vWJpSUP60pbKB1z/3s="
+        }
+      ]
+    },
+    {
       "version": "0.0.7",
       "protocols": [
         "6.0"
@@ -13,28 +55,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-helm_0.0.7_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.7/terraform-provider-helm_0.0.7_darwin_amd64.zip",
-          "shasum": "5bb511a3b02cb72d66bf51e26b3fceca1d9d538d9da0e4acb333c94475fde7d5"
+          "shasum": "5bb511a3b02cb72d66bf51e26b3fceca1d9d538d9da0e4acb333c94475fde7d5",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-helm_0.0.7_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.7/terraform-provider-helm_0.0.7_darwin_arm64.zip",
-          "shasum": "8362cd5b186b977df9ae8cf01e3fab66636e7cae488b3d88c8e3302db731989a"
+          "shasum": "8362cd5b186b977df9ae8cf01e3fab66636e7cae488b3d88c8e3302db731989a",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-helm_0.0.7_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.7/terraform-provider-helm_0.0.7_linux_amd64.zip",
-          "shasum": "07878efdaaef31b60b1b38d79800732ea6ae534238dbf31aba532372dfb20800"
+          "shasum": "07878efdaaef31b60b1b38d79800732ea6ae534238dbf31aba532372dfb20800",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-helm_0.0.7_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.7/terraform-provider-helm_0.0.7_linux_arm64.zip",
-          "shasum": "f911d538bf52ff528a767b987797fcd92a1f7b313964b331dd49af47d57840ad"
+          "shasum": "f911d538bf52ff528a767b987797fcd92a1f7b313964b331dd49af47d57840ad",
+          "h1": ""
         }
       ]
     },
@@ -51,28 +97,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-helm_0.0.6_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.6/terraform-provider-helm_0.0.6_darwin_amd64.zip",
-          "shasum": "350862c41c94d7b268b74a2a4ec96a172da191931271c7fa504267b41a4ca4cd"
+          "shasum": "350862c41c94d7b268b74a2a4ec96a172da191931271c7fa504267b41a4ca4cd",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-helm_0.0.6_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.6/terraform-provider-helm_0.0.6_darwin_arm64.zip",
-          "shasum": "cc6d04bd90fd211a6643e9550ea1be069b4be5475f90ad8c4bd694ba006b02b7"
+          "shasum": "cc6d04bd90fd211a6643e9550ea1be069b4be5475f90ad8c4bd694ba006b02b7",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-helm_0.0.6_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.6/terraform-provider-helm_0.0.6_linux_amd64.zip",
-          "shasum": "0cb94ebfbd58f26083aac27d84b9b6b83b98c531ebe257254c75ffe473aa89e2"
+          "shasum": "0cb94ebfbd58f26083aac27d84b9b6b83b98c531ebe257254c75ffe473aa89e2",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-helm_0.0.6_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.6/terraform-provider-helm_0.0.6_linux_arm64.zip",
-          "shasum": "fc6804651c75b50ee530a47fb830aa5730baf5ae8e94eacd0532c7a396739319"
+          "shasum": "fc6804651c75b50ee530a47fb830aa5730baf5ae8e94eacd0532c7a396739319",
+          "h1": ""
         }
       ]
     },
@@ -89,28 +139,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-helm_0.0.5_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.5/terraform-provider-helm_0.0.5_darwin_amd64.zip",
-          "shasum": "5d506ae7b2e4a8bf703017338bf9f0199206fedfe953f3dad7e7bfd7759bb4ed"
+          "shasum": "5d506ae7b2e4a8bf703017338bf9f0199206fedfe953f3dad7e7bfd7759bb4ed",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-helm_0.0.5_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.5/terraform-provider-helm_0.0.5_darwin_arm64.zip",
-          "shasum": "a46c9dc9231132135033d419b342d3de5b90346b66244650e6d3455d7950e2cf"
+          "shasum": "a46c9dc9231132135033d419b342d3de5b90346b66244650e6d3455d7950e2cf",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-helm_0.0.5_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.5/terraform-provider-helm_0.0.5_linux_amd64.zip",
-          "shasum": "4efc7d37a801869ec6d05b0cd6b60936b16f85cf2a3642c5ae3e04bf86343e7f"
+          "shasum": "4efc7d37a801869ec6d05b0cd6b60936b16f85cf2a3642c5ae3e04bf86343e7f",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-helm_0.0.5_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.5/terraform-provider-helm_0.0.5_linux_arm64.zip",
-          "shasum": "c1d554fcd0579d70be6a7ca1c1d745149eb19d67596699943992f57e741a58d5"
+          "shasum": "c1d554fcd0579d70be6a7ca1c1d745149eb19d67596699943992f57e741a58d5",
+          "h1": ""
         }
       ]
     },
@@ -127,28 +181,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-helm_0.0.4_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.4/terraform-provider-helm_0.0.4_darwin_amd64.zip",
-          "shasum": "42cf4f00e4b07320fc8afbe0abcce52438c1f794f0a0b12cb28608992b01f6bf"
+          "shasum": "42cf4f00e4b07320fc8afbe0abcce52438c1f794f0a0b12cb28608992b01f6bf",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-helm_0.0.4_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.4/terraform-provider-helm_0.0.4_darwin_arm64.zip",
-          "shasum": "863b08111d20085fa24ab427cecdb995c64c0fef49fc6f5042b0bdd4253e7602"
+          "shasum": "863b08111d20085fa24ab427cecdb995c64c0fef49fc6f5042b0bdd4253e7602",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-helm_0.0.4_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.4/terraform-provider-helm_0.0.4_linux_amd64.zip",
-          "shasum": "5636f69049ffdc125ed4091a362d81c353b1c244471b23fe6bf67c2c2659765c"
+          "shasum": "5636f69049ffdc125ed4091a362d81c353b1c244471b23fe6bf67c2c2659765c",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-helm_0.0.4_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.4/terraform-provider-helm_0.0.4_linux_arm64.zip",
-          "shasum": "2ce1efb61b47ff022c3a16ae1de137bb294916b41d600720aa05b4060e06a433"
+          "shasum": "2ce1efb61b47ff022c3a16ae1de137bb294916b41d600720aa05b4060e06a433",
+          "h1": ""
         }
       ]
     },
@@ -165,28 +223,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-helm_0.0.3_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.3/terraform-provider-helm_0.0.3_darwin_amd64.zip",
-          "shasum": "1a14343b02fdf9895275a33c222b4e658f7108c5d63c1ac558bf89ba67446ca2"
+          "shasum": "1a14343b02fdf9895275a33c222b4e658f7108c5d63c1ac558bf89ba67446ca2",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-helm_0.0.3_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.3/terraform-provider-helm_0.0.3_darwin_arm64.zip",
-          "shasum": "9704ef14cd86a65ec4d8ee6b759ad21fe995bc9295c0081d34b6d102b4a2c957"
+          "shasum": "9704ef14cd86a65ec4d8ee6b759ad21fe995bc9295c0081d34b6d102b4a2c957",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-helm_0.0.3_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.3/terraform-provider-helm_0.0.3_linux_amd64.zip",
-          "shasum": "aba3c7ec12f479a2a36117f458105539544fd41f8539fe540ac9186bcffbcab6"
+          "shasum": "aba3c7ec12f479a2a36117f458105539544fd41f8539fe540ac9186bcffbcab6",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-helm_0.0.3_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.3/terraform-provider-helm_0.0.3_linux_arm64.zip",
-          "shasum": "fba8d423c3aef2a9254540b389d64e6e13b7e891f6a1788c7b73c76d7d46204a"
+          "shasum": "fba8d423c3aef2a9254540b389d64e6e13b7e891f6a1788c7b73c76d7d46204a",
+          "h1": ""
         }
       ]
     }
