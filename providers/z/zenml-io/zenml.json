@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "3.0.1",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/zenml-io/terraform-provider-zenml/releases/download/v3.0.1/terraform-provider-zenml_3.0.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/zenml-io/terraform-provider-zenml/releases/download/v3.0.1/terraform-provider-zenml_3.0.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-zenml_3.0.1_darwin_amd64.zip",
+          "download_url": "https://github.com/zenml-io/terraform-provider-zenml/releases/download/v3.0.1/terraform-provider-zenml_3.0.1_darwin_amd64.zip",
+          "shasum": "0532516face0a27e7f8ef110c06b2bc20632f7b8c2a51a8f78483a72a9223bc5",
+          "h1": "h1:Ky8MkJP6EpQDnF7SsU4cpIE5jeqc8nPJ+r9i82TpYQ0="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-zenml_3.0.1_darwin_arm64.zip",
+          "download_url": "https://github.com/zenml-io/terraform-provider-zenml/releases/download/v3.0.1/terraform-provider-zenml_3.0.1_darwin_arm64.zip",
+          "shasum": "77b7cd3d594e08699f6026cfc4a9bb895a93ba280c1bbcd15b683f7179dec81c",
+          "h1": "h1:5NriRK1NVTPiSC4CqUmMckSZtW7EJ9FlQR0SWxoUSmE="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-zenml_3.0.1_freebsd_386.zip",
+          "download_url": "https://github.com/zenml-io/terraform-provider-zenml/releases/download/v3.0.1/terraform-provider-zenml_3.0.1_freebsd_386.zip",
+          "shasum": "007c0b8ef607e7932faa75e34d1ed84b266cf2b82301004e9e6f4a8d00016985",
+          "h1": "h1:CfhE3lx6adEPU6ftkQMrVuM5fRp4Nvl5X7Vi81g6SXw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-zenml_3.0.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/zenml-io/terraform-provider-zenml/releases/download/v3.0.1/terraform-provider-zenml_3.0.1_freebsd_amd64.zip",
+          "shasum": "eb49cb9ee227ce674b17d9e1c89318cfaa3c668d984cdb6161b4e1a73095f159",
+          "h1": "h1:xh0Iwx7hY7lTs1EnptKRWscZPQr+0iQYOqNGBgFAoaQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-zenml_3.0.1_freebsd_arm.zip",
+          "download_url": "https://github.com/zenml-io/terraform-provider-zenml/releases/download/v3.0.1/terraform-provider-zenml_3.0.1_freebsd_arm.zip",
+          "shasum": "b398688b025b2d5bf5996062f298a7a0aabde4a0de961b695de8a044fcd4ac5f",
+          "h1": "h1:fQ2bMDGNHhT/kqUy1bPubpHFIp7/3wWTHlGl0cKRWyI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-zenml_3.0.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/zenml-io/terraform-provider-zenml/releases/download/v3.0.1/terraform-provider-zenml_3.0.1_freebsd_arm64.zip",
+          "shasum": "e026480cdcdd7f8e4aa0b48b3eac8cc3c2cb511e4222231a6e57dd226f231b92",
+          "h1": "h1:PoZE0IbtwFMTiPFo+iRkfCR5YsQRljUzAPCq1cCbwLE="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-zenml_3.0.1_linux_386.zip",
+          "download_url": "https://github.com/zenml-io/terraform-provider-zenml/releases/download/v3.0.1/terraform-provider-zenml_3.0.1_linux_386.zip",
+          "shasum": "d2b0e7876973fd9530bfe71ee2c0f48e50d93740d0007b62fdcd0e8a8b3ac05e",
+          "h1": "h1:3v+czmlhsQc+84sN3ov9Mot70SFeDF5WqbAQC3k1Doc="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-zenml_3.0.1_linux_amd64.zip",
+          "download_url": "https://github.com/zenml-io/terraform-provider-zenml/releases/download/v3.0.1/terraform-provider-zenml_3.0.1_linux_amd64.zip",
+          "shasum": "13bde67c397bcffa580d9903e16c73b64572de43a05ad21895d7e3ddf17715d3",
+          "h1": "h1:O5HXG6ozLoBpy0P5Ws7ZbaO7T88koVSMRfEWp95ISzI="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-zenml_3.0.1_linux_arm.zip",
+          "download_url": "https://github.com/zenml-io/terraform-provider-zenml/releases/download/v3.0.1/terraform-provider-zenml_3.0.1_linux_arm.zip",
+          "shasum": "9025ad128b39888ec2a618d041d5fa6515af8535ca3ba86b8497b55e08bc04b4",
+          "h1": "h1:GlSw/PqrLJ5au4QuzGq9sPNBxgg49JNK7+MG7UR0qCw="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-zenml_3.0.1_linux_arm64.zip",
+          "download_url": "https://github.com/zenml-io/terraform-provider-zenml/releases/download/v3.0.1/terraform-provider-zenml_3.0.1_linux_arm64.zip",
+          "shasum": "714bade79f17e9790eff9cdbf82e33f7bec64510712d15ee38bac40c9a2d565e",
+          "h1": "h1:tt9Ar1I5/2hX8TdCrPfQ9ZiuZ1aa6AP/LdChyNejlno="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-zenml_3.0.1_windows_386.zip",
+          "download_url": "https://github.com/zenml-io/terraform-provider-zenml/releases/download/v3.0.1/terraform-provider-zenml_3.0.1_windows_386.zip",
+          "shasum": "eda1900ef37d7ef815c3d74f9561f1079d6d0daef90834986ad91aba8ae31989",
+          "h1": "h1:s4R4N/AK8oD6IpHtfOprVJ+n2hVXs5HXqnRokgIWwss="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-zenml_3.0.1_windows_amd64.zip",
+          "download_url": "https://github.com/zenml-io/terraform-provider-zenml/releases/download/v3.0.1/terraform-provider-zenml_3.0.1_windows_amd64.zip",
+          "shasum": "5276636b885507c0dbee722f2e2169aad0aa05654c185839d77b9de8f36b5b92",
+          "h1": "h1:z6wtA4LullKZsc5xYQ/YLolL8cxNKwdprtyJztOP5Hk="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-zenml_3.0.1_windows_arm.zip",
+          "download_url": "https://github.com/zenml-io/terraform-provider-zenml/releases/download/v3.0.1/terraform-provider-zenml_3.0.1_windows_arm.zip",
+          "shasum": "0fdc0ee3e05b1b071d560499c89bc76038a129b69d4efd87b419c2c75faa8c6c",
+          "h1": "h1:iCd4RJJ61BBFs0Zdkrz/MIdKIsPcv5wlVPi3gahtjVQ="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-zenml_3.0.1_windows_arm64.zip",
+          "download_url": "https://github.com/zenml-io/terraform-provider-zenml/releases/download/v3.0.1/terraform-provider-zenml_3.0.1_windows_arm64.zip",
+          "shasum": "ab8fc1348eae17d5db3a35b2a463ce93b5345bff4e0dc5118ea9e10c5e88f041",
+          "h1": "h1:yKt+oqn8AR6KL4wB3CJF/uFKLr7ZA6C227IhFmRLyDk="
+        }
+      ]
+    },
+    {
       "version": "3.0.0",
       "protocols": [
         "5.0"
