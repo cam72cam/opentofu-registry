@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "5.31.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/upcloudltd/terraform-provider-upcloud/releases/download/v5.31.0/terraform-provider-upcloud_5.31.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/upcloudltd/terraform-provider-upcloud/releases/download/v5.31.0/terraform-provider-upcloud_5.31.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-upcloud_5.31.0_darwin_amd64.zip",
+          "download_url": "https://github.com/upcloudltd/terraform-provider-upcloud/releases/download/v5.31.0/terraform-provider-upcloud_5.31.0_darwin_amd64.zip",
+          "shasum": "9b0d187e5af6d6ca9b0a3449c7574fd5a76ff71f60f105d69479e6ac7c756f0a",
+          "h1": "h1:XKeL2Ng84iqqHOhpg2Yyx3VC+JTfFxlMI/0dPRYyy5k="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-upcloud_5.31.0_darwin_arm64.zip",
+          "download_url": "https://github.com/upcloudltd/terraform-provider-upcloud/releases/download/v5.31.0/terraform-provider-upcloud_5.31.0_darwin_arm64.zip",
+          "shasum": "ba945b99dc971b3a365df47f077fe2cafe5f8fdfab88c3460e1719c25467e3fb",
+          "h1": "h1:qJeKYokw2tzzO2r6MvJ4cqzUSwuP4rDwEFmDoCVFbBY="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-upcloud_5.31.0_freebsd_386.zip",
+          "download_url": "https://github.com/upcloudltd/terraform-provider-upcloud/releases/download/v5.31.0/terraform-provider-upcloud_5.31.0_freebsd_386.zip",
+          "shasum": "ae6e6a8b9c1c0b267c4694dbe63229bbfb7eb80de7fc3d72aaeaa634c3a1e1fb",
+          "h1": "h1:QDsbJwSODXqBuMXto2+Mn+Ag/cVf/zZc3Swx1djGpAg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-upcloud_5.31.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/upcloudltd/terraform-provider-upcloud/releases/download/v5.31.0/terraform-provider-upcloud_5.31.0_freebsd_amd64.zip",
+          "shasum": "843a77b31ace298cb9c012c0cd297a1b6ae35818f90a5516ed5cef59cfc04f4e",
+          "h1": "h1:scex4dMp/SroPlyDIVRmZAG5jspnTMSClnqoM1gXaC8="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-upcloud_5.31.0_freebsd_arm.zip",
+          "download_url": "https://github.com/upcloudltd/terraform-provider-upcloud/releases/download/v5.31.0/terraform-provider-upcloud_5.31.0_freebsd_arm.zip",
+          "shasum": "2ccd0c5c5111e66f07fed1d9a12e01390f20f3e834fcf11e6596e00232677169",
+          "h1": "h1:0C5Y0nNoND1FZYa/HB2gQOTiJvKJHOLjZ7mSty5WKT0="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-upcloud_5.31.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/upcloudltd/terraform-provider-upcloud/releases/download/v5.31.0/terraform-provider-upcloud_5.31.0_freebsd_arm64.zip",
+          "shasum": "99702facfc34698afad53f25aea57777803abc5e73080ded9efde51f112ccfe7",
+          "h1": "h1:cetwUbvw/XezaGx2cgugyPoLM1M2KlsdBkpyQtFDhmc="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-upcloud_5.31.0_linux_386.zip",
+          "download_url": "https://github.com/upcloudltd/terraform-provider-upcloud/releases/download/v5.31.0/terraform-provider-upcloud_5.31.0_linux_386.zip",
+          "shasum": "b9278c94604545303e9ce2835bc6e7110c3e9c6075f001f9665155ec090dc7e4",
+          "h1": "h1:KlTPGYlMstjxJYoKZzIjj47kM83UW1GgJOz/6uE5SYo="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-upcloud_5.31.0_linux_amd64.zip",
+          "download_url": "https://github.com/upcloudltd/terraform-provider-upcloud/releases/download/v5.31.0/terraform-provider-upcloud_5.31.0_linux_amd64.zip",
+          "shasum": "ece1e08242552f8ba5f9dc3f3ff4edcecc3656d1cca86d8a950b68c1dcba49d6",
+          "h1": "h1:JN+Rq735LkNAxltOyoIWaYWhNwrWWcwvOk1YW4s3mo8="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-upcloud_5.31.0_linux_arm.zip",
+          "download_url": "https://github.com/upcloudltd/terraform-provider-upcloud/releases/download/v5.31.0/terraform-provider-upcloud_5.31.0_linux_arm.zip",
+          "shasum": "d8a0909972af5ad76f2210c3492747ba285ac7e78e2e44ca8d7963c18249ab93",
+          "h1": "h1:Or15xKX0rXbbkhqmmBEijuiow8wEzVvnsA4KaIIJx5E="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-upcloud_5.31.0_linux_arm64.zip",
+          "download_url": "https://github.com/upcloudltd/terraform-provider-upcloud/releases/download/v5.31.0/terraform-provider-upcloud_5.31.0_linux_arm64.zip",
+          "shasum": "6219903ba4283881e4f93f737dbccc94cca9694531e031ed6b48c5d523c3c1a4",
+          "h1": "h1:6aw7VeXsgN+CbjV9516aWfmU5Rwuy8vKr9HJUNiCkU8="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-upcloud_5.31.0_windows_386.zip",
+          "download_url": "https://github.com/upcloudltd/terraform-provider-upcloud/releases/download/v5.31.0/terraform-provider-upcloud_5.31.0_windows_386.zip",
+          "shasum": "ceb79dd8c962144b2ea75a11d3390fb2bf52fa0547f80845e08f2f0bc879dd6e",
+          "h1": "h1:ZxEVush3QMbxnYiwh8kHjSXl3XdvwFaNesaFJzDK/QY="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-upcloud_5.31.0_windows_amd64.zip",
+          "download_url": "https://github.com/upcloudltd/terraform-provider-upcloud/releases/download/v5.31.0/terraform-provider-upcloud_5.31.0_windows_amd64.zip",
+          "shasum": "5e59614147e7010fb47abcdc9ebfb10c934dc629bdc303a5e47becfb3204ce21",
+          "h1": "h1:FAjVvN0I4WFFNviVriEjv9+lxLphcjTBTfwrO3tgTqk="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-upcloud_5.31.0_windows_arm.zip",
+          "download_url": "https://github.com/upcloudltd/terraform-provider-upcloud/releases/download/v5.31.0/terraform-provider-upcloud_5.31.0_windows_arm.zip",
+          "shasum": "145a15758ff46e4b8876d2eb40d9420ce7bf38896d19de88375121a6eb137894",
+          "h1": "h1:wxOYwVWBVHvRygCp+x3f6ecC7B/9SmzeunnIyWCabnk="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-upcloud_5.31.0_windows_arm64.zip",
+          "download_url": "https://github.com/upcloudltd/terraform-provider-upcloud/releases/download/v5.31.0/terraform-provider-upcloud_5.31.0_windows_arm64.zip",
+          "shasum": "4bf238aa780e292d1e9c9dd22f5d742b149e8f45f33bb07f7acc586a8b646908",
+          "h1": "h1:Q09PQSrTqKaacOl5FLTbb5ONN+qekxWCdyjOGTZkBDI="
+        }
+      ]
+    },
+    {
       "version": "5.30.0",
       "protocols": [
         "5.0"
