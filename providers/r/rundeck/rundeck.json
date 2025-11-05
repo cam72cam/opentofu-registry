@@ -1,6 +1,250 @@
 {
   "versions": [
     {
+      "version": "0.5.4",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.4/terraform-provider-rundeck_0.5.4_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.4/terraform-provider-rundeck_0.5.4_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-rundeck_0.5.4_darwin_amd64.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.4/terraform-provider-rundeck_0.5.4_darwin_amd64.zip",
+          "shasum": "4cd3435ebcc7828780aced7389b141ee907cbb7511b09b9fe1968507b83051e4",
+          "h1": "h1:4Bv5X0n/EznlxKXItzknSA68b2f+n2isuFgQ0szwI5s="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-rundeck_0.5.4_darwin_arm64.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.4/terraform-provider-rundeck_0.5.4_darwin_arm64.zip",
+          "shasum": "196c9095e1611af6b50ee182363e86d4cc70c2ab924f6b9535d24182e9eaf615",
+          "h1": "h1:w8ebMwhoazff5rWdk28A8QWlExVU08L19cXVC098LHY="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-rundeck_0.5.4_freebsd_386.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.4/terraform-provider-rundeck_0.5.4_freebsd_386.zip",
+          "shasum": "1bedb28506a5e042104acf4b42a5f4cfdffcb9c158cea7037003e54effe04017",
+          "h1": "h1:Yx1CBbqutZpvZcHYoSytgbSp2E35FHZIbqRmb3qSKGw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-rundeck_0.5.4_freebsd_amd64.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.4/terraform-provider-rundeck_0.5.4_freebsd_amd64.zip",
+          "shasum": "d799d7f294678c0c0a0f3ddb86fc3b1ab5e0e788d91fbc03c82ef5274669e4d6",
+          "h1": "h1:lZKuj3/2pZyOsqinGqzSLATiXJ5PpHUugNQXdTQagVM="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-rundeck_0.5.4_freebsd_arm.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.4/terraform-provider-rundeck_0.5.4_freebsd_arm.zip",
+          "shasum": "44314d9a4431dd36285d728a9a1485eadeb5195992e8f59abc8cb7e76811d88d",
+          "h1": "h1:N5gs5EUWDRetrOd7d/D9d+O7d35mXeK3vWW9IIiohjE="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-rundeck_0.5.4_freebsd_arm64.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.4/terraform-provider-rundeck_0.5.4_freebsd_arm64.zip",
+          "shasum": "7d8168b7ef719c4ba726f1c2674320257ef82c687d7ae0d05fec866188d139a2",
+          "h1": "h1:efjCpKrfd9QZMTI73ogrOcpuxqL4o/xztJffv9be4ss="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-rundeck_0.5.4_linux_386.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.4/terraform-provider-rundeck_0.5.4_linux_386.zip",
+          "shasum": "8394387cfe50504a3d893fde8f8834ac46e5e470be645a88d4df07a4a612c937",
+          "h1": "h1:79LE+hpIKgTG5jyerfREp1xm1m8wxsbMiQn4dUJdcRI="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-rundeck_0.5.4_linux_amd64.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.4/terraform-provider-rundeck_0.5.4_linux_amd64.zip",
+          "shasum": "8e13212931a57b8719fdae14b885866ad8ad2f2e01e5c7fd1155e4a38eac9650",
+          "h1": "h1:96nb7AUfyvLoBrSlpwv9LQFlnBNa9YeeoTJ+UQwDuh8="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-rundeck_0.5.4_linux_arm.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.4/terraform-provider-rundeck_0.5.4_linux_arm.zip",
+          "shasum": "a6540b8e15ed073528d2bd6ec3dc114b3055a73eac99690b948b74a6cd45a910",
+          "h1": "h1:ohLzuOqiMIq+2WsCmN/0vpfvye6NEDwmJNWvs3t/6tI="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-rundeck_0.5.4_linux_arm64.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.4/terraform-provider-rundeck_0.5.4_linux_arm64.zip",
+          "shasum": "99a9e767a1c559a8b65c7b4888a7760aaf7294df2e1e7cedfc45695855167f59",
+          "h1": "h1:9fWg44AP9q3mQ/Ovn224VO6hE2xVKj3V14SfTRS1sR8="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-rundeck_0.5.4_windows_386.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.4/terraform-provider-rundeck_0.5.4_windows_386.zip",
+          "shasum": "83c5a3c46794e552df60582de5aa9fff4ae4a39c9f4ac7329f2fdb52fa1868cf",
+          "h1": "h1:uxRflaZwJxZ8w2oQ28cT0EUhdtwCig3jokK+ivvXMfc="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-rundeck_0.5.4_windows_amd64.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.4/terraform-provider-rundeck_0.5.4_windows_amd64.zip",
+          "shasum": "e2060cdcd4c83d7f324b1e95659096e20a797793ebc441897018a1e5b37e249d",
+          "h1": "h1:7hM/LU9ddONb8nxFqs0vWqjRfjBPwh8s6QznGziPXPI="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-rundeck_0.5.4_windows_arm.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.4/terraform-provider-rundeck_0.5.4_windows_arm.zip",
+          "shasum": "73ec5f980e901a0197c2b13d4140e74a254a1b917eaa32b8422b76eab53c9dd8",
+          "h1": "h1:ArtinZa1noYj8I15cfNOm/KaXaR04VrvcLknkzwmNoM="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-rundeck_0.5.4_windows_arm64.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.4/terraform-provider-rundeck_0.5.4_windows_arm64.zip",
+          "shasum": "84107693d477fb8f2c1e9b4650a661653dbcf0c34a922fd95973145d86e57ae1",
+          "h1": "h1:om+dPH2CcVYwxvhqSCyOiEURA8IKnGLexz+rP45LLpg="
+        }
+      ]
+    },
+    {
+      "version": "0.5.3",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.3/terraform-provider-rundeck_0.5.3_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.3/terraform-provider-rundeck_0.5.3_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-rundeck_0.5.3_darwin_amd64.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.3/terraform-provider-rundeck_0.5.3_darwin_amd64.zip",
+          "shasum": "d07ed84f69f1c499e1c7c834422197b9c86538ecbc9688f48b095a2e0d566a1d",
+          "h1": "h1:OupD7aWIajN78tjPM8hycxqrFC7GAEeQnP2tMyma6Is="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-rundeck_0.5.3_darwin_arm64.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.3/terraform-provider-rundeck_0.5.3_darwin_arm64.zip",
+          "shasum": "8c8331e6e3e7f7c73ae1a5017ebc1a0a6b5958f82a599d5b6ec86d19900af62d",
+          "h1": "h1:Y5ILbwN9unREbSo8Ozd9BklujpNKYbnilJhNJ2OepHk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-rundeck_0.5.3_freebsd_386.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.3/terraform-provider-rundeck_0.5.3_freebsd_386.zip",
+          "shasum": "633c1fd8df5be7477bb3c90e1599380a2a8b2d9c238d12655dd8b725862f1a33",
+          "h1": "h1:fRqXzBq0iLHqQdulBGsKsU+/NA0blQEsBTJAWlV9/ck="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-rundeck_0.5.3_freebsd_amd64.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.3/terraform-provider-rundeck_0.5.3_freebsd_amd64.zip",
+          "shasum": "72a758e43aa51ded1778306fcc87da91298bc0f7d8486419606a0d6330e32b93",
+          "h1": "h1:5aT3q13bFjnnWLbTreV6zuyc7K6IPoJU3Rs1tahOemY="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-rundeck_0.5.3_freebsd_arm.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.3/terraform-provider-rundeck_0.5.3_freebsd_arm.zip",
+          "shasum": "795852222bf56846674698fa79a951710f3e2032474c021c605ebc637c2fa0e6",
+          "h1": "h1:Q+QsjUgFOOmq/7jdAghVFS7osBhvmZjVVohWQ9sMULQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-rundeck_0.5.3_freebsd_arm64.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.3/terraform-provider-rundeck_0.5.3_freebsd_arm64.zip",
+          "shasum": "9873248fcfba5307fca993fded734f7d067e96ddef79f67b226661052209e226",
+          "h1": "h1:14ox575NHuRuHN47zRIVItVvtRefmjlBcSZt5SYTp8I="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-rundeck_0.5.3_linux_386.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.3/terraform-provider-rundeck_0.5.3_linux_386.zip",
+          "shasum": "e364c8b07d0125cdb4ef541abf5872e38f69e1c9a3513b52479e7500a32edf66",
+          "h1": "h1:p2GygQOjud1gHhr+ccGyJqLVerfpJlawjCrKbvvWzgo="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-rundeck_0.5.3_linux_amd64.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.3/terraform-provider-rundeck_0.5.3_linux_amd64.zip",
+          "shasum": "9a61c108276c3225c1877191864a74e3f2e003aabc1b4aee867bafb5bfba3a83",
+          "h1": "h1:dsBitIUqQbEsfB9Dm94kmITeWvkSec6xX79g0iDQ2yw="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-rundeck_0.5.3_linux_arm.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.3/terraform-provider-rundeck_0.5.3_linux_arm.zip",
+          "shasum": "e6b02a6c9a8bd35d9af4c228adf16eda1ae073e0c0cbe2cd8a885e0bff08652d",
+          "h1": "h1:t6rrMoRFn9gnaEWbJnUBdW15aEjUL0cuuIzPHb0PFOo="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-rundeck_0.5.3_linux_arm64.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.3/terraform-provider-rundeck_0.5.3_linux_arm64.zip",
+          "shasum": "392bb57c0d7c8985534510dbc048ec970d6da64d92a1cdcb7d66a19e3e9c0bca",
+          "h1": "h1:zTmWgLodkpNx6cNI81OVAtesLBknM96v+uJgYL1+Bek="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-rundeck_0.5.3_windows_386.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.3/terraform-provider-rundeck_0.5.3_windows_386.zip",
+          "shasum": "e1911b9ec39da50e9313dc3b7db41c5ef9e1938f6e2a51539127939dae29dbe5",
+          "h1": "h1:FLfnbGzF91B0N2Sh/N58k2XknwZQ44iE+WzTmRgiopU="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-rundeck_0.5.3_windows_amd64.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.3/terraform-provider-rundeck_0.5.3_windows_amd64.zip",
+          "shasum": "7286ba7fc2f5cb88de664e253efe623423623a4a39da2a40ea51800f1ac6eb68",
+          "h1": "h1:nB/+Ia6vEqBEGVmX1eErRUKv1LtIqlvi1u0XFG0VpBA="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-rundeck_0.5.3_windows_arm.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.3/terraform-provider-rundeck_0.5.3_windows_arm.zip",
+          "shasum": "ad444bafae3d6a2757788816d54809c732bd15ad2679c32aab236e6dbc0e7b0e",
+          "h1": "h1:SlwNXZ6ShHF3aGISAcsBOtAl464Xh4AWVGYyaw7loW8="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-rundeck_0.5.3_windows_arm64.zip",
+          "download_url": "https://github.com/rundeck/terraform-provider-rundeck/releases/download/v0.5.3/terraform-provider-rundeck_0.5.3_windows_arm64.zip",
+          "shasum": "15655f843b53c052f91abc9224f5563c17dbf102456d82ca597271f8d9bd015b",
+          "h1": "h1:tKbepKlqyFj9q2RqEDslFnaHUtbh2HhZL0aTSu7iOb0="
+        }
+      ]
+    },
+    {
       "version": "0.5.2",
       "protocols": [
         "6.0"
