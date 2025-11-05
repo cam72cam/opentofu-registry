@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.4.6",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/baptistegh/terraform-provider-lakekeeper/releases/download/v0.4.6/terraform-provider-lakekeeper_0.4.6_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/baptistegh/terraform-provider-lakekeeper/releases/download/v0.4.6/terraform-provider-lakekeeper_0.4.6_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-lakekeeper_0.4.6_darwin_amd64.zip",
+          "download_url": "https://github.com/baptistegh/terraform-provider-lakekeeper/releases/download/v0.4.6/terraform-provider-lakekeeper_0.4.6_darwin_amd64.zip",
+          "shasum": "3018c80d2983d3bec8b889da281b44b73a8b526da485325a89d1d3ddd34377e9",
+          "h1": "h1:YuG9CA5NOoCVELD+m1/DOSVG0218fEotZ7AbSr0QAMI="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-lakekeeper_0.4.6_darwin_arm64.zip",
+          "download_url": "https://github.com/baptistegh/terraform-provider-lakekeeper/releases/download/v0.4.6/terraform-provider-lakekeeper_0.4.6_darwin_arm64.zip",
+          "shasum": "999f0b128243973090c1dbcedd9f6cf7534ed3dffb96f95895f2cfc3472f4a21",
+          "h1": "h1:bAHLusX3pYYwcgwI83QsnoytQLwK00BlkDv44afEYQw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-lakekeeper_0.4.6_freebsd_386.zip",
+          "download_url": "https://github.com/baptistegh/terraform-provider-lakekeeper/releases/download/v0.4.6/terraform-provider-lakekeeper_0.4.6_freebsd_386.zip",
+          "shasum": "87395e8d72e0c15060ef8aa68d893e7986748aabb1028db4b78ca4bfed590f19",
+          "h1": "h1:JzToGuxK22ndc2DYyh9GrWs+OxZtFJUtPNdBh37ds58="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-lakekeeper_0.4.6_freebsd_amd64.zip",
+          "download_url": "https://github.com/baptistegh/terraform-provider-lakekeeper/releases/download/v0.4.6/terraform-provider-lakekeeper_0.4.6_freebsd_amd64.zip",
+          "shasum": "d830208818669b0e7ca5b9db62562b5a132f089b81a43eaf7567d7487677287f",
+          "h1": "h1:z4PXGiTeCgEp0pNW2cN1Xj1tmNMvd7xkMbTo1PiAHCs="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-lakekeeper_0.4.6_freebsd_arm.zip",
+          "download_url": "https://github.com/baptistegh/terraform-provider-lakekeeper/releases/download/v0.4.6/terraform-provider-lakekeeper_0.4.6_freebsd_arm.zip",
+          "shasum": "b76fe2e69044286d5a560a50b54276d8309dd22171643dfeaf4d0f1ce1361faf",
+          "h1": "h1:Eytvaisg5xbhLatE+9R4qZPzIrOa0xfqUlCPQ0GVB6Q="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-lakekeeper_0.4.6_freebsd_arm64.zip",
+          "download_url": "https://github.com/baptistegh/terraform-provider-lakekeeper/releases/download/v0.4.6/terraform-provider-lakekeeper_0.4.6_freebsd_arm64.zip",
+          "shasum": "be00ed7b9db96a1b323dd438f71b12702a7f447255094abbe6878b5b78000d35",
+          "h1": "h1:0YIqrjVRWLtRWtbUkwo5NQJWgNEdmuk+TWuUwHuGkhs="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-lakekeeper_0.4.6_linux_386.zip",
+          "download_url": "https://github.com/baptistegh/terraform-provider-lakekeeper/releases/download/v0.4.6/terraform-provider-lakekeeper_0.4.6_linux_386.zip",
+          "shasum": "12c1b6159498f3c58140cf5f205fb7d03edef98c0c822525841cafba192ae16e",
+          "h1": "h1:4oelW2vPccYlZHuk3P9DMf52TZJJeAQ/yM9k8jJ4wJk="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-lakekeeper_0.4.6_linux_amd64.zip",
+          "download_url": "https://github.com/baptistegh/terraform-provider-lakekeeper/releases/download/v0.4.6/terraform-provider-lakekeeper_0.4.6_linux_amd64.zip",
+          "shasum": "8dc9b63273b6ad2d83a5004cb5b1e25b17c93d1ac228b1cca97fa3354a19adf4",
+          "h1": "h1:BuYPGbqDLNiQAzsjNcjhcbnG/IrK7QmbBwDs4+5sQQQ="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-lakekeeper_0.4.6_linux_arm.zip",
+          "download_url": "https://github.com/baptistegh/terraform-provider-lakekeeper/releases/download/v0.4.6/terraform-provider-lakekeeper_0.4.6_linux_arm.zip",
+          "shasum": "def34110a6079e3c44d9cbfe22bc4b9e93ee75f9c28f9082d49d4b73fc86a341",
+          "h1": "h1:wad4+4WywPJl276LUBRHCVFB7kUFKW0vL3f1tsABQhk="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-lakekeeper_0.4.6_linux_arm64.zip",
+          "download_url": "https://github.com/baptistegh/terraform-provider-lakekeeper/releases/download/v0.4.6/terraform-provider-lakekeeper_0.4.6_linux_arm64.zip",
+          "shasum": "45f514704fc6f05c16a8004878706584d3315d5eb32320a5f47d703abdc15613",
+          "h1": "h1:dxffdtkB2wF2ZlB8FPJ//NPJxXQB9zmuOBftx8Kp/+U="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-lakekeeper_0.4.6_windows_386.zip",
+          "download_url": "https://github.com/baptistegh/terraform-provider-lakekeeper/releases/download/v0.4.6/terraform-provider-lakekeeper_0.4.6_windows_386.zip",
+          "shasum": "0ffde54343d98daaf2cc70f197c094756134e1a159352561d45daa3782f2de78",
+          "h1": "h1:AimkNUt8ZXH8LVz/+LU7IcqVqe7fmTrNNdbJ12l/zvI="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-lakekeeper_0.4.6_windows_amd64.zip",
+          "download_url": "https://github.com/baptistegh/terraform-provider-lakekeeper/releases/download/v0.4.6/terraform-provider-lakekeeper_0.4.6_windows_amd64.zip",
+          "shasum": "af6c0a28be336ce00b85df0d34eb3dbdcbd998d2bed1019b0968d9b884accc89",
+          "h1": "h1:DzUyEal9Hu7dX4NKBc6nbzm056Y2UEjP+h8jwaSBqw4="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-lakekeeper_0.4.6_windows_arm.zip",
+          "download_url": "https://github.com/baptistegh/terraform-provider-lakekeeper/releases/download/v0.4.6/terraform-provider-lakekeeper_0.4.6_windows_arm.zip",
+          "shasum": "bdebbb7c93c13570fee928dca6c49c323498cf9aa61edfae6cfa16e01481784c",
+          "h1": "h1:e8FoEuF5CEK7jojKOHL3lV0u2DjlvcIPfWgaN7cJ/+Y="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-lakekeeper_0.4.6_windows_arm64.zip",
+          "download_url": "https://github.com/baptistegh/terraform-provider-lakekeeper/releases/download/v0.4.6/terraform-provider-lakekeeper_0.4.6_windows_arm64.zip",
+          "shasum": "6532dfb0a8fede7ec14c60ff6b86176bec1af11ec840beb5da95b5683aa4e15e",
+          "h1": "h1:1oCXOVcp2BEYY+oyHfHcRN+WA1lSDwSGoXrNDv3UrD4="
+        }
+      ]
+    },
+    {
       "version": "0.4.5",
       "protocols": [
         "6.0"
