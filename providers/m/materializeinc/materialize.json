@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.9.2",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/materializeinc/terraform-provider-materialize/releases/download/v0.9.2/terraform-provider-materialize_0.9.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/materializeinc/terraform-provider-materialize/releases/download/v0.9.2/terraform-provider-materialize_0.9.2_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-materialize_0.9.2_darwin_amd64.zip",
+          "download_url": "https://github.com/materializeinc/terraform-provider-materialize/releases/download/v0.9.2/terraform-provider-materialize_0.9.2_darwin_amd64.zip",
+          "shasum": "cc5a108de2b603e175109343352737fb0f7bff10a6c84250548da85886f95b3d",
+          "h1": "h1:bPjQw0On9RL6gYubqaPdoe0C9S0CXOjii5YUWTVjA8s="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-materialize_0.9.2_darwin_arm64.zip",
+          "download_url": "https://github.com/materializeinc/terraform-provider-materialize/releases/download/v0.9.2/terraform-provider-materialize_0.9.2_darwin_arm64.zip",
+          "shasum": "fb48a5cbe4e2843d4b0f6c40355717d6477293f6f9c7e5a092a8da69af533ccb",
+          "h1": "h1:5SsIRgVltMzfQ4K2cNBVNE/fUOGhD1OwQXj06GDQ2pY="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-materialize_0.9.2_freebsd_386.zip",
+          "download_url": "https://github.com/materializeinc/terraform-provider-materialize/releases/download/v0.9.2/terraform-provider-materialize_0.9.2_freebsd_386.zip",
+          "shasum": "a66e020b8e927b6e8f39a49ca0ad50638e7bc20043153a206cf9645e759f0d85",
+          "h1": "h1:lqKZ4fDVl3YiYrGRZqgU6zCI/D4p7LB2yuqFIkoznOk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-materialize_0.9.2_freebsd_amd64.zip",
+          "download_url": "https://github.com/materializeinc/terraform-provider-materialize/releases/download/v0.9.2/terraform-provider-materialize_0.9.2_freebsd_amd64.zip",
+          "shasum": "ef237407bbbfa3fa50612b709a5d61dbc7cfb91b2d375f8254ee5428cd6fb951",
+          "h1": "h1:6CVNXqEZ6wm04l8xjHCnw5hYmkvUxz0Y20MljJ+UhH0="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-materialize_0.9.2_freebsd_arm.zip",
+          "download_url": "https://github.com/materializeinc/terraform-provider-materialize/releases/download/v0.9.2/terraform-provider-materialize_0.9.2_freebsd_arm.zip",
+          "shasum": "9230d6db10c16fef43812dde3c59598fc2de9d0d93ce16f736990e39095cd4e6",
+          "h1": "h1:QNhJeE58kp1mYd4njwMvLdZRwEDEVIRoEgxDeWlWvvc="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-materialize_0.9.2_freebsd_arm64.zip",
+          "download_url": "https://github.com/materializeinc/terraform-provider-materialize/releases/download/v0.9.2/terraform-provider-materialize_0.9.2_freebsd_arm64.zip",
+          "shasum": "b3c1dc3f75ab87726cf13e3a9df5e07393e95e7ebd521540c64dd9b63420620e",
+          "h1": "h1:E72vsbgl+6gn8gw107CgYc6MXqbv4qRVySoAb5CsKUk="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-materialize_0.9.2_linux_386.zip",
+          "download_url": "https://github.com/materializeinc/terraform-provider-materialize/releases/download/v0.9.2/terraform-provider-materialize_0.9.2_linux_386.zip",
+          "shasum": "d7185987521999d065b923b3e284d7b2da0d2c64d9d2e37d144f250cdc375abb",
+          "h1": "h1:Bqyw3ZpQkaZd7o5DnX45Xk+QbZmaiTuIIF4zxnMlAKE="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-materialize_0.9.2_linux_amd64.zip",
+          "download_url": "https://github.com/materializeinc/terraform-provider-materialize/releases/download/v0.9.2/terraform-provider-materialize_0.9.2_linux_amd64.zip",
+          "shasum": "14edd34544a3d91fc430385abe0e578f0deb641338bb97389d9c5325ced891a0",
+          "h1": "h1:xuLUkg4V88V/2LpZNaW+zOQYfHRWT4lAuOtWORrpYIE="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-materialize_0.9.2_linux_arm.zip",
+          "download_url": "https://github.com/materializeinc/terraform-provider-materialize/releases/download/v0.9.2/terraform-provider-materialize_0.9.2_linux_arm.zip",
+          "shasum": "cdbe3aca9c9b25907fd07af89292d06d937189274c8f1ddb4ab1f4b8aca79d81",
+          "h1": "h1:ZHNlmY+5ZeGi8HzDds4BCCZgTmt42Klq8UedHQJ1y3M="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-materialize_0.9.2_linux_arm64.zip",
+          "download_url": "https://github.com/materializeinc/terraform-provider-materialize/releases/download/v0.9.2/terraform-provider-materialize_0.9.2_linux_arm64.zip",
+          "shasum": "d575e9d52f8236ade175bee780419a8e48ec20d72c8f1249ce496fa9bd50f539",
+          "h1": "h1:RS5leRSQIk2EF1JPtsXGIV+NtgZnW9Xhw9Vhqx4g6/U="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-materialize_0.9.2_windows_386.zip",
+          "download_url": "https://github.com/materializeinc/terraform-provider-materialize/releases/download/v0.9.2/terraform-provider-materialize_0.9.2_windows_386.zip",
+          "shasum": "52351ff5293dcbf271991932d8274c07b5d0e0708a349a85cca200d4e9e1778f",
+          "h1": "h1:hGUoLpuKMvr35h/NbyZCyKWUD1j2JN9oaXGpuYcpvq8="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-materialize_0.9.2_windows_amd64.zip",
+          "download_url": "https://github.com/materializeinc/terraform-provider-materialize/releases/download/v0.9.2/terraform-provider-materialize_0.9.2_windows_amd64.zip",
+          "shasum": "2cc916343a6ce09f58a948443aa3e3e5144e02cc141611d713f43b3218eadf52",
+          "h1": "h1:MnAjnIORqpuyASLMW3TCYIucJ8nXCjYH4PyX78QI4ec="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-materialize_0.9.2_windows_arm.zip",
+          "download_url": "https://github.com/materializeinc/terraform-provider-materialize/releases/download/v0.9.2/terraform-provider-materialize_0.9.2_windows_arm.zip",
+          "shasum": "658455f5ef73975a99107d265149cbf272bf92765d5ee3e90728337211f8e733",
+          "h1": "h1:S07Sl+dn3PnfvTk6EB+zOJgeC78Lq0DOtV4emCCn3OM="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-materialize_0.9.2_windows_arm64.zip",
+          "download_url": "https://github.com/materializeinc/terraform-provider-materialize/releases/download/v0.9.2/terraform-provider-materialize_0.9.2_windows_arm64.zip",
+          "shasum": "6d56c7fe042b9a1de43fe1236173105a9ac4b768c762c71d9325626bc737090f",
+          "h1": "h1:Wo1SVz8ouPKz31FoQDZkQXfKVUfAvLZqU/HLa49UMgU="
+        }
+      ]
+    },
+    {
       "version": "0.9.1",
       "protocols": [
         "5.0"
