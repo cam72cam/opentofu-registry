@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.87.2",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.87.2/terraform-provider-dynatrace_1.87.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.87.2/terraform-provider-dynatrace_1.87.2_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-dynatrace_1.87.2_darwin_amd64.zip",
+          "download_url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.87.2/terraform-provider-dynatrace_1.87.2_darwin_amd64.zip",
+          "shasum": "7ed3aac3678defa37765d1491f988a099962b608a1003eec7ee405fce5de2d72",
+          "h1": "h1:AJRQN+P6wUT1Vqt104bcJILqeW/ySPLV/Ec4NAXluSA="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-dynatrace_1.87.2_darwin_arm64.zip",
+          "download_url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.87.2/terraform-provider-dynatrace_1.87.2_darwin_arm64.zip",
+          "shasum": "55c21788e005befc169145a0f97d3134791edc96a9793f3b5b88a5b4621ecfe6",
+          "h1": "h1:/hoYQ5aZ5hLcN9NUfgvQI5REc2bYhOxJBCkZWiMb4ok="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-dynatrace_1.87.2_freebsd_386.zip",
+          "download_url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.87.2/terraform-provider-dynatrace_1.87.2_freebsd_386.zip",
+          "shasum": "0fda4660cf3186141006e3d9784f952ff1ab0b67bafab098c66173176299b49f",
+          "h1": "h1:euuzE6KiaaaMLw56YjKyOauAwu+Krv5aJ3Z9JxKOBtg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-dynatrace_1.87.2_freebsd_amd64.zip",
+          "download_url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.87.2/terraform-provider-dynatrace_1.87.2_freebsd_amd64.zip",
+          "shasum": "e805ad6667370ea6f065394a4339010eef646823795d96dcc45f4da615cadbf3",
+          "h1": "h1:vWkx1UB8UveKxcFC4qYqvct678ZMWPPlHAdu/nSbYzM="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-dynatrace_1.87.2_freebsd_arm.zip",
+          "download_url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.87.2/terraform-provider-dynatrace_1.87.2_freebsd_arm.zip",
+          "shasum": "1eb5d308e87ae7f17a4e7a83297402321a9f3da2af6cae9a009b3b39f329d04e",
+          "h1": "h1:sf1qMxXe1gTxejLXB66+j5+It7kEMTfZtwiquVcWaYI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-dynatrace_1.87.2_freebsd_arm64.zip",
+          "download_url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.87.2/terraform-provider-dynatrace_1.87.2_freebsd_arm64.zip",
+          "shasum": "9fbb1ca91b17f634bac9443e7b2e4f504081fdc4c5f35a9067595f5cc160297f",
+          "h1": "h1:YeT3bkwZcXy+5+aLBiQJaUbfMPI+t1/wAejBd0PQS9M="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-dynatrace_1.87.2_linux_386.zip",
+          "download_url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.87.2/terraform-provider-dynatrace_1.87.2_linux_386.zip",
+          "shasum": "887a345dadcbd6f176c9018e91b97eb32a87896bc4b74d395e42bbe393eb687b",
+          "h1": "h1:2O+1NAhPQ65sW0D7oVJxy5EWlfiwGWWeb0WiwRUU1eE="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-dynatrace_1.87.2_linux_amd64.zip",
+          "download_url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.87.2/terraform-provider-dynatrace_1.87.2_linux_amd64.zip",
+          "shasum": "f89315076de1cd18e474a2e7b8c7d9111bf0782f3688aa32848a7744a534299f",
+          "h1": "h1:UsT7cuT58SqFCaJPO7GgXfaxw5pqndpWxDWw6ABSjX8="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-dynatrace_1.87.2_linux_arm.zip",
+          "download_url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.87.2/terraform-provider-dynatrace_1.87.2_linux_arm.zip",
+          "shasum": "8afeb24b59ab3e2867465c7c40bdd4da6d45206e08c6605b80a697bbcb553ad4",
+          "h1": "h1:tutkh+PEhqf5HbLlhfoKxGQWDbBF7OPk5uZmpgzUwso="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-dynatrace_1.87.2_linux_arm64.zip",
+          "download_url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.87.2/terraform-provider-dynatrace_1.87.2_linux_arm64.zip",
+          "shasum": "73414f7ebc57404c096525bb98d783f2dba8b3556ab0a99f2f647c1b836e67e4",
+          "h1": "h1:SMlGlua+/cYyAkoK5c6AU1/JvNZa1xA2PGvU8NoFfHw="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-dynatrace_1.87.2_windows_386.zip",
+          "download_url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.87.2/terraform-provider-dynatrace_1.87.2_windows_386.zip",
+          "shasum": "0a6d73ca1815611a38c25305224dca44108dbd1f659185966f10694f4cfb0885",
+          "h1": "h1:PbM5g0tRSNY2hcTdKV9+QXjX06xSgM5OenhtTRKPhvY="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-dynatrace_1.87.2_windows_amd64.zip",
+          "download_url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.87.2/terraform-provider-dynatrace_1.87.2_windows_amd64.zip",
+          "shasum": "1713a30e0afcc3bee5cb4b916943c41dfd131ca655a0a5296a86e66ec18a245b",
+          "h1": "h1:feoLiYUpolcldj5DX80QsDV4T6pkB5GXJEmWdJOO/Xg="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-dynatrace_1.87.2_windows_arm.zip",
+          "download_url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.87.2/terraform-provider-dynatrace_1.87.2_windows_arm.zip",
+          "shasum": "7c77dbbc782f928a2ed6adb2f4af533782ca800aa75fcdc15619ee305ee76728",
+          "h1": "h1:Dnc1IkAdBh5hfSYO0NDXAHXPH5lipCKm6OBBJAcJAEU="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-dynatrace_1.87.2_windows_arm64.zip",
+          "download_url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.87.2/terraform-provider-dynatrace_1.87.2_windows_arm64.zip",
+          "shasum": "c139c469b7592a232ae2cfd6c50a72e34e581bb551e9263867f1dec68ad21890",
+          "h1": "h1:jqdCDgeeEJH/61qv/QMCHq+uZ6elpBFhyIoiAmHND4E="
+        }
+      ]
+    },
+    {
       "version": "1.87.1",
       "protocols": [
         "5.0"
