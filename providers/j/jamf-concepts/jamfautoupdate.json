@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.2.2",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/jamf-concepts/terraform-provider-jamfautoupdate/releases/download/v0.2.2/terraform-provider-jamfautoupdate_0.2.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/jamf-concepts/terraform-provider-jamfautoupdate/releases/download/v0.2.2/terraform-provider-jamfautoupdate_0.2.2_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-jamfautoupdate_0.2.2_darwin_amd64.zip",
+          "download_url": "https://github.com/jamf-concepts/terraform-provider-jamfautoupdate/releases/download/v0.2.2/terraform-provider-jamfautoupdate_0.2.2_darwin_amd64.zip",
+          "shasum": "f226be43435d0b7fc0bc41cda3eeb73e017a0787f83a806cbc6cb6d406067ad9",
+          "h1": "h1:hlIqOPrMuVmP94Dcuzkh4UMm2BuFLfA3ZDkkdfLWmbY="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-jamfautoupdate_0.2.2_darwin_arm64.zip",
+          "download_url": "https://github.com/jamf-concepts/terraform-provider-jamfautoupdate/releases/download/v0.2.2/terraform-provider-jamfautoupdate_0.2.2_darwin_arm64.zip",
+          "shasum": "f21a5704dc13577140f803742b698a3b7c40366f50880dfe8d01054471e9b950",
+          "h1": "h1:TpwW4JghJGNei54OXdYKoLVWC35btaXJ1T2iMxbvtus="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-jamfautoupdate_0.2.2_freebsd_386.zip",
+          "download_url": "https://github.com/jamf-concepts/terraform-provider-jamfautoupdate/releases/download/v0.2.2/terraform-provider-jamfautoupdate_0.2.2_freebsd_386.zip",
+          "shasum": "adeafd5585ce31462e29287e5c1980548c4eb8b15661bcfe6015c5cbc1448203",
+          "h1": "h1:oEaQXwwt0B74U3CYIsbsJZyURCL97e0vzlReJXM/oOg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-jamfautoupdate_0.2.2_freebsd_amd64.zip",
+          "download_url": "https://github.com/jamf-concepts/terraform-provider-jamfautoupdate/releases/download/v0.2.2/terraform-provider-jamfautoupdate_0.2.2_freebsd_amd64.zip",
+          "shasum": "e0c5d156d481aa039d9cc331290f33f541ecef2e333b34ac1a2327d096c9e49b",
+          "h1": "h1:RjwHh0cMxTl6BrvAePEJbU843TQa+Vj2sxk+Vc0IxDE="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-jamfautoupdate_0.2.2_freebsd_arm.zip",
+          "download_url": "https://github.com/jamf-concepts/terraform-provider-jamfautoupdate/releases/download/v0.2.2/terraform-provider-jamfautoupdate_0.2.2_freebsd_arm.zip",
+          "shasum": "6d289f9234c33a9628f837b9f529cbd44a553b11637b2d23347d418f59e81cce",
+          "h1": "h1:rAdBhp3UClgXma7jwKde/I6Zk0+j9XHr/3mY3KKGKSY="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-jamfautoupdate_0.2.2_freebsd_arm64.zip",
+          "download_url": "https://github.com/jamf-concepts/terraform-provider-jamfautoupdate/releases/download/v0.2.2/terraform-provider-jamfautoupdate_0.2.2_freebsd_arm64.zip",
+          "shasum": "7c53f4d4d17b2bd77215a90ceadb52e2a7b3191cc084909ccb62fd5fe720821f",
+          "h1": "h1:P/aVa40lLr6q5Y14i+RV9Gy1KWjd9B2n8rDvRiM+5tE="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-jamfautoupdate_0.2.2_linux_386.zip",
+          "download_url": "https://github.com/jamf-concepts/terraform-provider-jamfautoupdate/releases/download/v0.2.2/terraform-provider-jamfautoupdate_0.2.2_linux_386.zip",
+          "shasum": "4cbc2c117f81a9ca3ee4256d3eb9a66f750717072101cc640519df492e388bee",
+          "h1": "h1:jMIr4nYAp896okhaK/YXBPc65o4ZapWkCP7WwsnQ4KQ="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-jamfautoupdate_0.2.2_linux_amd64.zip",
+          "download_url": "https://github.com/jamf-concepts/terraform-provider-jamfautoupdate/releases/download/v0.2.2/terraform-provider-jamfautoupdate_0.2.2_linux_amd64.zip",
+          "shasum": "44b3d348a572450718f4f5e783435197d61537b90ea4a4cd9fba261f974cb6c3",
+          "h1": "h1:fuukbMM8R++oi3d6h4touZsPoxPQAkiEMmDk9/TGlU8="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-jamfautoupdate_0.2.2_linux_arm.zip",
+          "download_url": "https://github.com/jamf-concepts/terraform-provider-jamfautoupdate/releases/download/v0.2.2/terraform-provider-jamfautoupdate_0.2.2_linux_arm.zip",
+          "shasum": "e80185a9f14c332e7211f94c3ae555dcb60d4e775097ae708f61b986db031871",
+          "h1": "h1:t7iYkRcYzn7whrS+6d+eV/IO5ISi/JTQSGGIXo8Y+/Q="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-jamfautoupdate_0.2.2_linux_arm64.zip",
+          "download_url": "https://github.com/jamf-concepts/terraform-provider-jamfautoupdate/releases/download/v0.2.2/terraform-provider-jamfautoupdate_0.2.2_linux_arm64.zip",
+          "shasum": "d1125b9c0ee49cff4e2b80463fb5a3e2b9a52cf95605f8529b5f048b79379e41",
+          "h1": "h1:I82LGVjtoA0CPURSyh91aXsmITczC3vRxz3MrAw/0Nw="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-jamfautoupdate_0.2.2_windows_386.zip",
+          "download_url": "https://github.com/jamf-concepts/terraform-provider-jamfautoupdate/releases/download/v0.2.2/terraform-provider-jamfautoupdate_0.2.2_windows_386.zip",
+          "shasum": "731668787d21246f390796f50c3e1beb4d46f6c137d1441479f6bfbaee9f9130",
+          "h1": "h1:NJTyu1cu/eQIJUW7/5MwdHNg8RnXD5LISoJhfoLdyq4="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-jamfautoupdate_0.2.2_windows_amd64.zip",
+          "download_url": "https://github.com/jamf-concepts/terraform-provider-jamfautoupdate/releases/download/v0.2.2/terraform-provider-jamfautoupdate_0.2.2_windows_amd64.zip",
+          "shasum": "e35d5194a33d443253d6a248c7790aa7df551ad46301ba75e7b23b0c40855e91",
+          "h1": "h1:Xi1mE+Vnu+3criLhoDyZ7uM1wlecHEIxb2Ka0CD29GQ="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-jamfautoupdate_0.2.2_windows_arm.zip",
+          "download_url": "https://github.com/jamf-concepts/terraform-provider-jamfautoupdate/releases/download/v0.2.2/terraform-provider-jamfautoupdate_0.2.2_windows_arm.zip",
+          "shasum": "570126a919bb0be26dde17403bb009d13427da508702152aa7bd73ee79f5b330",
+          "h1": "h1:vJGmg3j4uU9QOXe4Gh0XPYtOoiEizw9sQDVnyd3LPoc="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-jamfautoupdate_0.2.2_windows_arm64.zip",
+          "download_url": "https://github.com/jamf-concepts/terraform-provider-jamfautoupdate/releases/download/v0.2.2/terraform-provider-jamfautoupdate_0.2.2_windows_arm64.zip",
+          "shasum": "b6af39e5beb3a1916839d9993473f0a114e371b4fd2809c38a7bee30af6ee4ef",
+          "h1": "h1:/d+SyjwnNRlVMKXNAaldIKJEqwTj1etbW3DT9rLmUWo="
+        }
+      ]
+    },
+    {
       "version": "0.2.1",
       "protocols": [
         "6.0"
