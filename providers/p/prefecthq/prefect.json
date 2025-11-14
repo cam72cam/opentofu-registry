@@ -1,6 +1,168 @@
 {
   "versions": [
     {
+      "version": "2.90.1",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/prefecthq/terraform-provider-prefect/releases/download/v2.90.1/terraform-provider-prefect_2.90.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/prefecthq/terraform-provider-prefect/releases/download/v2.90.1/terraform-provider-prefect_2.90.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-prefect_2.90.1_darwin_amd64.zip",
+          "download_url": "https://github.com/prefecthq/terraform-provider-prefect/releases/download/v2.90.1/terraform-provider-prefect_2.90.1_darwin_amd64.zip",
+          "shasum": "b6caaacf8a2808fe63b043e3c32bfbe6d44086c64190e4096de69a58146c2402",
+          "h1": "h1:nukSI8UgCTJik9mkmLXf/QIecxCrq6KTwsMopXRYiPs="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-prefect_2.90.1_darwin_arm64.zip",
+          "download_url": "https://github.com/prefecthq/terraform-provider-prefect/releases/download/v2.90.1/terraform-provider-prefect_2.90.1_darwin_arm64.zip",
+          "shasum": "f4c07ba4cadbbcee3dbb79aaa732b936d394f519fdfe30b50e8b1ccbe08ee11a",
+          "h1": "h1:MqmNj6+oRxDCN1DBImK/E94lXST3zy21e2IUhVGk/6g="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-prefect_2.90.1_freebsd_386.zip",
+          "download_url": "https://github.com/prefecthq/terraform-provider-prefect/releases/download/v2.90.1/terraform-provider-prefect_2.90.1_freebsd_386.zip",
+          "shasum": "822da138674fc645a1abe7c58d22b77a3c6e91f56fb53178e2333f14fe875649",
+          "h1": "h1:5NQeONBwUzqeOH72t98uoNFrSjX+9MqqIKssyzzrWLE="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-prefect_2.90.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/prefecthq/terraform-provider-prefect/releases/download/v2.90.1/terraform-provider-prefect_2.90.1_freebsd_amd64.zip",
+          "shasum": "9f3bd1e6a745d2bb1039d88b0ab04e78b959fd676f008c3d5807369c2d3c2cfa",
+          "h1": "h1:iFRuhjqxX8cppMESf8mfDhEFFM1cQ82nThzNWKfR0hg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-prefect_2.90.1_freebsd_arm.zip",
+          "download_url": "https://github.com/prefecthq/terraform-provider-prefect/releases/download/v2.90.1/terraform-provider-prefect_2.90.1_freebsd_arm.zip",
+          "shasum": "df1d6a76c3fb8490ef7ce401fcf4da8ab480698e71cae28207bcdb7016b9c861",
+          "h1": "h1:siR/3SuuhDG1UtYe7s9PR839hV4QzgywvCdIEkAi5pg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-prefect_2.90.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/prefecthq/terraform-provider-prefect/releases/download/v2.90.1/terraform-provider-prefect_2.90.1_freebsd_arm64.zip",
+          "shasum": "401950ed04da4a61dafb01d7975410e1745fcdc17a84ea6b1b8dc2057f5cfc94",
+          "h1": "h1:gFUvthLLRkzD4Qkz6B1aRxmZHA4MEvzbIkD/9Xp7COE="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-prefect_2.90.1_linux_386.zip",
+          "download_url": "https://github.com/prefecthq/terraform-provider-prefect/releases/download/v2.90.1/terraform-provider-prefect_2.90.1_linux_386.zip",
+          "shasum": "556295949521a004ba431c2fed402e960c919ecbf87eea2779fa6790c80132c8",
+          "h1": "h1:INJwn22FSYEQw/LMAM3bJG2jk46sTBFbcVk0doktD6U="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-prefect_2.90.1_linux_amd64.zip",
+          "download_url": "https://github.com/prefecthq/terraform-provider-prefect/releases/download/v2.90.1/terraform-provider-prefect_2.90.1_linux_amd64.zip",
+          "shasum": "9cd556dd569101e00e9073869ed4aea95055e019d0379be0ed9a70a2cea0cff8",
+          "h1": "h1:XV2Tgwbk6X9EGZCoe9BizgglGCIr/X/pDIWrhPlhUSI="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-prefect_2.90.1_linux_arm.zip",
+          "download_url": "https://github.com/prefecthq/terraform-provider-prefect/releases/download/v2.90.1/terraform-provider-prefect_2.90.1_linux_arm.zip",
+          "shasum": "e2b9db58691af665da899fb93209f1286cffba3a70c515a5afe0779152de50fb",
+          "h1": "h1:Puaq4eB98j9YSICfsP5nahoqqtyYtylHVbC8oOeXNxw="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-prefect_2.90.1_linux_arm64.zip",
+          "download_url": "https://github.com/prefecthq/terraform-provider-prefect/releases/download/v2.90.1/terraform-provider-prefect_2.90.1_linux_arm64.zip",
+          "shasum": "7563f0361bf30bffb89e05dbd947f9300e7b6faf91638f625e01b40c4e44e12a",
+          "h1": "h1:VrE+Du4RMGTXxWtyxP0sfVejxIoRLh5ZGoaeBC0nQ1Q="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-prefect_2.90.1_windows_386.zip",
+          "download_url": "https://github.com/prefecthq/terraform-provider-prefect/releases/download/v2.90.1/terraform-provider-prefect_2.90.1_windows_386.zip",
+          "shasum": "880724cde5b7186b21e73f11397f9905a8d2c0349fd7e142f3e953e2d54748c9",
+          "h1": "h1:SlNZ4OEiqMS5SarCmtxHpmzF63AWLnjl17BqtpjlZQI="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-prefect_2.90.1_windows_amd64.zip",
+          "download_url": "https://github.com/prefecthq/terraform-provider-prefect/releases/download/v2.90.1/terraform-provider-prefect_2.90.1_windows_amd64.zip",
+          "shasum": "430854fc11e7860c1b02f6bb62b472e0d6dbe16dab24875aa630e64afc5df016",
+          "h1": "h1:sD2Z8q+JY790F78VPkaoVycI+J/k1EJnMkyiS3ja9AE="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-prefect_2.90.1_windows_arm.zip",
+          "download_url": "https://github.com/prefecthq/terraform-provider-prefect/releases/download/v2.90.1/terraform-provider-prefect_2.90.1_windows_arm.zip",
+          "shasum": "afad96bdb102762088f0527f1e76740f311581832990af1cee3bd30fcc1adc19",
+          "h1": "h1:jhy3f5yBUVkUjP4zqgT4qfP3b676tavnIMHWp2jBNV8="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-prefect_2.90.1_windows_arm64.zip",
+          "download_url": "https://github.com/prefecthq/terraform-provider-prefect/releases/download/v2.90.1/terraform-provider-prefect_2.90.1_windows_arm64.zip",
+          "shasum": "1c9960deda2d01e06b37656b49af418986b41cb703e997c7636dd55504a74390",
+          "h1": "h1:Xj2mDFXBznSFIkR5mwTpsPBDi8ibmuT2xSVB3V+O738="
+        },
+        {
+          "os": "openbsd",
+          "arch": "386",
+          "filename": "terraform-provider-prefect_2.90.1_openbsd_386.zip",
+          "download_url": "https://github.com/prefecthq/terraform-provider-prefect/releases/download/v2.90.1/terraform-provider-prefect_2.90.1_openbsd_386.zip",
+          "shasum": "eddf9bd112caf9e6bbbb0ad11a6c64714bffcaa17313bafea51e4df0a0d26015",
+          "h1": "h1:oV5w2zzqWlrxyUYl3mNqAc5glc8Ap7awDMqd30gxvXA="
+        },
+        {
+          "os": "openbsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-prefect_2.90.1_openbsd_amd64.zip",
+          "download_url": "https://github.com/prefecthq/terraform-provider-prefect/releases/download/v2.90.1/terraform-provider-prefect_2.90.1_openbsd_amd64.zip",
+          "shasum": "cde3d16bda17b6b95147399b13ca025ae317ab19a51fbe889eadb937b77dd1f7",
+          "h1": "h1:7YQrJtei9A4wRLOM/9qjOz/eKC+3JTWureYTWsn7pqo="
+        },
+        {
+          "os": "openbsd",
+          "arch": "arm",
+          "filename": "terraform-provider-prefect_2.90.1_openbsd_arm.zip",
+          "download_url": "https://github.com/prefecthq/terraform-provider-prefect/releases/download/v2.90.1/terraform-provider-prefect_2.90.1_openbsd_arm.zip",
+          "shasum": "3666344c806263ee5b99e0406438a024303914d4b98a78addd0522339991d8df",
+          "h1": "h1:5tFhJ/e3qbnFUxDCWXOQg3I2HKdai8oNuM5PzYHEU3Y="
+        },
+        {
+          "os": "openbsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-prefect_2.90.1_openbsd_arm64.zip",
+          "download_url": "https://github.com/prefecthq/terraform-provider-prefect/releases/download/v2.90.1/terraform-provider-prefect_2.90.1_openbsd_arm64.zip",
+          "shasum": "54c76221d6acd46134f88ff0bbb4c51798c1b1a40f39cf20ed35c8922c3938d8",
+          "h1": "h1:zylAmbsOvFQ3OQWPcYyXBP5PppobvyRNbMmz5Di5c08="
+        },
+        {
+          "os": "solaris",
+          "arch": "amd64",
+          "filename": "terraform-provider-prefect_2.90.1_solaris_amd64.zip",
+          "download_url": "https://github.com/prefecthq/terraform-provider-prefect/releases/download/v2.90.1/terraform-provider-prefect_2.90.1_solaris_amd64.zip",
+          "shasum": "d0eeff6de197c5507bd3a3e922456d3a92ffead7a12ef9241612a657011ff9c1",
+          "h1": "h1:uEigTmupJhio1J5sus4TXGNbBeXl7rDZw+jSYJo5asE="
+        }
+      ]
+    },
+    {
       "version": "2.90.0",
       "protocols": [
         "6.0"
