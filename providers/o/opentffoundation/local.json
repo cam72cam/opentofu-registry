@@ -1,6 +1,88 @@
 {
   "versions": [
     {
+      "version": "2.6.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.6.0/terraform-provider-local_2.6.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.6.0/terraform-provider-local_2.6.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-local_2.6.0_darwin_amd64.zip",
+          "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.6.0/terraform-provider-local_2.6.0_darwin_amd64.zip",
+          "shasum": "3b1d0a9f31b7e932893e776abd32f0e9aad8a8c456ed23e8f693b17196c8c711",
+          "h1": "h1:T604fT7MPvDRiTuGOnmmKdZmXIUDxjkQbpxTfiz0MNU="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-local_2.6.0_darwin_arm64.zip",
+          "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.6.0/terraform-provider-local_2.6.0_darwin_arm64.zip",
+          "shasum": "469db0a43d6ad8400f5c299fa3dfc539103b3aeb7ead75fff9ffbae04d29a5a3",
+          "h1": "h1:2BVC9gz3kOD0kEC3uFjxuAxeHdY0K/6eYmGEwLBYM0U="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-local_2.6.0_linux_386.zip",
+          "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.6.0/terraform-provider-local_2.6.0_linux_386.zip",
+          "shasum": "3cdcdaa0a23fa0d1064bf69640353235eb31932b7c08ad6f4fe91c46fc858fbd",
+          "h1": "h1:DP9aXnyZdEKpDNKYcRkGD151+a9+j506KMbVI00jV6Q="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-local_2.6.0_linux_amd64.zip",
+          "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.6.0/terraform-provider-local_2.6.0_linux_amd64.zip",
+          "shasum": "de47c1380e01ebc528507112c4595313c64f177f6e74915920b87f607e9eba20",
+          "h1": "h1:6FfLvU7pKWpd7H3BtFLYHJi03jsav7itlpWzJWPKAgM="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-local_2.6.0_linux_arm.zip",
+          "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.6.0/terraform-provider-local_2.6.0_linux_arm.zip",
+          "shasum": "291561e130dfaf71a6b8ae8b8b8780179940763fe9a3f4d4f9bcd569922d98f8",
+          "h1": "h1:lz7tOR6TYQmdpIhB9Osadf1DADn+4PXOynxKJDc2NFY="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-local_2.6.0_linux_arm64.zip",
+          "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.6.0/terraform-provider-local_2.6.0_linux_arm64.zip",
+          "shasum": "230d6e9fa749c39c2511b039cf6144ff7981d135e179eef7193e5cebedc6f7d2",
+          "h1": "h1:YYKzfrfVusSPJ8l9r2+s6TbJdAWVLEoPVH6qheMBgnU="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-local_2.6.0_windows_386.zip",
+          "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.6.0/terraform-provider-local_2.6.0_windows_386.zip",
+          "shasum": "1cf30f1a85a96633a4c125253f4d328b17d5a9331181124eb1a48250765c66bd",
+          "h1": "h1:Cw8PIHQka0AgNZOpuyd3s8aLg6xtLhb5bfva/aPO98Q="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-local_2.6.0_windows_amd64.zip",
+          "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.6.0/terraform-provider-local_2.6.0_windows_amd64.zip",
+          "shasum": "d497b6d5e415c70e49e86a99e9862eb486f800e0aea8720572d4dd5e4b0314a7",
+          "h1": "h1:o6ZsoJRzn8K4rnY84iu0NEU1D2DREGdfZvsBu3o7/Vk="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-local_2.6.0_windows_arm64.zip",
+          "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.6.0/terraform-provider-local_2.6.0_windows_arm64.zip",
+          "shasum": "4a11b0d367429b6f5466dd7f1aa20228e657f463c8d67e276a539e186c24dfc0",
+          "h1": "h1:tgQSdbEccmxQPGlAqPOohxyUTNPDMJ5gBzF2y2bu+i0="
+        }
+      ]
+    },
+    {
       "version": "2.5.3",
       "protocols": [
         "5.0"
@@ -13,70 +95,80 @@
           "arch": "amd64",
           "filename": "terraform-provider-local_2.5.3_darwin_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.3/terraform-provider-local_2.5.3_darwin_amd64.zip",
-          "shasum": "48c390af0c87df994ec9796f04ec2582bcac581fb81ed6bb58e0671da1c17991"
+          "shasum": "48c390af0c87df994ec9796f04ec2582bcac581fb81ed6bb58e0671da1c17991",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.5.3_darwin_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.3/terraform-provider-local_2.5.3_darwin_arm64.zip",
-          "shasum": "91003bee5981e99ec3925ce2f452a5f743827f9d0e131a86613549c1464796f0"
+          "shasum": "91003bee5981e99ec3925ce2f452a5f743827f9d0e131a86613549c1464796f0",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-local_2.5.3_linux_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.3/terraform-provider-local_2.5.3_linux_386.zip",
-          "shasum": "7a0132c0faca4c4c96aa70808effd6817e28712bf5a39881666ac377b4250acf"
+          "shasum": "7a0132c0faca4c4c96aa70808effd6817e28712bf5a39881666ac377b4250acf",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.5.3_linux_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.3/terraform-provider-local_2.5.3_linux_amd64.zip",
-          "shasum": "7d60de08fac427fb045e4590d1b921b6778498eee9eb16f78c64d4c577bde096"
+          "shasum": "7d60de08fac427fb045e4590d1b921b6778498eee9eb16f78c64d4c577bde096",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-local_2.5.3_linux_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.3/terraform-provider-local_2.5.3_linux_arm.zip",
-          "shasum": "e210e6be54933ce93e03d0994e520ba289aa01b2c1f70e77afb8f2ee796b0fe3"
+          "shasum": "e210e6be54933ce93e03d0994e520ba289aa01b2c1f70e77afb8f2ee796b0fe3",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.5.3_linux_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.3/terraform-provider-local_2.5.3_linux_arm64.zip",
-          "shasum": "4cf958e631e99ed6c8b522c9b22e1f1b568c0bdadb01dd002ca7dffb1c927764"
+          "shasum": "4cf958e631e99ed6c8b522c9b22e1f1b568c0bdadb01dd002ca7dffb1c927764",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-local_2.5.3_windows_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.3/terraform-provider-local_2.5.3_windows_386.zip",
-          "shasum": "32e1d4b0595cea6cda4ca256195c162772ddff25594ab4008731a2ec7be230bf"
+          "shasum": "32e1d4b0595cea6cda4ca256195c162772ddff25594ab4008731a2ec7be230bf",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.5.3_windows_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.3/terraform-provider-local_2.5.3_windows_amd64.zip",
-          "shasum": "9fe2fe75977c8149e2515fb30c6cc6cfd57b225d4ce592c570d81a3831d7ffa3"
+          "shasum": "9fe2fe75977c8149e2515fb30c6cc6cfd57b225d4ce592c570d81a3831d7ffa3",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-local_2.5.3_windows_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.3/terraform-provider-local_2.5.3_windows_arm.zip",
-          "shasum": "e8793e5f9422f2b31a804e51806595f335b827c9a38db18766960464566f21d5"
+          "shasum": "e8793e5f9422f2b31a804e51806595f335b827c9a38db18766960464566f21d5",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.5.3_windows_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.3/terraform-provider-local_2.5.3_windows_arm64.zip",
-          "shasum": "4be7289c969218a57b40902e2f359914f8d35a7f97b439140cb711aa21e494bd"
+          "shasum": "4be7289c969218a57b40902e2f359914f8d35a7f97b439140cb711aa21e494bd",
+          "h1": ""
         }
       ]
     },
@@ -93,70 +185,80 @@
           "arch": "amd64",
           "filename": "terraform-provider-local_2.5.3-alpha1_darwin_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.3-alpha1/terraform-provider-local_2.5.3-alpha1_darwin_amd64.zip",
-          "shasum": "d88bc879dc003d01838bc3035f951d88ef447e475631e364f37424e79e5ce9e8"
+          "shasum": "d88bc879dc003d01838bc3035f951d88ef447e475631e364f37424e79e5ce9e8",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.5.3-alpha1_darwin_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.3-alpha1/terraform-provider-local_2.5.3-alpha1_darwin_arm64.zip",
-          "shasum": "cca0375f36a31076c086e9c44a21e29bb22b23e65e2bce5524fb90298fef39df"
+          "shasum": "cca0375f36a31076c086e9c44a21e29bb22b23e65e2bce5524fb90298fef39df",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-local_2.5.3-alpha1_linux_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.3-alpha1/terraform-provider-local_2.5.3-alpha1_linux_386.zip",
-          "shasum": "bff5205bf2be3e235f9e952389e36a45d1732b917916efeb3285a386b1e5a311"
+          "shasum": "bff5205bf2be3e235f9e952389e36a45d1732b917916efeb3285a386b1e5a311",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.5.3-alpha1_linux_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.3-alpha1/terraform-provider-local_2.5.3-alpha1_linux_amd64.zip",
-          "shasum": "5bae4afe1944d81e822085edc54021ab21fb56fee68d635ab177b346bf62157e"
+          "shasum": "5bae4afe1944d81e822085edc54021ab21fb56fee68d635ab177b346bf62157e",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-local_2.5.3-alpha1_linux_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.3-alpha1/terraform-provider-local_2.5.3-alpha1_linux_arm.zip",
-          "shasum": "d889dbca516f32040dfcce3a80e81dcd792b1933a0dabf52f156ba380f5b652d"
+          "shasum": "d889dbca516f32040dfcce3a80e81dcd792b1933a0dabf52f156ba380f5b652d",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.5.3-alpha1_linux_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.3-alpha1/terraform-provider-local_2.5.3-alpha1_linux_arm64.zip",
-          "shasum": "906fe1238dc8a306457139dc83e1c9153de08bfd3768d928499c2a1c692f98e8"
+          "shasum": "906fe1238dc8a306457139dc83e1c9153de08bfd3768d928499c2a1c692f98e8",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-local_2.5.3-alpha1_windows_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.3-alpha1/terraform-provider-local_2.5.3-alpha1_windows_386.zip",
-          "shasum": "ca0276f9cca894e47b95c494a0996fc9efe1c6fcb8dfba0a6c9dde6693f8df16"
+          "shasum": "ca0276f9cca894e47b95c494a0996fc9efe1c6fcb8dfba0a6c9dde6693f8df16",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.5.3-alpha1_windows_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.3-alpha1/terraform-provider-local_2.5.3-alpha1_windows_amd64.zip",
-          "shasum": "6b0afbe299b5a2d5172de7db824a2e313ae22a137063bf6f7e08188f7df08c90"
+          "shasum": "6b0afbe299b5a2d5172de7db824a2e313ae22a137063bf6f7e08188f7df08c90",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-local_2.5.3-alpha1_windows_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.3-alpha1/terraform-provider-local_2.5.3-alpha1_windows_arm.zip",
-          "shasum": "51cd6094b4644b8c754c7220274eb0df43dc84801395befe2b96f60cbbf99d03"
+          "shasum": "51cd6094b4644b8c754c7220274eb0df43dc84801395befe2b96f60cbbf99d03",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.5.3-alpha1_windows_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.3-alpha1/terraform-provider-local_2.5.3-alpha1_windows_arm64.zip",
-          "shasum": "235e6661b869fc77519090d88883fa369730553ad7d7b947fc27a616f44bac44"
+          "shasum": "235e6661b869fc77519090d88883fa369730553ad7d7b947fc27a616f44bac44",
+          "h1": ""
         }
       ]
     },
@@ -173,70 +275,80 @@
           "arch": "amd64",
           "filename": "terraform-provider-local_2.5.2_darwin_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.2/terraform-provider-local_2.5.2_darwin_amd64.zip",
-          "shasum": "86beead37c7b4f149a54d2ae633c99ff92159c748acea93ff0f3603d6b4c9f4f"
+          "shasum": "86beead37c7b4f149a54d2ae633c99ff92159c748acea93ff0f3603d6b4c9f4f",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.5.2_darwin_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.2/terraform-provider-local_2.5.2_darwin_arm64.zip",
-          "shasum": "9882f444c087c69559873b2d72eec406a40ede21acb5ac334d6563bf3a2387df"
+          "shasum": "9882f444c087c69559873b2d72eec406a40ede21acb5ac334d6563bf3a2387df",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-local_2.5.2_linux_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.2/terraform-provider-local_2.5.2_linux_386.zip",
-          "shasum": "8e52e81d3dc50c3f79305d257da7fde7af634fed65e6ab5b8e214166784a720e"
+          "shasum": "8e52e81d3dc50c3f79305d257da7fde7af634fed65e6ab5b8e214166784a720e",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.5.2_linux_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.2/terraform-provider-local_2.5.2_linux_amd64.zip",
-          "shasum": "5de843bf6d903f5cca97ce1061e2e06b6441985c68d013eabd738a9e4b828278"
+          "shasum": "5de843bf6d903f5cca97ce1061e2e06b6441985c68d013eabd738a9e4b828278",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-local_2.5.2_linux_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.2/terraform-provider-local_2.5.2_linux_arm.zip",
-          "shasum": "d25ef2aef6a9004363fc6db80305d30673fc1f7dd0b980d41d863b12dacd382a"
+          "shasum": "d25ef2aef6a9004363fc6db80305d30673fc1f7dd0b980d41d863b12dacd382a",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.5.2_linux_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.2/terraform-provider-local_2.5.2_linux_arm64.zip",
-          "shasum": "a4484193d110da4a06c7bffc44cc6b61d3b5e881cd51df2a83fdda1a36ea25d2"
+          "shasum": "a4484193d110da4a06c7bffc44cc6b61d3b5e881cd51df2a83fdda1a36ea25d2",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-local_2.5.2_windows_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.2/terraform-provider-local_2.5.2_windows_386.zip",
-          "shasum": "3c974fdf6b42ca6f93309cf50951f345bfc5726ec6013b8832bcd3be0eb3429e"
+          "shasum": "3c974fdf6b42ca6f93309cf50951f345bfc5726ec6013b8832bcd3be0eb3429e",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.5.2_windows_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.2/terraform-provider-local_2.5.2_windows_amd64.zip",
-          "shasum": "25b95b76ceaa62b5c95f6de2fa6e6242edbf51e7fc6c057b7f7101aa4081f64f"
+          "shasum": "25b95b76ceaa62b5c95f6de2fa6e6242edbf51e7fc6c057b7f7101aa4081f64f",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-local_2.5.2_windows_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.2/terraform-provider-local_2.5.2_windows_arm.zip",
-          "shasum": "fa2d522fb323e2121f65b79709fd596514b293d816a1d969af8f72d108888e4c"
+          "shasum": "fa2d522fb323e2121f65b79709fd596514b293d816a1d969af8f72d108888e4c",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.5.2_windows_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.2/terraform-provider-local_2.5.2_windows_arm64.zip",
-          "shasum": "a53342426d173e29d8ee3106cb68abecdf4be301a3f6589e4e8d42015befa7da"
+          "shasum": "a53342426d173e29d8ee3106cb68abecdf4be301a3f6589e4e8d42015befa7da",
+          "h1": ""
         }
       ]
     },
@@ -253,70 +365,80 @@
           "arch": "amd64",
           "filename": "terraform-provider-local_2.5.1_darwin_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.1/terraform-provider-local_2.5.1_darwin_amd64.zip",
-          "shasum": "c7568f75ba6cb7c3660b69eaab8b0e4278533bd9a7a4c33ee6590cc7e69743ea"
+          "shasum": "c7568f75ba6cb7c3660b69eaab8b0e4278533bd9a7a4c33ee6590cc7e69743ea",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.5.1_darwin_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.1/terraform-provider-local_2.5.1_darwin_arm64.zip",
-          "shasum": "c66529133599a419123ad2e42874afbd9aba82bd1de2b15cc68d2a1e665d4c8e"
+          "shasum": "c66529133599a419123ad2e42874afbd9aba82bd1de2b15cc68d2a1e665d4c8e",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-local_2.5.1_linux_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.1/terraform-provider-local_2.5.1_linux_386.zip",
-          "shasum": "7415fbd8da72d9363ba55dd8115837714f9534f5a9a518ec42268c2da1b9ed2f"
+          "shasum": "7415fbd8da72d9363ba55dd8115837714f9534f5a9a518ec42268c2da1b9ed2f",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.5.1_linux_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.1/terraform-provider-local_2.5.1_linux_amd64.zip",
-          "shasum": "422ce45691b2f384dbd4596fdc8209d95cb43d85a82aaa0173089d38976d6e96"
+          "shasum": "422ce45691b2f384dbd4596fdc8209d95cb43d85a82aaa0173089d38976d6e96",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-local_2.5.1_linux_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.1/terraform-provider-local_2.5.1_linux_arm.zip",
-          "shasum": "031c2c2070672b7e78e0aa15560839278dc57fe7cf1e58a617ac13c67b31d5fb"
+          "shasum": "031c2c2070672b7e78e0aa15560839278dc57fe7cf1e58a617ac13c67b31d5fb",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.5.1_linux_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.1/terraform-provider-local_2.5.1_linux_arm64.zip",
-          "shasum": "1ef64ea4f8382cd538a76f3d319f405d18130dc3280f1c16d6aaa52a188ecaa4"
+          "shasum": "1ef64ea4f8382cd538a76f3d319f405d18130dc3280f1c16d6aaa52a188ecaa4",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-local_2.5.1_windows_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.1/terraform-provider-local_2.5.1_windows_386.zip",
-          "shasum": "a8c1525b389be5809a97f02aa7126e491ba518f97f57ed3095a3992f2134bb8f"
+          "shasum": "a8c1525b389be5809a97f02aa7126e491ba518f97f57ed3095a3992f2134bb8f",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.5.1_windows_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.1/terraform-provider-local_2.5.1_windows_amd64.zip",
-          "shasum": "b336fa75f72643154b07c09b3968e417a41293358a54fe03efc0db715c5451e6"
+          "shasum": "b336fa75f72643154b07c09b3968e417a41293358a54fe03efc0db715c5451e6",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-local_2.5.1_windows_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.1/terraform-provider-local_2.5.1_windows_arm.zip",
-          "shasum": "92aa22d071339c8ef595f18a9f9245c287266c80689f5746b26e10eaed04d542"
+          "shasum": "92aa22d071339c8ef595f18a9f9245c287266c80689f5746b26e10eaed04d542",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.5.1_windows_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.1/terraform-provider-local_2.5.1_windows_arm64.zip",
-          "shasum": "9cd0d99f5d3be835d6336c19c4057af6274e193e677ecf6370e5b0de12b4aafe"
+          "shasum": "9cd0d99f5d3be835d6336c19c4057af6274e193e677ecf6370e5b0de12b4aafe",
+          "h1": ""
         }
       ]
     },
@@ -333,70 +455,80 @@
           "arch": "amd64",
           "filename": "terraform-provider-local_2.5.0_darwin_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.0/terraform-provider-local_2.5.0_darwin_amd64.zip",
-          "shasum": "497510772b6e7dfa3e3130898c401966b17fbc757baa58e53734d69a8ca28069"
+          "shasum": "497510772b6e7dfa3e3130898c401966b17fbc757baa58e53734d69a8ca28069",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.5.0_darwin_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.0/terraform-provider-local_2.5.0_darwin_arm64.zip",
-          "shasum": "e5e98bb0bf98ec167b7d7c7aa823f6dca5133a2d97be585d052dd9797da59611"
+          "shasum": "e5e98bb0bf98ec167b7d7c7aa823f6dca5133a2d97be585d052dd9797da59611",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-local_2.5.0_linux_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.0/terraform-provider-local_2.5.0_linux_386.zip",
-          "shasum": "68d17152c447ae2892565a71f9fc4f20eefdf27a64cfa6b073916f05627e2cff"
+          "shasum": "68d17152c447ae2892565a71f9fc4f20eefdf27a64cfa6b073916f05627e2cff",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.5.0_linux_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.0/terraform-provider-local_2.5.0_linux_amd64.zip",
-          "shasum": "22c37cff3d1baef3cf777a0f2139672ec3d9226e955e5288e26b502654e6af2b"
+          "shasum": "22c37cff3d1baef3cf777a0f2139672ec3d9226e955e5288e26b502654e6af2b",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-local_2.5.0_linux_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.0/terraform-provider-local_2.5.0_linux_arm.zip",
-          "shasum": "e49e4888411e7ac49eee990f46a00678f5ec25484a08af5fc47e1f18c28b4555"
+          "shasum": "e49e4888411e7ac49eee990f46a00678f5ec25484a08af5fc47e1f18c28b4555",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.5.0_linux_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.0/terraform-provider-local_2.5.0_linux_arm64.zip",
-          "shasum": "ae5e8a0f38df2300f0dbad3387e0c5ca0ffe914de694f5de352c8806d5026fcb"
+          "shasum": "ae5e8a0f38df2300f0dbad3387e0c5ca0ffe914de694f5de352c8806d5026fcb",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-local_2.5.0_windows_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.0/terraform-provider-local_2.5.0_windows_386.zip",
-          "shasum": "dcce2e83b7f73aaa99588dfecca674f35369930a7d97c178e70ff8c062330b77"
+          "shasum": "dcce2e83b7f73aaa99588dfecca674f35369930a7d97c178e70ff8c062330b77",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.5.0_windows_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.0/terraform-provider-local_2.5.0_windows_amd64.zip",
-          "shasum": "c6c227492b121e4caf16afc18cb800a20d824957cf2925d81da0378a89cf3f54"
+          "shasum": "c6c227492b121e4caf16afc18cb800a20d824957cf2925d81da0378a89cf3f54",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-local_2.5.0_windows_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.0/terraform-provider-local_2.5.0_windows_arm.zip",
-          "shasum": "4d40537391836ef2ba300c4f0908c5653db430cd7b5475a9caf0f23b08ca48e6"
+          "shasum": "4d40537391836ef2ba300c4f0908c5653db430cd7b5475a9caf0f23b08ca48e6",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.5.0_windows_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.5.0/terraform-provider-local_2.5.0_windows_arm64.zip",
-          "shasum": "c60ee0eef4c8e10aa8459b01c8b1e2acb1c24078c0084534abe1eb893ffcb70a"
+          "shasum": "c60ee0eef4c8e10aa8459b01c8b1e2acb1c24078c0084534abe1eb893ffcb70a",
+          "h1": ""
         }
       ]
     },
@@ -413,70 +545,80 @@
           "arch": "amd64",
           "filename": "terraform-provider-local_2.4.1_darwin_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.4.1/terraform-provider-local_2.4.1_darwin_amd64.zip",
-          "shasum": "dcac954e9e401c53db3750ab3df22173f7ba288e978da348f97ddbbc4a33abb1"
+          "shasum": "dcac954e9e401c53db3750ab3df22173f7ba288e978da348f97ddbbc4a33abb1",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.4.1_darwin_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.4.1/terraform-provider-local_2.4.1_darwin_arm64.zip",
-          "shasum": "cb6f16481607a3899e1d0a8f9fcacf246fb4927ee274da69c7d1e75fc4960713"
+          "shasum": "cb6f16481607a3899e1d0a8f9fcacf246fb4927ee274da69c7d1e75fc4960713",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-local_2.4.1_linux_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.4.1/terraform-provider-local_2.4.1_linux_386.zip",
-          "shasum": "7bc30de9089a3d060f9866e08f6bd766351880026a458a4b7443cb110d47dc16"
+          "shasum": "7bc30de9089a3d060f9866e08f6bd766351880026a458a4b7443cb110d47dc16",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.4.1_linux_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.4.1/terraform-provider-local_2.4.1_linux_amd64.zip",
-          "shasum": "ad772631dfa005fdd6f7cc2ce33d1771218574b5153c5d601d7584fe9e8a0da2"
+          "shasum": "ad772631dfa005fdd6f7cc2ce33d1771218574b5153c5d601d7584fe9e8a0da2",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-local_2.4.1_linux_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.4.1/terraform-provider-local_2.4.1_linux_arm.zip",
-          "shasum": "68fd2f982c5fecff972e03eced690077911083f782a237d5a026597ab387f737"
+          "shasum": "68fd2f982c5fecff972e03eced690077911083f782a237d5a026597ab387f737",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.4.1_linux_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.4.1/terraform-provider-local_2.4.1_linux_arm64.zip",
-          "shasum": "16cf003a5bff1c5cae32e29af30f54376aec29b21ce26768d5fa59cc8b3bac3e"
+          "shasum": "16cf003a5bff1c5cae32e29af30f54376aec29b21ce26768d5fa59cc8b3bac3e",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-local_2.4.1_windows_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.4.1/terraform-provider-local_2.4.1_windows_386.zip",
-          "shasum": "eeeb0583e152403bdb473de5f133b48cef04af8f7c3f38ee7dc6d034df91534d"
+          "shasum": "eeeb0583e152403bdb473de5f133b48cef04af8f7c3f38ee7dc6d034df91534d",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.4.1_windows_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.4.1/terraform-provider-local_2.4.1_windows_amd64.zip",
-          "shasum": "0d4d7a980ba3479459ab8a231019588d38615b22b97600419c3c7482ee82bc8b"
+          "shasum": "0d4d7a980ba3479459ab8a231019588d38615b22b97600419c3c7482ee82bc8b",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-local_2.4.1_windows_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.4.1/terraform-provider-local_2.4.1_windows_arm.zip",
-          "shasum": "469539918519547b2b87a9301ad811e59e50d4f217c36da01e0d981b45a393e9"
+          "shasum": "469539918519547b2b87a9301ad811e59e50d4f217c36da01e0d981b45a393e9",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.4.1_windows_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.4.1/terraform-provider-local_2.4.1_windows_arm64.zip",
-          "shasum": "620234f4c7dcfd00fa4b7d15e71fa055ada4a8afe084f84a40d06d02fc7e7c08"
+          "shasum": "620234f4c7dcfd00fa4b7d15e71fa055ada4a8afe084f84a40d06d02fc7e7c08",
+          "h1": ""
         }
       ]
     },
@@ -493,70 +635,80 @@
           "arch": "amd64",
           "filename": "terraform-provider-local_2.4.0_darwin_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.4.0/terraform-provider-local_2.4.0_darwin_amd64.zip",
-          "shasum": "70146e603f540523f6fa2251dd52c225db5a92bda8c07fd198ed51ae2b50176b"
+          "shasum": "70146e603f540523f6fa2251dd52c225db5a92bda8c07fd198ed51ae2b50176b",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.4.0_darwin_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.4.0/terraform-provider-local_2.4.0_darwin_arm64.zip",
-          "shasum": "c3b6fbfa431f3c085621c74596ee63681a278fd433a4758f33c627e8936d5cb3"
+          "shasum": "c3b6fbfa431f3c085621c74596ee63681a278fd433a4758f33c627e8936d5cb3",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-local_2.4.0_linux_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.4.0/terraform-provider-local_2.4.0_linux_386.zip",
-          "shasum": "d2e57b19295b326d84ca5f39b797849d901170d5509aa7558f2a6545c9ce72a9"
+          "shasum": "d2e57b19295b326d84ca5f39b797849d901170d5509aa7558f2a6545c9ce72a9",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.4.0_linux_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.4.0/terraform-provider-local_2.4.0_linux_amd64.zip",
-          "shasum": "2205a7955a4051c2c25e69646a60746d9416b73001491808ae5d10620f7b7ac1"
+          "shasum": "2205a7955a4051c2c25e69646a60746d9416b73001491808ae5d10620f7b7ac1",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-local_2.4.0_linux_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.4.0/terraform-provider-local_2.4.0_linux_arm.zip",
-          "shasum": "184d6ec1f0e77713b37f0d9cf943b1371f2aa2f44c2c5a618978e897ce3dccab"
+          "shasum": "184d6ec1f0e77713b37f0d9cf943b1371f2aa2f44c2c5a618978e897ce3dccab",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.4.0_linux_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.4.0/terraform-provider-local_2.4.0_linux_arm64.zip",
-          "shasum": "e2307421b0b380eb0e8fcee008e0af98ae30fccbfc9e9a1d24d952489e9b0df9"
+          "shasum": "e2307421b0b380eb0e8fcee008e0af98ae30fccbfc9e9a1d24d952489e9b0df9",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-local_2.4.0_windows_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.4.0/terraform-provider-local_2.4.0_windows_386.zip",
-          "shasum": "8c3f9fe12ab8843e25ff7edabc26e01df4a0e8db204e432600a4c77a95ec0535"
+          "shasum": "8c3f9fe12ab8843e25ff7edabc26e01df4a0e8db204e432600a4c77a95ec0535",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.4.0_windows_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.4.0/terraform-provider-local_2.4.0_windows_amd64.zip",
-          "shasum": "b003e421f643d14247d31dcb7f0f6470c46f772d0e15a175a555a525ce344bf2"
+          "shasum": "b003e421f643d14247d31dcb7f0f6470c46f772d0e15a175a555a525ce344bf2",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-local_2.4.0_windows_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.4.0/terraform-provider-local_2.4.0_windows_arm.zip",
-          "shasum": "256ddc56457f725819dc6be62f2d0bb3b9fee40a61771317bb32353df5b5c1a0"
+          "shasum": "256ddc56457f725819dc6be62f2d0bb3b9fee40a61771317bb32353df5b5c1a0",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.4.0_windows_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.4.0/terraform-provider-local_2.4.0_windows_arm64.zip",
-          "shasum": "b4c8ad7c5696aeb2a52adf6047d1e01943fafa57dc123d5192542527406ffd72"
+          "shasum": "b4c8ad7c5696aeb2a52adf6047d1e01943fafa57dc123d5192542527406ffd72",
+          "h1": ""
         }
       ]
     },
@@ -573,70 +725,80 @@
           "arch": "amd64",
           "filename": "terraform-provider-local_2.3.0_darwin_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.3.0/terraform-provider-local_2.3.0_darwin_amd64.zip",
-          "shasum": "fba6637dff7341005dd53f707baf43a8d9ca4213d31eec74975baf1256bb5f41"
+          "shasum": "fba6637dff7341005dd53f707baf43a8d9ca4213d31eec74975baf1256bb5f41",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.3.0_darwin_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.3.0/terraform-provider-local_2.3.0_darwin_arm64.zip",
-          "shasum": "7ff141864f780177462d2a605f9470b42ee78dff2d4214539544433dfbbe103e"
+          "shasum": "7ff141864f780177462d2a605f9470b42ee78dff2d4214539544433dfbbe103e",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-local_2.3.0_linux_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.3.0/terraform-provider-local_2.3.0_linux_386.zip",
-          "shasum": "0c85d5276e1000cc957f6bdf7e0a2650cc681757c1f9165f3add6bb961d7522e"
+          "shasum": "0c85d5276e1000cc957f6bdf7e0a2650cc681757c1f9165f3add6bb961d7522e",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.3.0_linux_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.3.0/terraform-provider-local_2.3.0_linux_amd64.zip",
-          "shasum": "eeb4a303bd5fae445297e7f813414a3f318fdfab51a6f00d3eb6d9a11c0ff713"
+          "shasum": "eeb4a303bd5fae445297e7f813414a3f318fdfab51a6f00d3eb6d9a11c0ff713",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-local_2.3.0_linux_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.3.0/terraform-provider-local_2.3.0_linux_arm.zip",
-          "shasum": "ae447d61f72a37764d7d9d8ae92426797d5cb200a2bbd937a70882cee1ce4c65"
+          "shasum": "ae447d61f72a37764d7d9d8ae92426797d5cb200a2bbd937a70882cee1ce4c65",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.3.0_linux_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.3.0/terraform-provider-local_2.3.0_linux_arm64.zip",
-          "shasum": "348c7969461a23e87e1b9ca561d719b8ffd3d0c9501ab8ff3ca352946f5b8ee4"
+          "shasum": "348c7969461a23e87e1b9ca561d719b8ffd3d0c9501ab8ff3ca352946f5b8ee4",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-local_2.3.0_windows_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.3.0/terraform-provider-local_2.3.0_windows_386.zip",
-          "shasum": "efbf543fcde8642f1f2c58f70b877f421f87093e4b304a005faddcf0ce09b85b"
+          "shasum": "efbf543fcde8642f1f2c58f70b877f421f87093e4b304a005faddcf0ce09b85b",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.3.0_windows_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.3.0/terraform-provider-local_2.3.0_windows_amd64.zip",
-          "shasum": "269c7516ebe4be88892e1d3d93a30a5d59ec4a895eb488e38e3c61e15639a0f9"
+          "shasum": "269c7516ebe4be88892e1d3d93a30a5d59ec4a895eb488e38e3c61e15639a0f9",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-local_2.3.0_windows_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.3.0/terraform-provider-local_2.3.0_windows_arm.zip",
-          "shasum": "b245fa173ca816bd8a3d9abeaacab509bbde3126ed604471df591af0c85a30ed"
+          "shasum": "b245fa173ca816bd8a3d9abeaacab509bbde3126ed604471df591af0c85a30ed",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.3.0_windows_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.3.0/terraform-provider-local_2.3.0_windows_arm64.zip",
-          "shasum": "5cc9847ead70570b43e8c4e3fa18ce22444acf570146f15ffb44be7557cf501a"
+          "shasum": "5cc9847ead70570b43e8c4e3fa18ce22444acf570146f15ffb44be7557cf501a",
+          "h1": ""
         }
       ]
     },
@@ -653,63 +815,72 @@
           "arch": "amd64",
           "filename": "terraform-provider-local_2.2.3_darwin_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.3/terraform-provider-local_2.2.3_darwin_amd64.zip",
-          "shasum": "00d2398cba767617deffc4031cc0cd7772338014b73c1a7a05d638036774b55f"
+          "shasum": "00d2398cba767617deffc4031cc0cd7772338014b73c1a7a05d638036774b55f",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.2.3_darwin_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.3/terraform-provider-local_2.2.3_darwin_arm64.zip",
-          "shasum": "1754ab5da7c43d2f0295505c53ec95ec0916fe51ffde85074f24d398d85d4899"
+          "shasum": "1754ab5da7c43d2f0295505c53ec95ec0916fe51ffde85074f24d398d85d4899",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-local_2.2.3_linux_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.3/terraform-provider-local_2.2.3_linux_386.zip",
-          "shasum": "c43f6b9693a2e85ad95df68f4fe1118d756543b98251737b662a835300db1cc0"
+          "shasum": "c43f6b9693a2e85ad95df68f4fe1118d756543b98251737b662a835300db1cc0",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.2.3_linux_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.3/terraform-provider-local_2.2.3_linux_amd64.zip",
-          "shasum": "ddfe42fa8c3c8dad4c4b5389e6290d679c328e8f952e46a352fd7b1d9abf205c"
+          "shasum": "ddfe42fa8c3c8dad4c4b5389e6290d679c328e8f952e46a352fd7b1d9abf205c",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-local_2.2.3_linux_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.3/terraform-provider-local_2.2.3_linux_arm.zip",
-          "shasum": "ac217a3b115774542a4382e258683c8a71d4472d4d60477111d2df7df702aa1f"
+          "shasum": "ac217a3b115774542a4382e258683c8a71d4472d4d60477111d2df7df702aa1f",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.2.3_linux_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.3/terraform-provider-local_2.2.3_linux_arm64.zip",
-          "shasum": "9225fedda30507faf63711724bcba40a5bcf382e15b4851f74fedbc1d9fbe932"
+          "shasum": "9225fedda30507faf63711724bcba40a5bcf382e15b4851f74fedbc1d9fbe932",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-local_2.2.3_windows_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.3/terraform-provider-local_2.2.3_windows_386.zip",
-          "shasum": "507fe0afd662a7bb1cecd579b3c5077b20ca5dba31e7615ae8f1b21aa4318122"
+          "shasum": "507fe0afd662a7bb1cecd579b3c5077b20ca5dba31e7615ae8f1b21aa4318122",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.2.3_windows_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.3/terraform-provider-local_2.2.3_windows_amd64.zip",
-          "shasum": "ff2406977802c41b0029b8dfb3e02fdc0bb146f0ca4f604267bd376d8c6a5edc"
+          "shasum": "ff2406977802c41b0029b8dfb3e02fdc0bb146f0ca4f604267bd376d8c6a5edc",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-local_2.2.3_windows_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.3/terraform-provider-local_2.2.3_windows_arm.zip",
-          "shasum": "b770e046fbb1f724b3bda9349b26b3c7dd3b8539f0b3ab24f748b37ec9cb3c42"
+          "shasum": "b770e046fbb1f724b3bda9349b26b3c7dd3b8539f0b3ab24f748b37ec9cb3c42",
+          "h1": ""
         }
       ]
     },
@@ -726,63 +897,72 @@
           "arch": "amd64",
           "filename": "terraform-provider-local_2.2.2_darwin_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.2/terraform-provider-local_2.2.2_darwin_amd64.zip",
-          "shasum": "a30603afd26e14ed1aa48093cd46a4e549bb597dffb4b265c40038011916bed0"
+          "shasum": "a30603afd26e14ed1aa48093cd46a4e549bb597dffb4b265c40038011916bed0",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.2.2_darwin_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.2/terraform-provider-local_2.2.2_darwin_arm64.zip",
-          "shasum": "61ea1c9e21ae861f7290ee0be243a5c6c03c2bf2c9eca04c83fa4e00edc55bea"
+          "shasum": "61ea1c9e21ae861f7290ee0be243a5c6c03c2bf2c9eca04c83fa4e00edc55bea",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-local_2.2.2_linux_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.2/terraform-provider-local_2.2.2_linux_386.zip",
-          "shasum": "ad57461119a5dfb840c45a97520a835f78301aeb8cfae235a1061213b64ea025"
+          "shasum": "ad57461119a5dfb840c45a97520a835f78301aeb8cfae235a1061213b64ea025",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.2.2_linux_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.2/terraform-provider-local_2.2.2_linux_amd64.zip",
-          "shasum": "7db42d948ce46eb03fdf6c8996435ecffb71f49d3ee4b037dbc7ff3fdaeffddd"
+          "shasum": "7db42d948ce46eb03fdf6c8996435ecffb71f49d3ee4b037dbc7ff3fdaeffddd",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-local_2.2.2_linux_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.2/terraform-provider-local_2.2.2_linux_arm.zip",
-          "shasum": "99a23375cf69267d99740f8425a36259e8291998109b9d84ad84c6ffa879c28d"
+          "shasum": "99a23375cf69267d99740f8425a36259e8291998109b9d84ad84c6ffa879c28d",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.2.2_linux_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.2/terraform-provider-local_2.2.2_linux_arm64.zip",
-          "shasum": "0cf15638cad29ba66a07b58fc6ce35b2e109ccc0af8c67137ed6a1a1e74d369f"
+          "shasum": "0cf15638cad29ba66a07b58fc6ce35b2e109ccc0af8c67137ed6a1a1e74d369f",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-local_2.2.2_windows_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.2/terraform-provider-local_2.2.2_windows_386.zip",
-          "shasum": "172a5a271975e7b8b6b8ebdaf8c3c8a5bdaac9571d1fc574089d838fdda2250b"
+          "shasum": "172a5a271975e7b8b6b8ebdaf8c3c8a5bdaac9571d1fc574089d838fdda2250b",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.2.2_windows_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.2/terraform-provider-local_2.2.2_windows_amd64.zip",
-          "shasum": "af18d75d002e7fdd578302a7cc1feed92df6c1b111ef22cbbb2bdb2d2302ad48"
+          "shasum": "af18d75d002e7fdd578302a7cc1feed92df6c1b111ef22cbbb2bdb2d2302ad48",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-local_2.2.2_windows_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.2/terraform-provider-local_2.2.2_windows_arm.zip",
-          "shasum": "8a5159d6d893966e8e5a955b160570a1fd69c8d6852b9b122cacf572d250a974"
+          "shasum": "8a5159d6d893966e8e5a955b160570a1fd69c8d6852b9b122cacf572d250a974",
+          "h1": ""
         }
       ]
     },
@@ -799,63 +979,72 @@
           "arch": "amd64",
           "filename": "terraform-provider-local_2.2.1_darwin_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.1/terraform-provider-local_2.2.1_darwin_amd64.zip",
-          "shasum": "2937a9c567eee3bfddbcbd1f89e7391fcf45631ec4019145093aa4850144083d"
+          "shasum": "2937a9c567eee3bfddbcbd1f89e7391fcf45631ec4019145093aa4850144083d",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.2.1_darwin_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.1/terraform-provider-local_2.2.1_darwin_arm64.zip",
-          "shasum": "59d4cd02c56c45b0590a515f59c9e819a433dd3339449293ab8601de4789d7e8"
+          "shasum": "59d4cd02c56c45b0590a515f59c9e819a433dd3339449293ab8601de4789d7e8",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-local_2.2.1_linux_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.1/terraform-provider-local_2.2.1_linux_386.zip",
-          "shasum": "d805343e1b8ef230395f65f744755472d0e8a5541095a94b825caa336e60bfd1"
+          "shasum": "d805343e1b8ef230395f65f744755472d0e8a5541095a94b825caa336e60bfd1",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.2.1_linux_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.1/terraform-provider-local_2.2.1_linux_amd64.zip",
-          "shasum": "45a0f9d58734f8026c8900cf474284e0d48e6c7081767fe11d4a2a755011b72d"
+          "shasum": "45a0f9d58734f8026c8900cf474284e0d48e6c7081767fe11d4a2a755011b72d",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-local_2.2.1_linux_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.1/terraform-provider-local_2.2.1_linux_arm.zip",
-          "shasum": "deb1fbcee540f7e3c6e5da28fafb2e0bed5edc7c070d96b25ee57beeed842f91"
+          "shasum": "deb1fbcee540f7e3c6e5da28fafb2e0bed5edc7c070d96b25ee57beeed842f91",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.2.1_linux_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.1/terraform-provider-local_2.2.1_linux_arm64.zip",
-          "shasum": "41c4297c0bed6f2c45c1844fdcc1bfcd42e672de9dcc3c72dd1108c82d263a14"
+          "shasum": "41c4297c0bed6f2c45c1844fdcc1bfcd42e672de9dcc3c72dd1108c82d263a14",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-local_2.2.1_windows_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.1/terraform-provider-local_2.2.1_windows_386.zip",
-          "shasum": "e76852c9d59c12318c25aa5c98942f83f4e9689d807cc1dc9320c12bad3c7c49"
+          "shasum": "e76852c9d59c12318c25aa5c98942f83f4e9689d807cc1dc9320c12bad3c7c49",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.2.1_windows_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.1/terraform-provider-local_2.2.1_windows_amd64.zip",
-          "shasum": "2feec3726458dda8e31a5ca66df839fb9533a0f15110b0ae7ea0c4c1fa3b7013"
+          "shasum": "2feec3726458dda8e31a5ca66df839fb9533a0f15110b0ae7ea0c4c1fa3b7013",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-local_2.2.1_windows_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.1/terraform-provider-local_2.2.1_windows_arm.zip",
-          "shasum": "3d36325ce23363299039b5aed35dbdc3c9c179e77baf0b20ad3db2ff4aa6a26e"
+          "shasum": "3d36325ce23363299039b5aed35dbdc3c9c179e77baf0b20ad3db2ff4aa6a26e",
+          "h1": ""
         }
       ]
     },
@@ -872,63 +1061,72 @@
           "arch": "amd64",
           "filename": "terraform-provider-local_2.2.0_darwin_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.0/terraform-provider-local_2.2.0_darwin_amd64.zip",
-          "shasum": "e716c117aca320905cf12737a20b40181092cb7fb2b353f0a702f6434d8e1e7d"
+          "shasum": "e716c117aca320905cf12737a20b40181092cb7fb2b353f0a702f6434d8e1e7d",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.2.0_darwin_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.0/terraform-provider-local_2.2.0_darwin_arm64.zip",
-          "shasum": "3be7e549bcef73dabe1b29534528d19f655fda38de6a4244f6fc07cf959dd348"
+          "shasum": "3be7e549bcef73dabe1b29534528d19f655fda38de6a4244f6fc07cf959dd348",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-local_2.2.0_linux_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.0/terraform-provider-local_2.2.0_linux_386.zip",
-          "shasum": "b1f0bae7ed000e7c8aac69286afc1210468644dadb6ea6e7103f2df59168876c"
+          "shasum": "b1f0bae7ed000e7c8aac69286afc1210468644dadb6ea6e7103f2df59168876c",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.2.0_linux_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.0/terraform-provider-local_2.2.0_linux_amd64.zip",
-          "shasum": "22b9d5189120e9e283468eabcaa486180b3573345509debbc4cc57ce197e328d"
+          "shasum": "22b9d5189120e9e283468eabcaa486180b3573345509debbc4cc57ce197e328d",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-local_2.2.0_linux_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.0/terraform-provider-local_2.2.0_linux_arm.zip",
-          "shasum": "6a3237a1479f0f20abeac77ec10aaface266f71247a7f68343728d4273df4d1c"
+          "shasum": "6a3237a1479f0f20abeac77ec10aaface266f71247a7f68343728d4273df4d1c",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.2.0_linux_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.0/terraform-provider-local_2.2.0_linux_arm64.zip",
-          "shasum": "da022764274fded3ca73ce6eb878ef399e036ce58b31fa06457dbeb32f4895a1"
+          "shasum": "da022764274fded3ca73ce6eb878ef399e036ce58b31fa06457dbeb32f4895a1",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-local_2.2.0_windows_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.0/terraform-provider-local_2.2.0_windows_386.zip",
-          "shasum": "a33f068611e1cfb284ffb164cd2271465e6efee67ef2e39b8e2c0e792abd3f8b"
+          "shasum": "a33f068611e1cfb284ffb164cd2271465e6efee67ef2e39b8e2c0e792abd3f8b",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.2.0_windows_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.0/terraform-provider-local_2.2.0_windows_amd64.zip",
-          "shasum": "1dc95ab66174e60529492e99227d938a7d84a22a7fc4de8219a0fc4a75f26b70"
+          "shasum": "1dc95ab66174e60529492e99227d938a7d84a22a7fc4de8219a0fc4a75f26b70",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-local_2.2.0_windows_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.2.0/terraform-provider-local_2.2.0_windows_arm.zip",
-          "shasum": "d279f7794be0d7b36643f9d3b2fb2f4d1994482f4df34c90222885075e0576b0"
+          "shasum": "d279f7794be0d7b36643f9d3b2fb2f4d1994482f4df34c90222885075e0576b0",
+          "h1": ""
         }
       ]
     },
@@ -945,63 +1143,72 @@
           "arch": "amd64",
           "filename": "terraform-provider-local_2.1.0_darwin_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.1.0/terraform-provider-local_2.1.0_darwin_amd64.zip",
-          "shasum": "73e7507df99b98d327b0d861390e89335dd282a592aacabfd3870e121bf10b66"
+          "shasum": "73e7507df99b98d327b0d861390e89335dd282a592aacabfd3870e121bf10b66",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.1.0_darwin_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.1.0/terraform-provider-local_2.1.0_darwin_arm64.zip",
-          "shasum": "4f80007ba4388d91c48ed81962ef39724cd2ba72484ab7a6ae6e9f088570a555"
+          "shasum": "4f80007ba4388d91c48ed81962ef39724cd2ba72484ab7a6ae6e9f088570a555",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-local_2.1.0_linux_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.1.0/terraform-provider-local_2.1.0_linux_386.zip",
-          "shasum": "f823214bc55c01d49157b519922d24bacb6db254343d0e53289fc90de1f0483c"
+          "shasum": "f823214bc55c01d49157b519922d24bacb6db254343d0e53289fc90de1f0483c",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.1.0_linux_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.1.0/terraform-provider-local_2.1.0_linux_amd64.zip",
-          "shasum": "15068df9d908ba2db637dad0c8d3f60fbc1817cdfb3063fa31d410c09ab811c0"
+          "shasum": "15068df9d908ba2db637dad0c8d3f60fbc1817cdfb3063fa31d410c09ab811c0",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-local_2.1.0_linux_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.1.0/terraform-provider-local_2.1.0_linux_arm.zip",
-          "shasum": "63040265e973a1253381a76cc6258f186bdcd37cc5b23523a28e8f4d6e9cd307"
+          "shasum": "63040265e973a1253381a76cc6258f186bdcd37cc5b23523a28e8f4d6e9cd307",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-local_2.1.0_linux_arm64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.1.0/terraform-provider-local_2.1.0_linux_arm64.zip",
-          "shasum": "bd476f65e0e5cb321b2b38a13c4b997e03d3b7ca34d9ee7fac4efa78b46bbe0f"
+          "shasum": "bd476f65e0e5cb321b2b38a13c4b997e03d3b7ca34d9ee7fac4efa78b46bbe0f",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-local_2.1.0_windows_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.1.0/terraform-provider-local_2.1.0_windows_386.zip",
-          "shasum": "0f796c988ed172a95279dcc6eeee55293bb050c6f386ca2c02a6b8477b169953"
+          "shasum": "0f796c988ed172a95279dcc6eeee55293bb050c6f386ca2c02a6b8477b169953",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.1.0_windows_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.1.0/terraform-provider-local_2.1.0_windows_amd64.zip",
-          "shasum": "e3203cfb71b9d9c8d8812b72bfbfffcfc30b352e58c2d1617ac9e360d14e0577"
+          "shasum": "e3203cfb71b9d9c8d8812b72bfbfffcfc30b352e58c2d1617ac9e360d14e0577",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-local_2.1.0_windows_arm.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.1.0/terraform-provider-local_2.1.0_windows_arm.zip",
-          "shasum": "a01d57fe39b351300fe76e65fe9065597436d74dc678ba901e6bfb200b5fc280"
+          "shasum": "a01d57fe39b351300fe76e65fe9065597436d74dc678ba901e6bfb200b5fc280",
+          "h1": ""
         }
       ]
     },
@@ -1018,35 +1225,40 @@
           "arch": "amd64",
           "filename": "terraform-provider-local_2.0.0_darwin_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.0.0/terraform-provider-local_2.0.0_darwin_amd64.zip",
-          "shasum": "33065e41a5a25e1b172ffd0bc11fae29c2a26f58e3f1c6adcf14af05c195166e"
+          "shasum": "33065e41a5a25e1b172ffd0bc11fae29c2a26f58e3f1c6adcf14af05c195166e",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-local_2.0.0_linux_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.0.0/terraform-provider-local_2.0.0_linux_386.zip",
-          "shasum": "cb931e0b0dcddb78b2f961f8fb1213f29cea7e768d4eed2690c38d360037385c"
+          "shasum": "cb931e0b0dcddb78b2f961f8fb1213f29cea7e768d4eed2690c38d360037385c",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.0.0_linux_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.0.0/terraform-provider-local_2.0.0_linux_amd64.zip",
-          "shasum": "109858ab75af47d2d4cc261b2e4732a3a827c50549d59898b7c9153384ef03ff"
+          "shasum": "109858ab75af47d2d4cc261b2e4732a3a827c50549d59898b7c9153384ef03ff",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-local_2.0.0_windows_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.0.0/terraform-provider-local_2.0.0_windows_386.zip",
-          "shasum": "e671042ccbb407c612091b984e145e672371d33e31524189d250149b7ed35f00"
+          "shasum": "e671042ccbb407c612091b984e145e672371d33e31524189d250149b7ed35f00",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-local_2.0.0_windows_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v2.0.0/terraform-provider-local_2.0.0_windows_amd64.zip",
-          "shasum": "9dea8a29b6037daa98d4076702882112ae44a0ce807a63536022b09187ab9058"
+          "shasum": "9dea8a29b6037daa98d4076702882112ae44a0ce807a63536022b09187ab9058",
+          "h1": ""
         }
       ]
     },
@@ -1063,35 +1275,40 @@
           "arch": "amd64",
           "filename": "terraform-provider-local_1.4.0_darwin_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.4.0/terraform-provider-local_1.4.0_darwin_amd64.zip",
-          "shasum": "6942cc057dae128a9b867c9446ed519d9394d941f092a4eafc90dd9a7c26ed5d"
+          "shasum": "6942cc057dae128a9b867c9446ed519d9394d941f092a4eafc90dd9a7c26ed5d",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-local_1.4.0_linux_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.4.0/terraform-provider-local_1.4.0_linux_386.zip",
-          "shasum": "e958bafa3d7c792623b5965900de8532b5a5addc1a573aeec387729aebaf633d"
+          "shasum": "e958bafa3d7c792623b5965900de8532b5a5addc1a573aeec387729aebaf633d",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-local_1.4.0_linux_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.4.0/terraform-provider-local_1.4.0_linux_amd64.zip",
-          "shasum": "590451e43ae4377449944e3fcf74fb6a2a05c29037d32e53d9de49579ea6fd55"
+          "shasum": "590451e43ae4377449944e3fcf74fb6a2a05c29037d32e53d9de49579ea6fd55",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-local_1.4.0_windows_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.4.0/terraform-provider-local_1.4.0_windows_386.zip",
-          "shasum": "0637972352fa0a83f83eea54fe91c4a67a43669ad90fc13dcd4218eccfb474af"
+          "shasum": "0637972352fa0a83f83eea54fe91c4a67a43669ad90fc13dcd4218eccfb474af",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-local_1.4.0_windows_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.4.0/terraform-provider-local_1.4.0_windows_amd64.zip",
-          "shasum": "cc7c57baaa5af4d2f88c84910d8041685c821b88dd9bfcbe8b18190f31bbf629"
+          "shasum": "cc7c57baaa5af4d2f88c84910d8041685c821b88dd9bfcbe8b18190f31bbf629",
+          "h1": ""
         }
       ]
     },
@@ -1108,35 +1325,40 @@
           "arch": "amd64",
           "filename": "terraform-provider-local_1.3.0_darwin_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.3.0/terraform-provider-local_1.3.0_darwin_amd64.zip",
-          "shasum": "ecf58175655ba635e2581806150974d359307933614dad834cb895f9dc876f0c"
+          "shasum": "ecf58175655ba635e2581806150974d359307933614dad834cb895f9dc876f0c",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-local_1.3.0_linux_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.3.0/terraform-provider-local_1.3.0_linux_386.zip",
-          "shasum": "be9e886c390192f3daa1e923d0e93aadc1c3b24c5830e203448f37e0227ee529"
+          "shasum": "be9e886c390192f3daa1e923d0e93aadc1c3b24c5830e203448f37e0227ee529",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-local_1.3.0_linux_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.3.0/terraform-provider-local_1.3.0_linux_amd64.zip",
-          "shasum": "103d1840e4aa0f76571efe1b6d95ca35c0eaf9320d404da0c9e60b38c02bb48b"
+          "shasum": "103d1840e4aa0f76571efe1b6d95ca35c0eaf9320d404da0c9e60b38c02bb48b",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-local_1.3.0_windows_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.3.0/terraform-provider-local_1.3.0_windows_386.zip",
-          "shasum": "942e35bdfe00d733cf8d1a8f774b5b082bbd73c37d0b36b289baede275f11f81"
+          "shasum": "942e35bdfe00d733cf8d1a8f774b5b082bbd73c37d0b36b289baede275f11f81",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-local_1.3.0_windows_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.3.0/terraform-provider-local_1.3.0_windows_amd64.zip",
-          "shasum": "0d13acf09e36384073e5b61496c4fa7c8e6f9aee977d8f2e325e50e72e85ffd3"
+          "shasum": "0d13acf09e36384073e5b61496c4fa7c8e6f9aee977d8f2e325e50e72e85ffd3",
+          "h1": ""
         }
       ]
     },
@@ -1153,35 +1375,40 @@
           "arch": "amd64",
           "filename": "terraform-provider-local_1.2.2_darwin_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.2.2/terraform-provider-local_1.2.2_darwin_amd64.zip",
-          "shasum": "d6cb15e19bb64933451b12169cedca9d17f4d17c44027a4ae71c20a483f43de0"
+          "shasum": "d6cb15e19bb64933451b12169cedca9d17f4d17c44027a4ae71c20a483f43de0",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-local_1.2.2_linux_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.2.2/terraform-provider-local_1.2.2_linux_386.zip",
-          "shasum": "89db24405b148fd41c1813609ceb08108c28c3f0dd9253584f162f4337a4ebff"
+          "shasum": "89db24405b148fd41c1813609ceb08108c28c3f0dd9253584f162f4337a4ebff",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-local_1.2.2_linux_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.2.2/terraform-provider-local_1.2.2_linux_amd64.zip",
-          "shasum": "d8c9e634b7e89e0e1bcad4b182879e8873f10ba475cf202c80464da61dfe87d2"
+          "shasum": "d8c9e634b7e89e0e1bcad4b182879e8873f10ba475cf202c80464da61dfe87d2",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-local_1.2.2_windows_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.2.2/terraform-provider-local_1.2.2_windows_386.zip",
-          "shasum": "08ba8768f36bde19e7a1bf7f3a50d07ab4a4d80cee5e78f527b04fff20a6a67c"
+          "shasum": "08ba8768f36bde19e7a1bf7f3a50d07ab4a4d80cee5e78f527b04fff20a6a67c",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-local_1.2.2_windows_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.2.2/terraform-provider-local_1.2.2_windows_amd64.zip",
-          "shasum": "5b6a92df1577069a817994d70316510d63df5c455f7ac1db138ec6ba198243e7"
+          "shasum": "5b6a92df1577069a817994d70316510d63df5c455f7ac1db138ec6ba198243e7",
+          "h1": ""
         }
       ]
     },
@@ -1198,35 +1425,40 @@
           "arch": "amd64",
           "filename": "terraform-provider-local_1.2.1_darwin_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.2.1/terraform-provider-local_1.2.1_darwin_amd64.zip",
-          "shasum": "e75d8c0cfd10a22f4efa7e374dd7e500a2394c9d2ac5701df5cb58ef2620198c"
+          "shasum": "e75d8c0cfd10a22f4efa7e374dd7e500a2394c9d2ac5701df5cb58ef2620198c",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-local_1.2.1_linux_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.2.1/terraform-provider-local_1.2.1_linux_386.zip",
-          "shasum": "0655fe0b28ba836f177a08e76ed21d997a47c735cf46e0f23d179e3d41e7b529"
+          "shasum": "0655fe0b28ba836f177a08e76ed21d997a47c735cf46e0f23d179e3d41e7b529",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-local_1.2.1_linux_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.2.1/terraform-provider-local_1.2.1_linux_amd64.zip",
-          "shasum": "7a428abdc59ee6d9cb89e074d29c8c07ca8a44807e77aeaa2464d95079304a3b"
+          "shasum": "7a428abdc59ee6d9cb89e074d29c8c07ca8a44807e77aeaa2464d95079304a3b",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-local_1.2.1_windows_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.2.1/terraform-provider-local_1.2.1_windows_386.zip",
-          "shasum": "d08de50132d97cbf1ada1e4a52b98469f554f04611c06fe70d7e74e6fcf250e2"
+          "shasum": "d08de50132d97cbf1ada1e4a52b98469f554f04611c06fe70d7e74e6fcf250e2",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-local_1.2.1_windows_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.2.1/terraform-provider-local_1.2.1_windows_amd64.zip",
-          "shasum": "34bad99514971d43f3c00c9a4196f51d73c8ee7c4a8313a47ce6ab3112d85eec"
+          "shasum": "34bad99514971d43f3c00c9a4196f51d73c8ee7c4a8313a47ce6ab3112d85eec",
+          "h1": ""
         }
       ]
     },
@@ -1243,35 +1475,40 @@
           "arch": "amd64",
           "filename": "terraform-provider-local_1.2.0_darwin_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.2.0/terraform-provider-local_1.2.0_darwin_amd64.zip",
-          "shasum": "4a7e27bb2b05aac30c1dcd9f8ef408a0c3959ad3bb2074e1b73966d2d800f5ff"
+          "shasum": "4a7e27bb2b05aac30c1dcd9f8ef408a0c3959ad3bb2074e1b73966d2d800f5ff",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-local_1.2.0_linux_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.2.0/terraform-provider-local_1.2.0_linux_386.zip",
-          "shasum": "f1e5307dae8639dd45cb7b1e6d4e548bb6327305eb80ceca2e9c11bd2657ba3c"
+          "shasum": "f1e5307dae8639dd45cb7b1e6d4e548bb6327305eb80ceca2e9c11bd2657ba3c",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-local_1.2.0_linux_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.2.0/terraform-provider-local_1.2.0_linux_amd64.zip",
-          "shasum": "1071cd5a517f5d797815a54b6219bfd0ba2cb13232320818ae2e56334e9a78a6"
+          "shasum": "1071cd5a517f5d797815a54b6219bfd0ba2cb13232320818ae2e56334e9a78a6",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-local_1.2.0_windows_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.2.0/terraform-provider-local_1.2.0_windows_386.zip",
-          "shasum": "ee19af21aa18c6d01729311b0b8178c1daa0990ad648539a1997637959a12701"
+          "shasum": "ee19af21aa18c6d01729311b0b8178c1daa0990ad648539a1997637959a12701",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-local_1.2.0_windows_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.2.0/terraform-provider-local_1.2.0_windows_amd64.zip",
-          "shasum": "ab32f16d35120373ee276b2c441828e78ba873a95c37242bba0f17ce794825db"
+          "shasum": "ab32f16d35120373ee276b2c441828e78ba873a95c37242bba0f17ce794825db",
+          "h1": ""
         }
       ]
     },
@@ -1288,35 +1525,40 @@
           "arch": "amd64",
           "filename": "terraform-provider-local_1.1.0_darwin_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.1.0/terraform-provider-local_1.1.0_darwin_amd64.zip",
-          "shasum": "c1a80cda385d411601d5de7960352c2eeabde34740f8054f0791be1d84d3f6d1"
+          "shasum": "c1a80cda385d411601d5de7960352c2eeabde34740f8054f0791be1d84d3f6d1",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-local_1.1.0_linux_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.1.0/terraform-provider-local_1.1.0_linux_386.zip",
-          "shasum": "bea675fe2bf3bef28e882ac60c630a74bcf512959a86c2aa0a7f359b57a01943"
+          "shasum": "bea675fe2bf3bef28e882ac60c630a74bcf512959a86c2aa0a7f359b57a01943",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-local_1.1.0_linux_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.1.0/terraform-provider-local_1.1.0_linux_amd64.zip",
-          "shasum": "4efd0d3edede19b21a2775694cd0e629907f4dfa8780368756e86b770e4abb7b"
+          "shasum": "4efd0d3edede19b21a2775694cd0e629907f4dfa8780368756e86b770e4abb7b",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-local_1.1.0_windows_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.1.0/terraform-provider-local_1.1.0_windows_386.zip",
-          "shasum": "c070ec1f35df206f7f807f22094f97498d14902b7cf7ece75fc4b2aecf2ec112"
+          "shasum": "c070ec1f35df206f7f807f22094f97498d14902b7cf7ece75fc4b2aecf2ec112",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-local_1.1.0_windows_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.1.0/terraform-provider-local_1.1.0_windows_amd64.zip",
-          "shasum": "cfd786d66cbe3a50c97e8a2e61193731919477e235d5963362b17fee959b0c5a"
+          "shasum": "cfd786d66cbe3a50c97e8a2e61193731919477e235d5963362b17fee959b0c5a",
+          "h1": ""
         }
       ]
     },
@@ -1333,35 +1575,40 @@
           "arch": "amd64",
           "filename": "terraform-provider-local_1.0.0_darwin_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.0.0/terraform-provider-local_1.0.0_darwin_amd64.zip",
-          "shasum": "db39e1da5af90326fd44d6acc6092aca73ec28bc9aae4b6c17af9e42ac50b6e6"
+          "shasum": "db39e1da5af90326fd44d6acc6092aca73ec28bc9aae4b6c17af9e42ac50b6e6",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-local_1.0.0_linux_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.0.0/terraform-provider-local_1.0.0_linux_386.zip",
-          "shasum": "316ed1403e18067c68055c7398a950221a73aea1ff2c91122d9e83cca4bde2b6"
+          "shasum": "316ed1403e18067c68055c7398a950221a73aea1ff2c91122d9e83cca4bde2b6",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-local_1.0.0_linux_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.0.0/terraform-provider-local_1.0.0_linux_amd64.zip",
-          "shasum": "4a53192f560b38ddfbb5685a5000b4b41884db5e669a2a5a44f70d30909f7442"
+          "shasum": "4a53192f560b38ddfbb5685a5000b4b41884db5e669a2a5a44f70d30909f7442",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-local_1.0.0_windows_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.0.0/terraform-provider-local_1.0.0_windows_386.zip",
-          "shasum": "ace5b91fa530dbd7fb029da2329caf5c841c57b2bf5bb033bbe5b9bf42d7c0f6"
+          "shasum": "ace5b91fa530dbd7fb029da2329caf5c841c57b2bf5bb033bbe5b9bf42d7c0f6",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-local_1.0.0_windows_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v1.0.0/terraform-provider-local_1.0.0_windows_amd64.zip",
-          "shasum": "45171ace37411353ad124272c0d253074abfe32a80afd99e1931cdd5e294b56d"
+          "shasum": "45171ace37411353ad124272c0d253074abfe32a80afd99e1931cdd5e294b56d",
+          "h1": ""
         }
       ]
     },
@@ -1378,35 +1625,40 @@
           "arch": "amd64",
           "filename": "terraform-provider-local_0.1.0_darwin_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v0.1.0/terraform-provider-local_0.1.0_darwin_amd64.zip",
-          "shasum": "5b30e49702c1e18200fda9628fcd36fe782c502125e25972153b3660ac1122f2"
+          "shasum": "5b30e49702c1e18200fda9628fcd36fe782c502125e25972153b3660ac1122f2",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-local_0.1.0_linux_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v0.1.0/terraform-provider-local_0.1.0_linux_386.zip",
-          "shasum": "4b2cd9c6b21ce4142124a194ef96480aad4efdbcae4449d9678fc939c29d3754"
+          "shasum": "4b2cd9c6b21ce4142124a194ef96480aad4efdbcae4449d9678fc939c29d3754",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-local_0.1.0_linux_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v0.1.0/terraform-provider-local_0.1.0_linux_amd64.zip",
-          "shasum": "34d89a61574f2387e77c7d641823fce9e2a0339a1527d6a25404b2c3c7d10da7"
+          "shasum": "34d89a61574f2387e77c7d641823fce9e2a0339a1527d6a25404b2c3c7d10da7",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-local_0.1.0_windows_386.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v0.1.0/terraform-provider-local_0.1.0_windows_386.zip",
-          "shasum": "a51ed8a7992aed9047547c4b6811c74b7dc7f2452ace313a790eeb929b01ade0"
+          "shasum": "a51ed8a7992aed9047547c4b6811c74b7dc7f2452ace313a790eeb929b01ade0",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-local_0.1.0_windows_amd64.zip",
           "download_url": "https://github.com/opentffoundation/terraform-provider-local/releases/download/v0.1.0/terraform-provider-local_0.1.0_windows_amd64.zip",
-          "shasum": "80bc8857c4f069e392155214b6cdbe4c0e02924fe7cc621f30936cdd46ddc8b6"
+          "shasum": "80bc8857c4f069e392155214b6cdbe4c0e02924fe7cc621f30936cdd46ddc8b6",
+          "h1": ""
         }
       ]
     }
