@@ -1,6 +1,96 @@
 {
   "versions": [
     {
+      "version": "1.2.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/codefresh-io/terraform-provider-codefresh/releases/download/v1.2.0/terraform-provider-codefresh_1.2.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/codefresh-io/terraform-provider-codefresh/releases/download/v1.2.0/terraform-provider-codefresh_1.2.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-codefresh_1.2.0_darwin_amd64.zip",
+          "download_url": "https://github.com/codefresh-io/terraform-provider-codefresh/releases/download/v1.2.0/terraform-provider-codefresh_1.2.0_darwin_amd64.zip",
+          "shasum": "3537681654ef328294cdc808e1299b7434cd4998e41a8b0020fafb91c972310e",
+          "h1": "h1:j75jyn3baW1O5MpforDZi9SzgWoOVdoyxvVBrXa1K1A="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-codefresh_1.2.0_darwin_arm64.zip",
+          "download_url": "https://github.com/codefresh-io/terraform-provider-codefresh/releases/download/v1.2.0/terraform-provider-codefresh_1.2.0_darwin_arm64.zip",
+          "shasum": "179ef7db2976691b45c0cf546ea4e8a135fb00bf0afd4c90cc6267530e5cbdd7",
+          "h1": "h1:OIsntGr/KAGcbIV50HqIw2B5XJ1PYRDQPNhgV8WPyMk="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-codefresh_1.2.0_linux_386.zip",
+          "download_url": "https://github.com/codefresh-io/terraform-provider-codefresh/releases/download/v1.2.0/terraform-provider-codefresh_1.2.0_linux_386.zip",
+          "shasum": "f90701ccc94a593b01aee2a726c548aabb18cd7c9ed784aa3bbdfdebdbab6ec1",
+          "h1": "h1:g3IbEChotnhzbeShDI0n95QZt0xYi3wgsBDQstt8LxE="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-codefresh_1.2.0_linux_amd64.zip",
+          "download_url": "https://github.com/codefresh-io/terraform-provider-codefresh/releases/download/v1.2.0/terraform-provider-codefresh_1.2.0_linux_amd64.zip",
+          "shasum": "9918ee529a8f80a210422ba2f42235d21bbf44576a9308940ce338b3d6e783ca",
+          "h1": "h1:Xbkt9wRepIko+fwtpQ+Je8Q540/QzkK3rwrEruwrYjY="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-codefresh_1.2.0_linux_arm.zip",
+          "download_url": "https://github.com/codefresh-io/terraform-provider-codefresh/releases/download/v1.2.0/terraform-provider-codefresh_1.2.0_linux_arm.zip",
+          "shasum": "fd2fd7ae03f849e8e522ca0beb8e611c1e523a69a205df49739870cfdbd236fe",
+          "h1": "h1:Y9E8lw2SJYnoGGqFxHfBhDEwJ9J8Tu5d2sYRb35vYmE="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-codefresh_1.2.0_linux_arm64.zip",
+          "download_url": "https://github.com/codefresh-io/terraform-provider-codefresh/releases/download/v1.2.0/terraform-provider-codefresh_1.2.0_linux_arm64.zip",
+          "shasum": "569a6648424831b2fbfb03d1bfd9f69c48d1dcb4047d2d32cf08dfe2e9769687",
+          "h1": "h1:zHmKjexwxU+Y+cvGzJK3PdaSY2MTQL33EgDMhEDSMBc="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-codefresh_1.2.0_windows_386.zip",
+          "download_url": "https://github.com/codefresh-io/terraform-provider-codefresh/releases/download/v1.2.0/terraform-provider-codefresh_1.2.0_windows_386.zip",
+          "shasum": "31d05957c3f90dc0212f63a5060b6deee439f0d9a56f747b8a9b23ec335404dc",
+          "h1": "h1:iDYjhxF0aBHKie8BGtJ+LIAxeSEpqC6rmeDQIjYYIGk="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-codefresh_1.2.0_windows_amd64.zip",
+          "download_url": "https://github.com/codefresh-io/terraform-provider-codefresh/releases/download/v1.2.0/terraform-provider-codefresh_1.2.0_windows_amd64.zip",
+          "shasum": "5efb06246161b809b0746f352f7474125d5eaec126b8dbdacc66494b2fd201a4",
+          "h1": "h1:/4y+zn3O/LZwCTLUihQByIibv613CAwYpBMMHrdVerY="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-codefresh_1.2.0_windows_arm.zip",
+          "download_url": "https://github.com/codefresh-io/terraform-provider-codefresh/releases/download/v1.2.0/terraform-provider-codefresh_1.2.0_windows_arm.zip",
+          "shasum": "a21a12e5ff441984a07de6f917184556e0f72b168bb0ade51ae60b7aed60cc49",
+          "h1": "h1:2ba9NnrFNauExSZHf7POmgA/D5O/oAllij22Es2GfpA="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-codefresh_1.2.0_windows_arm64.zip",
+          "download_url": "https://github.com/codefresh-io/terraform-provider-codefresh/releases/download/v1.2.0/terraform-provider-codefresh_1.2.0_windows_arm64.zip",
+          "shasum": "4c31264c495363d96f9f1aef494e1b92dc2366660e8299054692c03cace824ac",
+          "h1": "h1:Xain/Tjn9L+w+b0v7b+MPMBVcizixb8YTp8I95E4A8k="
+        }
+      ]
+    },
+    {
       "version": "1.1.0",
       "protocols": [
         "5.0"
