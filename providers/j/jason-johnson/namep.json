@@ -1,6 +1,250 @@
 {
   "versions": [
     {
+      "version": "2.2.1",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.1/terraform-provider-namep_2.2.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.1/terraform-provider-namep_2.2.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-namep_2.2.1_darwin_amd64.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.1/terraform-provider-namep_2.2.1_darwin_amd64.zip",
+          "shasum": "c4fb010a22264b91c0d988447f8f539f2253e3879f6a1b40e1762ec1adb3fee4",
+          "h1": "h1:sogT/J8wKwamMc1JppWSqStedA+A9oxS6gV5nQgNBEc="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-namep_2.2.1_darwin_arm64.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.1/terraform-provider-namep_2.2.1_darwin_arm64.zip",
+          "shasum": "352cfc30a423a74ca74f23807f2b142f48bdbf4c17d54090d526abc31f989c98",
+          "h1": "h1:aCWBHJS7qehNlN35iwoJHyuzIEQowaZQZQ2dxMarYo0="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-namep_2.2.1_freebsd_386.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.1/terraform-provider-namep_2.2.1_freebsd_386.zip",
+          "shasum": "ee178bf9bde4e8204a3b68f36fe5921f68397fbcf9c7c8c8cfb15a5c4ab4f35a",
+          "h1": "h1:K7I2ireZ0wD/GlOQLpySkwKo68WuLkGLvjQ7yNjF3Os="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-namep_2.2.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.1/terraform-provider-namep_2.2.1_freebsd_amd64.zip",
+          "shasum": "66f76d4b1846f831c679b771f6dc10cc9366505a3d10feb465b4ebe8403093ed",
+          "h1": "h1:GSg+PgjSzUr7H+9hcf0Za5MxEtorw7TKFkfGv1IMwyc="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-namep_2.2.1_freebsd_arm.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.1/terraform-provider-namep_2.2.1_freebsd_arm.zip",
+          "shasum": "7c49d0ff3a79ae803ecef911eebf35613ea02142c4fb2959f8943de07f3fff1e",
+          "h1": "h1:XY1txQ7qFKGGSPhrazqq556fuM8rxTCstrkYi+7g434="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-namep_2.2.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.1/terraform-provider-namep_2.2.1_freebsd_arm64.zip",
+          "shasum": "1b8d849447d170f7b9e4bba76b484a85413f0d41e25c18f19d526dfec9c720ff",
+          "h1": "h1:NNuu8FFsOHkdOh87tavm42+NHfZWsCpWMBgCVnzp9B8="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-namep_2.2.1_linux_386.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.1/terraform-provider-namep_2.2.1_linux_386.zip",
+          "shasum": "e42754061b8682ae207e70b95a6818878afe6107cf68328dfd905a22cc7ad7ac",
+          "h1": "h1:tQJw5oaNf7riEGmxC45PnTdzJ9/qlnqcnzBV3w1L7YE="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-namep_2.2.1_linux_amd64.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.1/terraform-provider-namep_2.2.1_linux_amd64.zip",
+          "shasum": "c6a39ca24a493f9d4dacff586d529283ece494356c6f3221f532e1143a244dc0",
+          "h1": "h1:FFjkdPlQkgWd/+aGRLDLSEsREA8NTMlNp5XS69R/GUo="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-namep_2.2.1_linux_arm.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.1/terraform-provider-namep_2.2.1_linux_arm.zip",
+          "shasum": "2a830c37b8023ffa77025f4c4699759e6e9b9c0a0d5222b8dc8b0f377f3bfaa8",
+          "h1": "h1:iOmQJ2mx6zc1GIzEUJdoNaresofi8iMuIiqHAPwF5VU="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-namep_2.2.1_linux_arm64.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.1/terraform-provider-namep_2.2.1_linux_arm64.zip",
+          "shasum": "8dad18cf8d7d99ecc9a17edd33fb2a34d59351f3798d26f74e3fd508fb83328d",
+          "h1": "h1:F7Sp8eYEjKwGbAxWQc9FvGbWXEMvEwy6L8WO8sawFrE="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-namep_2.2.1_windows_386.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.1/terraform-provider-namep_2.2.1_windows_386.zip",
+          "shasum": "3653dc23499cb7cac20fa14e33b1a34da263f968ca6521ca0e838934626abc90",
+          "h1": "h1:ZFE9DhGnE5HYhSFwsbS/WOGgPPErLw8o6J3280k9Z0w="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-namep_2.2.1_windows_amd64.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.1/terraform-provider-namep_2.2.1_windows_amd64.zip",
+          "shasum": "d3a1de544fe070e7834ac9100d641cc2406fdcddde03e47d483eacbdbc3ad22b",
+          "h1": "h1:yGPrSrTRdXFsyLHMTd6/MAv4WOtb75cW4dkC+vdrBkw="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-namep_2.2.1_windows_arm.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.1/terraform-provider-namep_2.2.1_windows_arm.zip",
+          "shasum": "e072e28ab5622e17a3e31980b1731c54810f5cb0fa3da200625f114e32c8b4d5",
+          "h1": "h1:p2m0v4t5cS+/2VCygVmMjlExHD57DqM4+1AG8rlppN8="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-namep_2.2.1_windows_arm64.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.1/terraform-provider-namep_2.2.1_windows_arm64.zip",
+          "shasum": "eb096b93b3471a0dfd011d21c80037d3c0804369597d6fd5798ca59ad493e97d",
+          "h1": "h1:+PhihJN7dLTltJcPbxEQ4WhvFMBJTl4WCHXVjRfd5vo="
+        }
+      ]
+    },
+    {
+      "version": "2.2.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.0/terraform-provider-namep_2.2.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.0/terraform-provider-namep_2.2.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-namep_2.2.0_darwin_amd64.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.0/terraform-provider-namep_2.2.0_darwin_amd64.zip",
+          "shasum": "9d63fcce6ba8fb962224cb63065d688995cb898eeafd4b55983ada8fef64365a",
+          "h1": "h1:ZpWcGXmwUMnIG3X815SDDww4WVFnq8ja4/wedNVtlz8="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-namep_2.2.0_darwin_arm64.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.0/terraform-provider-namep_2.2.0_darwin_arm64.zip",
+          "shasum": "af36f4680a18c038de661f6bc0c0f6f9f265212818af2e38d40337d8831f06d3",
+          "h1": "h1:5XTIlAUOVqoFEvgxDpVQoTxqVIfLrkSSbT/cVjUEVSg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-namep_2.2.0_freebsd_386.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.0/terraform-provider-namep_2.2.0_freebsd_386.zip",
+          "shasum": "ddd8364c5802fe0cb84dc97510990ed9a7037f34919c52e1e31fb8951fcffa78",
+          "h1": "h1:dgj8uK3WczqpnbloLEqfuY3SBEWu+tfBtIT7uH/mKRk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-namep_2.2.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.0/terraform-provider-namep_2.2.0_freebsd_amd64.zip",
+          "shasum": "d503323a24fa9b6393c825853e6b1441e09a382d2eba2840d2d6d6d82efe8c3f",
+          "h1": "h1:akJeoLUavycNgD66zM6ZIaZ7JjUuW4W7xfbHLhevC1g="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-namep_2.2.0_freebsd_arm.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.0/terraform-provider-namep_2.2.0_freebsd_arm.zip",
+          "shasum": "d2901eef6563ce7d5938667aae277ddd67ac5e6cbfe44f291ddd04835e3cc676",
+          "h1": "h1:02ki1PIFbtYgmHrVY8yFndE8wI1p9i6bB12o0hM+Yrk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-namep_2.2.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.0/terraform-provider-namep_2.2.0_freebsd_arm64.zip",
+          "shasum": "918f45b6800af5b98e296c6d562714a4e7046ff730729102694757ade5eb67cb",
+          "h1": "h1:kMddg7cp0qDJqkCmUjv48mobsO+Fs2qXSwphzj7EFok="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-namep_2.2.0_linux_386.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.0/terraform-provider-namep_2.2.0_linux_386.zip",
+          "shasum": "e6d1b727e2e06de54b205fa2bd4f6c013af298d92dd1012b05ac5fd35ced2b68",
+          "h1": "h1:E8tpDc5DPeAC2cEA9Ip9DgAnGFI0mt0l6WTfqoUILLs="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-namep_2.2.0_linux_amd64.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.0/terraform-provider-namep_2.2.0_linux_amd64.zip",
+          "shasum": "ba29c66fd5e8014908c1d4934115aef633291fa939da23ef2b49b7409094c6d3",
+          "h1": "h1:YvtmKwf8H3iwLC33w2DNiR6QFJRjrKkZW6oGUPKDCr8="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-namep_2.2.0_linux_arm.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.0/terraform-provider-namep_2.2.0_linux_arm.zip",
+          "shasum": "e5b1b54c3d1909e339abad48f26e3113e8fbbf3b13ea0299d0b6964663609146",
+          "h1": "h1:y9ir+5jzvceehmEPHOHFak+fujlDCQ6Bp3i+T/7girA="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-namep_2.2.0_linux_arm64.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.0/terraform-provider-namep_2.2.0_linux_arm64.zip",
+          "shasum": "6d4a6c1cc89cec96b13888abb1fe1a543a02b19803fbdf8e75f1c9eeb5d8ac1d",
+          "h1": "h1:UGv7yy3gcbgrhoecTOFaiOmlzvRg9vpxNL2mAE4D7pk="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-namep_2.2.0_windows_386.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.0/terraform-provider-namep_2.2.0_windows_386.zip",
+          "shasum": "0e552fb3dd2c3104ff49f74ce3618085d208e14da8240ffdf1b92acdfba52f67",
+          "h1": "h1:zI2J4wNdM9C4k2U3oRbUrEl1GZCjIW/IbD6johjtMXo="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-namep_2.2.0_windows_amd64.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.0/terraform-provider-namep_2.2.0_windows_amd64.zip",
+          "shasum": "3294d2bf5d9978f0d7fb9fb586b2d3535191328a4ed0d464fb3b4344a50cc312",
+          "h1": "h1:urygy+NbNiPncAGB1umVJYCd/RN710Po/ClFycGIoAM="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-namep_2.2.0_windows_arm.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.0/terraform-provider-namep_2.2.0_windows_arm.zip",
+          "shasum": "ec1152ada804fab5a4995509bfcb9d09dc1907d5d9038efe5aedb5701441a0c8",
+          "h1": "h1:2GEsWz1DssUSVzwYX0UsyGCF5h/elrYgqB8AZiPxuQY="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-namep_2.2.0_windows_arm64.zip",
+          "download_url": "https://github.com/jason-johnson/terraform-provider-namep/releases/download/v2.2.0/terraform-provider-namep_2.2.0_windows_arm64.zip",
+          "shasum": "808cafceef270c5785e94b203341a8f46b66a4f48363a29b05af536f060b6361",
+          "h1": "h1:MuuNOL1y1duP0GLvSGxVGEdEmr+rz9difGptKzPf2F4="
+        }
+      ]
+    },
+    {
       "version": "2.1.0",
       "protocols": [
         "6.0"
