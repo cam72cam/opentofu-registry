@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.24.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/patientsknowbest/terraform-provider-aidbox/releases/download/v0.24.0/terraform-provider-aidbox_0.24.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/patientsknowbest/terraform-provider-aidbox/releases/download/v0.24.0/terraform-provider-aidbox_0.24.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-aidbox_0.24.0_darwin_amd64.zip",
+          "download_url": "https://github.com/patientsknowbest/terraform-provider-aidbox/releases/download/v0.24.0/terraform-provider-aidbox_0.24.0_darwin_amd64.zip",
+          "shasum": "07eeb97fff9dc22b74329e7a7043e44d7fcce239fa484be998515c2375a4de42",
+          "h1": "h1:Mg6uJO3h6LzJxIbgEtPq3h1c6f1elv/nPGH9YGQMqlU="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-aidbox_0.24.0_darwin_arm64.zip",
+          "download_url": "https://github.com/patientsknowbest/terraform-provider-aidbox/releases/download/v0.24.0/terraform-provider-aidbox_0.24.0_darwin_arm64.zip",
+          "shasum": "e4b642df1ee8ba23bdadc57e7a87e2854aa8f2d6b86e116470bb2e50ca29a3a7",
+          "h1": "h1:S6FXRVyuqOGjKER+XuB9tanBYXRRG7jJxIC68yPuHkM="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-aidbox_0.24.0_freebsd_386.zip",
+          "download_url": "https://github.com/patientsknowbest/terraform-provider-aidbox/releases/download/v0.24.0/terraform-provider-aidbox_0.24.0_freebsd_386.zip",
+          "shasum": "37522df305ddf8c435daa3b9649394848d38b5b717d7f311974860c8e95b5e2b",
+          "h1": "h1:W5uGoxRbSG4W5z0jA0oU/MkVyrkli3j5yefssJmr2xM="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-aidbox_0.24.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/patientsknowbest/terraform-provider-aidbox/releases/download/v0.24.0/terraform-provider-aidbox_0.24.0_freebsd_amd64.zip",
+          "shasum": "2e7906a7745da92f1e4ec6eb2d7a8a62b6d0728298dfba73d61426ad30752763",
+          "h1": "h1:12p3kdjuNALAMneoSavolUCzWV+XRgMtsyrFL5+bE7I="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-aidbox_0.24.0_freebsd_arm.zip",
+          "download_url": "https://github.com/patientsknowbest/terraform-provider-aidbox/releases/download/v0.24.0/terraform-provider-aidbox_0.24.0_freebsd_arm.zip",
+          "shasum": "b4ca426dfaf357c88399c7bb1ccb25caf54c2dff8bca7fed3fad4362b23be4bf",
+          "h1": "h1:RFusoRNX7lDldtveMWv9wOxs8xbvSJ01vaSoClqLhic="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-aidbox_0.24.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/patientsknowbest/terraform-provider-aidbox/releases/download/v0.24.0/terraform-provider-aidbox_0.24.0_freebsd_arm64.zip",
+          "shasum": "f010f951a7a1e31e9a2a316751a1825fcf6f9aa1dea9a8fbba2ab0c84bcae04f",
+          "h1": "h1:u1hZuD8du23nBES+X3BUZ31VIHnGZtgPgWiy9SUJKH8="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-aidbox_0.24.0_linux_386.zip",
+          "download_url": "https://github.com/patientsknowbest/terraform-provider-aidbox/releases/download/v0.24.0/terraform-provider-aidbox_0.24.0_linux_386.zip",
+          "shasum": "cf1b906d9e036ae17b6b8a0dde9b87cfb63e6cc86477e4dce4212a804c337426",
+          "h1": "h1:ONfrlms5AEktuZ538l21xfg8rl24NNP2gDGSL021Eto="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-aidbox_0.24.0_linux_amd64.zip",
+          "download_url": "https://github.com/patientsknowbest/terraform-provider-aidbox/releases/download/v0.24.0/terraform-provider-aidbox_0.24.0_linux_amd64.zip",
+          "shasum": "8b41ed2a4430e614b1ca0f9a3522d079d46ceddf942f138d4fa2972889916b63",
+          "h1": "h1:uzLrArmmhl8eg7eDZ3u+QtZSNdm0krGnpUxTP/25Fos="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-aidbox_0.24.0_linux_arm.zip",
+          "download_url": "https://github.com/patientsknowbest/terraform-provider-aidbox/releases/download/v0.24.0/terraform-provider-aidbox_0.24.0_linux_arm.zip",
+          "shasum": "e1b48bc5ad4e696b2ffe6e0cd1e774a21f6b32971302b25153b99ad23f7e3cf8",
+          "h1": "h1:PQPIyhonWwCpGShfXL2BbsKCCUb78BQa9eQMPh78JLY="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-aidbox_0.24.0_linux_arm64.zip",
+          "download_url": "https://github.com/patientsknowbest/terraform-provider-aidbox/releases/download/v0.24.0/terraform-provider-aidbox_0.24.0_linux_arm64.zip",
+          "shasum": "25efda024dbc171f7d45773dc8d233863445d73f24793d0b566d953aa52c7cee",
+          "h1": "h1:cDikcEsI6wzf0wcujLS5YnmAdH2d8Isb6viLu9X1DUk="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-aidbox_0.24.0_windows_386.zip",
+          "download_url": "https://github.com/patientsknowbest/terraform-provider-aidbox/releases/download/v0.24.0/terraform-provider-aidbox_0.24.0_windows_386.zip",
+          "shasum": "0e0cd40f0feaf93ac674938d3c4e2caf90abd4bbb5c79d5627e721468d7060a1",
+          "h1": "h1:SUVAvRmligc6IAJK8Nc7gGjkmai3nz01lo02ViH3M8g="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-aidbox_0.24.0_windows_amd64.zip",
+          "download_url": "https://github.com/patientsknowbest/terraform-provider-aidbox/releases/download/v0.24.0/terraform-provider-aidbox_0.24.0_windows_amd64.zip",
+          "shasum": "a1e6e9e28b3d6cf014507cdd69c1fafd932aa442a567d47b403e057ffa15ac2d",
+          "h1": "h1:8PrRrVoOYmh2jJttb2UHorHQSLaXsfZv4IrJKNDcV7Y="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-aidbox_0.24.0_windows_arm.zip",
+          "download_url": "https://github.com/patientsknowbest/terraform-provider-aidbox/releases/download/v0.24.0/terraform-provider-aidbox_0.24.0_windows_arm.zip",
+          "shasum": "2f75e9f7eee7d93a1fa32dba82cb44112759861f678ce6774da7eded6d76c14e",
+          "h1": "h1:PtKbDyI1e5J9lvoiCP2W8124MJPMddiM8VgfYr9mfcs="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-aidbox_0.24.0_windows_arm64.zip",
+          "download_url": "https://github.com/patientsknowbest/terraform-provider-aidbox/releases/download/v0.24.0/terraform-provider-aidbox_0.24.0_windows_arm64.zip",
+          "shasum": "ba3fe1e6cca02da356e579933bd2b1062cdaf5f428a2060024fc69f2f65d9f91",
+          "h1": "h1:3ctR7+SGNUqIYu81SLe/9x9Q+DQoGmZ4yJo/KBZH+VY="
+        }
+      ]
+    },
+    {
       "version": "0.23.0",
       "protocols": [
         "5.0"
