@@ -1,6 +1,57 @@
 {
   "versions": [
     {
+      "version": "1.0.1-beta.3",
+      "protocols": [
+        "5.0",
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/agilize/terraform-provider-jumpcloud/releases/download/v1.0.1-beta.3/terraform-provider-jumpcloud_1.0.1-beta.3_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/agilize/terraform-provider-jumpcloud/releases/download/v1.0.1-beta.3/terraform-provider-jumpcloud_1.0.1-beta.3_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-jumpcloud_1.0.1-beta.3_darwin_amd64.zip",
+          "download_url": "https://github.com/agilize/terraform-provider-jumpcloud/releases/download/v1.0.1-beta.3/terraform-provider-jumpcloud_1.0.1-beta.3_darwin_amd64.zip",
+          "shasum": "d0b1d8d6ac77a34d78e2f6f7fd735e0ec55ab74343ac9e30159ec183f22e809b",
+          "h1": "h1:PacBmZJ/kNv4d/8rq198LszPtc8Lfb9Qtk+wdnF0VVU="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-jumpcloud_1.0.1-beta.3_darwin_arm64.zip",
+          "download_url": "https://github.com/agilize/terraform-provider-jumpcloud/releases/download/v1.0.1-beta.3/terraform-provider-jumpcloud_1.0.1-beta.3_darwin_arm64.zip",
+          "shasum": "a1d27c8dcabb688d3c3cd1c90b85d2c3d0377f2de3f95c2f6629b33501b9ea9e",
+          "h1": "h1:2gid2yaoJD52VQ9ypIVMsL//nCsnsQiCyy7lbqLwsBY="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-jumpcloud_1.0.1-beta.3_linux_amd64.zip",
+          "download_url": "https://github.com/agilize/terraform-provider-jumpcloud/releases/download/v1.0.1-beta.3/terraform-provider-jumpcloud_1.0.1-beta.3_linux_amd64.zip",
+          "shasum": "3cf7809d6284f9f47433d69b553b9c5a24d2e9570cafa0e8f63a13be68cc70ab",
+          "h1": "h1:cwZVlSGLrQIsAN9bwQiuDxXO9+LZT6PP3KZv6CT0Yxg="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-jumpcloud_1.0.1-beta.3_linux_arm64.zip",
+          "download_url": "https://github.com/agilize/terraform-provider-jumpcloud/releases/download/v1.0.1-beta.3/terraform-provider-jumpcloud_1.0.1-beta.3_linux_arm64.zip",
+          "shasum": "bef20d1cd805f9c8097d3bc5d9e8aba662346d93f9a032ac9f7fc5b33aa862a7",
+          "h1": "h1:aOicglNnmQIS4/l7fOQ99IcVT37hjBef96BSpm484Dg="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-jumpcloud_1.0.1-beta.3_windows_amd64.zip",
+          "download_url": "https://github.com/agilize/terraform-provider-jumpcloud/releases/download/v1.0.1-beta.3/terraform-provider-jumpcloud_1.0.1-beta.3_windows_amd64.zip",
+          "shasum": "8398bf428b45b46c1c057543833f75a444190ceb8614a9356d623fed6ec3ab99",
+          "h1": "h1:T1lvXsEJGfYq+fQ3wcg9qSNFnRjAZ9jyCrzWxTVvKM0="
+        }
+      ]
+    },
+    {
       "version": "1.0.0",
       "protocols": [
         "5.0",
