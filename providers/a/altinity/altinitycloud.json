@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.4.25",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/altinity/terraform-provider-altinitycloud/releases/download/v0.4.25/terraform-provider-altinitycloud_0.4.25_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/altinity/terraform-provider-altinitycloud/releases/download/v0.4.25/terraform-provider-altinitycloud_0.4.25_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-altinitycloud_0.4.25_darwin_amd64.zip",
+          "download_url": "https://github.com/altinity/terraform-provider-altinitycloud/releases/download/v0.4.25/terraform-provider-altinitycloud_0.4.25_darwin_amd64.zip",
+          "shasum": "3083f3073f3ce108aba40a21eadd42b60842f97f5972543ef8b88ed86fdf2d65",
+          "h1": "h1:pVXVbPs0rgsckK6MaeZvktPnUgl5AxrTtUsFkXXzmrw="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-altinitycloud_0.4.25_darwin_arm64.zip",
+          "download_url": "https://github.com/altinity/terraform-provider-altinitycloud/releases/download/v0.4.25/terraform-provider-altinitycloud_0.4.25_darwin_arm64.zip",
+          "shasum": "d720764d12e32266f12a0937132b2b1c27bc2e3c99464282f1e71c276e9585b9",
+          "h1": "h1:X047LS+sj0yTaiedvpoyetafN2DYbIktE6NhJYPZhT8="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-altinitycloud_0.4.25_freebsd_386.zip",
+          "download_url": "https://github.com/altinity/terraform-provider-altinitycloud/releases/download/v0.4.25/terraform-provider-altinitycloud_0.4.25_freebsd_386.zip",
+          "shasum": "912c06f35c393c4b2905f3ef8dd284adce81573fb751320dec352623367fd687",
+          "h1": "h1:4rl2M5lcojEIsuF9jEERd0Bk2KO/k/JvPqOObdmghaU="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-altinitycloud_0.4.25_freebsd_amd64.zip",
+          "download_url": "https://github.com/altinity/terraform-provider-altinitycloud/releases/download/v0.4.25/terraform-provider-altinitycloud_0.4.25_freebsd_amd64.zip",
+          "shasum": "30d6fee4662fc6efb6457ba7e8de3485d37bbd787eaa4cfca87aba32581f16b2",
+          "h1": "h1:Jl80omcyMbUCWFZGstpoWBxsI2UkKtwDN0Kleky6Tpk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-altinitycloud_0.4.25_freebsd_arm.zip",
+          "download_url": "https://github.com/altinity/terraform-provider-altinitycloud/releases/download/v0.4.25/terraform-provider-altinitycloud_0.4.25_freebsd_arm.zip",
+          "shasum": "38869b7e2cb3029070eff91ad4de88ca1f317b021b34f6b99150a47a1a3096b2",
+          "h1": "h1:yhnJRageQoMS7Lj+S4SHW8ZqajTkmWn8Lp43KSJQ3ys="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-altinitycloud_0.4.25_freebsd_arm64.zip",
+          "download_url": "https://github.com/altinity/terraform-provider-altinitycloud/releases/download/v0.4.25/terraform-provider-altinitycloud_0.4.25_freebsd_arm64.zip",
+          "shasum": "b23508e059ffafa0dc388b8691bf55098e543d65126171e33563ddb97a463af0",
+          "h1": "h1:KE5x9TDtBtRzuq4z/y4A7kmIpU9YGsImEyb1Z9Z6FBM="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-altinitycloud_0.4.25_linux_386.zip",
+          "download_url": "https://github.com/altinity/terraform-provider-altinitycloud/releases/download/v0.4.25/terraform-provider-altinitycloud_0.4.25_linux_386.zip",
+          "shasum": "a685ce282f56400a67ecc8c9afa3e07805bf76436bcf654c34840a3ba57dcbda",
+          "h1": "h1:I2pgxxyxTHJu9cL0clQ5cxljVRlJLtqI6fQA4QCLp0A="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-altinitycloud_0.4.25_linux_amd64.zip",
+          "download_url": "https://github.com/altinity/terraform-provider-altinitycloud/releases/download/v0.4.25/terraform-provider-altinitycloud_0.4.25_linux_amd64.zip",
+          "shasum": "a4af312eb8d8c2e33a010de343f09776373ee6884bb064aca9930958b95300f8",
+          "h1": "h1:N5fvnDs1sLXx5XDF7I7gkkaIuw4OuHbQm4EBWI3OA1o="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-altinitycloud_0.4.25_linux_arm.zip",
+          "download_url": "https://github.com/altinity/terraform-provider-altinitycloud/releases/download/v0.4.25/terraform-provider-altinitycloud_0.4.25_linux_arm.zip",
+          "shasum": "e8fb7795b9a7d38b4331b3a1477bd4bcffbf17165449fdea64a0a81339672f99",
+          "h1": "h1:WCdI3Ztrubq2fXnpuDE93b/dh9pLXyURIWeyOFIv0Ms="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-altinitycloud_0.4.25_linux_arm64.zip",
+          "download_url": "https://github.com/altinity/terraform-provider-altinitycloud/releases/download/v0.4.25/terraform-provider-altinitycloud_0.4.25_linux_arm64.zip",
+          "shasum": "8c7628bdddcb7e9b18892388a0f3ab0cd13bf09172df724e3b09de681b6f3716",
+          "h1": "h1:pa/SpfRFU2IvT/sZVtWcPWj4Dt4gb7iojVFU64HMPSs="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-altinitycloud_0.4.25_windows_386.zip",
+          "download_url": "https://github.com/altinity/terraform-provider-altinitycloud/releases/download/v0.4.25/terraform-provider-altinitycloud_0.4.25_windows_386.zip",
+          "shasum": "03b529ded5f266998fa2f10e4dd2ea136cad17b0503743de6772bb00a42b55db",
+          "h1": "h1:DARBkUaRK7a3FlS5BljxIIDcfQfppuCaBCPC0VkujcQ="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-altinitycloud_0.4.25_windows_amd64.zip",
+          "download_url": "https://github.com/altinity/terraform-provider-altinitycloud/releases/download/v0.4.25/terraform-provider-altinitycloud_0.4.25_windows_amd64.zip",
+          "shasum": "ca34b3b6a9810e0f2412f96ce5a342e946b51db5938884678768af9dc67bb355",
+          "h1": "h1:YmJsXzWiti4h/JOTdjKrOP0WKIJhTmf2w1vMDa55ZO4="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-altinitycloud_0.4.25_windows_arm.zip",
+          "download_url": "https://github.com/altinity/terraform-provider-altinitycloud/releases/download/v0.4.25/terraform-provider-altinitycloud_0.4.25_windows_arm.zip",
+          "shasum": "2edfb13d21d8944b70507770ce18cb3c8e022da32bcf6ce5b65ba75e70fe72eb",
+          "h1": "h1:esamcXgOVu7NGTS4EVK+sA3Qf0H8Kp7mKYI/sS7y8E8="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-altinitycloud_0.4.25_windows_arm64.zip",
+          "download_url": "https://github.com/altinity/terraform-provider-altinitycloud/releases/download/v0.4.25/terraform-provider-altinitycloud_0.4.25_windows_arm64.zip",
+          "shasum": "3e5f07e55a13854ced0a4f1f86b227a5ea4d612b458d443848b55f2b934906e7",
+          "h1": "h1:GKyk8HJa+d6DgFu4CYqDXK7PeiFM+r7oNSFloN9usEw="
+        }
+      ]
+    },
+    {
       "version": "0.4.24",
       "protocols": [
         "6.0"
