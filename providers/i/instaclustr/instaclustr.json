@@ -1,6 +1,72 @@
 {
   "versions": [
     {
+      "version": "2.1.29",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/instaclustr/terraform-provider-instaclustr/releases/download/v2.1.29/terraform-provider-instaclustr_2.1.29_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/instaclustr/terraform-provider-instaclustr/releases/download/v2.1.29/terraform-provider-instaclustr_2.1.29_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-instaclustr_v2.1.29_darwin_amd64.zip",
+          "download_url": "https://github.com/instaclustr/terraform-provider-instaclustr/releases/download/v2.1.29/terraform-provider-instaclustr_v2.1.29_darwin_amd64.zip",
+          "shasum": "149e467a1f111767a7c0dd31ffafb41bc589cd11606b9f2945ed8d276a592afd",
+          "h1": "h1:yMejbrem9Qsndt/bE/Rh3iHqXfXz3mXFb4nYL9im6b8="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-instaclustr_v2.1.29_darwin_arm64.zip",
+          "download_url": "https://github.com/instaclustr/terraform-provider-instaclustr/releases/download/v2.1.29/terraform-provider-instaclustr_v2.1.29_darwin_arm64.zip",
+          "shasum": "4bc6c137d7765977f9a9b83e6ce80a7d249305c2e3f7a94b684ab9d35f843a17",
+          "h1": "h1:lHCzqjYLLUhq/wsCb1DXCfh7s4vX7xM9b5Obc081nyg="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-instaclustr_v2.1.29_linux_amd64.zip",
+          "download_url": "https://github.com/instaclustr/terraform-provider-instaclustr/releases/download/v2.1.29/terraform-provider-instaclustr_v2.1.29_linux_amd64.zip",
+          "shasum": "40332b811290288d16898ff7f3105e9d254f2bcbc6be806799fd4372ed819665",
+          "h1": "h1:fm6vT4c25k8mZiZNqdiKcYkZISA4LqUnU3zGR8aMhe4="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-instaclustr_v2.1.29_linux_arm.zip",
+          "download_url": "https://github.com/instaclustr/terraform-provider-instaclustr/releases/download/v2.1.29/terraform-provider-instaclustr_v2.1.29_linux_arm.zip",
+          "shasum": "b8cd1513b9ce0b46efcb096f94b0ad1cdb2ded50b81f4304bd24737f2dc35127",
+          "h1": "h1:z76m9uXWqz5va1fm0mH1bNQb1aF33ru1vOe8beNlD1w="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-instaclustr_v2.1.29_linux_arm64.zip",
+          "download_url": "https://github.com/instaclustr/terraform-provider-instaclustr/releases/download/v2.1.29/terraform-provider-instaclustr_v2.1.29_linux_arm64.zip",
+          "shasum": "353d373f75ff1fd53933c1deeb4813e1dfaa9e180bf51932a34862a7255709d3",
+          "h1": "h1:D14DNkJXGOVsRIpcr6BMaa53DBB69BLGh7AJScBiVCg="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-instaclustr_v2.1.29_windows_386.zip",
+          "download_url": "https://github.com/instaclustr/terraform-provider-instaclustr/releases/download/v2.1.29/terraform-provider-instaclustr_v2.1.29_windows_386.zip",
+          "shasum": "61008ab8de2be12832657e1e6fb854cc3d3fcf4ad9e55d6dffa51d2a3eb1ed7d",
+          "h1": "h1:xLA61rHb919P/+BGaDuax/Dbx+Rl4anRSjkpFLs/MfI="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-instaclustr_v2.1.29_windows_amd64.zip",
+          "download_url": "https://github.com/instaclustr/terraform-provider-instaclustr/releases/download/v2.1.29/terraform-provider-instaclustr_v2.1.29_windows_amd64.zip",
+          "shasum": "240e11e8fea152d81341b0a608f7e04e348d71edc6543a586d083206189b26a8",
+          "h1": "h1:P4fhAmlijdaj8NK5dmGehU2XvbM496BWrJQVo743fvM="
+        }
+      ]
+    },
+    {
       "version": "2.1.28",
       "protocols": [
         "5.0"
