@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.30.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/leaseweb/terraform-provider-leaseweb/releases/download/v1.30.0/terraform-provider-leaseweb_1.30.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/leaseweb/terraform-provider-leaseweb/releases/download/v1.30.0/terraform-provider-leaseweb_1.30.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-leaseweb_1.30.0_darwin_amd64.zip",
+          "download_url": "https://github.com/leaseweb/terraform-provider-leaseweb/releases/download/v1.30.0/terraform-provider-leaseweb_1.30.0_darwin_amd64.zip",
+          "shasum": "6b09d15523f9268e57cc414d595a1303faf1f44295380e47c8ce88535ad25bba",
+          "h1": "h1:UQX7JMx85M0pzM8IYKwGaGO6Ww3uLKIBmBAWgNHEVtE="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-leaseweb_1.30.0_darwin_arm64.zip",
+          "download_url": "https://github.com/leaseweb/terraform-provider-leaseweb/releases/download/v1.30.0/terraform-provider-leaseweb_1.30.0_darwin_arm64.zip",
+          "shasum": "d1d13d839732596bb5fc542de5814742c90a49e50a21974e90a69d6cd09b187b",
+          "h1": "h1:xlpE8EeZq+CjAHLGJABxIwydetfPPXq933oAx2997WI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-leaseweb_1.30.0_freebsd_386.zip",
+          "download_url": "https://github.com/leaseweb/terraform-provider-leaseweb/releases/download/v1.30.0/terraform-provider-leaseweb_1.30.0_freebsd_386.zip",
+          "shasum": "00f2981f8a8c78ff2b3c61c3777a572e3a58c84e7fa9a5a9eef6a47936b0882e",
+          "h1": "h1:oDvtTFA3dk927uNY/j6WUwBVpV6cTJrifWftD805GNE="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-leaseweb_1.30.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/leaseweb/terraform-provider-leaseweb/releases/download/v1.30.0/terraform-provider-leaseweb_1.30.0_freebsd_amd64.zip",
+          "shasum": "5c26b5610d3a5ab618c1709b15ca618c0c7d353e1c106713766986f59336da91",
+          "h1": "h1:iJwRcZRSWbjAcpYnTUfaww+j/mGvXaUdlDUsoMfuZVE="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-leaseweb_1.30.0_freebsd_arm.zip",
+          "download_url": "https://github.com/leaseweb/terraform-provider-leaseweb/releases/download/v1.30.0/terraform-provider-leaseweb_1.30.0_freebsd_arm.zip",
+          "shasum": "0f186d4e90edebd0bbf06c701f2b9b6616e2d223d8d227a68b9505005746c4c6",
+          "h1": "h1:cR70oGNeEOkQyskVNgqNS0OGl+KKR/Q0iJ1OjzVth7E="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-leaseweb_1.30.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/leaseweb/terraform-provider-leaseweb/releases/download/v1.30.0/terraform-provider-leaseweb_1.30.0_freebsd_arm64.zip",
+          "shasum": "24db618488dcf961f618a2557c6e6d14f25ba07d2cb45ff7a9893083d2289b26",
+          "h1": "h1:0LUaaQntsj6QtEUiwiLgeTKP63C32cQlr7Iq83XYTDc="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-leaseweb_1.30.0_linux_386.zip",
+          "download_url": "https://github.com/leaseweb/terraform-provider-leaseweb/releases/download/v1.30.0/terraform-provider-leaseweb_1.30.0_linux_386.zip",
+          "shasum": "4adbe898053166fa08cc30ac9c8645fe35c8d18c3383894b2294049c589a5305",
+          "h1": "h1:KkXtuyFs2AbdWKBMOfE+IjLDAe/1qepbgt1pgliN5bQ="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-leaseweb_1.30.0_linux_amd64.zip",
+          "download_url": "https://github.com/leaseweb/terraform-provider-leaseweb/releases/download/v1.30.0/terraform-provider-leaseweb_1.30.0_linux_amd64.zip",
+          "shasum": "c31f8a8a6e6c1d88e58e71ef475d488f8027ae3366fac0fc25a7d040aa2690ee",
+          "h1": "h1:MnEvGgJyhczZWTu7Ktl0r5ELldD7/4O7ufFegXxAs5I="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-leaseweb_1.30.0_linux_arm.zip",
+          "download_url": "https://github.com/leaseweb/terraform-provider-leaseweb/releases/download/v1.30.0/terraform-provider-leaseweb_1.30.0_linux_arm.zip",
+          "shasum": "cb1407fd4f8b5f30e1e2f3066ec772ff9a82c79aa1d1645945885acda6fd360c",
+          "h1": "h1:0T3p85vjlaKqnM7f8tQflRI/cNuBHQ370DdI5cJ585w="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-leaseweb_1.30.0_linux_arm64.zip",
+          "download_url": "https://github.com/leaseweb/terraform-provider-leaseweb/releases/download/v1.30.0/terraform-provider-leaseweb_1.30.0_linux_arm64.zip",
+          "shasum": "f97e6423edcf8f9a7aef0097c4c0eea9c4bd4d0994228420264451fe249a7d26",
+          "h1": "h1:x1fIbKcA4CUu2WTEa5p7v/1pUa3a/iKZdzB9f9yTQns="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-leaseweb_1.30.0_windows_386.zip",
+          "download_url": "https://github.com/leaseweb/terraform-provider-leaseweb/releases/download/v1.30.0/terraform-provider-leaseweb_1.30.0_windows_386.zip",
+          "shasum": "8ca6e87248cea79013a62cf0fb4fb10a8ee8b35a44a2fe3c95742693568a9d81",
+          "h1": "h1:mhEf9p4KFm7cwJg2zBVjRlvah4ca7Je8QR47FuGqWj8="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-leaseweb_1.30.0_windows_amd64.zip",
+          "download_url": "https://github.com/leaseweb/terraform-provider-leaseweb/releases/download/v1.30.0/terraform-provider-leaseweb_1.30.0_windows_amd64.zip",
+          "shasum": "80fbf9e4246412b2015f16754a14355ee3f0ceb9f9c41ef4de154e56002a92f0",
+          "h1": "h1:5srun9mFs2Znqk0LA/T1yt7TzzJbPCOSaE9zNNV4d08="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-leaseweb_1.30.0_windows_arm.zip",
+          "download_url": "https://github.com/leaseweb/terraform-provider-leaseweb/releases/download/v1.30.0/terraform-provider-leaseweb_1.30.0_windows_arm.zip",
+          "shasum": "2f14b02e117a067f9a9a0779e621fe24a664ecd35b9810fcec7d22eacd6311f5",
+          "h1": "h1:3kwu0ZTjI23u4gEWm91PBJ3CgXdkbX5TYXwI7XF5rKU="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-leaseweb_1.30.0_windows_arm64.zip",
+          "download_url": "https://github.com/leaseweb/terraform-provider-leaseweb/releases/download/v1.30.0/terraform-provider-leaseweb_1.30.0_windows_arm64.zip",
+          "shasum": "653644d599ef67f6cc5c927f3dbec9eb6c7b60487bbec0114de2c4c25ae5aaad",
+          "h1": "h1:3sg5yq8nDnhHJHlD8mdOOmuR4z/43v9AN72bQLGQoNc="
+        }
+      ]
+    },
+    {
       "version": "1.29.0",
       "protocols": [
         "6.0"
