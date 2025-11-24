@@ -1,6 +1,80 @@
 {
   "versions": [
     {
+      "version": "0.2.24",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/adyxax/terraform-provider-eventline/releases/download/v0.2.24/terraform-provider-eventline_0.2.24_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/adyxax/terraform-provider-eventline/releases/download/v0.2.24/terraform-provider-eventline_0.2.24_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-eventline_0.2.24_darwin_amd64.zip",
+          "download_url": "https://github.com/adyxax/terraform-provider-eventline/releases/download/v0.2.24/terraform-provider-eventline_0.2.24_darwin_amd64.zip",
+          "shasum": "a88e5ac1657ca109f493913079b9ad35ffe874ec37b18102e3096c42139a83c3",
+          "h1": "h1:Jk40X9qj1zauvyecAR2qPF+f1P8fYN3xRwhdbQhSLR0="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-eventline_0.2.24_darwin_arm64.zip",
+          "download_url": "https://github.com/adyxax/terraform-provider-eventline/releases/download/v0.2.24/terraform-provider-eventline_0.2.24_darwin_arm64.zip",
+          "shasum": "2c36625988d1dfd50b606372bb3a133e765e7afc4ef605c5e901803e72056648",
+          "h1": "h1:XtNfxsZGlCBuaVgrNBvBL8YcLMP+A4h8fQvRqIQBMlc="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-eventline_0.2.24_freebsd_amd64.zip",
+          "download_url": "https://github.com/adyxax/terraform-provider-eventline/releases/download/v0.2.24/terraform-provider-eventline_0.2.24_freebsd_amd64.zip",
+          "shasum": "830f88a8b50db05a235a5b7734dd958a8a0bfa808d5ede2a268514038528a9f1",
+          "h1": "h1:AHA33tIAQqGvu5jszo/7g7LCJjNcrTKmIDyPpsuAzNA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-eventline_0.2.24_freebsd_arm64.zip",
+          "download_url": "https://github.com/adyxax/terraform-provider-eventline/releases/download/v0.2.24/terraform-provider-eventline_0.2.24_freebsd_arm64.zip",
+          "shasum": "b2d40362e709e97db958fcd30e517560dcf263cfd1c39f689bda9262d654fd1a",
+          "h1": "h1:KaBuynxEFNmzruCBL5oWPdHnIP+jXE93t14z7z2M97U="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-eventline_0.2.24_linux_amd64.zip",
+          "download_url": "https://github.com/adyxax/terraform-provider-eventline/releases/download/v0.2.24/terraform-provider-eventline_0.2.24_linux_amd64.zip",
+          "shasum": "780db43aa978a1c86fdb3a119814a232216a5364c127aaa83335148f712c298a",
+          "h1": "h1:RyENzeqAMKnoZ5FVmoFsdeSFZ1PXtm/2/rLG84sNa6c="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-eventline_0.2.24_linux_arm64.zip",
+          "download_url": "https://github.com/adyxax/terraform-provider-eventline/releases/download/v0.2.24/terraform-provider-eventline_0.2.24_linux_arm64.zip",
+          "shasum": "099a20c0fa102aa2461a4850d1b9b8dc158192703774f5dd93f22bac4a265012",
+          "h1": "h1:gmPsCYgGlWibjqL2wDqXfMk1U7+NZNu+QiSmb3auECA="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-eventline_0.2.24_windows_amd64.zip",
+          "download_url": "https://github.com/adyxax/terraform-provider-eventline/releases/download/v0.2.24/terraform-provider-eventline_0.2.24_windows_amd64.zip",
+          "shasum": "a41a8098afc21ecb44cfd277bcb9cedc430a3f89142877bc1e4dbca82f0cb471",
+          "h1": "h1:bThQ2lhkfAY7n9Qp5uja6m6tWvfzvmyF9d5GNMH74nw="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-eventline_0.2.24_windows_arm64.zip",
+          "download_url": "https://github.com/adyxax/terraform-provider-eventline/releases/download/v0.2.24/terraform-provider-eventline_0.2.24_windows_arm64.zip",
+          "shasum": "7e2139586ba40403dda1399343f392ba123489b571278b4a1ad733cf3915adac",
+          "h1": "h1:5xjcoK3I8ofu5klBjQaVKGLGGSFn45eqR+JhoGu/0Y0="
+        }
+      ]
+    },
+    {
       "version": "0.2.23",
       "protocols": [
         "6.0"
