@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "4.6.3",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/zscaler/terraform-provider-zia/releases/download/v4.6.3/terraform-provider-zia_4.6.3_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/zscaler/terraform-provider-zia/releases/download/v4.6.3/terraform-provider-zia_4.6.3_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-zia_4.6.3_darwin_amd64.zip",
+          "download_url": "https://github.com/zscaler/terraform-provider-zia/releases/download/v4.6.3/terraform-provider-zia_4.6.3_darwin_amd64.zip",
+          "shasum": "410c44a41800acdfbb2251ee67d6e76c528995d01bcffdbffc0b9a3a20d99e57",
+          "h1": "h1:Nva03MYjgXFGTKW6SZ1f5XvOMU/9Uf1H1Vtx/kBoU0g="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-zia_4.6.3_darwin_arm64.zip",
+          "download_url": "https://github.com/zscaler/terraform-provider-zia/releases/download/v4.6.3/terraform-provider-zia_4.6.3_darwin_arm64.zip",
+          "shasum": "25e933c21a2f7d33edf7e582e7b9605a457f951cf2f920ce4522d928867df041",
+          "h1": "h1:GPpXic4e5413NTC3A2cAjkQABGs5R6oj3cYJo6EUepw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-zia_4.6.3_freebsd_386.zip",
+          "download_url": "https://github.com/zscaler/terraform-provider-zia/releases/download/v4.6.3/terraform-provider-zia_4.6.3_freebsd_386.zip",
+          "shasum": "d43fc42519b2aa1eb16a4c54513f4e7d411308548fda828bcfdf98a70c6bd44e",
+          "h1": "h1:gW9D0+pSDMKeVnModQ5Svwt3xZW1oo2Z2uNm1VFd46o="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-zia_4.6.3_freebsd_amd64.zip",
+          "download_url": "https://github.com/zscaler/terraform-provider-zia/releases/download/v4.6.3/terraform-provider-zia_4.6.3_freebsd_amd64.zip",
+          "shasum": "282ca798df33c777c57ce9ece2814fd4361927491eda50c0d875c470432234ad",
+          "h1": "h1:hV9EGBsHScvN3XwnhUaJ9fv9NhZB3iiwwtPIFfPnWPg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-zia_4.6.3_freebsd_arm.zip",
+          "download_url": "https://github.com/zscaler/terraform-provider-zia/releases/download/v4.6.3/terraform-provider-zia_4.6.3_freebsd_arm.zip",
+          "shasum": "b03e14f806ca0ec346b1d4dceb90e3b6694e3f50836b48de71d82e2268a14e6c",
+          "h1": "h1:0NPUzwyN31qdur79gbjUI9+aMY1bYJJ5MLM8UntYXHo="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-zia_4.6.3_freebsd_arm64.zip",
+          "download_url": "https://github.com/zscaler/terraform-provider-zia/releases/download/v4.6.3/terraform-provider-zia_4.6.3_freebsd_arm64.zip",
+          "shasum": "bd11acce6b8fb188b276fe5bcfb9d655dfb25f6f712178a5766340f9ac54d985",
+          "h1": "h1:mBG4bOyQYVUQlSx/3HhE2iM2+wFu+l20RPwpjnTD8Sk="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-zia_4.6.3_linux_386.zip",
+          "download_url": "https://github.com/zscaler/terraform-provider-zia/releases/download/v4.6.3/terraform-provider-zia_4.6.3_linux_386.zip",
+          "shasum": "ab67cce99821743b63c2cbc9b2cd81cd5004870a765e2ac8d57b5fb6644364b5",
+          "h1": "h1:5SSUkBFhJmi4Rhiu/yKZoy2UKORyd19JxOxifRc/eRU="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-zia_4.6.3_linux_amd64.zip",
+          "download_url": "https://github.com/zscaler/terraform-provider-zia/releases/download/v4.6.3/terraform-provider-zia_4.6.3_linux_amd64.zip",
+          "shasum": "3ed577918cfa4be32704a8b44cef56062a3c73de02687710cbfdd7c67e59b591",
+          "h1": "h1:4C5q6qjpRLwQM1mRwpUVKomRKM84XQy8+5b6sj6NAYI="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-zia_4.6.3_linux_arm.zip",
+          "download_url": "https://github.com/zscaler/terraform-provider-zia/releases/download/v4.6.3/terraform-provider-zia_4.6.3_linux_arm.zip",
+          "shasum": "6c2af1b301207517c80ff0256308ec463b26d9f23790dc3adc4e87cb2368ab8c",
+          "h1": "h1:6UMHpFxB2KFwlmDbTGrY9BvE7m9m7XeXhp5ibJ8Pg1U="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-zia_4.6.3_linux_arm64.zip",
+          "download_url": "https://github.com/zscaler/terraform-provider-zia/releases/download/v4.6.3/terraform-provider-zia_4.6.3_linux_arm64.zip",
+          "shasum": "f0bc9cd16a1135d746e1495f6c2026913a6001c6604a5d5944f9ef24d41bc9a4",
+          "h1": "h1:VAgbu8g2H6l0U5yt0umgFNtqnnpbdZHz0uyfXH0Ek2Q="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-zia_4.6.3_windows_386.zip",
+          "download_url": "https://github.com/zscaler/terraform-provider-zia/releases/download/v4.6.3/terraform-provider-zia_4.6.3_windows_386.zip",
+          "shasum": "de6fca5bf1f8605da1266d801e8b5100fa0682a89b8e4039e226088f643a474a",
+          "h1": "h1:Shf9IcKUwpYuSgQzLEav7bsHjoL3b7eE/Y06NF8A27w="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-zia_4.6.3_windows_amd64.zip",
+          "download_url": "https://github.com/zscaler/terraform-provider-zia/releases/download/v4.6.3/terraform-provider-zia_4.6.3_windows_amd64.zip",
+          "shasum": "0464302d59e3cb44e18f2a26fcb8015cc98e9a9bb9a541b7be7af8940db515f9",
+          "h1": "h1:uCW5NIQE2VPdG7t5FTTTXednS0sQwg4EXQBKw5Iu1lA="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-zia_4.6.3_windows_arm.zip",
+          "download_url": "https://github.com/zscaler/terraform-provider-zia/releases/download/v4.6.3/terraform-provider-zia_4.6.3_windows_arm.zip",
+          "shasum": "0391d8b3ef382b4199d93789de9005153f46de896c6cdd9920e45c2f166f3e23",
+          "h1": "h1:o9fQzksZPfhbuSvCsZ+v7EK4t5G87Y+qUbCtuBpp05I="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-zia_4.6.3_windows_arm64.zip",
+          "download_url": "https://github.com/zscaler/terraform-provider-zia/releases/download/v4.6.3/terraform-provider-zia_4.6.3_windows_arm64.zip",
+          "shasum": "04f73cc35b2171172544035da2eca88581a4a2567026e5fef82b73fd80aaada0",
+          "h1": "h1:GMmk+ENE3FqkTv+gzvrdqnJYN19xp8cdYfee8me2li0="
+        }
+      ]
+    },
+    {
       "version": "4.6.2",
       "protocols": [
         "5.0"
