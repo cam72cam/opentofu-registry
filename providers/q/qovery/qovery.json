@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.50.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/qovery/terraform-provider-qovery/releases/download/v0.50.0/terraform-provider-qovery_0.50.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/qovery/terraform-provider-qovery/releases/download/v0.50.0/terraform-provider-qovery_0.50.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-qovery_0.50.0_darwin_amd64.zip",
+          "download_url": "https://github.com/qovery/terraform-provider-qovery/releases/download/v0.50.0/terraform-provider-qovery_0.50.0_darwin_amd64.zip",
+          "shasum": "af3ee9c50fd595a4ad6ab7b75caa48c6d8cdd9e856e5020bb41b36cc34d2e984",
+          "h1": "h1:xb4nXXoaIDTPVkhmg5k9FqYzYU6xhoDzzdv5hUsyIXs="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-qovery_0.50.0_darwin_arm64.zip",
+          "download_url": "https://github.com/qovery/terraform-provider-qovery/releases/download/v0.50.0/terraform-provider-qovery_0.50.0_darwin_arm64.zip",
+          "shasum": "77efe9cf4381d00dbbffbc8685c8a9239cb3380d48859e400a16f066f39b8500",
+          "h1": "h1:FIYPA4j8lyMk+r/87uaiwozEam/IKUrtiBLqQTcaKqQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-qovery_0.50.0_freebsd_386.zip",
+          "download_url": "https://github.com/qovery/terraform-provider-qovery/releases/download/v0.50.0/terraform-provider-qovery_0.50.0_freebsd_386.zip",
+          "shasum": "f3473170c061e827303bf408be0f5fb38a9b06ea57da7229bb3c1aec6e533df4",
+          "h1": "h1:tCsf+8xyt+oCYAJwVc7tUV890rRTCz2Bt/Zn31xlnBA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-qovery_0.50.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/qovery/terraform-provider-qovery/releases/download/v0.50.0/terraform-provider-qovery_0.50.0_freebsd_amd64.zip",
+          "shasum": "0ce3c451ee936aa5cb2c62f1bdc09a1fad6f6f08034bfd18067d6a107e527af1",
+          "h1": "h1:ZCdK2ijjoRe1nHBRBcebSKoKmTKtBavzhihfOKbD1gA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-qovery_0.50.0_freebsd_arm.zip",
+          "download_url": "https://github.com/qovery/terraform-provider-qovery/releases/download/v0.50.0/terraform-provider-qovery_0.50.0_freebsd_arm.zip",
+          "shasum": "7d9067bbdaadbdcc8faf33b1ff57132fe32e1103b37d641e09b64a76bb1f7baa",
+          "h1": "h1:YPDmALBpJuahmVk8/ZVn1fRrnFlP6jWnYwueonX5uJw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-qovery_0.50.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/qovery/terraform-provider-qovery/releases/download/v0.50.0/terraform-provider-qovery_0.50.0_freebsd_arm64.zip",
+          "shasum": "91f43cae5cb36bf3f8a994eb3dacaf1fff3c7c0263d6fb9098c25569fe0e5e69",
+          "h1": "h1:pYp4LdxOGPBAVbRHbBI+Fj9admo010UEIprsC77Xlk4="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-qovery_0.50.0_linux_386.zip",
+          "download_url": "https://github.com/qovery/terraform-provider-qovery/releases/download/v0.50.0/terraform-provider-qovery_0.50.0_linux_386.zip",
+          "shasum": "ef62efe9fb004c6aa19c046b7d6287691ed3fb8ecbb53da3f04dfa692a398b16",
+          "h1": "h1:2BgtuVkI5HvavZ3adwwXtM9Lw4IBwyYoMSxW1oeBwXk="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-qovery_0.50.0_linux_amd64.zip",
+          "download_url": "https://github.com/qovery/terraform-provider-qovery/releases/download/v0.50.0/terraform-provider-qovery_0.50.0_linux_amd64.zip",
+          "shasum": "453fde22b250ba340e45b4ddccc310bc2062c62fd90cfc627bd994d6e7170b2c",
+          "h1": "h1:uOw9ja9kgu6ORJdtiB4nlhoK1bdQbD0R2GBzaP+wpwQ="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-qovery_0.50.0_linux_arm.zip",
+          "download_url": "https://github.com/qovery/terraform-provider-qovery/releases/download/v0.50.0/terraform-provider-qovery_0.50.0_linux_arm.zip",
+          "shasum": "3436555bff3ca2f4227bcb15cf56c6669636e9d3249a17f6a3a7f89fba316e01",
+          "h1": "h1:n8XRGMuOJvM2Yg9lwSMPSD2bpqNgX3WyHHIzpSRje/I="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-qovery_0.50.0_linux_arm64.zip",
+          "download_url": "https://github.com/qovery/terraform-provider-qovery/releases/download/v0.50.0/terraform-provider-qovery_0.50.0_linux_arm64.zip",
+          "shasum": "81540a849026b718094106701db570ced6e4006008b8f1e24bd606cc0133d4b0",
+          "h1": "h1:UEKgo5KCdmXK5l32kfxSNg9e7Pbl5z59T3iZ9Q6hs+Q="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-qovery_0.50.0_windows_386.zip",
+          "download_url": "https://github.com/qovery/terraform-provider-qovery/releases/download/v0.50.0/terraform-provider-qovery_0.50.0_windows_386.zip",
+          "shasum": "b78a6c7e96964acdaea505b5c06da0dade7286a83579ed64b4e775c15f92c131",
+          "h1": "h1:Lu0QB5ovN6abFOEVo6J4TjYH/BiTSzHz6C2IVPLIogk="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-qovery_0.50.0_windows_amd64.zip",
+          "download_url": "https://github.com/qovery/terraform-provider-qovery/releases/download/v0.50.0/terraform-provider-qovery_0.50.0_windows_amd64.zip",
+          "shasum": "2fbe0c3e63e8c0a753af98201b91975be14d5f356c52bfbb78dcf412555ce53b",
+          "h1": "h1:c94D+xXch9WIeelIYGaNXXHq+0UntL5qFqV1SV4Qg8c="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-qovery_0.50.0_windows_arm.zip",
+          "download_url": "https://github.com/qovery/terraform-provider-qovery/releases/download/v0.50.0/terraform-provider-qovery_0.50.0_windows_arm.zip",
+          "shasum": "4a9c892eaadde29df897aa9d3a0330e68b9ff9105dc3a95e67e5dc1e0e482256",
+          "h1": "h1:a1WK0mWy8tJ+KDdRoa/E8NXGna+idY0I+ERDikLkzlc="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-qovery_0.50.0_windows_arm64.zip",
+          "download_url": "https://github.com/qovery/terraform-provider-qovery/releases/download/v0.50.0/terraform-provider-qovery_0.50.0_windows_arm64.zip",
+          "shasum": "bf5ecc62a94f6b4949a4684a334d985ca0007c998aec46ceefd5080d78b164ac",
+          "h1": "h1:sJV4li6hoVSAJsSecj9VHpSvy0nvb4wKp3H+gk6HndI="
+        }
+      ]
+    },
+    {
       "version": "0.49.1",
       "protocols": [
         "6.0"
