@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.3.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/splunk/terraform-provider-scp/releases/download/v1.3.0/terraform-provider-scp_1.3.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/splunk/terraform-provider-scp/releases/download/v1.3.0/terraform-provider-scp_1.3.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-scp_1.3.0_darwin_amd64.zip",
+          "download_url": "https://github.com/splunk/terraform-provider-scp/releases/download/v1.3.0/terraform-provider-scp_1.3.0_darwin_amd64.zip",
+          "shasum": "33cb2924defed917f34b2bed8799b8b2cc6a5087dc236d6a111b987081232c1f",
+          "h1": "h1:rfkqQglVrIcdWc2EyLlkk3t2vb8sMG1xwBwyyrq3YLo="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-scp_1.3.0_darwin_arm64.zip",
+          "download_url": "https://github.com/splunk/terraform-provider-scp/releases/download/v1.3.0/terraform-provider-scp_1.3.0_darwin_arm64.zip",
+          "shasum": "b5a330450617066a35347a2369f0d03db4fc2afd31826dd848d017d98f3c8a9f",
+          "h1": "h1:mkMmD9+LgdT6JmQJSgysBJGsrz8Pvz0FuJAxCEt7kgw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-scp_1.3.0_freebsd_386.zip",
+          "download_url": "https://github.com/splunk/terraform-provider-scp/releases/download/v1.3.0/terraform-provider-scp_1.3.0_freebsd_386.zip",
+          "shasum": "0770dcd1b92fb64b59aace334c9e02e9cc34f1533996288ffbfcb2c1b433b905",
+          "h1": "h1:f9vgRKPOdvSr2KJD70f2mhjWqlEZZvdTHHgLgRtTY8k="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-scp_1.3.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/splunk/terraform-provider-scp/releases/download/v1.3.0/terraform-provider-scp_1.3.0_freebsd_amd64.zip",
+          "shasum": "cb42addf2acfc12f4445749660bdc5a2a60bf8cb601d0299fbd38098f1c5daa5",
+          "h1": "h1:3VeDxnbJDGGvnvZHoE4/RDDWYzeEcToldOjgsRAxzYw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-scp_1.3.0_freebsd_arm.zip",
+          "download_url": "https://github.com/splunk/terraform-provider-scp/releases/download/v1.3.0/terraform-provider-scp_1.3.0_freebsd_arm.zip",
+          "shasum": "c85226221048329897fa53605847c9b4e12fc46373d95e7fbb168dff53d2510e",
+          "h1": "h1:8LFmDl0PesRdAnIu+BBHia9V/ElNhgnNUNRsMJUADjI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-scp_1.3.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/splunk/terraform-provider-scp/releases/download/v1.3.0/terraform-provider-scp_1.3.0_freebsd_arm64.zip",
+          "shasum": "7e0a83e71143bc7e263d538cd70fe57217f735b0df09151c840632e5fc6a7380",
+          "h1": "h1:qN4qjCxUq/QW0uJDgnQiUNamUnAWS0rdgTrbybhgPgM="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-scp_1.3.0_linux_386.zip",
+          "download_url": "https://github.com/splunk/terraform-provider-scp/releases/download/v1.3.0/terraform-provider-scp_1.3.0_linux_386.zip",
+          "shasum": "dad3badef686ad81c45e579a952cdb194cbf99392e0ee52509230f895980524d",
+          "h1": "h1:BItRCpjv2PaY269IRqj8VokPY/FhNGYD3CZ4GBUbafk="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-scp_1.3.0_linux_amd64.zip",
+          "download_url": "https://github.com/splunk/terraform-provider-scp/releases/download/v1.3.0/terraform-provider-scp_1.3.0_linux_amd64.zip",
+          "shasum": "629a578500c57ae91a9bb74fe0b7bb3e350eaab056e8796c7edc4711666076e1",
+          "h1": "h1:d96eTgB8Btn54uLL/aqXPSAUmsrB9JCO3gNhFPTxBhY="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-scp_1.3.0_linux_arm.zip",
+          "download_url": "https://github.com/splunk/terraform-provider-scp/releases/download/v1.3.0/terraform-provider-scp_1.3.0_linux_arm.zip",
+          "shasum": "39c6fd213416b9eb5d275a54e2c9a1607042000c8fea61688699a347bb3de391",
+          "h1": "h1:0nHrqfJD6ZZfoSXpN9sn3WcO96FrdHvJo15fwxKWdsg="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-scp_1.3.0_linux_arm64.zip",
+          "download_url": "https://github.com/splunk/terraform-provider-scp/releases/download/v1.3.0/terraform-provider-scp_1.3.0_linux_arm64.zip",
+          "shasum": "df09a627782e740edf3424b9f180ee816a604955f6ad303bc0dfb4d2ee8f25ed",
+          "h1": "h1:ab11iTRnnhgiU56yDWnqT26mgHy5s8lP1hmt+NazKS8="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-scp_1.3.0_windows_386.zip",
+          "download_url": "https://github.com/splunk/terraform-provider-scp/releases/download/v1.3.0/terraform-provider-scp_1.3.0_windows_386.zip",
+          "shasum": "b5e7cc5d05c45b7810be55c2bdcee79fbdf2afc284c84160fd319ac0ad51b969",
+          "h1": "h1:utI6yIp2UvbmOgnYN3DZjegW7rUE4yvIo9WN1Hy/c3A="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-scp_1.3.0_windows_amd64.zip",
+          "download_url": "https://github.com/splunk/terraform-provider-scp/releases/download/v1.3.0/terraform-provider-scp_1.3.0_windows_amd64.zip",
+          "shasum": "76ab230e874dcffa290776a0a6489624503202f0472d7bcabe234a20d2fe2cfd",
+          "h1": "h1:gcNu3ZVg8QIzfoni1l5vmZ3k7pyn3AG66yxuOOiQzOI="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-scp_1.3.0_windows_arm.zip",
+          "download_url": "https://github.com/splunk/terraform-provider-scp/releases/download/v1.3.0/terraform-provider-scp_1.3.0_windows_arm.zip",
+          "shasum": "0d555035649f79c374b0690a726d6c6553bd788e8a8aa3b6c2665fbe206dbc06",
+          "h1": "h1:BC25cSQq536W1AjDz/NbpaLYUJE6hrjcE/QS4IKpqPc="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-scp_1.3.0_windows_arm64.zip",
+          "download_url": "https://github.com/splunk/terraform-provider-scp/releases/download/v1.3.0/terraform-provider-scp_1.3.0_windows_arm64.zip",
+          "shasum": "4c45dc100638f69dbf99b31790304ef463cbd23639368fa27fb82ab11217ba3f",
+          "h1": "h1:dtIc6p6XSw3dAjdA6yC2C/qHsYorsuwOiBDGIippDS0="
+        }
+      ]
+    },
+    {
       "version": "1.2.7",
       "protocols": [
         "5.0"
