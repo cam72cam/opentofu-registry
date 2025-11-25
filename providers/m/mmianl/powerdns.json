@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.8.2",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/mmianl/terraform-provider-powerdns/releases/download/v1.8.2/terraform-provider-powerdns_1.8.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/mmianl/terraform-provider-powerdns/releases/download/v1.8.2/terraform-provider-powerdns_1.8.2_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-powerdns_1.8.2_darwin_amd64.zip",
+          "download_url": "https://github.com/mmianl/terraform-provider-powerdns/releases/download/v1.8.2/terraform-provider-powerdns_1.8.2_darwin_amd64.zip",
+          "shasum": "9f43823dfe7b2f243c6a888ef8290e697db884db4b344d020d77c59036ce7629",
+          "h1": "h1:9rurFbtyFo2KTHQ3jCnU2BjFJiXje8upTbWSwND7kgg="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-powerdns_1.8.2_darwin_arm64.zip",
+          "download_url": "https://github.com/mmianl/terraform-provider-powerdns/releases/download/v1.8.2/terraform-provider-powerdns_1.8.2_darwin_arm64.zip",
+          "shasum": "6fce5c100744c64f4fc44f5c99fb877037123d398043e00efeb03d90c78a7bca",
+          "h1": "h1:spVHgp+/wEGOekvkG/MnRFChOgQeMKLH/zvrnOsgs50="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-powerdns_1.8.2_freebsd_386.zip",
+          "download_url": "https://github.com/mmianl/terraform-provider-powerdns/releases/download/v1.8.2/terraform-provider-powerdns_1.8.2_freebsd_386.zip",
+          "shasum": "c92afc593ecfdcfe6f66ddfd092b4e02beff7cf2b8d736534b45d5e5d137daf0",
+          "h1": "h1:f9Xf7Fqn81Mzxmzm169zMxA8Gy6bal3h3w72oht6lFQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-powerdns_1.8.2_freebsd_amd64.zip",
+          "download_url": "https://github.com/mmianl/terraform-provider-powerdns/releases/download/v1.8.2/terraform-provider-powerdns_1.8.2_freebsd_amd64.zip",
+          "shasum": "2884afcb039095382a381d4eb2cf0c794b55ab82e05a132f079995eae8217bce",
+          "h1": "h1:L6Di4buij9tU9J5/rWbe5DxxSs0cwM3EAMQyMhPPfSU="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-powerdns_1.8.2_freebsd_arm.zip",
+          "download_url": "https://github.com/mmianl/terraform-provider-powerdns/releases/download/v1.8.2/terraform-provider-powerdns_1.8.2_freebsd_arm.zip",
+          "shasum": "3516a43c6b063759d9e714f1c294e53abd1426ed61db4e5d0acfba20181fb223",
+          "h1": "h1:hcYiEgRJjqZPA4VH/nsHyag1lJq0G221hbE9x1AG9fQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-powerdns_1.8.2_freebsd_arm64.zip",
+          "download_url": "https://github.com/mmianl/terraform-provider-powerdns/releases/download/v1.8.2/terraform-provider-powerdns_1.8.2_freebsd_arm64.zip",
+          "shasum": "ddbdd242d0ada5668977299a12d1206fdee14ef5d75525c4ec641238267a1f22",
+          "h1": "h1:WOcTEzuVs6zcp7h6hu3ZYSwrq78JR43tlWqo7N5Kb+U="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-powerdns_1.8.2_linux_386.zip",
+          "download_url": "https://github.com/mmianl/terraform-provider-powerdns/releases/download/v1.8.2/terraform-provider-powerdns_1.8.2_linux_386.zip",
+          "shasum": "a682b287d9e9f8758f2b5de64f2dafa3c3753f9b6ca9ff18ac525667df9f8974",
+          "h1": "h1:OlFcgiJdF+5boQOfYs9JNdvI7DvG9rmaBepcz+V12A4="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-powerdns_1.8.2_linux_amd64.zip",
+          "download_url": "https://github.com/mmianl/terraform-provider-powerdns/releases/download/v1.8.2/terraform-provider-powerdns_1.8.2_linux_amd64.zip",
+          "shasum": "1380a1a11d3b3a1e67e4b30972ef112ad5b4943bd7ca9e5465798f6dad8f9359",
+          "h1": "h1:S2em8UQKNcy1Iw9EpPyau7WyjXjwvnQfMGdjEu2PDO8="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-powerdns_1.8.2_linux_arm.zip",
+          "download_url": "https://github.com/mmianl/terraform-provider-powerdns/releases/download/v1.8.2/terraform-provider-powerdns_1.8.2_linux_arm.zip",
+          "shasum": "8dab9a20742e48b51f7253855f4047a0423995a38e6efa18e78b12bae58ab59e",
+          "h1": "h1:5VSNLgjFIbHA7Y69hrAc2BqN3yx5F5/65o6iCg4E25U="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-powerdns_1.8.2_linux_arm64.zip",
+          "download_url": "https://github.com/mmianl/terraform-provider-powerdns/releases/download/v1.8.2/terraform-provider-powerdns_1.8.2_linux_arm64.zip",
+          "shasum": "339e725967692a94117eafe93cbfa56f98a734be2eee43973694d875416416d1",
+          "h1": "h1:mLC8WiecJK6niVklTn5XlwrS+jpxWum4lVLn4aNvi0M="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-powerdns_1.8.2_windows_386.zip",
+          "download_url": "https://github.com/mmianl/terraform-provider-powerdns/releases/download/v1.8.2/terraform-provider-powerdns_1.8.2_windows_386.zip",
+          "shasum": "638773fc4aea0215d89c9852f974b312632a595a1e80930e294638de5ba1e5ab",
+          "h1": "h1:K5G/enlZoxipd3Df8sS1L/MzEtfquFGCXxwL7dpEfaQ="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-powerdns_1.8.2_windows_amd64.zip",
+          "download_url": "https://github.com/mmianl/terraform-provider-powerdns/releases/download/v1.8.2/terraform-provider-powerdns_1.8.2_windows_amd64.zip",
+          "shasum": "24b441ff10f1a3923ef4b4d4dc762d7f965fad9082ccf14001ed259022e27ec4",
+          "h1": "h1:GriROGuWs6gnGnyf1r0+ltiK9vX3uvEK3DjjKO35yhM="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-powerdns_1.8.2_windows_arm.zip",
+          "download_url": "https://github.com/mmianl/terraform-provider-powerdns/releases/download/v1.8.2/terraform-provider-powerdns_1.8.2_windows_arm.zip",
+          "shasum": "bf5a8bd21b71eaf7b0566cd3b1520a7dc814d271d9fdba3263f22ce1416a703b",
+          "h1": "h1:UP314wFSTZHtJUBpCT2TvhuaQMfIklNFrorcvnN4u/Y="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-powerdns_1.8.2_windows_arm64.zip",
+          "download_url": "https://github.com/mmianl/terraform-provider-powerdns/releases/download/v1.8.2/terraform-provider-powerdns_1.8.2_windows_arm64.zip",
+          "shasum": "66db760366c915afad823395862d80c3a1fa9a1478f28cacab80d5e9b949ad5a",
+          "h1": "h1:o+r1Xn7CSfLw49aycv9mxiI4jVTwpEDU4m4cMXydsEM="
+        }
+      ]
+    },
+    {
       "version": "1.8.1",
       "protocols": [
         "5.0"
