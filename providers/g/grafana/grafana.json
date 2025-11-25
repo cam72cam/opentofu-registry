@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "4.20.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.20.0/terraform-provider-grafana_4.20.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.20.0/terraform-provider-grafana_4.20.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-grafana_4.20.0_darwin_amd64.zip",
+          "download_url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.20.0/terraform-provider-grafana_4.20.0_darwin_amd64.zip",
+          "shasum": "bbea7373504df80467495a9df4920c1da88ddbe90e0df389f74fef46323f3f75",
+          "h1": "h1:/uVI19e8M3akmUmoOBKR6xfp71F09hcW/kc3g1wi7wI="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-grafana_4.20.0_darwin_arm64.zip",
+          "download_url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.20.0/terraform-provider-grafana_4.20.0_darwin_arm64.zip",
+          "shasum": "ab15b817d85aa6d1a160b47742acfd710bdfa47d9380a30eb2df84c7f7b04cb1",
+          "h1": "h1:dD34tz8VAYPKWXmyjFW7+IM3ha50gnj5w1U0gh6GubI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-grafana_4.20.0_freebsd_386.zip",
+          "download_url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.20.0/terraform-provider-grafana_4.20.0_freebsd_386.zip",
+          "shasum": "8305a4d1f22c92245de0c37e2843d83ce465b4dead6520faed56ad69e177a1ac",
+          "h1": "h1:x1mQ6lHwswTY0JVve1k0LGiNcaZIy7EgvYaSrnLUvrc="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-grafana_4.20.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.20.0/terraform-provider-grafana_4.20.0_freebsd_amd64.zip",
+          "shasum": "80703b16387334a32f48680ab44cd9bc7769e9b78e2fcc840baa2971aa0b130d",
+          "h1": "h1:f0fqYsCnA2Mg576rnVGQVuto/j4gmLHJ2ivttZYLzlQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-grafana_4.20.0_freebsd_arm.zip",
+          "download_url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.20.0/terraform-provider-grafana_4.20.0_freebsd_arm.zip",
+          "shasum": "9ee6dc8a68cd3f3e13d6af52ee14228f348866ea577e96721299dfffc108d588",
+          "h1": "h1:VH81ljr6Okq1jExgPN4uVUaLcxt+U7/Y99YTsQkrUA4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-grafana_4.20.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.20.0/terraform-provider-grafana_4.20.0_freebsd_arm64.zip",
+          "shasum": "601a041a6ad7185a258a72160df63d57e77813f119e508a0ec73f3a195bf9e2b",
+          "h1": "h1:iI56E+Bhx/o6FIE3yzjOhL1QOrz5ZtqYcToX7d4VJv4="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-grafana_4.20.0_linux_386.zip",
+          "download_url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.20.0/terraform-provider-grafana_4.20.0_linux_386.zip",
+          "shasum": "5b92fd60f52b4e1bd27bee762b8c347242dd2f5ed02003e85dc5735a7bdc88a4",
+          "h1": "h1:upywELTpshZv3EtC47DpgqA2ZFts89X6cdVyn5lD0Gs="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-grafana_4.20.0_linux_amd64.zip",
+          "download_url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.20.0/terraform-provider-grafana_4.20.0_linux_amd64.zip",
+          "shasum": "2de47d93efcbcd1c843aaaab8f1925b727e743ac4aa14048eae7a3820a00cbe3",
+          "h1": "h1:G2d1jsfIOQs3JRvpW3ciFQMNH3iBcFdGVxy+OXbKTJI="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-grafana_4.20.0_linux_arm.zip",
+          "download_url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.20.0/terraform-provider-grafana_4.20.0_linux_arm.zip",
+          "shasum": "5d3e108093f412539e4f891f669df2f48928f8c0b7317ba66d8ce5b0e42213a5",
+          "h1": "h1:m7rga47pwYANJy4+eEmV4/s+fXaEbvrcHcH7zqsi8ig="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-grafana_4.20.0_linux_arm64.zip",
+          "download_url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.20.0/terraform-provider-grafana_4.20.0_linux_arm64.zip",
+          "shasum": "f380dac65cfb1c240a13fd16c676b989a1f5800cfe1901d4017bf0b668e8a9e0",
+          "h1": "h1:YgW4F5i0hZBnofojmKi49w+3v+DKnoHc3LZxnb6I+V0="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-grafana_4.20.0_windows_386.zip",
+          "download_url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.20.0/terraform-provider-grafana_4.20.0_windows_386.zip",
+          "shasum": "1d2a75a53f2aa764a62fe1d806bc0210ee12431ce3ee55328bccdeb2c3c6321c",
+          "h1": "h1:GQt7rrmJwMkGCix1k/k9qSloIdDzf7y1PynZfx++U+w="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-grafana_4.20.0_windows_amd64.zip",
+          "download_url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.20.0/terraform-provider-grafana_4.20.0_windows_amd64.zip",
+          "shasum": "47c0516a64b671860bdf9c6370358090ca8cd8b66a3703b928f79cfda4c755da",
+          "h1": "h1:4HH+KfJMfkOafDXnygkGiEp+m5K6rfmss6MFlsLLL6k="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-grafana_4.20.0_windows_arm.zip",
+          "download_url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.20.0/terraform-provider-grafana_4.20.0_windows_arm.zip",
+          "shasum": "80fa73a8c1860f25940bd6ebdd036b37d153092a5cc5d1358d41b7dff617f51e",
+          "h1": "h1:vbbpL6WhdNTJu0LWTF9qpGfNknKEQ6Umw3bvtA/0IAI="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-grafana_4.20.0_windows_arm64.zip",
+          "download_url": "https://github.com/grafana/terraform-provider-grafana/releases/download/v4.20.0/terraform-provider-grafana_4.20.0_windows_arm64.zip",
+          "shasum": "f6d269e77fcf3b14d120ef40ba1acce2c9cf52dce2c6990a32cf570dc9668e2e",
+          "h1": "h1:P+iiGOQcQy9kPMMVhMlc26N8QVQaw8hYLcJHWidwiSU="
+        }
+      ]
+    },
+    {
       "version": "4.19.0",
       "protocols": [
         "5.0"
