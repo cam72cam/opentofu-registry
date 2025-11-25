@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.2.16",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/controlplane-com/terraform-provider-cpln/releases/download/v1.2.16/terraform-provider-cpln_1.2.16_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/controlplane-com/terraform-provider-cpln/releases/download/v1.2.16/terraform-provider-cpln_1.2.16_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-cpln_1.2.16_darwin_amd64.zip",
+          "download_url": "https://github.com/controlplane-com/terraform-provider-cpln/releases/download/v1.2.16/terraform-provider-cpln_1.2.16_darwin_amd64.zip",
+          "shasum": "114a1ddbd14d13221ef0363cb00c35469270df9de0c48f0d10e685ae8cfc9fec",
+          "h1": "h1:A72DVdecIBQoi94M9kasuyWuTA/TfyKvMcssDe9OtwY="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-cpln_1.2.16_darwin_arm64.zip",
+          "download_url": "https://github.com/controlplane-com/terraform-provider-cpln/releases/download/v1.2.16/terraform-provider-cpln_1.2.16_darwin_arm64.zip",
+          "shasum": "cc8ddb17a81afd157718d8c7d4a43e9e3e4d950821f85c7c2edec9e51e7f58c7",
+          "h1": "h1:EBlkL6vAuCJmJQnTfomLqpoVi1XxGueGACholoQYFvA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-cpln_1.2.16_freebsd_386.zip",
+          "download_url": "https://github.com/controlplane-com/terraform-provider-cpln/releases/download/v1.2.16/terraform-provider-cpln_1.2.16_freebsd_386.zip",
+          "shasum": "7703af3c7a07a00ba8d2d509dcdcc969af4bc91fd3b77d8e31987b61ad4c8fa7",
+          "h1": "h1:PAp5JG47BajNz0WsfUHhXvoPwOKX1+60QpW4Lytowto="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-cpln_1.2.16_freebsd_amd64.zip",
+          "download_url": "https://github.com/controlplane-com/terraform-provider-cpln/releases/download/v1.2.16/terraform-provider-cpln_1.2.16_freebsd_amd64.zip",
+          "shasum": "a6f3f3f8d9bab6868f444aad9a85e0ae862aabec8cb34eea12748d4dcde43743",
+          "h1": "h1:O8ojtzC9fTWZJkRN2CiIWdYHGG9FNOOHtIEL3d6a9yQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-cpln_1.2.16_freebsd_arm.zip",
+          "download_url": "https://github.com/controlplane-com/terraform-provider-cpln/releases/download/v1.2.16/terraform-provider-cpln_1.2.16_freebsd_arm.zip",
+          "shasum": "0e687f18527d99cd3055f0926c54c41c2dbb047244a9405379e21ede25e05a8b",
+          "h1": "h1:QQruDTvMvH2dC/A5vjiO+MB8h5Garp3uBMufIlNh1nI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-cpln_1.2.16_freebsd_arm64.zip",
+          "download_url": "https://github.com/controlplane-com/terraform-provider-cpln/releases/download/v1.2.16/terraform-provider-cpln_1.2.16_freebsd_arm64.zip",
+          "shasum": "01c45b1ec53ba3b9e88ba6644121ec4246362ce599d0de77cbce301bebe46124",
+          "h1": "h1:hV6MMxVdvmBkZ4PLrLYOredLb8pfxiJXT+MP98t60l8="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-cpln_1.2.16_linux_386.zip",
+          "download_url": "https://github.com/controlplane-com/terraform-provider-cpln/releases/download/v1.2.16/terraform-provider-cpln_1.2.16_linux_386.zip",
+          "shasum": "0487506c19f65928409ec79f94eaa15ec6f393a71f1573208239e53013961eb5",
+          "h1": "h1:djSOkMd1L1NubXNq9CRP5XlU010HWUyoyMf/BkvnyLs="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-cpln_1.2.16_linux_amd64.zip",
+          "download_url": "https://github.com/controlplane-com/terraform-provider-cpln/releases/download/v1.2.16/terraform-provider-cpln_1.2.16_linux_amd64.zip",
+          "shasum": "c89a2492fcb5da1f6ffa6412423c906890aff133cc648583bcb9da3725475af8",
+          "h1": "h1:x5b5tP79LcQ8bp72Z0KnN2ZffmgMEjIxQPLsrHjdkMo="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-cpln_1.2.16_linux_arm.zip",
+          "download_url": "https://github.com/controlplane-com/terraform-provider-cpln/releases/download/v1.2.16/terraform-provider-cpln_1.2.16_linux_arm.zip",
+          "shasum": "79e8def6df271f5a1fd60899fff6fa3ce57c5a8804fa77ceccfd3c790aa19b8a",
+          "h1": "h1:pGUxJ+RQj7bPp9nXFk1/y2elN7Im8vHMde9Yfe+0FkE="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-cpln_1.2.16_linux_arm64.zip",
+          "download_url": "https://github.com/controlplane-com/terraform-provider-cpln/releases/download/v1.2.16/terraform-provider-cpln_1.2.16_linux_arm64.zip",
+          "shasum": "025213ff7063a7e0d3799803d627ad4f6ba93557697af2b867192271715523f6",
+          "h1": "h1:WGjqsO9BSYnJUp6DSHz8ONbwjQ+KMrP8OhqxQAj0Rns="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-cpln_1.2.16_windows_386.zip",
+          "download_url": "https://github.com/controlplane-com/terraform-provider-cpln/releases/download/v1.2.16/terraform-provider-cpln_1.2.16_windows_386.zip",
+          "shasum": "813de2d4887f277e6b3e6195402384c87a7b9af6394d5607cd11fb52e5ba97df",
+          "h1": "h1:b8AvYnwmBC5ekQQNAAFY6bzPToAK3ZshA6Bv0BTxrqc="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-cpln_1.2.16_windows_amd64.zip",
+          "download_url": "https://github.com/controlplane-com/terraform-provider-cpln/releases/download/v1.2.16/terraform-provider-cpln_1.2.16_windows_amd64.zip",
+          "shasum": "c4ecbb739e2f2c697e6a54dde3efab5f06b97a900c1b98cc137fc2ce7bdb6dac",
+          "h1": "h1:CGBoyJ2mDpH/7cF3mpvrTrfaXHS5BzcNq2tx/gRaiGw="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-cpln_1.2.16_windows_arm.zip",
+          "download_url": "https://github.com/controlplane-com/terraform-provider-cpln/releases/download/v1.2.16/terraform-provider-cpln_1.2.16_windows_arm.zip",
+          "shasum": "dfe3f091741fb7245150d3b152f1426b463f4952e92539f7d646f2e0bd1965cb",
+          "h1": "h1:EkB2oguHsGBiQunlFstXUDpje4+84dyaLvIiyb6Kidg="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-cpln_1.2.16_windows_arm64.zip",
+          "download_url": "https://github.com/controlplane-com/terraform-provider-cpln/releases/download/v1.2.16/terraform-provider-cpln_1.2.16_windows_arm64.zip",
+          "shasum": "82e69108424bcc6e2c56bc7be00b84df388940d964903097ed3ca56f471cbf52",
+          "h1": "h1:U2HENks1lT///SbK+QqpgK2RxDEOKYpkkYBpJJ03Htk="
+        }
+      ]
+    },
+    {
       "version": "1.2.15",
       "protocols": [
         "6.0"
