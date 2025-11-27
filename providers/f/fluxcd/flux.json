@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.7.6",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.7.6/terraform-provider-flux_1.7.6_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.7.6/terraform-provider-flux_1.7.6_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-flux_1.7.6_darwin_amd64.zip",
+          "download_url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.7.6/terraform-provider-flux_1.7.6_darwin_amd64.zip",
+          "shasum": "d39a431d592629c23a4fb04ebc44c24b2bc68f03c5b85d5830fb21da0f025d9b",
+          "h1": "h1:vLAi6AkxYlmVgmrQrhnOvyIgN1H/kupHUZ8/p2g3bog="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-flux_1.7.6_darwin_arm64.zip",
+          "download_url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.7.6/terraform-provider-flux_1.7.6_darwin_arm64.zip",
+          "shasum": "08f1d43cc4d0d73beb26e433126ef68434ae1b88a945f3c7403e93ef8ce40b16",
+          "h1": "h1:rTN6yArT8dBH7qzGieKOMZuVbZ+vQJPtYYI4iGTf0K4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-flux_1.7.6_freebsd_386.zip",
+          "download_url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.7.6/terraform-provider-flux_1.7.6_freebsd_386.zip",
+          "shasum": "199ba361e9cbbb0289094480be7d1cdaae1796dcdbddb40bf5d3ee9c5aeb4483",
+          "h1": "h1:M6aL4yF6pkzTsLCPmu6Jn7Tcln66ycLybN32p7xXgtQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-flux_1.7.6_freebsd_amd64.zip",
+          "download_url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.7.6/terraform-provider-flux_1.7.6_freebsd_amd64.zip",
+          "shasum": "0a27c7876f2399a66049deae0a2f0ba2233a8eddd3a45560eff6e20dac279317",
+          "h1": "h1:4eLKXZfwLpXczPpLUruvbWaSY1ZMguCtlWXUB2Kf3NQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-flux_1.7.6_freebsd_arm.zip",
+          "download_url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.7.6/terraform-provider-flux_1.7.6_freebsd_arm.zip",
+          "shasum": "4b910e6a1e4b65e838d4f2bb5965ff4b54ea315b35ae60ee5b17ceed1a75d11a",
+          "h1": "h1:kJL1IL0fGlb1T6lAF6bbaHx6ARu+jECIJx+Z8UfyE8U="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-flux_1.7.6_freebsd_arm64.zip",
+          "download_url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.7.6/terraform-provider-flux_1.7.6_freebsd_arm64.zip",
+          "shasum": "44ea3043649059b6884031b9e31016fad62dcb1e724dae29e5012a8ad4007039",
+          "h1": "h1:vgLG3VTwALIkcAMal5anrtePxzXWlQj36rccsaXKF+U="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-flux_1.7.6_linux_386.zip",
+          "download_url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.7.6/terraform-provider-flux_1.7.6_linux_386.zip",
+          "shasum": "8802c20134830ea46ef9214498c0539d3b63d7b0d0af82cfa6731ca7d41390c4",
+          "h1": "h1:lLSez51qlErsUTW6HHsgbGxjgs70qO88GS8IUNRt5tc="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-flux_1.7.6_linux_amd64.zip",
+          "download_url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.7.6/terraform-provider-flux_1.7.6_linux_amd64.zip",
+          "shasum": "ace15c081c466984beecee05b9b072bfdf563020eccab6ed6ae7004238602f82",
+          "h1": "h1:Zciva4ZlK4Oqg6cAnFoKUOVpEkJvZx/xbCvE4xbFSWY="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-flux_1.7.6_linux_arm.zip",
+          "download_url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.7.6/terraform-provider-flux_1.7.6_linux_arm.zip",
+          "shasum": "fce784eb774155ccd9a87663d2dc9aa3e82e4fd495d8adb304301adf756a8f63",
+          "h1": "h1:AXSsCtxSNwF8D/b7I0sZ1A0C2SIIawvsqrRKpqWbWBk="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-flux_1.7.6_linux_arm64.zip",
+          "download_url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.7.6/terraform-provider-flux_1.7.6_linux_arm64.zip",
+          "shasum": "5418c8ca39db1bb5e65edc4a976d3cb0140b30cbe63814287a3b7f36f14978ec",
+          "h1": "h1:b/AKqBFvcKsugXe+8LtXHZerTG3l7lNWywRlxjPPBHo="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-flux_1.7.6_windows_386.zip",
+          "download_url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.7.6/terraform-provider-flux_1.7.6_windows_386.zip",
+          "shasum": "7cf60dc7fa3a7f9323aa8d036e931348482fb69340e6238caff21ec49e941bef",
+          "h1": "h1:b/L9PO9w6HyuzM0+8XwGhbVApSN4HmXeIlFclUWDJxY="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-flux_1.7.6_windows_amd64.zip",
+          "download_url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.7.6/terraform-provider-flux_1.7.6_windows_amd64.zip",
+          "shasum": "6a2dad787674fd2219cb6a6d72d2e77500aba1c5b527db7c3e4d6fedb10d40db",
+          "h1": "h1:fu8xug4wWBpK8TLULX/B187uVm4l5oo1sNFKoMAEsCI="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-flux_1.7.6_windows_arm.zip",
+          "download_url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.7.6/terraform-provider-flux_1.7.6_windows_arm.zip",
+          "shasum": "467f67a39b60ff247ead85d689cbdbaff2baac7693804a2a24857cb4824e2cc6",
+          "h1": "h1:sIKocCXM2SUI6zCyxIm7vW0qxXD0rv3mB9N64CBWuEQ="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-flux_1.7.6_windows_arm64.zip",
+          "download_url": "https://github.com/fluxcd/terraform-provider-flux/releases/download/v1.7.6/terraform-provider-flux_1.7.6_windows_arm64.zip",
+          "shasum": "9f20bcf0fda0ac6a3a162566537d8319bec377617cbec58d4c0805c9088d107c",
+          "h1": "h1:D2tpVa4fxqPv9aClFUQrSCinJEC88bzsxuG5rBRw6xY="
+        }
+      ]
+    },
+    {
       "version": "1.7.5",
       "protocols": [
         "5.0"
