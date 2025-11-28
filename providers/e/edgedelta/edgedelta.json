@@ -1,6 +1,120 @@
 {
   "versions": [
     {
+      "version": "0.0.8",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/edgedelta/terraform-provider-edgedelta/releases/download/v0.0.8/terraform-provider-edgedelta_0.0.8_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/edgedelta/terraform-provider-edgedelta/releases/download/v0.0.8/terraform-provider-edgedelta_0.0.8_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-edgedelta_0.0.8_darwin_amd64.zip",
+          "download_url": "https://github.com/edgedelta/terraform-provider-edgedelta/releases/download/v0.0.8/terraform-provider-edgedelta_0.0.8_darwin_amd64.zip",
+          "shasum": "f7b85c2353eea0f00a92eff207860f617b078ea7f38e2d557a2bb4b2349afba5",
+          "h1": "h1:5EEHg9SEvJSORQZTcSJuDTjgO+fBbqiJZkCvT7JWEqQ="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-edgedelta_0.0.8_darwin_arm64.zip",
+          "download_url": "https://github.com/edgedelta/terraform-provider-edgedelta/releases/download/v0.0.8/terraform-provider-edgedelta_0.0.8_darwin_arm64.zip",
+          "shasum": "4a3dab61694a1a44e707b3136846c494c37e2803f46965c09e9032e61f9c2dbf",
+          "h1": "h1:SiftJZBh2A/AOAKgFZll+YzZKhCme/NOoSyDf58KD9A="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-edgedelta_0.0.8_freebsd_386.zip",
+          "download_url": "https://github.com/edgedelta/terraform-provider-edgedelta/releases/download/v0.0.8/terraform-provider-edgedelta_0.0.8_freebsd_386.zip",
+          "shasum": "2fcd3f21b272ea132e9c24a41602b0fca206366f159f53a62c94cdaab545abe1",
+          "h1": "h1:HEds5sZELJeC7Ut7VVMUWyNZ8ObZtKvShocGsRBJ/1k="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-edgedelta_0.0.8_freebsd_amd64.zip",
+          "download_url": "https://github.com/edgedelta/terraform-provider-edgedelta/releases/download/v0.0.8/terraform-provider-edgedelta_0.0.8_freebsd_amd64.zip",
+          "shasum": "1d1753b1c3b0682896e066f47226e64a578daaa4c740004397fda17d14cf5793",
+          "h1": "h1:joSQ8CzNGSnRYCzuWEfnFrf5mwHfodhDoj8Fd420vEY="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-edgedelta_0.0.8_freebsd_arm.zip",
+          "download_url": "https://github.com/edgedelta/terraform-provider-edgedelta/releases/download/v0.0.8/terraform-provider-edgedelta_0.0.8_freebsd_arm.zip",
+          "shasum": "0b1023c8f0949f7cc7660c53a021e1ff062db9c09c5e093ff60bc19ac0cf9fff",
+          "h1": "h1:zEtb0sEllhs/pq1AXXzhZAJTbo88dWKL84R3zbQV34c="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-edgedelta_0.0.8_freebsd_arm64.zip",
+          "download_url": "https://github.com/edgedelta/terraform-provider-edgedelta/releases/download/v0.0.8/terraform-provider-edgedelta_0.0.8_freebsd_arm64.zip",
+          "shasum": "95785c501ad3f5f7d8924e182d04b8d417a1d749dd71cc973402b30c45fa8ad7",
+          "h1": "h1:Z19xThTb3aDq0yIuLepex3yxaUlXI2y0eoQq7VHZErI="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-edgedelta_0.0.8_linux_386.zip",
+          "download_url": "https://github.com/edgedelta/terraform-provider-edgedelta/releases/download/v0.0.8/terraform-provider-edgedelta_0.0.8_linux_386.zip",
+          "shasum": "927b098a975125b7d0b4dff2f4bbe98c9974f118bd05b4bd35c077f134d56a2d",
+          "h1": "h1:z+QcuafTIk9pbuiW0dnArKjUeRshwMAyeULFA0O+IW8="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-edgedelta_0.0.8_linux_amd64.zip",
+          "download_url": "https://github.com/edgedelta/terraform-provider-edgedelta/releases/download/v0.0.8/terraform-provider-edgedelta_0.0.8_linux_amd64.zip",
+          "shasum": "95ea81c479ffc47d496cc0068c8a5bf44082ffcd3e7d91a39417cbe558fe60d7",
+          "h1": "h1:N7Bxd+gvfVK6xr/olIdYrBW8z3DREWYJqbvegYxTuVY="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-edgedelta_0.0.8_linux_arm.zip",
+          "download_url": "https://github.com/edgedelta/terraform-provider-edgedelta/releases/download/v0.0.8/terraform-provider-edgedelta_0.0.8_linux_arm.zip",
+          "shasum": "56d5cf175219ac1ff3935d6062d87743d449ad990523d624527ace11ec173b10",
+          "h1": "h1:3rBuUXDBYpD/O3IrrbeOj2OTxCfjTQp54qe/8mOsa98="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-edgedelta_0.0.8_linux_arm64.zip",
+          "download_url": "https://github.com/edgedelta/terraform-provider-edgedelta/releases/download/v0.0.8/terraform-provider-edgedelta_0.0.8_linux_arm64.zip",
+          "shasum": "1f23f98f835a491658eec1e0dad5312f3ae507aa62d2fad2f32e34134c51ca50",
+          "h1": "h1:kSuF9olgngTttMX97qyfcVG1wt4j7gFzeBqPIBdOnxw="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-edgedelta_0.0.8_windows_386.zip",
+          "download_url": "https://github.com/edgedelta/terraform-provider-edgedelta/releases/download/v0.0.8/terraform-provider-edgedelta_0.0.8_windows_386.zip",
+          "shasum": "4aeef0bdaf92b147454b895051d0856e87014b74ca819ad65878f10bd731b046",
+          "h1": "h1:wFvq+m4MkO4ZSC1fCidYmnhnRA9uuqikP3bAIicds5o="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-edgedelta_0.0.8_windows_amd64.zip",
+          "download_url": "https://github.com/edgedelta/terraform-provider-edgedelta/releases/download/v0.0.8/terraform-provider-edgedelta_0.0.8_windows_amd64.zip",
+          "shasum": "6264fb78e96e973033129eec5b19b02686cdb2771766fd84c72974a572b1abfd",
+          "h1": "h1:J8SPos8penCNb141EYHacY+g5Lx82n8QcosttfjSyb0="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-edgedelta_0.0.8_windows_arm.zip",
+          "download_url": "https://github.com/edgedelta/terraform-provider-edgedelta/releases/download/v0.0.8/terraform-provider-edgedelta_0.0.8_windows_arm.zip",
+          "shasum": "ea3c8a7b73bf22bbf56640b52b14471a9dda8b99309208bb6a548b601f73c2bb",
+          "h1": "h1:9xhU4DfwrLUi6ofP/5Zr0CoOi2Z5iR3dhmo16EmcRHg="
+        }
+      ]
+    },
+    {
       "version": "0.0.7",
       "protocols": [
         "5.0"
