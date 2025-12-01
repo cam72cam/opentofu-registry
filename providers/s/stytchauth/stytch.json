@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "3.0.1",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/stytchauth/terraform-provider-stytch/releases/download/v3.0.1/terraform-provider-stytch_3.0.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/stytchauth/terraform-provider-stytch/releases/download/v3.0.1/terraform-provider-stytch_3.0.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-stytch_3.0.1_darwin_amd64.zip",
+          "download_url": "https://github.com/stytchauth/terraform-provider-stytch/releases/download/v3.0.1/terraform-provider-stytch_3.0.1_darwin_amd64.zip",
+          "shasum": "541f6f04182454cbd443e91106f01dc3dc74ffdb6847c7c87c7faa489f1fdcc6",
+          "h1": "h1:xavpPSEuFV5Ck6JsGsa+lP6H9HSrET3lRQdLKxFBOP0="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-stytch_3.0.1_darwin_arm64.zip",
+          "download_url": "https://github.com/stytchauth/terraform-provider-stytch/releases/download/v3.0.1/terraform-provider-stytch_3.0.1_darwin_arm64.zip",
+          "shasum": "16ae3b2623354ad192ea3fa932d523c2d317649d4c80f89318f9b7d25cb4670f",
+          "h1": "h1:MVKR2ftK15kYwzFUmdkfdxTL4FqsdVMVsDXA6QB2nkg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-stytch_3.0.1_freebsd_386.zip",
+          "download_url": "https://github.com/stytchauth/terraform-provider-stytch/releases/download/v3.0.1/terraform-provider-stytch_3.0.1_freebsd_386.zip",
+          "shasum": "d7bffe24fa55aafa241c4ad0e728203116a8cc8045e2ad8302c4c8ce3d8458f3",
+          "h1": "h1:N7AkSUYKfEtDlEqfj3NY/fvEBUGR3NU0r0aAmPbqe9Q="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-stytch_3.0.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/stytchauth/terraform-provider-stytch/releases/download/v3.0.1/terraform-provider-stytch_3.0.1_freebsd_amd64.zip",
+          "shasum": "34c54d1a44b330dcf01c25479b684a625ea8120a39e6ee11d58f175625f9a453",
+          "h1": "h1:TGGvYWhvR/sAif+KMAGNiom33dJFKt4QoQ37zj/ViC8="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-stytch_3.0.1_freebsd_arm.zip",
+          "download_url": "https://github.com/stytchauth/terraform-provider-stytch/releases/download/v3.0.1/terraform-provider-stytch_3.0.1_freebsd_arm.zip",
+          "shasum": "81eecbfdbda0ee73ae1b71f3f339c1165edebf93e1514e60eaf85711227e2cd4",
+          "h1": "h1:rkoC3cNj/e/mBitAw9/8gVo8DVxVGNbOdJBjlweSy+0="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-stytch_3.0.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/stytchauth/terraform-provider-stytch/releases/download/v3.0.1/terraform-provider-stytch_3.0.1_freebsd_arm64.zip",
+          "shasum": "2a8fab1531b3327feddbec5b29c6ee47e42b2e6f452914e84f54a65638aac220",
+          "h1": "h1:7oynIdNgrZREyyqxLXlPSzI9DDndwX2DIqgL5g2aYqQ="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-stytch_3.0.1_linux_386.zip",
+          "download_url": "https://github.com/stytchauth/terraform-provider-stytch/releases/download/v3.0.1/terraform-provider-stytch_3.0.1_linux_386.zip",
+          "shasum": "c303451da1053bd91074c6d70e2462a60af1b39e5591d1083076bb9e9bfcdac5",
+          "h1": "h1:5D/pKfE8e2rQf3kZZCaSPslZe2Pz+pJmRY1+EKt+hL0="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-stytch_3.0.1_linux_amd64.zip",
+          "download_url": "https://github.com/stytchauth/terraform-provider-stytch/releases/download/v3.0.1/terraform-provider-stytch_3.0.1_linux_amd64.zip",
+          "shasum": "f25aeb183d03931685d1a25503db9705dd81d8a377fba6950df9d50392898faf",
+          "h1": "h1:sMdEdHRdZtZf88WDC4p6msC8kDysMscbZ5s3NFQy/uw="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-stytch_3.0.1_linux_arm.zip",
+          "download_url": "https://github.com/stytchauth/terraform-provider-stytch/releases/download/v3.0.1/terraform-provider-stytch_3.0.1_linux_arm.zip",
+          "shasum": "22e3525f09a8f3e85f5532b263bf19e410f34096dc57d3760cb174669f763606",
+          "h1": "h1:ZkGDCYId86CI9rG4AyBu2dJHpxkOvk8COlCUNSZgGqs="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-stytch_3.0.1_linux_arm64.zip",
+          "download_url": "https://github.com/stytchauth/terraform-provider-stytch/releases/download/v3.0.1/terraform-provider-stytch_3.0.1_linux_arm64.zip",
+          "shasum": "cd8d2c52a92ea140d95d9e467772c1af529e05ed02e2c42a383d0b0e70b34e9c",
+          "h1": "h1:BhEaO0ri0sGyV0nF8HQ+Dy/bTrlsEx43FDDRwzepaUo="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-stytch_3.0.1_windows_386.zip",
+          "download_url": "https://github.com/stytchauth/terraform-provider-stytch/releases/download/v3.0.1/terraform-provider-stytch_3.0.1_windows_386.zip",
+          "shasum": "5b26badaaa8c64c49217c33076fa69e2fbbb446c96650dfc0100639e0194e04c",
+          "h1": "h1:1E7NgWWkckjG7tRkMlTp/7YwU2RCgQER0YSFcMF8RWI="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-stytch_3.0.1_windows_amd64.zip",
+          "download_url": "https://github.com/stytchauth/terraform-provider-stytch/releases/download/v3.0.1/terraform-provider-stytch_3.0.1_windows_amd64.zip",
+          "shasum": "b53c90356195fa659d7c5dd8d44c4315a33cdbee08b1608cdf4b577539e13bf8",
+          "h1": "h1:krK7cNNt3sG7Lep/j4jSDRLMs3xBHgLaA5uOl6TZ678="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-stytch_3.0.1_windows_arm.zip",
+          "download_url": "https://github.com/stytchauth/terraform-provider-stytch/releases/download/v3.0.1/terraform-provider-stytch_3.0.1_windows_arm.zip",
+          "shasum": "ed92ac39b876b2693b32a748ad20e7dd18871b1d8b707caf01e66fea858579cf",
+          "h1": "h1:Zpc+flYjYFwryx7ngFZgcSFlpG8c+qDVixUNj6OcWhg="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-stytch_3.0.1_windows_arm64.zip",
+          "download_url": "https://github.com/stytchauth/terraform-provider-stytch/releases/download/v3.0.1/terraform-provider-stytch_3.0.1_windows_arm64.zip",
+          "shasum": "553b91953a39bf823f372fc4340b1faf50f42e31a66ce3a9ef04478c60c265e9",
+          "h1": "h1:jtC1dMfhCexY3T0szvXNonfOLA/pHZm1wKWyb2ewgh8="
+        }
+      ]
+    },
+    {
       "version": "3.0.0",
       "protocols": [
         "6.0"
