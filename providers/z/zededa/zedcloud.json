@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "2.6.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.6.0/terraform-provider-zedcloud_2.6.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.6.0/terraform-provider-zedcloud_2.6.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-zedcloud_2.6.0_darwin_amd64.zip",
+          "download_url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.6.0/terraform-provider-zedcloud_2.6.0_darwin_amd64.zip",
+          "shasum": "8bf1365bd8556ad8168dadb59701c4364e1f8464158097f62af333c2b69e5027",
+          "h1": "h1:wguC7f8o6VkNty8QJ2aeN/BSgzEJSoUdWrpwYK/jkrc="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-zedcloud_2.6.0_darwin_arm64.zip",
+          "download_url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.6.0/terraform-provider-zedcloud_2.6.0_darwin_arm64.zip",
+          "shasum": "5eba5b851ee6575941258db809cbbca9a905c718f5bc01cd92299012d9e2545e",
+          "h1": "h1:c/flvLeJx/DACyLQZls4iEl34PRWQRdXVLFJ3QBnPeI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-zedcloud_2.6.0_freebsd_386.zip",
+          "download_url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.6.0/terraform-provider-zedcloud_2.6.0_freebsd_386.zip",
+          "shasum": "be525efb384e749e28888fc9e77b3800fbeceb870144e38f43d8cab0625b8e1f",
+          "h1": "h1:n+DJv+saYts+sa2Gy5Z6FgPVFc4OeciGlA0q7mESQ/Y="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-zedcloud_2.6.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.6.0/terraform-provider-zedcloud_2.6.0_freebsd_amd64.zip",
+          "shasum": "3f013b3af34e030173fbb96f003c74953d167edb02a09625f1901bfb0434c028",
+          "h1": "h1:nNUjPBr90629LcCKbwSTBdYqvAYutmld9OJ4lCYvIEg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-zedcloud_2.6.0_freebsd_arm.zip",
+          "download_url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.6.0/terraform-provider-zedcloud_2.6.0_freebsd_arm.zip",
+          "shasum": "645c27c89bbf7cc7979b419fff98f6e73f5e27157b2c7886dea88d4fc35cf522",
+          "h1": "h1:Od63vSKMIXLRZEvduIbLZZIHdxt2PxYBdOSO+fc+Eeg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-zedcloud_2.6.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.6.0/terraform-provider-zedcloud_2.6.0_freebsd_arm64.zip",
+          "shasum": "9fbf24382d8889f76dfb8cd9bdd077913bc6beff18de4dd89b6376b13826251d",
+          "h1": "h1:AwJDiTkVAcJgjqOo2dhWgrAEhvdS2sUqRsrmbNM6ul0="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-zedcloud_2.6.0_linux_386.zip",
+          "download_url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.6.0/terraform-provider-zedcloud_2.6.0_linux_386.zip",
+          "shasum": "fccba25b6c3d6b5004c66b5774f42426631d97e7ddb90cc646949d5c030f8eac",
+          "h1": "h1:ajWRlb7ZQ601E+x5mmohzf5lj468WZ0JDKnNO8hrvBU="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-zedcloud_2.6.0_linux_amd64.zip",
+          "download_url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.6.0/terraform-provider-zedcloud_2.6.0_linux_amd64.zip",
+          "shasum": "810779feb52ffc32b26c63cc8f8f626314159301f6aa918f822595f111870d3e",
+          "h1": "h1:IgJJ+85lq50ae+WI/RQwMhwkZhJwDVLz7duoOz7BrIY="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-zedcloud_2.6.0_linux_arm.zip",
+          "download_url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.6.0/terraform-provider-zedcloud_2.6.0_linux_arm.zip",
+          "shasum": "0fa7ef3b4ba81fedc12fd564ddac520aff34ba9dc3e8b78d0117efe946400d76",
+          "h1": "h1:cdAVAbaZX7r6WiyRC8NWmkvcod4k5FU8HJzk4ys2VmI="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-zedcloud_2.6.0_linux_arm64.zip",
+          "download_url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.6.0/terraform-provider-zedcloud_2.6.0_linux_arm64.zip",
+          "shasum": "3fd6aa71babc41b92c97c94a2082ebed90236f5218a8c54b359b9e43f18cb605",
+          "h1": "h1:oapVGGGmzLHtw5i8x9zoE//SdT+yiuvBmT36dKG78fA="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-zedcloud_2.6.0_windows_386.zip",
+          "download_url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.6.0/terraform-provider-zedcloud_2.6.0_windows_386.zip",
+          "shasum": "1b95180960add379026c85cdd4195fd716d5678890de6ad521cf5e39d8247e2d",
+          "h1": "h1:cHGQ0w7ccDYX8j0e6aRnnJKZ5Gh8XP5uS1/r+iQTZlI="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-zedcloud_2.6.0_windows_amd64.zip",
+          "download_url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.6.0/terraform-provider-zedcloud_2.6.0_windows_amd64.zip",
+          "shasum": "9820a0034cc4d95aedcc96da2b4497aa0689e5104444fabf53a6d51d18477597",
+          "h1": "h1:Py2Y4F4t/udSv9JwDLwuz2NXlkVXtd1JNyJEnoj6KA0="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-zedcloud_2.6.0_windows_arm.zip",
+          "download_url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.6.0/terraform-provider-zedcloud_2.6.0_windows_arm.zip",
+          "shasum": "bc7e0c37a902cb6ad9c8612ca4498d54bfae1f3994ebadc435aa5b7ce2f799b9",
+          "h1": "h1:/Meyhtqqwc+ABA+2B7MJjOQikHNAYDCxyUGEyylXQ5c="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-zedcloud_2.6.0_windows_arm64.zip",
+          "download_url": "https://github.com/zededa/terraform-provider-zedcloud/releases/download/v2.6.0/terraform-provider-zedcloud_2.6.0_windows_arm64.zip",
+          "shasum": "d8b5af1ff8defa13f07a590ad63232be9eb7631afdacbc2df922641e592e0dd9",
+          "h1": "h1:roLUUldtss//QjXtYBFLJxyUgfaNyBGb64dFsZJQqYE="
+        }
+      ]
+    },
+    {
       "version": "2.5.0",
       "protocols": [
         "5.0"
