@@ -1,6 +1,120 @@
 {
   "versions": [
     {
+      "version": "0.14.12",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/firehydrant/terraform-provider-firehydrant/releases/download/v0.14.12/terraform-provider-firehydrant_0.14.12_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/firehydrant/terraform-provider-firehydrant/releases/download/v0.14.12/terraform-provider-firehydrant_0.14.12_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-firehydrant_0.14.12_darwin_amd64.zip",
+          "download_url": "https://github.com/firehydrant/terraform-provider-firehydrant/releases/download/v0.14.12/terraform-provider-firehydrant_0.14.12_darwin_amd64.zip",
+          "shasum": "41df8554cb4797d340764a071044ec0ba2cac380b035b05ccf52a5933320a8e4",
+          "h1": "h1:XLiC02SYTfVVvdzSr7MGxFTOc23i2Z8JOtyARu4i3FA="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-firehydrant_0.14.12_darwin_arm64.zip",
+          "download_url": "https://github.com/firehydrant/terraform-provider-firehydrant/releases/download/v0.14.12/terraform-provider-firehydrant_0.14.12_darwin_arm64.zip",
+          "shasum": "faae634f12a6647b569f9d4459a782a19c57e1b9060dcbbf5f7cd2ccaf5d9ad1",
+          "h1": "h1:QfAkg9Rmq1MjTYDg9jd89xI8K0V/uHTpr+7ZXl4pAEg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-firehydrant_0.14.12_freebsd_386.zip",
+          "download_url": "https://github.com/firehydrant/terraform-provider-firehydrant/releases/download/v0.14.12/terraform-provider-firehydrant_0.14.12_freebsd_386.zip",
+          "shasum": "2e6f294d018fa37189e69ef7bf38866f1816eea0b32a802013a874403a356eb9",
+          "h1": "h1:rEkwhOgmOO08hY7Ri1EG2o6FVFAGuQV+Sy+/MSW1ZUQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-firehydrant_0.14.12_freebsd_amd64.zip",
+          "download_url": "https://github.com/firehydrant/terraform-provider-firehydrant/releases/download/v0.14.12/terraform-provider-firehydrant_0.14.12_freebsd_amd64.zip",
+          "shasum": "dfbdc9f47d225e5079625493b04f91094ed98991d8a990e2ee5e05288d5e440d",
+          "h1": "h1:VlveMjKd0QkzEO0OjiR4KX7zUBVEE8vrDdYi2icSpSc="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-firehydrant_0.14.12_freebsd_arm.zip",
+          "download_url": "https://github.com/firehydrant/terraform-provider-firehydrant/releases/download/v0.14.12/terraform-provider-firehydrant_0.14.12_freebsd_arm.zip",
+          "shasum": "df14bfbec99e971e3e16a5fb0c46c04d401bf9bde07797c594198862c8c65132",
+          "h1": "h1:bcqDPlu6iDtS5zkvRmmfPmCR2nGFzsTuYpmnaHLro3A="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-firehydrant_0.14.12_freebsd_arm64.zip",
+          "download_url": "https://github.com/firehydrant/terraform-provider-firehydrant/releases/download/v0.14.12/terraform-provider-firehydrant_0.14.12_freebsd_arm64.zip",
+          "shasum": "e174bb7c7bb53bc5fe86b34083d391984189535d05cd6efde02ded9a2a489484",
+          "h1": "h1:o+/C8gegrOgJ3c8IVeXy0htSHgNfTSovBEBh0BGjCEY="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-firehydrant_0.14.12_linux_386.zip",
+          "download_url": "https://github.com/firehydrant/terraform-provider-firehydrant/releases/download/v0.14.12/terraform-provider-firehydrant_0.14.12_linux_386.zip",
+          "shasum": "10ad0d7c345911fec3a32e7a122596e1f61b59dca9226ab3fc0e05164743d046",
+          "h1": "h1:zEANNdTFs+Nj2+Ika7P+sscGPXkd0SXzLdP5KAMcUK0="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-firehydrant_0.14.12_linux_amd64.zip",
+          "download_url": "https://github.com/firehydrant/terraform-provider-firehydrant/releases/download/v0.14.12/terraform-provider-firehydrant_0.14.12_linux_amd64.zip",
+          "shasum": "adefed16c1960793707c3e553dd3b935c6263208086f943345e4c54702cb52ba",
+          "h1": "h1:UY9tKmXWmB7FgnDD6BbA/0ZxqRrmS/rfpjg6OmlV5IU="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-firehydrant_0.14.12_linux_arm.zip",
+          "download_url": "https://github.com/firehydrant/terraform-provider-firehydrant/releases/download/v0.14.12/terraform-provider-firehydrant_0.14.12_linux_arm.zip",
+          "shasum": "aa884b4519a4d65038d5d61cadb623ee8901b7bcad26f2025f010c34c66a999c",
+          "h1": "h1:hzXcVqdCRb9GyCVl/XFvsjXS9PAd6pW7mxKJvyk+z9I="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-firehydrant_0.14.12_linux_arm64.zip",
+          "download_url": "https://github.com/firehydrant/terraform-provider-firehydrant/releases/download/v0.14.12/terraform-provider-firehydrant_0.14.12_linux_arm64.zip",
+          "shasum": "a4d1a430875ae6b6455391fd4c7cb52eb480dd46c6efcea260c37b5120fd448e",
+          "h1": "h1:JqR7tjA2+ZlwwEXh+jdXNkoV8A37AP7XlZGzDPz/Xz4="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-firehydrant_0.14.12_windows_386.zip",
+          "download_url": "https://github.com/firehydrant/terraform-provider-firehydrant/releases/download/v0.14.12/terraform-provider-firehydrant_0.14.12_windows_386.zip",
+          "shasum": "18abb5ab61ccfd355d6d71b2a915c29ac99951020ac73b848eccc825c4bcba63",
+          "h1": "h1:ODXSDQ4b77pzokuiaVL7a8ToDB/xHtpjXbpV76DblgM="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-firehydrant_0.14.12_windows_amd64.zip",
+          "download_url": "https://github.com/firehydrant/terraform-provider-firehydrant/releases/download/v0.14.12/terraform-provider-firehydrant_0.14.12_windows_amd64.zip",
+          "shasum": "9565e120eeebea53c046459242027e6ac18130f84199c8c80fad1de5283fc4e1",
+          "h1": "h1:COCwa8QoZUfXozR8sWP4NqpxKUT+8XjY3w79jZZDKJw="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-firehydrant_0.14.12_windows_arm.zip",
+          "download_url": "https://github.com/firehydrant/terraform-provider-firehydrant/releases/download/v0.14.12/terraform-provider-firehydrant_0.14.12_windows_arm.zip",
+          "shasum": "87df7242db07a89581ac48b4641233b4f46b0d9303b5f091e1613cc753622402",
+          "h1": "h1:sySvBVJF2rSSYiy5sLnLSNYXeiOJZwmgLPQ6qB+5Qb0="
+        }
+      ]
+    },
+    {
       "version": "0.14.11",
       "protocols": [
         "5.0"
