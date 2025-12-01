@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.3.2",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/saviynt/terraform-provider-saviynt/releases/download/v0.3.2/terraform-provider-saviynt_0.3.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/saviynt/terraform-provider-saviynt/releases/download/v0.3.2/terraform-provider-saviynt_0.3.2_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-saviynt_0.3.2_darwin_amd64.zip",
+          "download_url": "https://github.com/saviynt/terraform-provider-saviynt/releases/download/v0.3.2/terraform-provider-saviynt_0.3.2_darwin_amd64.zip",
+          "shasum": "1a4932508e818e859696396fcbf15751bfa9500260a367e50d03d6cfb33655c8",
+          "h1": "h1:QoLfhJNF1SiCvHQRAWIP4UFxlSzPVll86Enw1JPwbnc="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-saviynt_0.3.2_darwin_arm64.zip",
+          "download_url": "https://github.com/saviynt/terraform-provider-saviynt/releases/download/v0.3.2/terraform-provider-saviynt_0.3.2_darwin_arm64.zip",
+          "shasum": "b8a69f6f3ee71347eb71919b0b54a68f22764caeca66000800bce02872a7dba6",
+          "h1": "h1:moFVeSpu7R5tDhTIoU4lPj69pArRKG2sI0P/bHwWpqI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-saviynt_0.3.2_freebsd_386.zip",
+          "download_url": "https://github.com/saviynt/terraform-provider-saviynt/releases/download/v0.3.2/terraform-provider-saviynt_0.3.2_freebsd_386.zip",
+          "shasum": "76f91c166c349f163394a4fbb6eb571f2c4448b5ee726e722b320714c75b41b2",
+          "h1": "h1:elkzCRtsHJQsefxb2Ve28kDKoCWdaThejt/ce91utEM="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-saviynt_0.3.2_freebsd_amd64.zip",
+          "download_url": "https://github.com/saviynt/terraform-provider-saviynt/releases/download/v0.3.2/terraform-provider-saviynt_0.3.2_freebsd_amd64.zip",
+          "shasum": "e1addc9237561bcb9d31557cc54cfd16454cf46d3cb9ffc67da4ccf24fbe65fa",
+          "h1": "h1:MaCCRpzFgkYGj6LL/Nkosxw7kOZjVYYauqaimxejoQY="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-saviynt_0.3.2_freebsd_arm.zip",
+          "download_url": "https://github.com/saviynt/terraform-provider-saviynt/releases/download/v0.3.2/terraform-provider-saviynt_0.3.2_freebsd_arm.zip",
+          "shasum": "05184e8d3fea2b10c3a7318a947a57c3a06b7ebb5e53bd87a0fb4c0521a2f307",
+          "h1": "h1:SYxIHbDfR/7ly8nU1Dn/jLSdO+E6C7PUoNTeEOOKnMw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-saviynt_0.3.2_freebsd_arm64.zip",
+          "download_url": "https://github.com/saviynt/terraform-provider-saviynt/releases/download/v0.3.2/terraform-provider-saviynt_0.3.2_freebsd_arm64.zip",
+          "shasum": "e008e5216b75261537821599e4ea72e78dc0cdf4aa4cd7f6bdfe9a753bdf1e75",
+          "h1": "h1:BCeC4w340oPZGoEmiDOeC+cGCNfrWGTwsdobmzO/AVU="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-saviynt_0.3.2_linux_386.zip",
+          "download_url": "https://github.com/saviynt/terraform-provider-saviynt/releases/download/v0.3.2/terraform-provider-saviynt_0.3.2_linux_386.zip",
+          "shasum": "b554cc101bd4751ead8e0cf86b78ab6f67e5bacc105cf7a131ac70b95fde8e23",
+          "h1": "h1:VB8uUk8ChodYfNdOcEd6vcI033Wz/y3QPL+Ypg8LDJA="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-saviynt_0.3.2_linux_amd64.zip",
+          "download_url": "https://github.com/saviynt/terraform-provider-saviynt/releases/download/v0.3.2/terraform-provider-saviynt_0.3.2_linux_amd64.zip",
+          "shasum": "03b288bf73b91dd7e152aa982884b1f49108763cf20982e6b03b1b12537ccd64",
+          "h1": "h1:nfMbvdkMWOtR2qgCMLL/GwRshgbmUaCUiPlIYKKCdeo="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-saviynt_0.3.2_linux_arm.zip",
+          "download_url": "https://github.com/saviynt/terraform-provider-saviynt/releases/download/v0.3.2/terraform-provider-saviynt_0.3.2_linux_arm.zip",
+          "shasum": "64055e588ea070bfea2fcfe877dafeed3a8a1479663e8b8e6bc2d881df697365",
+          "h1": "h1:2Wx6JQql/1WbIuvUG6Lfkdxxr77BxoEVZnHUE4hjxoU="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-saviynt_0.3.2_linux_arm64.zip",
+          "download_url": "https://github.com/saviynt/terraform-provider-saviynt/releases/download/v0.3.2/terraform-provider-saviynt_0.3.2_linux_arm64.zip",
+          "shasum": "3f157d3f106d566cf863cac82bd5d00bd4df4e537e77e18bbdb2e3d234c6a0be",
+          "h1": "h1:+WVAk8Pz+r2SjYxmJcEe5TrmwIztZHHbafaaUgM/yvw="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-saviynt_0.3.2_windows_386.zip",
+          "download_url": "https://github.com/saviynt/terraform-provider-saviynt/releases/download/v0.3.2/terraform-provider-saviynt_0.3.2_windows_386.zip",
+          "shasum": "b321d8c335049de7ea0055348a21e0c4f1ab23e63d0349e6170b1309b9b9fded",
+          "h1": "h1:6MkCfE65GycvROHkazw1/G06A9Rg84OHTmFI3cjJmUE="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-saviynt_0.3.2_windows_amd64.zip",
+          "download_url": "https://github.com/saviynt/terraform-provider-saviynt/releases/download/v0.3.2/terraform-provider-saviynt_0.3.2_windows_amd64.zip",
+          "shasum": "6f22b06064d150d652124cc75d0a369c8a27a09ebb22aa3358ca6929beaa850d",
+          "h1": "h1:d8XeqH9dHBV8E4vSn7hv40ja5Ftylselm/t+p8W0f1s="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-saviynt_0.3.2_windows_arm.zip",
+          "download_url": "https://github.com/saviynt/terraform-provider-saviynt/releases/download/v0.3.2/terraform-provider-saviynt_0.3.2_windows_arm.zip",
+          "shasum": "a77d99e88c77e0c714316924e2b820a237aafbc5045a1e7f7c277f662eb1a6fd",
+          "h1": "h1:L3pjjcZSXElniL4gmtUZ5sz2IIzdGNldAUlD9+d0Tg4="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-saviynt_0.3.2_windows_arm64.zip",
+          "download_url": "https://github.com/saviynt/terraform-provider-saviynt/releases/download/v0.3.2/terraform-provider-saviynt_0.3.2_windows_arm64.zip",
+          "shasum": "fb461ca7fabfd47cd877ffa16d375d75cfde1f371ba040ee72c82984c49c3b97",
+          "h1": "h1:gdOoJ3HuJmdOcZ5JaWUurrobP41YSOE3yFF+Qaiqymg="
+        }
+      ]
+    },
+    {
       "version": "0.3.1",
       "protocols": [
         "6.0"
