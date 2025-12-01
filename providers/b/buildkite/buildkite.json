@@ -1,6 +1,120 @@
 {
   "versions": [
     {
+      "version": "1.27.1",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v1.27.1/terraform-provider-buildkite_1.27.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v1.27.1/terraform-provider-buildkite_1.27.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-buildkite_1.27.1_darwin_amd64.zip",
+          "download_url": "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v1.27.1/terraform-provider-buildkite_1.27.1_darwin_amd64.zip",
+          "shasum": "67a0ed90da06cb7d22200ba0475b50aca8345603f09b89b5547308e7f7a4cbb4",
+          "h1": "h1:ZEUdZggDYBwh0rVgmRJorDh26B9oojOhX87ZgnBbsKI="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-buildkite_1.27.1_darwin_arm64.zip",
+          "download_url": "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v1.27.1/terraform-provider-buildkite_1.27.1_darwin_arm64.zip",
+          "shasum": "8ac9128f9bfd4f3cc34dee1f6e32784d66b5091ed10847d03e7c06e1a6630d65",
+          "h1": "h1:faBGmm6f+yZllMBCwAx+5lRwpLAoYW0iK2YYHt1E8z8="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-buildkite_1.27.1_freebsd_386.zip",
+          "download_url": "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v1.27.1/terraform-provider-buildkite_1.27.1_freebsd_386.zip",
+          "shasum": "3408fe917d1afc2d60d3329086f0dbd5eae2b150079ff34cc32879d31d175169",
+          "h1": "h1:HiJ+S3XisS7GUSRK61OSSrPhx4BK2GIaEAdRxG/6oGw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-buildkite_1.27.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v1.27.1/terraform-provider-buildkite_1.27.1_freebsd_amd64.zip",
+          "shasum": "9478b6b4ce9ef0689397f2b0f856277ed47b6971ba66f5bb1d9d30df69443006",
+          "h1": "h1:FCipzmnoH+X2m8qWw/4CiP1fVXC8h8ZBZn1biIdnZ8o="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-buildkite_1.27.1_freebsd_arm.zip",
+          "download_url": "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v1.27.1/terraform-provider-buildkite_1.27.1_freebsd_arm.zip",
+          "shasum": "7f0d1b7a36dd4baf9324d91ef979a51760ebbe24d78b0f865ec809a7d3447ba7",
+          "h1": "h1:SWbeiHRSeAlV23hP4GeMkgHVD3nmnyOCkXQNfrOBTfo="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-buildkite_1.27.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v1.27.1/terraform-provider-buildkite_1.27.1_freebsd_arm64.zip",
+          "shasum": "e93116a7d70b317bb0667c088f8a43232bb6065fb1db1c2e14bf73817a81cb4f",
+          "h1": "h1:ZXu0zJxcTRMucp3Pnw+T3jcENv6BIF2K0TgyKTqh+UU="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-buildkite_1.27.1_linux_386.zip",
+          "download_url": "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v1.27.1/terraform-provider-buildkite_1.27.1_linux_386.zip",
+          "shasum": "a7e88074019d2ec64f84ef5f35d541e06d0d9e0217a67722534d27adc1e88fc5",
+          "h1": "h1:H0+5AJcRW9iaEp7S2S5h6FulJg3e0KYkv7HF6NeqEdI="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-buildkite_1.27.1_linux_amd64.zip",
+          "download_url": "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v1.27.1/terraform-provider-buildkite_1.27.1_linux_amd64.zip",
+          "shasum": "a296f3cdeebb949267ff249ae8878008c931875946b66fd38ce11137323c4bee",
+          "h1": "h1:dprZ3cBaa5gKAwGVxu7ITVTWE0AOVzKw0OA1vIyEddM="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-buildkite_1.27.1_linux_arm.zip",
+          "download_url": "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v1.27.1/terraform-provider-buildkite_1.27.1_linux_arm.zip",
+          "shasum": "ce69cdcee8f2a70580d8ddefb1fc2bcd92d71158aa6609790cc75cedc3c3cf58",
+          "h1": "h1:7Yu3R+McDcbr9/ul6AgeaHLrnl6VW8H8+YiF96woHAM="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-buildkite_1.27.1_linux_arm64.zip",
+          "download_url": "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v1.27.1/terraform-provider-buildkite_1.27.1_linux_arm64.zip",
+          "shasum": "1c0f5a4c0c81c8f2ae6272c89dd384021a1dbe24cd20e31f8b13a8645621d8d2",
+          "h1": "h1:OZ/OO2N9s3pzMZqKqGyBam8hmtaDLpzfAz/xICe2UZk="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-buildkite_1.27.1_windows_386.zip",
+          "download_url": "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v1.27.1/terraform-provider-buildkite_1.27.1_windows_386.zip",
+          "shasum": "16b3aeae545404896342c7e8943b90fa2fb6c529291e3ed1729e641ebd9db09d",
+          "h1": "h1:fEcCrVmUwsTMuoNPQZBQD/wtdNWo7y9KzUzB2KSV3uU="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-buildkite_1.27.1_windows_amd64.zip",
+          "download_url": "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v1.27.1/terraform-provider-buildkite_1.27.1_windows_amd64.zip",
+          "shasum": "2ca9eb44aae3db457330789d0e3e794dc32b35bc944e5d63ea769e13fc08c118",
+          "h1": "h1:r65EJPPyZlh4HPOX8Pkw70xEFVW9C4ub0wVoy3ysYQA="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-buildkite_1.27.1_windows_arm.zip",
+          "download_url": "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v1.27.1/terraform-provider-buildkite_1.27.1_windows_arm.zip",
+          "shasum": "894989b898aa016b9ce6b20349a631bf419036ceb1a9ecedc1f7681801a6644c",
+          "h1": "h1:EQ9d6qvMeOrL+4ftrenvewZ/3XElP7utsi6Yj+lJr3c="
+        }
+      ]
+    },
+    {
       "version": "1.27.0",
       "protocols": [
         "6.0"
