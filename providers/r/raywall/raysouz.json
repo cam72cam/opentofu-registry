@@ -1,6 +1,122 @@
 {
   "versions": [
     {
+      "version": "1.0.26",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/raywall/terraform-provider-raysouz/releases/download/v1.0.26/terraform-provider-raysouz_1.0.26_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/raywall/terraform-provider-raysouz/releases/download/v1.0.26/terraform-provider-raysouz_1.0.26_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-raysouz_1.0.26_darwin_amd64.zip",
+          "download_url": "https://github.com/raywall/terraform-provider-raysouz/releases/download/v1.0.26/terraform-provider-raysouz_1.0.26_darwin_amd64.zip",
+          "shasum": "e07f777438dd1fc9e57725f34db70f0632ab7988fd44d8ef52186d227f7cd6e4",
+          "h1": "h1:AycubET6Ghgumbk74vhXhvdt76+R/ed1KB4+RxIe7+A="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-raysouz_1.0.26_darwin_arm64.zip",
+          "download_url": "https://github.com/raywall/terraform-provider-raysouz/releases/download/v1.0.26/terraform-provider-raysouz_1.0.26_darwin_arm64.zip",
+          "shasum": "ee60ff582a59ec710395d080831cb2aa8948b1c54d1c14b973d0cb1b260d4e7e",
+          "h1": "h1:oio/kKpPlffgucdNc0bXfFjA09k/qH/D9vwEFVN1k/A="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-raysouz_1.0.26_linux_amd64.zip",
+          "download_url": "https://github.com/raywall/terraform-provider-raysouz/releases/download/v1.0.26/terraform-provider-raysouz_1.0.26_linux_amd64.zip",
+          "shasum": "9cc5f318fd382e288767b36fb825201e9ce8ed9c54b08c2261cbd4525bdec0f5",
+          "h1": "h1:9SEwlxye43Qt/4hjYvPEsR+F/hbbwsEX+YumlMdeMUw="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-raysouz_1.0.26_linux_arm64.zip",
+          "download_url": "https://github.com/raywall/terraform-provider-raysouz/releases/download/v1.0.26/terraform-provider-raysouz_1.0.26_linux_arm64.zip",
+          "shasum": "e0c85597fddcee87909aaf225866056c3b31c9b0568c47fbe5fd2ea9ea8f9b73",
+          "h1": "h1:K7DYjVNiP/xPKtIr7b4dhcx+C/R8Tf8TgNDWEawFNaY="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-raysouz_1.0.26_windows_amd64.zip",
+          "download_url": "https://github.com/raywall/terraform-provider-raysouz/releases/download/v1.0.26/terraform-provider-raysouz_1.0.26_windows_amd64.zip",
+          "shasum": "8ae5bcf0c277351c390ca20a12121393ce44f802e0f4151077da5e86277c1fd9",
+          "h1": "h1:tTnQhrLbHckS9aEF5o7eUJWd7F2nQz4hAOZS5DuJ4sI="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-raysouz_1.0.26_windows_arm64.zip",
+          "download_url": "https://github.com/raywall/terraform-provider-raysouz/releases/download/v1.0.26/terraform-provider-raysouz_1.0.26_windows_arm64.zip",
+          "shasum": "51cdf82b8904da4724cedd226d15bc846049fc8fea4f7494f91028562ed193a4",
+          "h1": "h1:ieATkI8U1aWO2Vsc+Vx/eBLvYk/wiDM2OMd9VgESD38="
+        }
+      ]
+    },
+    {
+      "version": "1.0.25",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/raywall/terraform-provider-raysouz/releases/download/v1.0.25/terraform-provider-raysouz_1.0.25_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/raywall/terraform-provider-raysouz/releases/download/v1.0.25/terraform-provider-raysouz_1.0.25_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-raysouz_1.0.25_darwin_amd64.zip",
+          "download_url": "https://github.com/raywall/terraform-provider-raysouz/releases/download/v1.0.25/terraform-provider-raysouz_1.0.25_darwin_amd64.zip",
+          "shasum": "eb8be2e79d881cbb867ae83094b742df8af80117f5edaf741bab84d2b8dc538a",
+          "h1": "h1:sVOe6tg0CBNnPuH7WJxwn7iWvPMyRiXzp2D3+l1rsGg="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-raysouz_1.0.25_darwin_arm64.zip",
+          "download_url": "https://github.com/raywall/terraform-provider-raysouz/releases/download/v1.0.25/terraform-provider-raysouz_1.0.25_darwin_arm64.zip",
+          "shasum": "dd22897f76accd21bab1158a3970e8d0df0b638fd14381a52ffdc893e559b2df",
+          "h1": "h1:8YyuSimZQBnGXaQZogygvv9bjVDYYdbQssUOTq4oUMQ="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-raysouz_1.0.25_linux_amd64.zip",
+          "download_url": "https://github.com/raywall/terraform-provider-raysouz/releases/download/v1.0.25/terraform-provider-raysouz_1.0.25_linux_amd64.zip",
+          "shasum": "d1ec4270c43fe027b62db29428afe1c40ee5e399c031fb6f5c98d7241eedd99c",
+          "h1": "h1:1Eq1ru42lgudt2kY3lpX+gLsvAn3NKKneSdz1YQV1cg="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-raysouz_1.0.25_linux_arm64.zip",
+          "download_url": "https://github.com/raywall/terraform-provider-raysouz/releases/download/v1.0.25/terraform-provider-raysouz_1.0.25_linux_arm64.zip",
+          "shasum": "824c5d4a84e3be1c24c0c566c14c8f00e17dafbcbffada5432c868f504967c82",
+          "h1": "h1:zgwtBVOHMIWCFi6O2nmV7Gn3Gul+5eCDV7Cm9dXRV5c="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-raysouz_1.0.25_windows_amd64.zip",
+          "download_url": "https://github.com/raywall/terraform-provider-raysouz/releases/download/v1.0.25/terraform-provider-raysouz_1.0.25_windows_amd64.zip",
+          "shasum": "e96f662fd857a53a73ba96455bf451bea063f48ca686d15d1dd7c6b9c7e93a37",
+          "h1": "h1:ksVeoYK9Yhz7aH6ibBFcwJz0lcyg5XOtuewPRcDU1qE="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-raysouz_1.0.25_windows_arm64.zip",
+          "download_url": "https://github.com/raywall/terraform-provider-raysouz/releases/download/v1.0.25/terraform-provider-raysouz_1.0.25_windows_arm64.zip",
+          "shasum": "a486d3cfdd4875e10bae5406e14820e61aa3112d2f5a863e6363ec863318978c",
+          "h1": "h1:QPTIsVH7NunfnSE9dmZYMqVrWLWWytw6ZjjNyEUZgU0="
+        }
+      ]
+    },
+    {
       "version": "0.0.13",
       "protocols": [
         "6.0"
