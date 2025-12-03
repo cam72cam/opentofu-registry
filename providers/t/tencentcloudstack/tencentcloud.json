@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.82.40",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.82.40/terraform-provider-tencentcloud_1.82.40_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.82.40/terraform-provider-tencentcloud_1.82.40_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-tencentcloud_1.82.40_darwin_amd64.zip",
+          "download_url": "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.82.40/terraform-provider-tencentcloud_1.82.40_darwin_amd64.zip",
+          "shasum": "b9889ec1969c8ef84d5562f8a6a1e46e27bca7d526d82fd539676737b5391d56",
+          "h1": "h1:QHwTPQEOnvcSHEJRF+0Rw5zX/CNAqeTpXFEFDnItdoU="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-tencentcloud_1.82.40_darwin_arm64.zip",
+          "download_url": "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.82.40/terraform-provider-tencentcloud_1.82.40_darwin_arm64.zip",
+          "shasum": "98c465ec18fa8b6894cc319ea1506bc118e2fb798738b32ca864f85d9b18573c",
+          "h1": "h1:5J4jorXCu9pRaUnqgT6BhwdR9SXxb1WLB4G9bul0gP4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-tencentcloud_1.82.40_freebsd_386.zip",
+          "download_url": "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.82.40/terraform-provider-tencentcloud_1.82.40_freebsd_386.zip",
+          "shasum": "0badd05e396974fd9a99dee04f6b52a9155f1f388591d67f923b2bedec449fe0",
+          "h1": "h1:1y/FRIWEQd4trTY/ufewf0Ho9+5tgZnerIuv0JfJ9xk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-tencentcloud_1.82.40_freebsd_amd64.zip",
+          "download_url": "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.82.40/terraform-provider-tencentcloud_1.82.40_freebsd_amd64.zip",
+          "shasum": "c3d4140dea16aba9bec014361b03e46ba3b2976a32a7f21c6222303d9cf15d1f",
+          "h1": "h1:FTQxAX5uDF6ny/vP5TpZ28iFCncaZgdB/IefwnkmASo="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-tencentcloud_1.82.40_freebsd_arm.zip",
+          "download_url": "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.82.40/terraform-provider-tencentcloud_1.82.40_freebsd_arm.zip",
+          "shasum": "74e5b33e7a78d9831f096c077d15da920dca07198db6a38543ec282acf97f359",
+          "h1": "h1:KadAwAM5tbfwLXECE/I3lHgr1C8KzZvpt+SpVYjxb30="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-tencentcloud_1.82.40_freebsd_arm64.zip",
+          "download_url": "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.82.40/terraform-provider-tencentcloud_1.82.40_freebsd_arm64.zip",
+          "shasum": "c5712744397418989d6cf316b6ffa9561e50f03408e427d0e4447e2f33b88c43",
+          "h1": "h1:U5LFqvw+qO26jeFcqJCAsNbmyQ6LVfTi7VjgXur0wuY="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-tencentcloud_1.82.40_linux_386.zip",
+          "download_url": "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.82.40/terraform-provider-tencentcloud_1.82.40_linux_386.zip",
+          "shasum": "322af10df75b4eeffdd06bcc6d8bf9be6c8e0deb33b324179a240d50cf57c05b",
+          "h1": "h1:GBCxVLIWucq9Z/flS9mG5Bxm8fPpQsRhDusvx8pgzZo="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-tencentcloud_1.82.40_linux_amd64.zip",
+          "download_url": "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.82.40/terraform-provider-tencentcloud_1.82.40_linux_amd64.zip",
+          "shasum": "673bb98518164f0d4173905846b68f88d68cb9b938e7bff2bd46b1150187d091",
+          "h1": "h1:5GuC09GjTXMqcc6slOUA+VKWyBUErsDTGRvKaDn88y0="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-tencentcloud_1.82.40_linux_arm.zip",
+          "download_url": "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.82.40/terraform-provider-tencentcloud_1.82.40_linux_arm.zip",
+          "shasum": "7de0187c522c16692dbe4b9ba1f2640db62151ff1cf6a0e606d9fb231f1b9830",
+          "h1": "h1:hA/+ogU2KRC0XzPu/+0k9xj6oDdMIgYRqLmxY+CrLaY="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-tencentcloud_1.82.40_linux_arm64.zip",
+          "download_url": "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.82.40/terraform-provider-tencentcloud_1.82.40_linux_arm64.zip",
+          "shasum": "58c1b5a541cd10153c74616d91be2ab1b1a844ae00cab920837941f5cdf2cea8",
+          "h1": "h1:MgflxdzerXgRZakLZyAXThkQhDKmsq5zgtdBiLP31Uk="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-tencentcloud_1.82.40_windows_386.zip",
+          "download_url": "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.82.40/terraform-provider-tencentcloud_1.82.40_windows_386.zip",
+          "shasum": "8889dcceb15d58ed38834a2218af3c9647288b8128fe16a42be807660fae9476",
+          "h1": "h1:ZOV/7cH9YXpTF08asHYYrZwYlnnXrjadPIQE3+q/mjg="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-tencentcloud_1.82.40_windows_amd64.zip",
+          "download_url": "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.82.40/terraform-provider-tencentcloud_1.82.40_windows_amd64.zip",
+          "shasum": "395ec380cfb268351f1dd00a1084be85d09bac9d62d4e42fc8a2c8a22ede36b2",
+          "h1": "h1:pLmoZPzZQjxRHb2q5IRBKJUZ1p45LT2XHjosOQ6xG4I="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-tencentcloud_1.82.40_windows_arm.zip",
+          "download_url": "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.82.40/terraform-provider-tencentcloud_1.82.40_windows_arm.zip",
+          "shasum": "7e734cf9eacbed7fe819eef19744aec7dd35543fb7e3a6d9c4ee5022322268b9",
+          "h1": "h1:B46wxeK7iwUGjgAC/NFpteEjDAyPKWTnZhuBmjM5SF4="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-tencentcloud_1.82.40_windows_arm64.zip",
+          "download_url": "https://github.com/tencentcloudstack/terraform-provider-tencentcloud/releases/download/v1.82.40/terraform-provider-tencentcloud_1.82.40_windows_arm64.zip",
+          "shasum": "904d09708b931d8d100ac20ac1b64c81c18b9cdd373a0a5701f64b3b0d9e5a5e",
+          "h1": "h1:mH56xbt5B7CqXbrtBkJ/Ry64jTy/BlfMXGgfKyhgtYg="
+        }
+      ]
+    },
+    {
       "version": "1.82.39",
       "protocols": [
         "5.0"
