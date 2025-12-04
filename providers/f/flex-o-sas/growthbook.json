@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.0.3",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/flex-o-sas/terraform-provider-growthbook/releases/download/v1.0.3/terraform-provider-growthbook_1.0.3_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/flex-o-sas/terraform-provider-growthbook/releases/download/v1.0.3/terraform-provider-growthbook_1.0.3_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-growthbook_1.0.3_darwin_amd64.zip",
+          "download_url": "https://github.com/flex-o-sas/terraform-provider-growthbook/releases/download/v1.0.3/terraform-provider-growthbook_1.0.3_darwin_amd64.zip",
+          "shasum": "2a8b6f86dc49dc6243876f1501105fda394fa10797e8e04a8b392a010ccc6e6e",
+          "h1": "h1:xzBm/oyFCt9u8A16zzKLkjkJO3ohWHgT7Ck8rKT/vhU="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-growthbook_1.0.3_darwin_arm64.zip",
+          "download_url": "https://github.com/flex-o-sas/terraform-provider-growthbook/releases/download/v1.0.3/terraform-provider-growthbook_1.0.3_darwin_arm64.zip",
+          "shasum": "3a1c779469f1ff0ce43787e9961d435bfcae1719455f2aeb029b9d15ffe844ab",
+          "h1": "h1:ZeDI3MoWw9pxWYgcja5lCql7CbQldXraLMzqVUGKK3c="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-growthbook_1.0.3_freebsd_386.zip",
+          "download_url": "https://github.com/flex-o-sas/terraform-provider-growthbook/releases/download/v1.0.3/terraform-provider-growthbook_1.0.3_freebsd_386.zip",
+          "shasum": "0ee62ea3860eb55d008c80b63ec7499f2ce17a240ccb91ef85784e210a5887f4",
+          "h1": "h1:LymKgjw7EsVNp3BqwY/px7n3bYjQpA8Rfqx8rBj1emM="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-growthbook_1.0.3_freebsd_amd64.zip",
+          "download_url": "https://github.com/flex-o-sas/terraform-provider-growthbook/releases/download/v1.0.3/terraform-provider-growthbook_1.0.3_freebsd_amd64.zip",
+          "shasum": "29676ba5ed0e58549bd85dbaf6aa4f00a5690a79ed845c7d590290be6a90041b",
+          "h1": "h1:GVlqce+OAgpnGhDXV8RDOeZv59joUF73H0SYF/msrKA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-growthbook_1.0.3_freebsd_arm.zip",
+          "download_url": "https://github.com/flex-o-sas/terraform-provider-growthbook/releases/download/v1.0.3/terraform-provider-growthbook_1.0.3_freebsd_arm.zip",
+          "shasum": "6e3f5573c8c824608540b168d9a69a82427c7a609f7511a78cb2c7895fb83a26",
+          "h1": "h1:oGJvc9kzNtXvl1GRcAYpDpAmEolQVJXvL6MLIM9ZLOs="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-growthbook_1.0.3_freebsd_arm64.zip",
+          "download_url": "https://github.com/flex-o-sas/terraform-provider-growthbook/releases/download/v1.0.3/terraform-provider-growthbook_1.0.3_freebsd_arm64.zip",
+          "shasum": "6b0392c339b478e4d3586eba0af7cfe9ab5634feb262c5a13123e722591931ff",
+          "h1": "h1:hFfZnK/kTEEL+CCJs0ft63OFB5L44jlnpUg55y84E8o="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-growthbook_1.0.3_linux_386.zip",
+          "download_url": "https://github.com/flex-o-sas/terraform-provider-growthbook/releases/download/v1.0.3/terraform-provider-growthbook_1.0.3_linux_386.zip",
+          "shasum": "67fde1173195468a812ce8b4a19f025cd659f0207ea6e83759ddf640de07d411",
+          "h1": "h1:b7oPcq28bcWr5KleBqp59eqH601Yfsi0gCEKJYAgQdc="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-growthbook_1.0.3_linux_amd64.zip",
+          "download_url": "https://github.com/flex-o-sas/terraform-provider-growthbook/releases/download/v1.0.3/terraform-provider-growthbook_1.0.3_linux_amd64.zip",
+          "shasum": "333b57cc775bb3d02d800e56b7f02ce78e34d5c2ebf198e22c1f16550f5d98ac",
+          "h1": "h1:71W/EZiD4CJ+efdz7iq8/X69QGhrm3LpO26HUrYUbwQ="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-growthbook_1.0.3_linux_arm.zip",
+          "download_url": "https://github.com/flex-o-sas/terraform-provider-growthbook/releases/download/v1.0.3/terraform-provider-growthbook_1.0.3_linux_arm.zip",
+          "shasum": "ee03e22ce2361415c4c3c2830710d11a56df1d43fd241baf575651a8ebc7057f",
+          "h1": "h1:2bb0i92wDVS1LXZbk3wZiLmtdl9tebskMvNxYO7eYNs="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-growthbook_1.0.3_linux_arm64.zip",
+          "download_url": "https://github.com/flex-o-sas/terraform-provider-growthbook/releases/download/v1.0.3/terraform-provider-growthbook_1.0.3_linux_arm64.zip",
+          "shasum": "e5c57c7a722674e1f3134f39df2cba2f228678edb29f79936c5cfcde0999958e",
+          "h1": "h1:MwCRKQbIEiiFCpEVu6vrVbYpYOsS0MlftIRtbsheLVQ="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-growthbook_1.0.3_windows_386.zip",
+          "download_url": "https://github.com/flex-o-sas/terraform-provider-growthbook/releases/download/v1.0.3/terraform-provider-growthbook_1.0.3_windows_386.zip",
+          "shasum": "ecf5a91081226f661e110e70fd278bdcfe2498dbd88f49ebc48d2fb8ef00716b",
+          "h1": "h1:P16wljlT7LX5QSvuVPsPHAlwv5j+3OE8LC8eu0DzP78="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-growthbook_1.0.3_windows_amd64.zip",
+          "download_url": "https://github.com/flex-o-sas/terraform-provider-growthbook/releases/download/v1.0.3/terraform-provider-growthbook_1.0.3_windows_amd64.zip",
+          "shasum": "2e5f216f9e792f70622fef2b8835a6e37ae6fb55832c74e2d32beb5d64312043",
+          "h1": "h1:wjOv0tB5J/kNVfIhJO07Nzlzu+5roTJBFB73W4GFaYU="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-growthbook_1.0.3_windows_arm.zip",
+          "download_url": "https://github.com/flex-o-sas/terraform-provider-growthbook/releases/download/v1.0.3/terraform-provider-growthbook_1.0.3_windows_arm.zip",
+          "shasum": "2d47897e3eed7ae657ad9ca2e8bd145ffe9dff3774b6b90667ca4d866ef75fd4",
+          "h1": "h1:u97mvEgjkxXN+hrR+OeTBM0GFo2tw22+BkzFqgVlG5c="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-growthbook_1.0.3_windows_arm64.zip",
+          "download_url": "https://github.com/flex-o-sas/terraform-provider-growthbook/releases/download/v1.0.3/terraform-provider-growthbook_1.0.3_windows_arm64.zip",
+          "shasum": "60a2f73dce81f8ccfd2a63214b26242bd4e2873c3a3e7d1a7c165f2084bc751c",
+          "h1": "h1:lxbRJ7HkAYqOVxYJP3SVn5Jr55WDpq7vIwg4zUqzEzY="
+        }
+      ]
+    },
+    {
       "version": "1.0.2",
       "protocols": [
         "6.0"
