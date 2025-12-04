@@ -1,6 +1,80 @@
 {
   "versions": [
     {
+      "version": "0.0.6",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/ehealth-co-id/terraform-provider-uptimekuma/releases/download/v0.0.6/terraform-provider-uptimekuma_0.0.6_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/ehealth-co-id/terraform-provider-uptimekuma/releases/download/v0.0.6/terraform-provider-uptimekuma_0.0.6_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-uptimekuma_0.0.6_darwin_amd64.zip",
+          "download_url": "https://github.com/ehealth-co-id/terraform-provider-uptimekuma/releases/download/v0.0.6/terraform-provider-uptimekuma_0.0.6_darwin_amd64.zip",
+          "shasum": "5609fbe3a363c349327d5adade3acf935eb3ae494ac0a27bd67573602221b149",
+          "h1": "h1:7FUyXndv7YPidUyXwkU5DsALMSwHveXz6JW4PdBqApk="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-uptimekuma_0.0.6_darwin_arm64.zip",
+          "download_url": "https://github.com/ehealth-co-id/terraform-provider-uptimekuma/releases/download/v0.0.6/terraform-provider-uptimekuma_0.0.6_darwin_arm64.zip",
+          "shasum": "396d36ecb29af1ceab09e551cb6f24c77bc6fa9ed301bb26abf1dcca8c7579a1",
+          "h1": "h1:MfosuSB8caPdXIW1KL3TQS33PxDFvStr2SYRMn2LtZg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-uptimekuma_0.0.6_freebsd_amd64.zip",
+          "download_url": "https://github.com/ehealth-co-id/terraform-provider-uptimekuma/releases/download/v0.0.6/terraform-provider-uptimekuma_0.0.6_freebsd_amd64.zip",
+          "shasum": "30c8820deb1c6915d26042c7509de78f4868eab24a5b5ea88b73a00cb8fee8b4",
+          "h1": "h1:r7P7DdfWN1sGf4uce6vLoJWCdTNj4LCyXx/AAPQa3nw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-uptimekuma_0.0.6_freebsd_arm64.zip",
+          "download_url": "https://github.com/ehealth-co-id/terraform-provider-uptimekuma/releases/download/v0.0.6/terraform-provider-uptimekuma_0.0.6_freebsd_arm64.zip",
+          "shasum": "117b029d2eaa6319aae3f2f7466d9a1ed27084defbcf9829488cc4803e640c88",
+          "h1": "h1:OR98WBuG0Hn8LhgWprvInZKLHSZkLPwI7Kf6/R2xRD4="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-uptimekuma_0.0.6_linux_amd64.zip",
+          "download_url": "https://github.com/ehealth-co-id/terraform-provider-uptimekuma/releases/download/v0.0.6/terraform-provider-uptimekuma_0.0.6_linux_amd64.zip",
+          "shasum": "2cc8d15b7f56943b50b6372a300ced97451d753cba917f1311916e424abb8821",
+          "h1": "h1:PFeeOcD6VZ2D8ulhiqBbs1pCOotsbV7TZE+WRVS3b+Q="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-uptimekuma_0.0.6_linux_arm64.zip",
+          "download_url": "https://github.com/ehealth-co-id/terraform-provider-uptimekuma/releases/download/v0.0.6/terraform-provider-uptimekuma_0.0.6_linux_arm64.zip",
+          "shasum": "46c47fc1dc51655cd429a1075aacba9122f0c885bead1cb65b452d90f4160ce8",
+          "h1": "h1:UfwCa9UU3oZWST700inTUSaQVBfYJXIAb7PTFMIs1wE="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-uptimekuma_0.0.6_windows_amd64.zip",
+          "download_url": "https://github.com/ehealth-co-id/terraform-provider-uptimekuma/releases/download/v0.0.6/terraform-provider-uptimekuma_0.0.6_windows_amd64.zip",
+          "shasum": "d5fc5bfbab934d3f0112cb340c7efee72d0c12c0dffa47c7babd4b698434d0d1",
+          "h1": "h1:8c5CF4/CGtxr7nN3FmWmaMSQ9UKHibU4u/CtZj4KmWI="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-uptimekuma_0.0.6_windows_arm64.zip",
+          "download_url": "https://github.com/ehealth-co-id/terraform-provider-uptimekuma/releases/download/v0.0.6/terraform-provider-uptimekuma_0.0.6_windows_arm64.zip",
+          "shasum": "5db1eb648717a9c238636aa5b38ddf52cdcd671801d6b8d931c55a808721a081",
+          "h1": "h1:CiTHtbXCPQb4JSyWD6EMoi4cPy/dwHG4wh5CqLTxLuM="
+        }
+      ]
+    },
+    {
       "version": "0.0.2",
       "protocols": [
         "5.0"
