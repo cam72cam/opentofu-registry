@@ -1,6 +1,80 @@
 {
   "versions": [
     {
+      "version": "1.3.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/celerdata/terraform-provider-celerdatabyoc/releases/download/v1.3.0/terraform-provider-celerdatabyoc_1.3.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/celerdata/terraform-provider-celerdatabyoc/releases/download/v1.3.0/terraform-provider-celerdatabyoc_1.3.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-celerdatabyoc_1.3.0_darwin_amd64.zip",
+          "download_url": "https://github.com/celerdata/terraform-provider-celerdatabyoc/releases/download/v1.3.0/terraform-provider-celerdatabyoc_1.3.0_darwin_amd64.zip",
+          "shasum": "2ce54aae5156bad04532212bb1a238f6cb851a829f645b319657960a13d865db",
+          "h1": "h1:q3njSA2mGYuIrs2U+JryufXJuvzoVBTLN5EmOUHBwF0="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-celerdatabyoc_1.3.0_darwin_arm64.zip",
+          "download_url": "https://github.com/celerdata/terraform-provider-celerdatabyoc/releases/download/v1.3.0/terraform-provider-celerdatabyoc_1.3.0_darwin_arm64.zip",
+          "shasum": "6a689fad5051d82688fbc8236743dd776b5aa45600c060d50f7b85eb86a3ca9a",
+          "h1": "h1:XOiYCQxB/+2EmRU5JImdSeTXArxjGspU29RbDss8QPI="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-celerdatabyoc_1.3.0_linux_amd64.zip",
+          "download_url": "https://github.com/celerdata/terraform-provider-celerdatabyoc/releases/download/v1.3.0/terraform-provider-celerdatabyoc_1.3.0_linux_amd64.zip",
+          "shasum": "2bcafb514b722ff9155023742f2124307f9aaad3181857ba6bf5a29bcd6b7fa8",
+          "h1": "h1:6dnbSOXRiO4OGNw4bJrnip6sDi5IHM8Rlze5Y+6d9Fc="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-celerdatabyoc_1.3.0_linux_arm.zip",
+          "download_url": "https://github.com/celerdata/terraform-provider-celerdatabyoc/releases/download/v1.3.0/terraform-provider-celerdatabyoc_1.3.0_linux_arm.zip",
+          "shasum": "be0345e7405f7d1326fbaa56446cee4ac9ecfeb24c3d63f16a94e3c39f7089a7",
+          "h1": "h1:1OOlkViC0gzgksK2IPRskUF9O30PSPath8x74o/yL9k="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-celerdatabyoc_1.3.0_linux_arm64.zip",
+          "download_url": "https://github.com/celerdata/terraform-provider-celerdatabyoc/releases/download/v1.3.0/terraform-provider-celerdatabyoc_1.3.0_linux_arm64.zip",
+          "shasum": "fa5616de1d8a30df99c7fcf0a137b7e67f77302078c67b6f615ade46a897c810",
+          "h1": "h1:cxNEYXQ+8Ek/6L/F8V6FMikVqiA+w39Qb8NTtZ9nHDk="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-celerdatabyoc_1.3.0_windows_amd64.zip",
+          "download_url": "https://github.com/celerdata/terraform-provider-celerdatabyoc/releases/download/v1.3.0/terraform-provider-celerdatabyoc_1.3.0_windows_amd64.zip",
+          "shasum": "28469a96108b9a151a28253392526195db596e04038b6497472a85bf434a8586",
+          "h1": "h1:g5YGrM1HK+9EWxHz0ZUCeKTUSB0N64JTP0AgJGREqoU="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-celerdatabyoc_1.3.0_windows_arm.zip",
+          "download_url": "https://github.com/celerdata/terraform-provider-celerdatabyoc/releases/download/v1.3.0/terraform-provider-celerdatabyoc_1.3.0_windows_arm.zip",
+          "shasum": "9afa5662032ccea516d682fb1bcc35cde4a846b18dd594b2d360222de3e7d670",
+          "h1": "h1:sApS+JTuIbJ0Y0Qy2ld0stzFhxI0RNidiRebbb1Iqws="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-celerdatabyoc_1.3.0_windows_arm64.zip",
+          "download_url": "https://github.com/celerdata/terraform-provider-celerdatabyoc/releases/download/v1.3.0/terraform-provider-celerdatabyoc_1.3.0_windows_arm64.zip",
+          "shasum": "5891fcc39917bdade6abc9152302d5a94e04734d9ae23d3a86a917b56befb757",
+          "h1": "h1:vVnBhYZcYVeEe2dOHAW2YHLxdvN/yCY7kBx9GFuxNnw="
+        }
+      ]
+    },
+    {
       "version": "1.2.6",
       "protocols": [
         "5.0"
