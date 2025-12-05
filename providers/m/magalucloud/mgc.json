@@ -1,6 +1,80 @@
 {
   "versions": [
     {
+      "version": "0.40.2",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/magalucloud/terraform-provider-mgc/releases/download/v0.40.2/terraform-provider-mgc_0.40.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/magalucloud/terraform-provider-mgc/releases/download/v0.40.2/terraform-provider-mgc_0.40.2_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-mgc_0.40.2_darwin_amd64.zip",
+          "download_url": "https://github.com/magalucloud/terraform-provider-mgc/releases/download/v0.40.2/terraform-provider-mgc_0.40.2_darwin_amd64.zip",
+          "shasum": "2836794ad6a0428ce8ea5f9dfd8cdd177c48c250da875fcbe155d7541357e838",
+          "h1": "h1:YBIQd5Fv0xQsfDiAw2rwX3O2vwFr4TfBREovoZMVNIc="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-mgc_0.40.2_darwin_arm64.zip",
+          "download_url": "https://github.com/magalucloud/terraform-provider-mgc/releases/download/v0.40.2/terraform-provider-mgc_0.40.2_darwin_arm64.zip",
+          "shasum": "663c1962ccf5d3d479b60e4f61adcadc13b27e0ce581c2eba8dabc27ff414add",
+          "h1": "h1:aWUCr/4UReHZxVxq4ZIWfkri2I9j8VKrY/eXN1w7CVs="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-mgc_0.40.2_freebsd_amd64.zip",
+          "download_url": "https://github.com/magalucloud/terraform-provider-mgc/releases/download/v0.40.2/terraform-provider-mgc_0.40.2_freebsd_amd64.zip",
+          "shasum": "e918e4d6e7fadbd6e5c88c26a692a9bc44d5cca64093587c58e4f7c1f5a2e437",
+          "h1": "h1:T65JWPqPI6d0+DqwFM45SKJl/rdDMn2uScZvP+ZNpbs="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-mgc_0.40.2_freebsd_arm64.zip",
+          "download_url": "https://github.com/magalucloud/terraform-provider-mgc/releases/download/v0.40.2/terraform-provider-mgc_0.40.2_freebsd_arm64.zip",
+          "shasum": "20ebe1588e78fddaee93ae532a1b4481b9f473e477ce40296f99a0b345edd37b",
+          "h1": "h1:OtbOYLBmuVQnstcxQON6ETuUrcocKzfeHJ1WxeCKj2U="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-mgc_0.40.2_linux_amd64.zip",
+          "download_url": "https://github.com/magalucloud/terraform-provider-mgc/releases/download/v0.40.2/terraform-provider-mgc_0.40.2_linux_amd64.zip",
+          "shasum": "12119fc822170a3f9142b8fee460b1eea669f626749e219acbbf2c2fd168dc54",
+          "h1": "h1:E5YCGih+E4lI6fepht/X7KxQkLJbQuj4RvJ5mH2FdTI="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-mgc_0.40.2_linux_arm64.zip",
+          "download_url": "https://github.com/magalucloud/terraform-provider-mgc/releases/download/v0.40.2/terraform-provider-mgc_0.40.2_linux_arm64.zip",
+          "shasum": "137fcf69bf44e3cd24f5b8694158a4f7775e4cb147871041a458499c3aed4ace",
+          "h1": "h1:7L1mUjQZJs9a7hpszhd3n/9guotWKTc3AaInYBcNO3Y="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-mgc_0.40.2_windows_amd64.zip",
+          "download_url": "https://github.com/magalucloud/terraform-provider-mgc/releases/download/v0.40.2/terraform-provider-mgc_0.40.2_windows_amd64.zip",
+          "shasum": "b169778410732d32084bbe3f6c5efc91ddf5bafc267a9bf6b6e0d91b944f421a",
+          "h1": "h1:n6IpC7JcamByNO0IUiZvN47ojsCP38Yc14lqFOLMndI="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-mgc_0.40.2_windows_arm64.zip",
+          "download_url": "https://github.com/magalucloud/terraform-provider-mgc/releases/download/v0.40.2/terraform-provider-mgc_0.40.2_windows_arm64.zip",
+          "shasum": "fff3414a083347e6a7d19a2fb2d16a5bd82c905cdef1a40051018f49c198b0b8",
+          "h1": "h1:2z6OrshLf3uV7kh5Ybr9QnhG8NS6HdnMrQ7Q/7F7ibo="
+        }
+      ]
+    },
+    {
       "version": "0.40.1",
       "protocols": [
         "6.0"
