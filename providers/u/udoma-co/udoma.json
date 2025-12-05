@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.3.21",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/udoma-co/terraform-provider-udoma/releases/download/v0.3.21/terraform-provider-udoma_0.3.21_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/udoma-co/terraform-provider-udoma/releases/download/v0.3.21/terraform-provider-udoma_0.3.21_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-udoma_0.3.21_darwin_amd64.zip",
+          "download_url": "https://github.com/udoma-co/terraform-provider-udoma/releases/download/v0.3.21/terraform-provider-udoma_0.3.21_darwin_amd64.zip",
+          "shasum": "38a104c97dc88d70f7f5af400c465356d3a5a9af34ebfbc0b168ab9372148eb2",
+          "h1": "h1:GB1oW8U32IfRlUfv/OO9u7jccUb4i+16PSeaZPRQ6cE="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-udoma_0.3.21_darwin_arm64.zip",
+          "download_url": "https://github.com/udoma-co/terraform-provider-udoma/releases/download/v0.3.21/terraform-provider-udoma_0.3.21_darwin_arm64.zip",
+          "shasum": "8f5cfae1a86e4ed738ffa39171ae1785490a65a9df253f6131ad5d68cee8689d",
+          "h1": "h1:q+m0nKxxItTbTsE0Wn48OMK0JqUBDlLPip+K15Ixi40="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-udoma_0.3.21_freebsd_386.zip",
+          "download_url": "https://github.com/udoma-co/terraform-provider-udoma/releases/download/v0.3.21/terraform-provider-udoma_0.3.21_freebsd_386.zip",
+          "shasum": "fa62e59a0a4206a59929ef816beaf135a44eefd902b2d4606185be40d29edc08",
+          "h1": "h1:Fdddrv4Wm7RB10Hd64VoQQroSSkCeyIm9ZjLOvRIRKM="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-udoma_0.3.21_freebsd_amd64.zip",
+          "download_url": "https://github.com/udoma-co/terraform-provider-udoma/releases/download/v0.3.21/terraform-provider-udoma_0.3.21_freebsd_amd64.zip",
+          "shasum": "81128d8611157f13431649d3e86a6bd7b03a30cc5460119a1b4ce6dff1064be6",
+          "h1": "h1:uw/8raptAP9ygpQ43yH0kogjI3ZgAty4NDP+iTMVgfI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-udoma_0.3.21_freebsd_arm.zip",
+          "download_url": "https://github.com/udoma-co/terraform-provider-udoma/releases/download/v0.3.21/terraform-provider-udoma_0.3.21_freebsd_arm.zip",
+          "shasum": "a82126cfc50256a39bc0ffe747f86c99a67949f1d0816a9088f926a9ae19610d",
+          "h1": "h1:ZPO/Q1ILipvzfqfzM0Da89EwD57oOdVBolijtrTiPS4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-udoma_0.3.21_freebsd_arm64.zip",
+          "download_url": "https://github.com/udoma-co/terraform-provider-udoma/releases/download/v0.3.21/terraform-provider-udoma_0.3.21_freebsd_arm64.zip",
+          "shasum": "f106af755bcda404180c8ac80b3267b2aa980c68e4386e7eda50dd03c5ec70be",
+          "h1": "h1:79BwwKTKXYbWm6LisIQwWGIpIMaSLVXo5Xe9fYdJ99Q="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-udoma_0.3.21_linux_386.zip",
+          "download_url": "https://github.com/udoma-co/terraform-provider-udoma/releases/download/v0.3.21/terraform-provider-udoma_0.3.21_linux_386.zip",
+          "shasum": "ad5cd801a551fa50408b537ee0279e325a917b050012d153b6b008e0d886a393",
+          "h1": "h1:2fWVsCE1sYgWWoOnGb7nUBA6w54BmoGsdKmsd5l4Yuo="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-udoma_0.3.21_linux_amd64.zip",
+          "download_url": "https://github.com/udoma-co/terraform-provider-udoma/releases/download/v0.3.21/terraform-provider-udoma_0.3.21_linux_amd64.zip",
+          "shasum": "b8432c44807ca021743863c0b772fc3b2ef3391a94ebadbfbddb994be181f792",
+          "h1": "h1:GBWEY3BNg1oLankRfof8Dv+7L2SQs94HaTntYReZqhk="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-udoma_0.3.21_linux_arm.zip",
+          "download_url": "https://github.com/udoma-co/terraform-provider-udoma/releases/download/v0.3.21/terraform-provider-udoma_0.3.21_linux_arm.zip",
+          "shasum": "eddfcaa59077c3558a3122e19a4d9441360011394798eb18b986445ca24151b3",
+          "h1": "h1:iXijt1OX0bkrnKtT+oM95WE7Mt2PKj3IZ44tK6LUgJs="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-udoma_0.3.21_linux_arm64.zip",
+          "download_url": "https://github.com/udoma-co/terraform-provider-udoma/releases/download/v0.3.21/terraform-provider-udoma_0.3.21_linux_arm64.zip",
+          "shasum": "17b1ee91f7555629c214788c2e9e9754f5b9071155301247c6ecf5ff431b1857",
+          "h1": "h1:kgIppyEFZRblOaAi5/CY7XJlTfAOwGn04xiJrU8p/QM="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-udoma_0.3.21_windows_386.zip",
+          "download_url": "https://github.com/udoma-co/terraform-provider-udoma/releases/download/v0.3.21/terraform-provider-udoma_0.3.21_windows_386.zip",
+          "shasum": "8b1c3d31587f8e10ce1a58e6b34af0b0fb5af3df662c79d7f96aee41ce3df7d8",
+          "h1": "h1:0aK4jczx3DKzQxGRKtbuDxqhkjdFKUNnt1fTaCq83N4="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-udoma_0.3.21_windows_amd64.zip",
+          "download_url": "https://github.com/udoma-co/terraform-provider-udoma/releases/download/v0.3.21/terraform-provider-udoma_0.3.21_windows_amd64.zip",
+          "shasum": "d59dc37b94a49b2178d4753a93a8910ad1828a788c29358156e50d28984a16e7",
+          "h1": "h1:9vngTdXhuxEjKeaQKfgcy7uCdiJdxjNgXsp2n5CdUKI="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-udoma_0.3.21_windows_arm.zip",
+          "download_url": "https://github.com/udoma-co/terraform-provider-udoma/releases/download/v0.3.21/terraform-provider-udoma_0.3.21_windows_arm.zip",
+          "shasum": "28130061f1b462a1946199dc8dfe68339c86d6888dd305a09c5cab1beabc1936",
+          "h1": "h1:y9XCyjvPYik+8FAPRL0Nzqhf+NGtmGRS0tSi/lohu+s="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-udoma_0.3.21_windows_arm64.zip",
+          "download_url": "https://github.com/udoma-co/terraform-provider-udoma/releases/download/v0.3.21/terraform-provider-udoma_0.3.21_windows_arm64.zip",
+          "shasum": "039fb9956fac93c7a8216e772733576dd2c28b5c1b7629bb6b56483cdc9e5503",
+          "h1": "h1:9dRwzaxFM4HJ9TE48zBLbjQP21hKdttzyk//6EAN6JE="
+        }
+      ]
+    },
+    {
       "version": "0.3.20",
       "protocols": [
         "6.0"
