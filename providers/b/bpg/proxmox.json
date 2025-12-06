@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.89.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.89.0/terraform-provider-proxmox_0.89.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.89.0/terraform-provider-proxmox_0.89.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-proxmox_0.89.0_darwin_amd64.zip",
+          "download_url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.89.0/terraform-provider-proxmox_0.89.0_darwin_amd64.zip",
+          "shasum": "9384b2f2d899cf44662ffacbdf6bc268fecb9291755a633957a3413f109bdee6",
+          "h1": "h1:gOxVos/fylI9ZoVkjGsxYa6L3TegIqHp2IzXw6pfn9I="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-proxmox_0.89.0_darwin_arm64.zip",
+          "download_url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.89.0/terraform-provider-proxmox_0.89.0_darwin_arm64.zip",
+          "shasum": "0ac841733348a529a53552fbca2ec1c2a3765cab9a27c224c11f49ca0282f38e",
+          "h1": "h1:K+x0TE7ly2q7E8F1p+1HdBdW7Dpu7/y7KtzHVwUnlaU="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-proxmox_0.89.0_freebsd_386.zip",
+          "download_url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.89.0/terraform-provider-proxmox_0.89.0_freebsd_386.zip",
+          "shasum": "dc6072f36559444744a5ce551ac8b8ed160f8d8d0677eb9b740128cde8adb57a",
+          "h1": "h1:K2xvi7Rh94SURFRIit6MVJkS8S7PujK72cqABOQ5Qm0="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-proxmox_0.89.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.89.0/terraform-provider-proxmox_0.89.0_freebsd_amd64.zip",
+          "shasum": "11fc498398efefe246ea7b9efd9a3a8cde875837875e8f15c89e501285f975aa",
+          "h1": "h1:tS0JRrUydIYW+bHjOTejdjv15A0NrBnMdIWdzGG7X/E="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-proxmox_0.89.0_freebsd_arm.zip",
+          "download_url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.89.0/terraform-provider-proxmox_0.89.0_freebsd_arm.zip",
+          "shasum": "a62920cdfcd6f6a3af1887ba8159648b71a689a8109d4ce6506d90db6ba506db",
+          "h1": "h1:omi3V4KqfxHjY2Qx+jVKSSvwpE+5xHNKRgqbh3sIGkc="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-proxmox_0.89.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.89.0/terraform-provider-proxmox_0.89.0_freebsd_arm64.zip",
+          "shasum": "7f8987ad04f2f6c1d2fb20ec1fe4391cf671d069dc310f9430cd707d2af8b235",
+          "h1": "h1:JPXupknOLfhudwtFKb7PopjfRltYKThwvRAx8rtuwC4="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-proxmox_0.89.0_linux_386.zip",
+          "download_url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.89.0/terraform-provider-proxmox_0.89.0_linux_386.zip",
+          "shasum": "40fe200d655034c409b4dbb44f7999f3fef8bf82204b1c2faaba5fb3b9ed033d",
+          "h1": "h1:UQbhUlwJkRqTVVI9s5ZeOBD6DIUWx+r+bloGCiZMfew="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-proxmox_0.89.0_linux_amd64.zip",
+          "download_url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.89.0/terraform-provider-proxmox_0.89.0_linux_amd64.zip",
+          "shasum": "5a839039660c501b4b849d161734d663b7cae3efa4c8a301e73c8d1ae127b384",
+          "h1": "h1:c05H1oExWT00pJHolq/dx/kXae494qLq8KKVuQ8GKWU="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-proxmox_0.89.0_linux_arm.zip",
+          "download_url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.89.0/terraform-provider-proxmox_0.89.0_linux_arm.zip",
+          "shasum": "db864d419becc2a541f5db5df5d8325057e8e11ca2cd97d884507c5667466b46",
+          "h1": "h1:nFRF86rn3GzdofhzqlRDrtnKtgi8VNMqMwOQcCqA2Lk="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-proxmox_0.89.0_linux_arm64.zip",
+          "download_url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.89.0/terraform-provider-proxmox_0.89.0_linux_arm64.zip",
+          "shasum": "2a4e9d5bd70112628b065c3f987bedb0d71ab1fa67f2e6c9589fd0f268fa81fa",
+          "h1": "h1:3+tu3Wzk6gzDgp/pSM3qiAScMG9d0+oLmDN2aGy2qdk="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-proxmox_0.89.0_windows_386.zip",
+          "download_url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.89.0/terraform-provider-proxmox_0.89.0_windows_386.zip",
+          "shasum": "8c32f27e0da716116f65c1013c520d63074db07548c32732fd296a31587d17c4",
+          "h1": "h1:GbQIQ70r2m0T2/M1EhnLrD6y0cbb2ghB0pYwQtRPHlk="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-proxmox_0.89.0_windows_amd64.zip",
+          "download_url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.89.0/terraform-provider-proxmox_0.89.0_windows_amd64.zip",
+          "shasum": "ef3ae28ba0449c61f951ea11fe53626e7d32bcee2dcbf25ab47b7cc5b8fe2f32",
+          "h1": "h1:kXnUr652O9h8+ZFsuPi7Puw2kDj0YkSzi5IRSroG1As="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-proxmox_0.89.0_windows_arm.zip",
+          "download_url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.89.0/terraform-provider-proxmox_0.89.0_windows_arm.zip",
+          "shasum": "e23933741de78132b22ad356b2e81108a2d8322a29804702bc4a6c214843937d",
+          "h1": "h1:ywpUza6Ro2BmFngIlPWo4GeXeaeeNIfP5rM9m0VMOkk="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-proxmox_0.89.0_windows_arm64.zip",
+          "download_url": "https://github.com/bpg/terraform-provider-proxmox/releases/download/v0.89.0/terraform-provider-proxmox_0.89.0_windows_arm64.zip",
+          "shasum": "ea937465c1c757fd520e9a61eae749b20106a34d99dbe678d884b6b2fa763145",
+          "h1": "h1:ejJhfdnsyu0ObV8MTfFW6bzR9t4hDl+/Bpm02bIkvTI="
+        }
+      ]
+    },
+    {
       "version": "0.88.0",
       "protocols": [
         "6.0"
