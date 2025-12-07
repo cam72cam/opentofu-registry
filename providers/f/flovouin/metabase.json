@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.10.1",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.1/terraform-provider-metabase_0.10.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.1/terraform-provider-metabase_0.10.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-metabase_0.10.1_darwin_amd64.zip",
+          "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.1/terraform-provider-metabase_0.10.1_darwin_amd64.zip",
+          "shasum": "a3d856b3b4cbb4d805480a091620fc426f8701ced1721c78523656d7b8b6777d",
+          "h1": "h1:HNf7eBEhHqDTmmR86eJmkba+s+4AEZ0QfKwpkqWSwBI="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-metabase_0.10.1_darwin_arm64.zip",
+          "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.1/terraform-provider-metabase_0.10.1_darwin_arm64.zip",
+          "shasum": "c1efea5acbcf55fd01d0b7bb2018507a91cc4f93a48e46bcde49d1424bdd62d5",
+          "h1": "h1:E5QjTvfZYaXEWLUjy15GpYzN8GIIuHfJjTfMO0f4o+Q="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-metabase_0.10.1_freebsd_386.zip",
+          "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.1/terraform-provider-metabase_0.10.1_freebsd_386.zip",
+          "shasum": "999488a1ab26bfc0dd09eb07191d85e4c42a03aca87e53780c95af4c7800ce1e",
+          "h1": "h1:ugKaNYlHWg6g/z0YOMZvCPl5AgjuiJH6NBUmA4cpq0E="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-metabase_0.10.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.1/terraform-provider-metabase_0.10.1_freebsd_amd64.zip",
+          "shasum": "db3d0b277bca906bbb7492b3b408785228e37d4825a9b8f21c530074d0cea41d",
+          "h1": "h1:eaToGVSIlc0U1XnWZkT6hBO1yXBsxisUZrPQEodO5zc="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-metabase_0.10.1_freebsd_arm.zip",
+          "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.1/terraform-provider-metabase_0.10.1_freebsd_arm.zip",
+          "shasum": "456e67564bf7808a0a94eb48b4d878335d8154a3125d2cfe48197c0bd9d0b9bb",
+          "h1": "h1:ylgw2APKbeUrd/hIJxaSIjPJD5aZqGOxGk7MQwhhsF4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-metabase_0.10.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.1/terraform-provider-metabase_0.10.1_freebsd_arm64.zip",
+          "shasum": "ffc242008a43191bf4fb4e8b569c22a87d98c705c4f52bfe328a056872dd58c6",
+          "h1": "h1:07YTPA7qWrIKp/n7xXjLoYlc6rsZkrVScMHVKPiOsZc="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-metabase_0.10.1_linux_386.zip",
+          "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.1/terraform-provider-metabase_0.10.1_linux_386.zip",
+          "shasum": "7feb3b140cfa849374057a99b5c62abc139e71ce20668832aa64cba004b3e74c",
+          "h1": "h1:WxQnalW2SyGKPzypAhQMmAUAUYFOFWu8Qg4510dXJ7Q="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-metabase_0.10.1_linux_amd64.zip",
+          "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.1/terraform-provider-metabase_0.10.1_linux_amd64.zip",
+          "shasum": "844c6d542f8dc4259a58d892f5411bd9a1efcc3b5eae4ccbca93f218bf8490e6",
+          "h1": "h1:LTBm3orWSCufjQYNrH0bMO3AXAX9RU5oKaFwBu7b8NM="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-metabase_0.10.1_linux_arm.zip",
+          "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.1/terraform-provider-metabase_0.10.1_linux_arm.zip",
+          "shasum": "3353615b036514a07869d0e18496a1850bf9d51975210ea05fc1bd9c2cccbeea",
+          "h1": "h1:Bivb5aMTrFnP3zeSkpWUyeaB+OC1rlT0PtoFiePMCk0="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-metabase_0.10.1_linux_arm64.zip",
+          "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.1/terraform-provider-metabase_0.10.1_linux_arm64.zip",
+          "shasum": "05c80bb0332cb5df635b8900807ff74a22cf047e8984f8c4499c7c5fd020c7b4",
+          "h1": "h1:/HxWqsj3bqSA6Oak/kgvUVJMNEZYqfcb0RudLsbNWb4="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-metabase_0.10.1_windows_386.zip",
+          "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.1/terraform-provider-metabase_0.10.1_windows_386.zip",
+          "shasum": "1ba11ea6eb227c92ee3ba803a0e3a5fb1d5fc88dd014f0ff933f83497cce73be",
+          "h1": "h1:mVWxu3Dj1K5l8KnA8HGR6Ldslqm3OfN0ncptJxt57jU="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-metabase_0.10.1_windows_amd64.zip",
+          "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.1/terraform-provider-metabase_0.10.1_windows_amd64.zip",
+          "shasum": "40220c8d375b445ce8d23523866106032f87513401e433baf1fa8c22e7410aa1",
+          "h1": "h1:r+pa5rwqunlh4b2/SREMBgE34eFa+sQdpwlAAtVhDco="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-metabase_0.10.1_windows_arm.zip",
+          "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.1/terraform-provider-metabase_0.10.1_windows_arm.zip",
+          "shasum": "2b1c2486640adf77c378bc738fe78381301bf4b7b82985ff3497174184e4f78a",
+          "h1": "h1:hstTtwfDPKxXFDyILV0tvUlNeIjZP6Q3iw2ORKE7I6Y="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-metabase_0.10.1_windows_arm64.zip",
+          "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.1/terraform-provider-metabase_0.10.1_windows_arm64.zip",
+          "shasum": "f2d10937734f17e0f354cf576a74ee567882925502cba1b58cb29492396f9aa2",
+          "h1": "h1:8y02xe6DlWoemvSIxftISaWnGO0UH+01IbBqx+HFfho="
+        }
+      ]
+    },
+    {
       "version": "0.10.0",
       "protocols": [
         "6.0"
@@ -13,98 +135,112 @@
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.10.0_darwin_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.0/terraform-provider-metabase_0.10.0_darwin_amd64.zip",
-          "shasum": "b88e47c0aa98debf7bf0db23a486c009c98a875c1c18c7a08735734ff677f143"
+          "shasum": "b88e47c0aa98debf7bf0db23a486c009c98a875c1c18c7a08735734ff677f143",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.10.0_darwin_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.0/terraform-provider-metabase_0.10.0_darwin_arm64.zip",
-          "shasum": "dbcd4a18c3d7c3ba84aec024089b0690b05a2717bce3a08fe81a7626d991933f"
+          "shasum": "dbcd4a18c3d7c3ba84aec024089b0690b05a2717bce3a08fe81a7626d991933f",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.10.0_freebsd_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.0/terraform-provider-metabase_0.10.0_freebsd_386.zip",
-          "shasum": "92a1e568fc7dfec8c5fe01c0dee780c7f2d074d137c14430f6fdf4d4a677bb8d"
+          "shasum": "92a1e568fc7dfec8c5fe01c0dee780c7f2d074d137c14430f6fdf4d4a677bb8d",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.10.0_freebsd_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.0/terraform-provider-metabase_0.10.0_freebsd_amd64.zip",
-          "shasum": "f4836ae676ad2b242ef144b14ab226190281174d8db5d8bebf2b9b6955fbceff"
+          "shasum": "f4836ae676ad2b242ef144b14ab226190281174d8db5d8bebf2b9b6955fbceff",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.10.0_freebsd_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.0/terraform-provider-metabase_0.10.0_freebsd_arm.zip",
-          "shasum": "8563e98f638e956c7b9462be0711033e4698cf9ef6d3311e74cbbf77f3bedcbb"
+          "shasum": "8563e98f638e956c7b9462be0711033e4698cf9ef6d3311e74cbbf77f3bedcbb",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.10.0_freebsd_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.0/terraform-provider-metabase_0.10.0_freebsd_arm64.zip",
-          "shasum": "b165c5d392688bf9a2018fab9eca3106d193fcc87ea90227c6945736b63f8973"
+          "shasum": "b165c5d392688bf9a2018fab9eca3106d193fcc87ea90227c6945736b63f8973",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.10.0_linux_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.0/terraform-provider-metabase_0.10.0_linux_386.zip",
-          "shasum": "e97878f7cbc8c99dd18a422576151eed1c86b9c1859649895fb99a2c53f2e119"
+          "shasum": "e97878f7cbc8c99dd18a422576151eed1c86b9c1859649895fb99a2c53f2e119",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.10.0_linux_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.0/terraform-provider-metabase_0.10.0_linux_amd64.zip",
-          "shasum": "b65bcc6bf98c7d9ca12d00fdca91337c3f7b0223c1a5b5fc1b3b0be27bbc678d"
+          "shasum": "b65bcc6bf98c7d9ca12d00fdca91337c3f7b0223c1a5b5fc1b3b0be27bbc678d",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.10.0_linux_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.0/terraform-provider-metabase_0.10.0_linux_arm.zip",
-          "shasum": "5fcc18c416f394e4cb5511369e4fde98d82c26ef54a190ae3630c7c7d9cb6439"
+          "shasum": "5fcc18c416f394e4cb5511369e4fde98d82c26ef54a190ae3630c7c7d9cb6439",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.10.0_linux_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.0/terraform-provider-metabase_0.10.0_linux_arm64.zip",
-          "shasum": "e2d0b5886b2a80468949f984bd56c232c6610d966dddda4b17adecabd349d986"
+          "shasum": "e2d0b5886b2a80468949f984bd56c232c6610d966dddda4b17adecabd349d986",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.10.0_windows_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.0/terraform-provider-metabase_0.10.0_windows_386.zip",
-          "shasum": "22a67478cf6575d2a567c8eb50f66432b7bdb38459de5701afecfd3b5a8bedf2"
+          "shasum": "22a67478cf6575d2a567c8eb50f66432b7bdb38459de5701afecfd3b5a8bedf2",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.10.0_windows_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.0/terraform-provider-metabase_0.10.0_windows_amd64.zip",
-          "shasum": "5b35ffb33f64edfb1b0941015518a4efb00b9474c634cdd5e653f208d1e5a7fa"
+          "shasum": "5b35ffb33f64edfb1b0941015518a4efb00b9474c634cdd5e653f208d1e5a7fa",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.10.0_windows_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.0/terraform-provider-metabase_0.10.0_windows_arm.zip",
-          "shasum": "1ff24a2604ad563fcf96b8a96fca812e8ba8e9bdf57179632961864ed7b82264"
+          "shasum": "1ff24a2604ad563fcf96b8a96fca812e8ba8e9bdf57179632961864ed7b82264",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.10.0_windows_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.10.0/terraform-provider-metabase_0.10.0_windows_arm64.zip",
-          "shasum": "e90c38b88963f7e38882aec34482202e7e1a7e3bdd6f7ef7b2577e6e79181415"
+          "shasum": "e90c38b88963f7e38882aec34482202e7e1a7e3bdd6f7ef7b2577e6e79181415",
+          "h1": ""
         }
       ]
     },
@@ -121,98 +257,112 @@
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.9.0_darwin_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.9.0/terraform-provider-metabase_0.9.0_darwin_amd64.zip",
-          "shasum": "fee8fe0d362d391cb096239718e4d9364b23eb2edc90a1c2950723e7e891c405"
+          "shasum": "fee8fe0d362d391cb096239718e4d9364b23eb2edc90a1c2950723e7e891c405",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.9.0_darwin_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.9.0/terraform-provider-metabase_0.9.0_darwin_arm64.zip",
-          "shasum": "6604239fa391035190165ce73ae0fe676d3062c5c438f343e2474f5981218007"
+          "shasum": "6604239fa391035190165ce73ae0fe676d3062c5c438f343e2474f5981218007",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.9.0_freebsd_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.9.0/terraform-provider-metabase_0.9.0_freebsd_386.zip",
-          "shasum": "cc5638336c2e1d1314126a1939d329a2281ce52f280a85555ba33a0ca9276369"
+          "shasum": "cc5638336c2e1d1314126a1939d329a2281ce52f280a85555ba33a0ca9276369",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.9.0_freebsd_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.9.0/terraform-provider-metabase_0.9.0_freebsd_amd64.zip",
-          "shasum": "4466d6d80b47bb6c17a50b63e9c808cc156b604ad8e8beafc92a957b41bec4a7"
+          "shasum": "4466d6d80b47bb6c17a50b63e9c808cc156b604ad8e8beafc92a957b41bec4a7",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.9.0_freebsd_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.9.0/terraform-provider-metabase_0.9.0_freebsd_arm.zip",
-          "shasum": "ac920906f1b7f2f0dc8c9340b9ed6087ebfab29bdb47959cde5072329c255772"
+          "shasum": "ac920906f1b7f2f0dc8c9340b9ed6087ebfab29bdb47959cde5072329c255772",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.9.0_freebsd_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.9.0/terraform-provider-metabase_0.9.0_freebsd_arm64.zip",
-          "shasum": "0b20aa5a451877ff5b9c8dcee341df46f27b02aa06d716509a0121f84826f326"
+          "shasum": "0b20aa5a451877ff5b9c8dcee341df46f27b02aa06d716509a0121f84826f326",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.9.0_linux_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.9.0/terraform-provider-metabase_0.9.0_linux_386.zip",
-          "shasum": "eccb772d33215dedcb664e135cd6e2ccf9063f1665da593dada7a1dfef46865c"
+          "shasum": "eccb772d33215dedcb664e135cd6e2ccf9063f1665da593dada7a1dfef46865c",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.9.0_linux_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.9.0/terraform-provider-metabase_0.9.0_linux_amd64.zip",
-          "shasum": "ddc26f4e97bb3e179206c0d86b267167af5adb36050e2505bb6fdf28a54eb04d"
+          "shasum": "ddc26f4e97bb3e179206c0d86b267167af5adb36050e2505bb6fdf28a54eb04d",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.9.0_linux_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.9.0/terraform-provider-metabase_0.9.0_linux_arm.zip",
-          "shasum": "7763706a82f64418e00a334e4d99cb4e619ffee37951a938c782759dfcc65e3d"
+          "shasum": "7763706a82f64418e00a334e4d99cb4e619ffee37951a938c782759dfcc65e3d",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.9.0_linux_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.9.0/terraform-provider-metabase_0.9.0_linux_arm64.zip",
-          "shasum": "375cef3c39b5dd0e2ac84a79f6fc3ce717aa905a872f39da9e9e1a7eecef26bd"
+          "shasum": "375cef3c39b5dd0e2ac84a79f6fc3ce717aa905a872f39da9e9e1a7eecef26bd",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.9.0_windows_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.9.0/terraform-provider-metabase_0.9.0_windows_386.zip",
-          "shasum": "ace17bb919f87aa7fed307cacb746567ada06af930404955126d8ad81308458f"
+          "shasum": "ace17bb919f87aa7fed307cacb746567ada06af930404955126d8ad81308458f",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.9.0_windows_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.9.0/terraform-provider-metabase_0.9.0_windows_amd64.zip",
-          "shasum": "fb24f2f4a520558486e6255a7e1665d64cbdd582c19126b5487b8bf6903a8048"
+          "shasum": "fb24f2f4a520558486e6255a7e1665d64cbdd582c19126b5487b8bf6903a8048",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.9.0_windows_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.9.0/terraform-provider-metabase_0.9.0_windows_arm.zip",
-          "shasum": "ac69f87dc00d1207cffdb51985d97903d17d135a39b4fbfe5e571a9d6d71e56f"
+          "shasum": "ac69f87dc00d1207cffdb51985d97903d17d135a39b4fbfe5e571a9d6d71e56f",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.9.0_windows_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.9.0/terraform-provider-metabase_0.9.0_windows_arm64.zip",
-          "shasum": "35752b77cc21fd16ca126374c5c16c2210e57aa481305773ebe6fd3609d79674"
+          "shasum": "35752b77cc21fd16ca126374c5c16c2210e57aa481305773ebe6fd3609d79674",
+          "h1": ""
         }
       ]
     },
@@ -229,98 +379,112 @@
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.8.1_darwin_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.1/terraform-provider-metabase_0.8.1_darwin_amd64.zip",
-          "shasum": "388c2028e9489c3779998a4adb852d3bbfdd77f295051225fd38d8d867eeb326"
+          "shasum": "388c2028e9489c3779998a4adb852d3bbfdd77f295051225fd38d8d867eeb326",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.8.1_darwin_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.1/terraform-provider-metabase_0.8.1_darwin_arm64.zip",
-          "shasum": "288bb40b41856a4e1355cdaaac51198a1e458db9122ca59bb08603fe8953aec8"
+          "shasum": "288bb40b41856a4e1355cdaaac51198a1e458db9122ca59bb08603fe8953aec8",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.8.1_freebsd_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.1/terraform-provider-metabase_0.8.1_freebsd_386.zip",
-          "shasum": "7cb0e76aa823fbcc3487549001580f603edabfc4f1c209f5dd2f99af219b4924"
+          "shasum": "7cb0e76aa823fbcc3487549001580f603edabfc4f1c209f5dd2f99af219b4924",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.8.1_freebsd_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.1/terraform-provider-metabase_0.8.1_freebsd_amd64.zip",
-          "shasum": "7a51a100478d9bb526558f500a8e6e0437ebf972d0db071151d795603bfe96c0"
+          "shasum": "7a51a100478d9bb526558f500a8e6e0437ebf972d0db071151d795603bfe96c0",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.8.1_freebsd_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.1/terraform-provider-metabase_0.8.1_freebsd_arm.zip",
-          "shasum": "8cc492fdeb8d1e63b63d3ce69a84ba06e1162cc8f25509335db9578391e0161d"
+          "shasum": "8cc492fdeb8d1e63b63d3ce69a84ba06e1162cc8f25509335db9578391e0161d",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.8.1_freebsd_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.1/terraform-provider-metabase_0.8.1_freebsd_arm64.zip",
-          "shasum": "0071ff8570a9d9a9af9311e4b90ed74293f17af0943588bc6f28b1ead1a36d1f"
+          "shasum": "0071ff8570a9d9a9af9311e4b90ed74293f17af0943588bc6f28b1ead1a36d1f",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.8.1_linux_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.1/terraform-provider-metabase_0.8.1_linux_386.zip",
-          "shasum": "e3b2156a94d923a32220a1b52c353d6a176b3ba38767677e2628589153421101"
+          "shasum": "e3b2156a94d923a32220a1b52c353d6a176b3ba38767677e2628589153421101",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.8.1_linux_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.1/terraform-provider-metabase_0.8.1_linux_amd64.zip",
-          "shasum": "4d22bc2ac120e1a97622f0a3a0ee56ae5bae4474c55bdba306f29406c139f31f"
+          "shasum": "4d22bc2ac120e1a97622f0a3a0ee56ae5bae4474c55bdba306f29406c139f31f",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.8.1_linux_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.1/terraform-provider-metabase_0.8.1_linux_arm.zip",
-          "shasum": "b9d16565b5baecf3a46e0cd8c0f974b78043a673aff68c749818739c0471b08a"
+          "shasum": "b9d16565b5baecf3a46e0cd8c0f974b78043a673aff68c749818739c0471b08a",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.8.1_linux_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.1/terraform-provider-metabase_0.8.1_linux_arm64.zip",
-          "shasum": "6e08f60a6d984aa2925b9a7c26e0f8f4957ce2c38775004d9ffa91f4e66a6f9a"
+          "shasum": "6e08f60a6d984aa2925b9a7c26e0f8f4957ce2c38775004d9ffa91f4e66a6f9a",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.8.1_windows_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.1/terraform-provider-metabase_0.8.1_windows_386.zip",
-          "shasum": "e3f7ba6d75834180a837099f684c1010c98af30fb43b52f75202e47d1866d491"
+          "shasum": "e3f7ba6d75834180a837099f684c1010c98af30fb43b52f75202e47d1866d491",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.8.1_windows_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.1/terraform-provider-metabase_0.8.1_windows_amd64.zip",
-          "shasum": "c82e4e0c4125f14ec62197071ad0691cb02a9f1a72f4df937f2d113a5b3dde42"
+          "shasum": "c82e4e0c4125f14ec62197071ad0691cb02a9f1a72f4df937f2d113a5b3dde42",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.8.1_windows_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.1/terraform-provider-metabase_0.8.1_windows_arm.zip",
-          "shasum": "cf74611598b5444b0ff5d933bd7d976beaa20aad65fc691d06033d28a7c197ba"
+          "shasum": "cf74611598b5444b0ff5d933bd7d976beaa20aad65fc691d06033d28a7c197ba",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.8.1_windows_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.1/terraform-provider-metabase_0.8.1_windows_arm64.zip",
-          "shasum": "05e93c971a292d017bf58a9427c8a5f28463a32177d8c15d9d47947e1f7de855"
+          "shasum": "05e93c971a292d017bf58a9427c8a5f28463a32177d8c15d9d47947e1f7de855",
+          "h1": ""
         }
       ]
     },
@@ -337,98 +501,112 @@
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.8.0_darwin_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.0/terraform-provider-metabase_0.8.0_darwin_amd64.zip",
-          "shasum": "4a27728a3d15f467da6cd4c4959c0bffb5256a7c5eacc0adee8a98d4d611dd25"
+          "shasum": "4a27728a3d15f467da6cd4c4959c0bffb5256a7c5eacc0adee8a98d4d611dd25",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.8.0_darwin_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.0/terraform-provider-metabase_0.8.0_darwin_arm64.zip",
-          "shasum": "6cc6f17602d4665e85793954bc28a39c0bb7911c0a1dc42e2d897adfece5efbe"
+          "shasum": "6cc6f17602d4665e85793954bc28a39c0bb7911c0a1dc42e2d897adfece5efbe",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.8.0_freebsd_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.0/terraform-provider-metabase_0.8.0_freebsd_386.zip",
-          "shasum": "95b6c5486babd199ef951bf0d511bc1c38deeb4cddd9d9b3acb9a274d0ac621a"
+          "shasum": "95b6c5486babd199ef951bf0d511bc1c38deeb4cddd9d9b3acb9a274d0ac621a",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.8.0_freebsd_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.0/terraform-provider-metabase_0.8.0_freebsd_amd64.zip",
-          "shasum": "0cbba2a4c8308c8277cd4862fed16ef32f6e55e8db004b6866a0837da13ddea4"
+          "shasum": "0cbba2a4c8308c8277cd4862fed16ef32f6e55e8db004b6866a0837da13ddea4",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.8.0_freebsd_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.0/terraform-provider-metabase_0.8.0_freebsd_arm.zip",
-          "shasum": "cafc3a2a449012088813a856074c0676e1f4eeaa180c788b7b9875e2b4ec87e0"
+          "shasum": "cafc3a2a449012088813a856074c0676e1f4eeaa180c788b7b9875e2b4ec87e0",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.8.0_freebsd_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.0/terraform-provider-metabase_0.8.0_freebsd_arm64.zip",
-          "shasum": "82f2abf1ac3b2943bf46cb0f7ffb83f24e87e651df59decf8c14e4bf4d0c2cc8"
+          "shasum": "82f2abf1ac3b2943bf46cb0f7ffb83f24e87e651df59decf8c14e4bf4d0c2cc8",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.8.0_linux_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.0/terraform-provider-metabase_0.8.0_linux_386.zip",
-          "shasum": "b5ae6fd4d06d8416c474fb0d836b9b4f88aed49fefa8befc228e25bfea5ced54"
+          "shasum": "b5ae6fd4d06d8416c474fb0d836b9b4f88aed49fefa8befc228e25bfea5ced54",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.8.0_linux_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.0/terraform-provider-metabase_0.8.0_linux_amd64.zip",
-          "shasum": "cf28ba0b8ddaad2b69c6206bbe89c1bddeda12a76e13eb985cb9ba8323b1d4af"
+          "shasum": "cf28ba0b8ddaad2b69c6206bbe89c1bddeda12a76e13eb985cb9ba8323b1d4af",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.8.0_linux_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.0/terraform-provider-metabase_0.8.0_linux_arm.zip",
-          "shasum": "ba83b1c856975c27aeb7d09c6f6d696a950d043229178708fe8099ba1fa2649d"
+          "shasum": "ba83b1c856975c27aeb7d09c6f6d696a950d043229178708fe8099ba1fa2649d",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.8.0_linux_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.0/terraform-provider-metabase_0.8.0_linux_arm64.zip",
-          "shasum": "7221a76f559d36b286503ae595d02699c095c173b34c0ba5112c9d49f062ad62"
+          "shasum": "7221a76f559d36b286503ae595d02699c095c173b34c0ba5112c9d49f062ad62",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.8.0_windows_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.0/terraform-provider-metabase_0.8.0_windows_386.zip",
-          "shasum": "ceb813e3658e00a30d20820804894ef97fd4a4a768ab382dfe0786680d1a66e1"
+          "shasum": "ceb813e3658e00a30d20820804894ef97fd4a4a768ab382dfe0786680d1a66e1",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.8.0_windows_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.0/terraform-provider-metabase_0.8.0_windows_amd64.zip",
-          "shasum": "d31045a670e7f4743de0ff5f88d04b9891bc47114f4d31cf10a0eb4bb32fecd3"
+          "shasum": "d31045a670e7f4743de0ff5f88d04b9891bc47114f4d31cf10a0eb4bb32fecd3",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.8.0_windows_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.0/terraform-provider-metabase_0.8.0_windows_arm.zip",
-          "shasum": "bac5b167bbb0386e438b0a3c9be03933bd50f9a0be65056666e309e77b6d9080"
+          "shasum": "bac5b167bbb0386e438b0a3c9be03933bd50f9a0be65056666e309e77b6d9080",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.8.0_windows_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.8.0/terraform-provider-metabase_0.8.0_windows_arm64.zip",
-          "shasum": "d9b2e0ed49baf4d01a0446717a189e01c40bf12973116a1f68cf09427a5f3588"
+          "shasum": "d9b2e0ed49baf4d01a0446717a189e01c40bf12973116a1f68cf09427a5f3588",
+          "h1": ""
         }
       ]
     },
@@ -445,98 +623,112 @@
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.7.0_darwin_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.7.0/terraform-provider-metabase_0.7.0_darwin_amd64.zip",
-          "shasum": "ef1469d83fcbcc6ca4971941665db82bba073ecb2f16f388e9caab49f9c3f240"
+          "shasum": "ef1469d83fcbcc6ca4971941665db82bba073ecb2f16f388e9caab49f9c3f240",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.7.0_darwin_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.7.0/terraform-provider-metabase_0.7.0_darwin_arm64.zip",
-          "shasum": "439e634dfedc8034ab371480ce12b696015339d6feea22236437277a91510df5"
+          "shasum": "439e634dfedc8034ab371480ce12b696015339d6feea22236437277a91510df5",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.7.0_freebsd_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.7.0/terraform-provider-metabase_0.7.0_freebsd_386.zip",
-          "shasum": "8e971dd483534c2c4d1b66535f89ac28f8e8920953d17a3171f313c1810cc96a"
+          "shasum": "8e971dd483534c2c4d1b66535f89ac28f8e8920953d17a3171f313c1810cc96a",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.7.0_freebsd_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.7.0/terraform-provider-metabase_0.7.0_freebsd_amd64.zip",
-          "shasum": "ea5b80a843519fa6b48bcb448809bf903d810a972201cfe67a08aaa11e25dd94"
+          "shasum": "ea5b80a843519fa6b48bcb448809bf903d810a972201cfe67a08aaa11e25dd94",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.7.0_freebsd_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.7.0/terraform-provider-metabase_0.7.0_freebsd_arm.zip",
-          "shasum": "9e51b66034c0c1bd3b817655485294e5ecc39cc98bfb1f55fa6fffd10b02cb9c"
+          "shasum": "9e51b66034c0c1bd3b817655485294e5ecc39cc98bfb1f55fa6fffd10b02cb9c",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.7.0_freebsd_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.7.0/terraform-provider-metabase_0.7.0_freebsd_arm64.zip",
-          "shasum": "37cc31cfb9b892ce2d85f33e29ecc68b10ef60baeddef73aaacc45c1560f9fc9"
+          "shasum": "37cc31cfb9b892ce2d85f33e29ecc68b10ef60baeddef73aaacc45c1560f9fc9",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.7.0_linux_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.7.0/terraform-provider-metabase_0.7.0_linux_386.zip",
-          "shasum": "e01b53cb0313a76d8bedf438f860696665c99001dd1efb4c44a06983a636da04"
+          "shasum": "e01b53cb0313a76d8bedf438f860696665c99001dd1efb4c44a06983a636da04",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.7.0_linux_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.7.0/terraform-provider-metabase_0.7.0_linux_amd64.zip",
-          "shasum": "915bb038c49f24e6d032b996086cbfb2d943ee7245226d2d0c7971afdf675a4d"
+          "shasum": "915bb038c49f24e6d032b996086cbfb2d943ee7245226d2d0c7971afdf675a4d",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.7.0_linux_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.7.0/terraform-provider-metabase_0.7.0_linux_arm.zip",
-          "shasum": "277bec969da5ce4f9a755c3c1c9a7178c91435456f52c85f80ac5329a934ce89"
+          "shasum": "277bec969da5ce4f9a755c3c1c9a7178c91435456f52c85f80ac5329a934ce89",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.7.0_linux_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.7.0/terraform-provider-metabase_0.7.0_linux_arm64.zip",
-          "shasum": "0fef4d355ae101b3c3dc31225b4f7ba34000495c13daff1f9eecca4f14669bde"
+          "shasum": "0fef4d355ae101b3c3dc31225b4f7ba34000495c13daff1f9eecca4f14669bde",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.7.0_windows_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.7.0/terraform-provider-metabase_0.7.0_windows_386.zip",
-          "shasum": "8eddbdc9bbc0636d8e0356af295e7e84c1e8c975a531c6a4b3fb85e2c3839553"
+          "shasum": "8eddbdc9bbc0636d8e0356af295e7e84c1e8c975a531c6a4b3fb85e2c3839553",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.7.0_windows_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.7.0/terraform-provider-metabase_0.7.0_windows_amd64.zip",
-          "shasum": "d8f4ef0cef3bfdfb8e1838bdbf668ec622c5537f31a8a857736be7977ca42cb7"
+          "shasum": "d8f4ef0cef3bfdfb8e1838bdbf668ec622c5537f31a8a857736be7977ca42cb7",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.7.0_windows_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.7.0/terraform-provider-metabase_0.7.0_windows_arm.zip",
-          "shasum": "f9fc11e9a66b57cb8a9b41cd489447d2b7e6a7f7232c0777b2ecdc5c1f6ecfec"
+          "shasum": "f9fc11e9a66b57cb8a9b41cd489447d2b7e6a7f7232c0777b2ecdc5c1f6ecfec",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.7.0_windows_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.7.0/terraform-provider-metabase_0.7.0_windows_arm64.zip",
-          "shasum": "753bf8748b4a23c30f05e54e1fe5dd17333418b1077076f4a9f46956d5b023d1"
+          "shasum": "753bf8748b4a23c30f05e54e1fe5dd17333418b1077076f4a9f46956d5b023d1",
+          "h1": ""
         }
       ]
     },
@@ -553,98 +745,112 @@
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.6.0_darwin_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.6.0/terraform-provider-metabase_0.6.0_darwin_amd64.zip",
-          "shasum": "87ee1b385f62bdbe45aad999f3d5a82bb759e0c5b7fc12075f54c3bacf326243"
+          "shasum": "87ee1b385f62bdbe45aad999f3d5a82bb759e0c5b7fc12075f54c3bacf326243",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.6.0_darwin_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.6.0/terraform-provider-metabase_0.6.0_darwin_arm64.zip",
-          "shasum": "4b3515aa9afaabae517982d1a8cdc363cbb15ad38bc614539ca2ba9eae3d32be"
+          "shasum": "4b3515aa9afaabae517982d1a8cdc363cbb15ad38bc614539ca2ba9eae3d32be",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.6.0_freebsd_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.6.0/terraform-provider-metabase_0.6.0_freebsd_386.zip",
-          "shasum": "fa0230f1caf3c17d5096b06d75d292f7044aa3eae72ee61d9a2bf585f9ded91a"
+          "shasum": "fa0230f1caf3c17d5096b06d75d292f7044aa3eae72ee61d9a2bf585f9ded91a",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.6.0_freebsd_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.6.0/terraform-provider-metabase_0.6.0_freebsd_amd64.zip",
-          "shasum": "bb29690232cca45c55f264f8096a670b3e98292c26998de02fe76c48be248701"
+          "shasum": "bb29690232cca45c55f264f8096a670b3e98292c26998de02fe76c48be248701",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.6.0_freebsd_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.6.0/terraform-provider-metabase_0.6.0_freebsd_arm.zip",
-          "shasum": "50a57c1bef62ea2d122ebb53de1c6b9e6e81e4dfc79413eff7f1aea3f7be2ff4"
+          "shasum": "50a57c1bef62ea2d122ebb53de1c6b9e6e81e4dfc79413eff7f1aea3f7be2ff4",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.6.0_freebsd_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.6.0/terraform-provider-metabase_0.6.0_freebsd_arm64.zip",
-          "shasum": "e8682b7c6882426e0f1fda5aa43763a24dc57b7b8290ffe00407affb8a7291d9"
+          "shasum": "e8682b7c6882426e0f1fda5aa43763a24dc57b7b8290ffe00407affb8a7291d9",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.6.0_linux_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.6.0/terraform-provider-metabase_0.6.0_linux_386.zip",
-          "shasum": "e327290f8a3581137d1f1441ed37c9cd60a2f2f97976b95fd39ebfeed71f6091"
+          "shasum": "e327290f8a3581137d1f1441ed37c9cd60a2f2f97976b95fd39ebfeed71f6091",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.6.0_linux_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.6.0/terraform-provider-metabase_0.6.0_linux_amd64.zip",
-          "shasum": "b349defc0a465daf7095137a880abec192ca4d24eb946990b0451ff2788e6f7e"
+          "shasum": "b349defc0a465daf7095137a880abec192ca4d24eb946990b0451ff2788e6f7e",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.6.0_linux_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.6.0/terraform-provider-metabase_0.6.0_linux_arm.zip",
-          "shasum": "f7045d2639ca964611293e8210a11ee6aaee04f5532063d1281970e35f7d98a8"
+          "shasum": "f7045d2639ca964611293e8210a11ee6aaee04f5532063d1281970e35f7d98a8",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.6.0_linux_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.6.0/terraform-provider-metabase_0.6.0_linux_arm64.zip",
-          "shasum": "f3d03abd9ffe6c458a103b8cf96a9047401256cc66710815a76232995f248669"
+          "shasum": "f3d03abd9ffe6c458a103b8cf96a9047401256cc66710815a76232995f248669",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.6.0_windows_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.6.0/terraform-provider-metabase_0.6.0_windows_386.zip",
-          "shasum": "8a3347dbd1be3f37f50cce2f32be42e410166e7af3421bd4a1fa6be838bd28ee"
+          "shasum": "8a3347dbd1be3f37f50cce2f32be42e410166e7af3421bd4a1fa6be838bd28ee",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.6.0_windows_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.6.0/terraform-provider-metabase_0.6.0_windows_amd64.zip",
-          "shasum": "89d47473dddd70d70e00fdde4f037421907379fd3c06ab38ea04a1361eed20ff"
+          "shasum": "89d47473dddd70d70e00fdde4f037421907379fd3c06ab38ea04a1361eed20ff",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.6.0_windows_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.6.0/terraform-provider-metabase_0.6.0_windows_arm.zip",
-          "shasum": "92b03343293386f1587f683f254fac9c98d3039fda2648e965611f1c4ec1634c"
+          "shasum": "92b03343293386f1587f683f254fac9c98d3039fda2648e965611f1c4ec1634c",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.6.0_windows_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.6.0/terraform-provider-metabase_0.6.0_windows_arm64.zip",
-          "shasum": "72cd28d93ed57b6affc960559aa77ddb20659fcc6b5d9b5d9fb89103946d2bb0"
+          "shasum": "72cd28d93ed57b6affc960559aa77ddb20659fcc6b5d9b5d9fb89103946d2bb0",
+          "h1": ""
         }
       ]
     },
@@ -661,98 +867,112 @@
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.5.1_darwin_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.1/terraform-provider-metabase_0.5.1_darwin_amd64.zip",
-          "shasum": "73f624e5ce4e593d9560fac9bb20dda445affcee9de705da908770515c51ac67"
+          "shasum": "73f624e5ce4e593d9560fac9bb20dda445affcee9de705da908770515c51ac67",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.5.1_darwin_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.1/terraform-provider-metabase_0.5.1_darwin_arm64.zip",
-          "shasum": "69be3e8dfba89158d7e06f7c1be7a9e6c523b19461fe7a06b9f8eba471299d38"
+          "shasum": "69be3e8dfba89158d7e06f7c1be7a9e6c523b19461fe7a06b9f8eba471299d38",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.5.1_freebsd_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.1/terraform-provider-metabase_0.5.1_freebsd_386.zip",
-          "shasum": "4e85a15b3a627bca4660554326e47a3a05ef613c3c2f174b9b75aba725d8f3fb"
+          "shasum": "4e85a15b3a627bca4660554326e47a3a05ef613c3c2f174b9b75aba725d8f3fb",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.5.1_freebsd_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.1/terraform-provider-metabase_0.5.1_freebsd_amd64.zip",
-          "shasum": "04817e54957c2dc7572f5dcb2e19da4ed151be8cb100d6a90ecc65364945d7bf"
+          "shasum": "04817e54957c2dc7572f5dcb2e19da4ed151be8cb100d6a90ecc65364945d7bf",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.5.1_freebsd_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.1/terraform-provider-metabase_0.5.1_freebsd_arm.zip",
-          "shasum": "ef2f618f1b160d12f4f92a8fc2dc61ba18f0163f63feb0db32be11971bbade46"
+          "shasum": "ef2f618f1b160d12f4f92a8fc2dc61ba18f0163f63feb0db32be11971bbade46",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.5.1_freebsd_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.1/terraform-provider-metabase_0.5.1_freebsd_arm64.zip",
-          "shasum": "9b5753220b38053bf00c11e2336426c8602df7e695f03c9b60b59107fec2bd90"
+          "shasum": "9b5753220b38053bf00c11e2336426c8602df7e695f03c9b60b59107fec2bd90",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.5.1_linux_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.1/terraform-provider-metabase_0.5.1_linux_386.zip",
-          "shasum": "6ab41832356c8457080f0fafdedfeef37fd80f413dfb52dd9651a36a1e34a3ca"
+          "shasum": "6ab41832356c8457080f0fafdedfeef37fd80f413dfb52dd9651a36a1e34a3ca",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.5.1_linux_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.1/terraform-provider-metabase_0.5.1_linux_amd64.zip",
-          "shasum": "b7fed00f7fa714c353a23ee7433473a71532fa0930f755996851dc54eee3253f"
+          "shasum": "b7fed00f7fa714c353a23ee7433473a71532fa0930f755996851dc54eee3253f",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.5.1_linux_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.1/terraform-provider-metabase_0.5.1_linux_arm.zip",
-          "shasum": "e426577d3daab1e9a9c6b3e7d5eb3e857f711ead6a5cd266cfff00f86b8f0e23"
+          "shasum": "e426577d3daab1e9a9c6b3e7d5eb3e857f711ead6a5cd266cfff00f86b8f0e23",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.5.1_linux_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.1/terraform-provider-metabase_0.5.1_linux_arm64.zip",
-          "shasum": "ac2ab3ef8eae446b9f063fe0687cfa83a0c60aa856e322f38b113e033fb571b3"
+          "shasum": "ac2ab3ef8eae446b9f063fe0687cfa83a0c60aa856e322f38b113e033fb571b3",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.5.1_windows_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.1/terraform-provider-metabase_0.5.1_windows_386.zip",
-          "shasum": "63a36d880c6a6092714a130441cb7991355348441cf7731b48093b0bbdafbf7f"
+          "shasum": "63a36d880c6a6092714a130441cb7991355348441cf7731b48093b0bbdafbf7f",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.5.1_windows_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.1/terraform-provider-metabase_0.5.1_windows_amd64.zip",
-          "shasum": "85abe8f0be49e603679aaea954c6122b3be5c1416c5db0e77c8e197cd95bc63f"
+          "shasum": "85abe8f0be49e603679aaea954c6122b3be5c1416c5db0e77c8e197cd95bc63f",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.5.1_windows_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.1/terraform-provider-metabase_0.5.1_windows_arm.zip",
-          "shasum": "0d8b45c22f487be522941d8229a481e9e436e162444c7fb4b4152257786dc6ae"
+          "shasum": "0d8b45c22f487be522941d8229a481e9e436e162444c7fb4b4152257786dc6ae",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.5.1_windows_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.1/terraform-provider-metabase_0.5.1_windows_arm64.zip",
-          "shasum": "05277ec1c8254563308b4eee9a6414111a4959c73726f4c50e3316b048bf03a4"
+          "shasum": "05277ec1c8254563308b4eee9a6414111a4959c73726f4c50e3316b048bf03a4",
+          "h1": ""
         }
       ]
     },
@@ -769,98 +989,112 @@
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.5.0_darwin_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.0/terraform-provider-metabase_0.5.0_darwin_amd64.zip",
-          "shasum": "bce69615182f235a8ee4e79533718e1f32bd457224a7ebc4ab64a86da9b68456"
+          "shasum": "bce69615182f235a8ee4e79533718e1f32bd457224a7ebc4ab64a86da9b68456",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.5.0_darwin_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.0/terraform-provider-metabase_0.5.0_darwin_arm64.zip",
-          "shasum": "55551ec957445622a1d33d0f904d14402c22a88f7bdd08d282256f2a6331c451"
+          "shasum": "55551ec957445622a1d33d0f904d14402c22a88f7bdd08d282256f2a6331c451",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.5.0_freebsd_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.0/terraform-provider-metabase_0.5.0_freebsd_386.zip",
-          "shasum": "b9f1cec89f606fbd09f7ec637d147a444431ba75de4ad330b3ae956f6fe40b24"
+          "shasum": "b9f1cec89f606fbd09f7ec637d147a444431ba75de4ad330b3ae956f6fe40b24",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.5.0_freebsd_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.0/terraform-provider-metabase_0.5.0_freebsd_amd64.zip",
-          "shasum": "4d1a870546215d7d6d092d694aa41e39013c8d08339d115609db1ce1355edd85"
+          "shasum": "4d1a870546215d7d6d092d694aa41e39013c8d08339d115609db1ce1355edd85",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.5.0_freebsd_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.0/terraform-provider-metabase_0.5.0_freebsd_arm.zip",
-          "shasum": "39c0b7857b88e9c931636fc6b91bd2a7666b555a49aa5fe0b1dc765c197630cc"
+          "shasum": "39c0b7857b88e9c931636fc6b91bd2a7666b555a49aa5fe0b1dc765c197630cc",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.5.0_freebsd_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.0/terraform-provider-metabase_0.5.0_freebsd_arm64.zip",
-          "shasum": "7a8e709c1502fe4a36004ebd3a41d838e91328e7a634767eb4342404680bc028"
+          "shasum": "7a8e709c1502fe4a36004ebd3a41d838e91328e7a634767eb4342404680bc028",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.5.0_linux_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.0/terraform-provider-metabase_0.5.0_linux_386.zip",
-          "shasum": "41943a657254aa352fb6da1ab4af15d4e4f9d026336084f67711cf80b46e0af7"
+          "shasum": "41943a657254aa352fb6da1ab4af15d4e4f9d026336084f67711cf80b46e0af7",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.5.0_linux_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.0/terraform-provider-metabase_0.5.0_linux_amd64.zip",
-          "shasum": "733bf657cfa031c4622ff5d71e3719266ee9d730cab4aa5f7748c5949b4eb5ab"
+          "shasum": "733bf657cfa031c4622ff5d71e3719266ee9d730cab4aa5f7748c5949b4eb5ab",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.5.0_linux_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.0/terraform-provider-metabase_0.5.0_linux_arm.zip",
-          "shasum": "c10188dc07e95e40393d98cde0af733609a7d850c852b884ab5c4fdc8f18c5e0"
+          "shasum": "c10188dc07e95e40393d98cde0af733609a7d850c852b884ab5c4fdc8f18c5e0",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.5.0_linux_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.0/terraform-provider-metabase_0.5.0_linux_arm64.zip",
-          "shasum": "756ad3aa9fc62482aa116945a35f8a3290728596d03bf9e72af47be63014f25b"
+          "shasum": "756ad3aa9fc62482aa116945a35f8a3290728596d03bf9e72af47be63014f25b",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.5.0_windows_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.0/terraform-provider-metabase_0.5.0_windows_386.zip",
-          "shasum": "4e0b21a03e7cbee8a1d7c85fd6f1d31c50dab11ff208e91427a798ed3b4c936a"
+          "shasum": "4e0b21a03e7cbee8a1d7c85fd6f1d31c50dab11ff208e91427a798ed3b4c936a",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.5.0_windows_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.0/terraform-provider-metabase_0.5.0_windows_amd64.zip",
-          "shasum": "b177f167a4ba2e8c5da719558c85ffd5799220dab0965d002ebea3ecacc17fc2"
+          "shasum": "b177f167a4ba2e8c5da719558c85ffd5799220dab0965d002ebea3ecacc17fc2",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.5.0_windows_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.0/terraform-provider-metabase_0.5.0_windows_arm.zip",
-          "shasum": "8d5ab181a415b2aa235dfea0d57902b934e5a76491ad37e52144aa2839e6f470"
+          "shasum": "8d5ab181a415b2aa235dfea0d57902b934e5a76491ad37e52144aa2839e6f470",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.5.0_windows_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.5.0/terraform-provider-metabase_0.5.0_windows_arm64.zip",
-          "shasum": "369c721593454d1880a8662c2b83b958622576f1009d13ab679860313ed43941"
+          "shasum": "369c721593454d1880a8662c2b83b958622576f1009d13ab679860313ed43941",
+          "h1": ""
         }
       ]
     },
@@ -877,98 +1111,112 @@
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.4.0_darwin_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.4.0/terraform-provider-metabase_0.4.0_darwin_amd64.zip",
-          "shasum": "394dc8299283bbe8df02a5cc214fa212ed2a397bfe8465fa5ca83da57f5045c6"
+          "shasum": "394dc8299283bbe8df02a5cc214fa212ed2a397bfe8465fa5ca83da57f5045c6",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.4.0_darwin_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.4.0/terraform-provider-metabase_0.4.0_darwin_arm64.zip",
-          "shasum": "d7ddcc8f2783775631fb3cf29f06dd566ed2280521f3ae2126297e6788f7fb7e"
+          "shasum": "d7ddcc8f2783775631fb3cf29f06dd566ed2280521f3ae2126297e6788f7fb7e",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.4.0_freebsd_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.4.0/terraform-provider-metabase_0.4.0_freebsd_386.zip",
-          "shasum": "18598c13d7b98d3edf4a9ec6b2f139c9cf2601891eb98bdad1c5f4d1778fffd0"
+          "shasum": "18598c13d7b98d3edf4a9ec6b2f139c9cf2601891eb98bdad1c5f4d1778fffd0",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.4.0_freebsd_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.4.0/terraform-provider-metabase_0.4.0_freebsd_amd64.zip",
-          "shasum": "dc381f363c597815c219b88d74b619c795fc0faad9950097c1e4dfdf462d90d6"
+          "shasum": "dc381f363c597815c219b88d74b619c795fc0faad9950097c1e4dfdf462d90d6",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.4.0_freebsd_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.4.0/terraform-provider-metabase_0.4.0_freebsd_arm.zip",
-          "shasum": "ac2de958ebac52269254bfd70f48b0bdbe4b274dcb6e473c7b8ce8be47d32074"
+          "shasum": "ac2de958ebac52269254bfd70f48b0bdbe4b274dcb6e473c7b8ce8be47d32074",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.4.0_freebsd_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.4.0/terraform-provider-metabase_0.4.0_freebsd_arm64.zip",
-          "shasum": "6f2efa108a11c371bd29c768e70df034bf5d4dab889885f0ab1a7e6a9e460c94"
+          "shasum": "6f2efa108a11c371bd29c768e70df034bf5d4dab889885f0ab1a7e6a9e460c94",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.4.0_linux_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.4.0/terraform-provider-metabase_0.4.0_linux_386.zip",
-          "shasum": "13b9914ca4d13cc234d1d52ee85076397ad440eab7ba4bc9d86a700496e3e7ed"
+          "shasum": "13b9914ca4d13cc234d1d52ee85076397ad440eab7ba4bc9d86a700496e3e7ed",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.4.0_linux_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.4.0/terraform-provider-metabase_0.4.0_linux_amd64.zip",
-          "shasum": "72f626684e808ca03e8bdc58244823154a46da9f0e94083fa89b1ab86f7727d1"
+          "shasum": "72f626684e808ca03e8bdc58244823154a46da9f0e94083fa89b1ab86f7727d1",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.4.0_linux_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.4.0/terraform-provider-metabase_0.4.0_linux_arm.zip",
-          "shasum": "af0f7d95b690bb3769e56eab8f586ceb3fe986790fdd14f2e2d61b04d7f8ba7b"
+          "shasum": "af0f7d95b690bb3769e56eab8f586ceb3fe986790fdd14f2e2d61b04d7f8ba7b",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.4.0_linux_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.4.0/terraform-provider-metabase_0.4.0_linux_arm64.zip",
-          "shasum": "2ec34f07a906ea4cecaa27a0c8b1ef9e8c590c2dae5fbad4fe0606727e9f8740"
+          "shasum": "2ec34f07a906ea4cecaa27a0c8b1ef9e8c590c2dae5fbad4fe0606727e9f8740",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.4.0_windows_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.4.0/terraform-provider-metabase_0.4.0_windows_386.zip",
-          "shasum": "b8bbffbb647e02ae205c0f159f54066b1ddcae7aca2e6cbc81ecc6d9e7831454"
+          "shasum": "b8bbffbb647e02ae205c0f159f54066b1ddcae7aca2e6cbc81ecc6d9e7831454",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.4.0_windows_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.4.0/terraform-provider-metabase_0.4.0_windows_amd64.zip",
-          "shasum": "fb8d769ffbba9d3a81f9a93fb26b9770ac0e509215be3b07cacb01253c3642bc"
+          "shasum": "fb8d769ffbba9d3a81f9a93fb26b9770ac0e509215be3b07cacb01253c3642bc",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.4.0_windows_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.4.0/terraform-provider-metabase_0.4.0_windows_arm.zip",
-          "shasum": "2e7c71c66afe92ce716fd016495345e709b1e11258c35017f6cdd564c5ddca10"
+          "shasum": "2e7c71c66afe92ce716fd016495345e709b1e11258c35017f6cdd564c5ddca10",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.4.0_windows_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.4.0/terraform-provider-metabase_0.4.0_windows_arm64.zip",
-          "shasum": "6634b265974fe12c04c41f1a37671e169950d1d1482e5452b589cceb5792692c"
+          "shasum": "6634b265974fe12c04c41f1a37671e169950d1d1482e5452b589cceb5792692c",
+          "h1": ""
         }
       ]
     },
@@ -985,98 +1233,112 @@
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.3.0_darwin_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.3.0/terraform-provider-metabase_0.3.0_darwin_amd64.zip",
-          "shasum": "2ed174ebe1d4a9f9832a2d9e0f8f5755179d3f820d63d7f495aa89a8a314d5f1"
+          "shasum": "2ed174ebe1d4a9f9832a2d9e0f8f5755179d3f820d63d7f495aa89a8a314d5f1",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.3.0_darwin_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.3.0/terraform-provider-metabase_0.3.0_darwin_arm64.zip",
-          "shasum": "31758e66c8cca27942bc29068707100f55f40a76cdc574af44ea247399447f4a"
+          "shasum": "31758e66c8cca27942bc29068707100f55f40a76cdc574af44ea247399447f4a",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.3.0_freebsd_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.3.0/terraform-provider-metabase_0.3.0_freebsd_386.zip",
-          "shasum": "5d7786c904d37179524735c516029c6f876cfcf33d25be8fa40e1d24bf92a64c"
+          "shasum": "5d7786c904d37179524735c516029c6f876cfcf33d25be8fa40e1d24bf92a64c",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.3.0_freebsd_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.3.0/terraform-provider-metabase_0.3.0_freebsd_amd64.zip",
-          "shasum": "81bd5fc98702b61f646068332901e84bccdfdb3f430f52da92e7a6f3d3829cdf"
+          "shasum": "81bd5fc98702b61f646068332901e84bccdfdb3f430f52da92e7a6f3d3829cdf",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.3.0_freebsd_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.3.0/terraform-provider-metabase_0.3.0_freebsd_arm.zip",
-          "shasum": "40dab4c69c3be63a6676dbcf4b766fb617289c25f9883b50a3576cacfd1d3682"
+          "shasum": "40dab4c69c3be63a6676dbcf4b766fb617289c25f9883b50a3576cacfd1d3682",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.3.0_freebsd_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.3.0/terraform-provider-metabase_0.3.0_freebsd_arm64.zip",
-          "shasum": "f80c09b315f7030e1fe85e711fedd00096b2483e287c75a1348b16fa41a02dfc"
+          "shasum": "f80c09b315f7030e1fe85e711fedd00096b2483e287c75a1348b16fa41a02dfc",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.3.0_linux_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.3.0/terraform-provider-metabase_0.3.0_linux_386.zip",
-          "shasum": "cd8dcd82715c3556a3554023a95a2cc4b4c28af786f67ed7a5d840076821b390"
+          "shasum": "cd8dcd82715c3556a3554023a95a2cc4b4c28af786f67ed7a5d840076821b390",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.3.0_linux_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.3.0/terraform-provider-metabase_0.3.0_linux_amd64.zip",
-          "shasum": "71ce5aa5379d4a40151708b80302fc37758b87bab0bb448c61497bf5b72c1aa5"
+          "shasum": "71ce5aa5379d4a40151708b80302fc37758b87bab0bb448c61497bf5b72c1aa5",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.3.0_linux_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.3.0/terraform-provider-metabase_0.3.0_linux_arm.zip",
-          "shasum": "e2a479928875e17a5c27b63c7337617217762548c769eabcba23de5e2576033c"
+          "shasum": "e2a479928875e17a5c27b63c7337617217762548c769eabcba23de5e2576033c",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.3.0_linux_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.3.0/terraform-provider-metabase_0.3.0_linux_arm64.zip",
-          "shasum": "ec72f887478ce0a323036ccf7e03261008934313580516d2d0f4c8014f244805"
+          "shasum": "ec72f887478ce0a323036ccf7e03261008934313580516d2d0f4c8014f244805",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.3.0_windows_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.3.0/terraform-provider-metabase_0.3.0_windows_386.zip",
-          "shasum": "b52dfa9cfec59c1594364c0880e216245272508166b73dc5f106942fb5009961"
+          "shasum": "b52dfa9cfec59c1594364c0880e216245272508166b73dc5f106942fb5009961",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.3.0_windows_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.3.0/terraform-provider-metabase_0.3.0_windows_amd64.zip",
-          "shasum": "62f642a42d3b691e6acac75e71544de92e0226b8bcac4717a6ff1eddc5de3385"
+          "shasum": "62f642a42d3b691e6acac75e71544de92e0226b8bcac4717a6ff1eddc5de3385",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.3.0_windows_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.3.0/terraform-provider-metabase_0.3.0_windows_arm.zip",
-          "shasum": "58f302793b2df9aa53b71e6d1c46095fd96960ff609670dd48e76414180870bd"
+          "shasum": "58f302793b2df9aa53b71e6d1c46095fd96960ff609670dd48e76414180870bd",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.3.0_windows_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.3.0/terraform-provider-metabase_0.3.0_windows_arm64.zip",
-          "shasum": "9f83b9d3ed49ad4cfaf01fc0a37383b40cee3508abd73d5b51a879d1801a73ac"
+          "shasum": "9f83b9d3ed49ad4cfaf01fc0a37383b40cee3508abd73d5b51a879d1801a73ac",
+          "h1": ""
         }
       ]
     },
@@ -1093,98 +1355,112 @@
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.2.0_darwin_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.2.0/terraform-provider-metabase_0.2.0_darwin_amd64.zip",
-          "shasum": "d5fa94a7907d2b13717cf73a543942c14e7743a7551a4c7423b347515fb89392"
+          "shasum": "d5fa94a7907d2b13717cf73a543942c14e7743a7551a4c7423b347515fb89392",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.2.0_darwin_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.2.0/terraform-provider-metabase_0.2.0_darwin_arm64.zip",
-          "shasum": "342eb6efba80ff3ffb8f716a84d7d48c6d2607e5a8fabcb85a2bba23ebffd6a9"
+          "shasum": "342eb6efba80ff3ffb8f716a84d7d48c6d2607e5a8fabcb85a2bba23ebffd6a9",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.2.0_freebsd_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.2.0/terraform-provider-metabase_0.2.0_freebsd_386.zip",
-          "shasum": "52d20421466dc404ca016a05c139744d4dc957a28777dfda2994bd05de5bbc64"
+          "shasum": "52d20421466dc404ca016a05c139744d4dc957a28777dfda2994bd05de5bbc64",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.2.0_freebsd_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.2.0/terraform-provider-metabase_0.2.0_freebsd_amd64.zip",
-          "shasum": "97da3002f56e5ec2d86ecb41984c1255c4f535703f07e2bb3a11ceed7ffc4cc0"
+          "shasum": "97da3002f56e5ec2d86ecb41984c1255c4f535703f07e2bb3a11ceed7ffc4cc0",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.2.0_freebsd_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.2.0/terraform-provider-metabase_0.2.0_freebsd_arm.zip",
-          "shasum": "a58f1b72b9426006cb7dfa685eba6bfdc4dab44a1168bb803d28b6b6da260c1c"
+          "shasum": "a58f1b72b9426006cb7dfa685eba6bfdc4dab44a1168bb803d28b6b6da260c1c",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.2.0_freebsd_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.2.0/terraform-provider-metabase_0.2.0_freebsd_arm64.zip",
-          "shasum": "e5013de853662a314554f3b4bb173b8156e710f6f4c6f17a29039e225dbe6ac2"
+          "shasum": "e5013de853662a314554f3b4bb173b8156e710f6f4c6f17a29039e225dbe6ac2",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.2.0_linux_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.2.0/terraform-provider-metabase_0.2.0_linux_386.zip",
-          "shasum": "6bed5a8731c9961a0c062fb9018c2f18be43f97dd5a7529f5e20db7104cd8444"
+          "shasum": "6bed5a8731c9961a0c062fb9018c2f18be43f97dd5a7529f5e20db7104cd8444",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.2.0_linux_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.2.0/terraform-provider-metabase_0.2.0_linux_amd64.zip",
-          "shasum": "13cfbd097fa74afc7e2fd0e6c802d44463bcdd7549f0f452ba6eef1a192a527b"
+          "shasum": "13cfbd097fa74afc7e2fd0e6c802d44463bcdd7549f0f452ba6eef1a192a527b",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.2.0_linux_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.2.0/terraform-provider-metabase_0.2.0_linux_arm.zip",
-          "shasum": "0d62c4808ac09232828acd42f8174b841bd9ed385b052f291566177985efe9cf"
+          "shasum": "0d62c4808ac09232828acd42f8174b841bd9ed385b052f291566177985efe9cf",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.2.0_linux_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.2.0/terraform-provider-metabase_0.2.0_linux_arm64.zip",
-          "shasum": "8eef339d07a980922bec20aa559c72a124f2deaa5222ab320945ad26da926bc9"
+          "shasum": "8eef339d07a980922bec20aa559c72a124f2deaa5222ab320945ad26da926bc9",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.2.0_windows_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.2.0/terraform-provider-metabase_0.2.0_windows_386.zip",
-          "shasum": "10219f486a410ededb63c312f7d6cf61b08d9058612fa89ac62925035b6a06b1"
+          "shasum": "10219f486a410ededb63c312f7d6cf61b08d9058612fa89ac62925035b6a06b1",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.2.0_windows_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.2.0/terraform-provider-metabase_0.2.0_windows_amd64.zip",
-          "shasum": "e3c5385dfdd508833e25d1c0f19b0f2e78d28c4d6dadf3f1ee82443a8ece8475"
+          "shasum": "e3c5385dfdd508833e25d1c0f19b0f2e78d28c4d6dadf3f1ee82443a8ece8475",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.2.0_windows_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.2.0/terraform-provider-metabase_0.2.0_windows_arm.zip",
-          "shasum": "4855e953cda584cbd3b83bd015aff8907a7c74f46e2060cb2888b7495278b24a"
+          "shasum": "4855e953cda584cbd3b83bd015aff8907a7c74f46e2060cb2888b7495278b24a",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.2.0_windows_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.2.0/terraform-provider-metabase_0.2.0_windows_arm64.zip",
-          "shasum": "e9da91f1766a75aa784b1db126d9cd3a95154314ee1d9a9cec35f695867537c1"
+          "shasum": "e9da91f1766a75aa784b1db126d9cd3a95154314ee1d9a9cec35f695867537c1",
+          "h1": ""
         }
       ]
     },
@@ -1201,98 +1477,112 @@
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.1.0_darwin_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.1.0/terraform-provider-metabase_0.1.0_darwin_amd64.zip",
-          "shasum": "9c4405a2c5987c578ede2b3ac9f92a9dd1ff39389cea220d68a72f43a1d32dc3"
+          "shasum": "9c4405a2c5987c578ede2b3ac9f92a9dd1ff39389cea220d68a72f43a1d32dc3",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.1.0_darwin_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.1.0/terraform-provider-metabase_0.1.0_darwin_arm64.zip",
-          "shasum": "3b92084850be35e073688f74e421e48ffb20df3ec46d2524b558a76ebcc0616f"
+          "shasum": "3b92084850be35e073688f74e421e48ffb20df3ec46d2524b558a76ebcc0616f",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.1.0_freebsd_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.1.0/terraform-provider-metabase_0.1.0_freebsd_386.zip",
-          "shasum": "5cc7cd7b4cea3bb32ee855361cb2c9f8cb04971647e7bbe3e63abdd9944d6007"
+          "shasum": "5cc7cd7b4cea3bb32ee855361cb2c9f8cb04971647e7bbe3e63abdd9944d6007",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.1.0_freebsd_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.1.0/terraform-provider-metabase_0.1.0_freebsd_amd64.zip",
-          "shasum": "d1a9e10c867e8c97bde1842f716553d2dd222eb89f34842c96d48afafd042a35"
+          "shasum": "d1a9e10c867e8c97bde1842f716553d2dd222eb89f34842c96d48afafd042a35",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.1.0_freebsd_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.1.0/terraform-provider-metabase_0.1.0_freebsd_arm.zip",
-          "shasum": "26e3519585047fedc599fa43d314c6fcd94bd0ea97df36b4be9665d903623408"
+          "shasum": "26e3519585047fedc599fa43d314c6fcd94bd0ea97df36b4be9665d903623408",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.1.0_freebsd_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.1.0/terraform-provider-metabase_0.1.0_freebsd_arm64.zip",
-          "shasum": "1a627aefe01b634d293e23fbf27e62da12642c7c7c6f7489515b5451ab8cc635"
+          "shasum": "1a627aefe01b634d293e23fbf27e62da12642c7c7c6f7489515b5451ab8cc635",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.1.0_linux_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.1.0/terraform-provider-metabase_0.1.0_linux_386.zip",
-          "shasum": "cd4e44f154935a21e468d50a939dcb4ce5a85af69dd4b9b0baffff0df9a6a900"
+          "shasum": "cd4e44f154935a21e468d50a939dcb4ce5a85af69dd4b9b0baffff0df9a6a900",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.1.0_linux_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.1.0/terraform-provider-metabase_0.1.0_linux_amd64.zip",
-          "shasum": "7259d8a0a2a59805a7595396287c224e354e585ec705f4033743871a062e6e45"
+          "shasum": "7259d8a0a2a59805a7595396287c224e354e585ec705f4033743871a062e6e45",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.1.0_linux_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.1.0/terraform-provider-metabase_0.1.0_linux_arm.zip",
-          "shasum": "b29fd5d133f459c3f82e8e1b260ec3da658bf1b2547ae9f9ef15e03fce80e6fa"
+          "shasum": "b29fd5d133f459c3f82e8e1b260ec3da658bf1b2547ae9f9ef15e03fce80e6fa",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.1.0_linux_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.1.0/terraform-provider-metabase_0.1.0_linux_arm64.zip",
-          "shasum": "03980ccaa5357daa66456666e972d1edc45ee090a87c49b6f3708e6b8b8c8782"
+          "shasum": "03980ccaa5357daa66456666e972d1edc45ee090a87c49b6f3708e6b8b8c8782",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-metabase_0.1.0_windows_386.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.1.0/terraform-provider-metabase_0.1.0_windows_386.zip",
-          "shasum": "c17a72b07c9244d682cfc3cbb8cde108a8a0f9a371e91e2126fa794125ce25c6"
+          "shasum": "c17a72b07c9244d682cfc3cbb8cde108a8a0f9a371e91e2126fa794125ce25c6",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-metabase_0.1.0_windows_amd64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.1.0/terraform-provider-metabase_0.1.0_windows_amd64.zip",
-          "shasum": "032e90cf83a7bc76dee48be4a1086e666a9fc96015cac4f1ceeaa361c2fa4652"
+          "shasum": "032e90cf83a7bc76dee48be4a1086e666a9fc96015cac4f1ceeaa361c2fa4652",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-metabase_0.1.0_windows_arm.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.1.0/terraform-provider-metabase_0.1.0_windows_arm.zip",
-          "shasum": "52b1dd7eb4959484ce8d321993c9229eacd4114bd5e97dcce3a0294257f7a611"
+          "shasum": "52b1dd7eb4959484ce8d321993c9229eacd4114bd5e97dcce3a0294257f7a611",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-metabase_0.1.0_windows_arm64.zip",
           "download_url": "https://github.com/flovouin/terraform-provider-metabase/releases/download/v0.1.0/terraform-provider-metabase_0.1.0_windows_arm64.zip",
-          "shasum": "2c84698b05309050dba1a28a117c005b146c16636231f700469f30edf26f86cf"
+          "shasum": "2c84698b05309050dba1a28a117c005b146c16636231f700469f30edf26f86cf",
+          "h1": ""
         }
       ]
     }
