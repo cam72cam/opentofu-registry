@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.11.2",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/akeyless-community/terraform-provider-akeyless/releases/download/v1.11.2/terraform-provider-akeyless_1.11.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/akeyless-community/terraform-provider-akeyless/releases/download/v1.11.2/terraform-provider-akeyless_1.11.2_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-akeyless_1.11.2_darwin_amd64.zip",
+          "download_url": "https://github.com/akeyless-community/terraform-provider-akeyless/releases/download/v1.11.2/terraform-provider-akeyless_1.11.2_darwin_amd64.zip",
+          "shasum": "fb80a713fc7cb34e10c6cfbd25c165f48d2f47457497c1ae9ac9978254ddd4a1",
+          "h1": "h1:mKzEBhiqunOujdsEkXeSRrgsc2FXRaxmBBim6iuLp9I="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-akeyless_1.11.2_darwin_arm64.zip",
+          "download_url": "https://github.com/akeyless-community/terraform-provider-akeyless/releases/download/v1.11.2/terraform-provider-akeyless_1.11.2_darwin_arm64.zip",
+          "shasum": "78f8c0083243168e12f94b722d8ae840c7f0688ab489337781aa77fc551d5fab",
+          "h1": "h1:TiAVeFRg3+XthxYk5eI0VNUAeSr+nmBdvwn4undjwFk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-akeyless_1.11.2_freebsd_386.zip",
+          "download_url": "https://github.com/akeyless-community/terraform-provider-akeyless/releases/download/v1.11.2/terraform-provider-akeyless_1.11.2_freebsd_386.zip",
+          "shasum": "da183274dfef3c21081c573a4a06644c91e39c9375dc41abc183378074b98f9c",
+          "h1": "h1:8oE0+PrQZIEBdPXpKBpPWFOD+tyn52GMjTRZoPbiGLw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-akeyless_1.11.2_freebsd_amd64.zip",
+          "download_url": "https://github.com/akeyless-community/terraform-provider-akeyless/releases/download/v1.11.2/terraform-provider-akeyless_1.11.2_freebsd_amd64.zip",
+          "shasum": "e02b738ec005cc77acdca6d2cef5bc23ce6dd238189bbe7fe4d2931b18c43b7f",
+          "h1": "h1:YNzD+Cfgtuq2vKyCT2l5OoEgcxgne8JnCeWCCtgMp6M="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-akeyless_1.11.2_freebsd_arm.zip",
+          "download_url": "https://github.com/akeyless-community/terraform-provider-akeyless/releases/download/v1.11.2/terraform-provider-akeyless_1.11.2_freebsd_arm.zip",
+          "shasum": "a64b891dce186c6950d1ededafba20f3381e0c38958c9215859783787a159c00",
+          "h1": "h1:a8DyWx7a0k+GetA+OA1c4qjLDPzODKZ+dnNKo1wAh1o="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-akeyless_1.11.2_freebsd_arm64.zip",
+          "download_url": "https://github.com/akeyless-community/terraform-provider-akeyless/releases/download/v1.11.2/terraform-provider-akeyless_1.11.2_freebsd_arm64.zip",
+          "shasum": "69ab431bfc7676441ab8c18ac026a0b78ab928ce1d98f22ab3a7a620167cf2b1",
+          "h1": "h1:gAdRmIksDzOR4U/tRqQLj5jidrvJODZfaQr8DxzCqSU="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-akeyless_1.11.2_linux_386.zip",
+          "download_url": "https://github.com/akeyless-community/terraform-provider-akeyless/releases/download/v1.11.2/terraform-provider-akeyless_1.11.2_linux_386.zip",
+          "shasum": "c81b026d2929147e545feac1cf5c65e3fb3ff59b816ca1ea2b928b35f453a663",
+          "h1": "h1:ftf3RdYUY3JJu+ErFcSe6NrsLzv0FsUW9stOfJHxRJo="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-akeyless_1.11.2_linux_amd64.zip",
+          "download_url": "https://github.com/akeyless-community/terraform-provider-akeyless/releases/download/v1.11.2/terraform-provider-akeyless_1.11.2_linux_amd64.zip",
+          "shasum": "8426cdbded8db80b88c8a8fa773eb0b4fed4ae3a0282b59f00b006b20bcfb4f4",
+          "h1": "h1:V1Y9Msz0bF3rJRAz1UgAfNcRFEWMRdQs/zggfagYI4Q="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-akeyless_1.11.2_linux_arm.zip",
+          "download_url": "https://github.com/akeyless-community/terraform-provider-akeyless/releases/download/v1.11.2/terraform-provider-akeyless_1.11.2_linux_arm.zip",
+          "shasum": "f18178e75261773899767ba10c538bbdfdaa792848f866776921cfe0ca80d99f",
+          "h1": "h1:6Y5e5AQt89niQgFeNPoZkRXXUPMU4Gak9aOhKhGNBD0="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-akeyless_1.11.2_linux_arm64.zip",
+          "download_url": "https://github.com/akeyless-community/terraform-provider-akeyless/releases/download/v1.11.2/terraform-provider-akeyless_1.11.2_linux_arm64.zip",
+          "shasum": "06b38a717402b50358414faf5acef7ef172471bb784860bc7852c9a87cb0803f",
+          "h1": "h1:s5pq4Cst2qBL+8flZGzbvjdpI1/3yH2zjanJlwEd/wo="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-akeyless_1.11.2_windows_386.zip",
+          "download_url": "https://github.com/akeyless-community/terraform-provider-akeyless/releases/download/v1.11.2/terraform-provider-akeyless_1.11.2_windows_386.zip",
+          "shasum": "0bf63729106d16957db689663679ea7b2a2c40b465a2b738621d3888138289fa",
+          "h1": "h1:dNmxlRggzdkuARccFAalU8gNAQd6jSNzJjpPSqPYCqo="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-akeyless_1.11.2_windows_amd64.zip",
+          "download_url": "https://github.com/akeyless-community/terraform-provider-akeyless/releases/download/v1.11.2/terraform-provider-akeyless_1.11.2_windows_amd64.zip",
+          "shasum": "fe5986f3a6246c1f590cf36f9881c0b91edf1f66fa65cc0863544f8488a7795c",
+          "h1": "h1:fctme202tulAgHb4JN3zSVwXO+/exc0BDkjYBhb4EZ0="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-akeyless_1.11.2_windows_arm.zip",
+          "download_url": "https://github.com/akeyless-community/terraform-provider-akeyless/releases/download/v1.11.2/terraform-provider-akeyless_1.11.2_windows_arm.zip",
+          "shasum": "1f7b00ed6bc6e1ba46006a4bfa91b2a6b5c07f6c49fab18bcaff17d54ace2061",
+          "h1": "h1:M+QfSwoPE70mtxur8PnKtxJe+GRQajG5aCY+8Zuf/Hw="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-akeyless_1.11.2_windows_arm64.zip",
+          "download_url": "https://github.com/akeyless-community/terraform-provider-akeyless/releases/download/v1.11.2/terraform-provider-akeyless_1.11.2_windows_arm64.zip",
+          "shasum": "ccb4a68e97efbe45117df2adc6cfe2f0bd37ec301e30199890a75b03b8ebbfe7",
+          "h1": "h1:US8nsbhyUtzpmtQ5kyBobu+l16TJTgJ/VKdmKPd5kcQ="
+        }
+      ]
+    },
+    {
       "version": "1.11.1",
       "protocols": [
         "5.0"
