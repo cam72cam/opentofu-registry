@@ -123,6 +123,128 @@
       ]
     },
     {
+      "version": "1.5.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/komminarlabs/terraform-provider-influxdb/releases/download/v1.5.0/terraform-provider-influxdb_1.5.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/komminarlabs/terraform-provider-influxdb/releases/download/v1.5.0/terraform-provider-influxdb_1.5.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-influxdb_1.5.0_darwin_amd64.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-influxdb/releases/download/v1.5.0/terraform-provider-influxdb_1.5.0_darwin_amd64.zip",
+          "shasum": "62fe5e76da5ed0d69a1d8c5cee0824833ba10bcd3e889ab8ccf935f70e03172a",
+          "h1": "h1:6VI/Bf8kIfoSGSUDbZ5mqk0iQ1N4Hi/bi+4LvnSKdPg="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-influxdb_1.5.0_darwin_arm64.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-influxdb/releases/download/v1.5.0/terraform-provider-influxdb_1.5.0_darwin_arm64.zip",
+          "shasum": "f068429bdb5d44545b976338a4248a40698ba1407e4c767ee6c96ba351b02ed7",
+          "h1": "h1:hPeWQbiQ7FDCFl98srJbu5szq/ZlQFKivbJ7Tqoxg+E="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-influxdb_1.5.0_freebsd_386.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-influxdb/releases/download/v1.5.0/terraform-provider-influxdb_1.5.0_freebsd_386.zip",
+          "shasum": "136fd4354b5cf8826388503be3c53e6da34ef337e436099b6c9159c68b57ee69",
+          "h1": "h1:HIR3eQUEdnOiGu0Tztrvm/vsxcbcBMJVuSapQCBMI8M="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-influxdb_1.5.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-influxdb/releases/download/v1.5.0/terraform-provider-influxdb_1.5.0_freebsd_amd64.zip",
+          "shasum": "5c601684c6c65f2f725f2c630e0f06292dbe1481b8933d6582ed0f0389c20cd4",
+          "h1": "h1:nhMK8jkNsp1QKqMNnhAhJHMM2DxZA4gZUF1RXKdLp5c="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-influxdb_1.5.0_freebsd_arm.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-influxdb/releases/download/v1.5.0/terraform-provider-influxdb_1.5.0_freebsd_arm.zip",
+          "shasum": "a020fcbe57b07f56c657421bfc0ed9455dfd7dbd79a03851856e5b0b0b5b7059",
+          "h1": "h1:eFfYyy+Z7y7FZUrsF/NPUmt0Vc5n9TRg75/Oy1DYK5E="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-influxdb_1.5.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-influxdb/releases/download/v1.5.0/terraform-provider-influxdb_1.5.0_freebsd_arm64.zip",
+          "shasum": "302700b086ed6c4ef8d55fb3bd1787663d57edc9484b0b3910845ad325b1381d",
+          "h1": "h1:s/Plc6gBlbFv0Ho3ntCQJc56h2+5LNlUcWPk/DW3S3Y="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-influxdb_1.5.0_linux_386.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-influxdb/releases/download/v1.5.0/terraform-provider-influxdb_1.5.0_linux_386.zip",
+          "shasum": "11291e57e517561b21faf486bb8f428cbfce2969640a110b430f5f5d8a9d1597",
+          "h1": "h1:mXmrRdg7iwb+z/YJMntfF7nqgL/HQYCEwnMZs5zYbzI="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-influxdb_1.5.0_linux_amd64.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-influxdb/releases/download/v1.5.0/terraform-provider-influxdb_1.5.0_linux_amd64.zip",
+          "shasum": "93577d94131c01233e00481eddb43fab1cf5b2ca1f8bfa1e4d5bde50b96163ed",
+          "h1": "h1:+X2zrZbmk1QRtQn35eJamaOt7ZO6+6fNtujFjsR7PLQ="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-influxdb_1.5.0_linux_arm.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-influxdb/releases/download/v1.5.0/terraform-provider-influxdb_1.5.0_linux_arm.zip",
+          "shasum": "6bafe720515821d40b399efb0334dd771cffed8d821ca55653e8cf0a652ae4d0",
+          "h1": "h1:FmMJ/djjfNFYEkGqFiXSouvlkhMpRI6tbJ/8cFq3AvY="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-influxdb_1.5.0_linux_arm64.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-influxdb/releases/download/v1.5.0/terraform-provider-influxdb_1.5.0_linux_arm64.zip",
+          "shasum": "10fc7cc876f8a19ec74d6786005e8e59974d9bc641a1162d8dcff10bcc168daa",
+          "h1": "h1:WY+HOwfiG1F0FxhEOqUJTmjd05M4uK9A28T5cg/q+b4="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-influxdb_1.5.0_windows_386.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-influxdb/releases/download/v1.5.0/terraform-provider-influxdb_1.5.0_windows_386.zip",
+          "shasum": "f27316726f88057582e2c63105f861bb1bf7074a0b56790c1e21e1b24e9869fe",
+          "h1": "h1:zWX1w4jl2V3v7Cd3alxEE/xohQQb8KWXFCCr3RLvNW4="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-influxdb_1.5.0_windows_amd64.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-influxdb/releases/download/v1.5.0/terraform-provider-influxdb_1.5.0_windows_amd64.zip",
+          "shasum": "a8055379ccdb27168a12f7a0f75195e59d5289eafe710c415fad5a467eb98e94",
+          "h1": "h1:hlnEozO6TQycF7shqnY/JH1e0mnpp1czoK/9ESMCvDQ="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-influxdb_1.5.0_windows_arm.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-influxdb/releases/download/v1.5.0/terraform-provider-influxdb_1.5.0_windows_arm.zip",
+          "shasum": "a9336c86ed461f09ca228b103a3f6a73d038e74c1902fa8f84a86afa5ded8f4c",
+          "h1": "h1:P7+LkkryBJ9ek6bDmcC1ebeh8CQEMcQ4hfjOh5Siuy8="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-influxdb_1.5.0_windows_arm64.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-influxdb/releases/download/v1.5.0/terraform-provider-influxdb_1.5.0_windows_arm64.zip",
+          "shasum": "d583622699a147037dc76c4e7d9eb30817a3562c369472cd4764ff1700614bd9",
+          "h1": "h1:Pqsk3Qw9/h0JK22KfGvrArgOKmWSwKO574LfB8BYe1A="
+        }
+      ]
+    },
+    {
       "version": "1.4.1",
       "protocols": [
         "6.0"
