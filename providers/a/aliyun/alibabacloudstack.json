@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "3.18.21",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/aliyun/terraform-provider-alibabacloudstack/releases/download/v3.18.21/terraform-provider-alibabacloudstack_3.18.21_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/aliyun/terraform-provider-alibabacloudstack/releases/download/v3.18.21/terraform-provider-alibabacloudstack_3.18.21_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-alibabacloudstack_3.18.21_darwin_amd64.zip",
+          "download_url": "https://github.com/aliyun/terraform-provider-alibabacloudstack/releases/download/v3.18.21/terraform-provider-alibabacloudstack_3.18.21_darwin_amd64.zip",
+          "shasum": "df4c39e7f59d118aa48ed5513d890d8cbc16af10c4f8080ece4e7e6ed591fc82",
+          "h1": "h1:dqWjtIbiz/WSHI/IXDtD62Pr/F389yT1sliJ7L1agCk="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-alibabacloudstack_3.18.21_darwin_arm64.zip",
+          "download_url": "https://github.com/aliyun/terraform-provider-alibabacloudstack/releases/download/v3.18.21/terraform-provider-alibabacloudstack_3.18.21_darwin_arm64.zip",
+          "shasum": "766955ca895ef6d123d7d2efbc980fa756f182dfc0ddc2951fcaf1016a70d50d",
+          "h1": "h1:XfjHR6K8Qd/51ZBlou9V0RkaXt+X2hVhIvGaCbKHuUs="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-alibabacloudstack_3.18.21_freebsd_386.zip",
+          "download_url": "https://github.com/aliyun/terraform-provider-alibabacloudstack/releases/download/v3.18.21/terraform-provider-alibabacloudstack_3.18.21_freebsd_386.zip",
+          "shasum": "9df57ed4f487d119f67173751afaff04cf4690ee8faf645ca3c4fc1b37b8e0b5",
+          "h1": "h1:iInVvcrATSH3YEHkL+srdTNJXjHIE7twX3MNfrqpTWw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-alibabacloudstack_3.18.21_freebsd_amd64.zip",
+          "download_url": "https://github.com/aliyun/terraform-provider-alibabacloudstack/releases/download/v3.18.21/terraform-provider-alibabacloudstack_3.18.21_freebsd_amd64.zip",
+          "shasum": "ab823dc4f11639f2fbd185305c3af1abb3a7d4af4c020f5c5df0434100ad7c7c",
+          "h1": "h1:IAKcGGFUEVVS2KkLMOvuZJL9mPzkrkrt7rpjAuWyb8s="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-alibabacloudstack_3.18.21_freebsd_arm.zip",
+          "download_url": "https://github.com/aliyun/terraform-provider-alibabacloudstack/releases/download/v3.18.21/terraform-provider-alibabacloudstack_3.18.21_freebsd_arm.zip",
+          "shasum": "34052a8e08686a61867e2065bfb751899e1530bf38a65c7758b412ee124ad50a",
+          "h1": "h1:60TMQbI48wCLO9zlKLcoBRiyZcq+p2ftWmsZgzEDYKs="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-alibabacloudstack_3.18.21_linux_386.zip",
+          "download_url": "https://github.com/aliyun/terraform-provider-alibabacloudstack/releases/download/v3.18.21/terraform-provider-alibabacloudstack_3.18.21_linux_386.zip",
+          "shasum": "1021fd93f8276f8c093acec47841c3d1842f62e9c301154ecd403388126a126a",
+          "h1": "h1:qhDV8sKzSotC3Jmu2fcm0IpoX5uBwvxQHyoievP01yE="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-alibabacloudstack_3.18.21_linux_amd64.zip",
+          "download_url": "https://github.com/aliyun/terraform-provider-alibabacloudstack/releases/download/v3.18.21/terraform-provider-alibabacloudstack_3.18.21_linux_amd64.zip",
+          "shasum": "294ceb034e0eb28b968d3fbc791b88cfcc70abb2ae6e8038074b7fe900fd47c4",
+          "h1": "h1:5mUKrmg64ZfmSKWMk6EGQhv9tRvhOj+MKjfdVrQB+s0="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-alibabacloudstack_3.18.21_linux_arm.zip",
+          "download_url": "https://github.com/aliyun/terraform-provider-alibabacloudstack/releases/download/v3.18.21/terraform-provider-alibabacloudstack_3.18.21_linux_arm.zip",
+          "shasum": "b2f46cd549361d61fa945f1b7a192519370e157cb59bb441d3c55a7bbc420548",
+          "h1": "h1:RpPye3e35uFbu6zsAU15zhNudiVH/HS6ynmMeqHBj6k="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-alibabacloudstack_3.18.21_linux_arm64.zip",
+          "download_url": "https://github.com/aliyun/terraform-provider-alibabacloudstack/releases/download/v3.18.21/terraform-provider-alibabacloudstack_3.18.21_linux_arm64.zip",
+          "shasum": "04af13eb55c3c9e2c4eeb7160d1a83a1bee323735e1668bc534ec8ae00637ce6",
+          "h1": "h1:alnAETyxw6ck01e8Hap5C7hPw63+8bFasWWCIr994GY="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-alibabacloudstack_3.18.21_windows_386.zip",
+          "download_url": "https://github.com/aliyun/terraform-provider-alibabacloudstack/releases/download/v3.18.21/terraform-provider-alibabacloudstack_3.18.21_windows_386.zip",
+          "shasum": "a43f88b5fd5881ed74f2e95dad718dbef45d3997fd5fbebf55fc959a28a65748",
+          "h1": "h1:jak/1uon1jYYfHxjlg10mru/51Ktn1qrTiCmKfRG0DI="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-alibabacloudstack_3.18.21_windows_amd64.zip",
+          "download_url": "https://github.com/aliyun/terraform-provider-alibabacloudstack/releases/download/v3.18.21/terraform-provider-alibabacloudstack_3.18.21_windows_amd64.zip",
+          "shasum": "3a715db2ddfcd7edbddc876d3d3b7030c5d5b82f6fcfcfc29ea045194018c114",
+          "h1": "h1:JHDMyeBWNnZRB4bnB2QlZV4pODzUybRysCFn85WC0K0="
+        },
+        {
+          "os": "openbsd",
+          "arch": "386",
+          "filename": "terraform-provider-alibabacloudstack_3.18.21_openbsd_386.zip",
+          "download_url": "https://github.com/aliyun/terraform-provider-alibabacloudstack/releases/download/v3.18.21/terraform-provider-alibabacloudstack_3.18.21_openbsd_386.zip",
+          "shasum": "314d18aa523033490aa9b57af17fbf7b57d45e781dfd0fc1421c8839e0f27a3e",
+          "h1": "h1:MhnKDomKl3BnlI2jrcBP6iqj/au0/h9CF2eOkj7Y4aw="
+        },
+        {
+          "os": "openbsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-alibabacloudstack_3.18.21_openbsd_amd64.zip",
+          "download_url": "https://github.com/aliyun/terraform-provider-alibabacloudstack/releases/download/v3.18.21/terraform-provider-alibabacloudstack_3.18.21_openbsd_amd64.zip",
+          "shasum": "a7e54962b9f9ecc005fecd37732f633744de83c2e6e99ff5fb8d41637104cbc9",
+          "h1": "h1:KSz+gJj6BB0V7j8g5fQ7uuoLT/Ayqc1dZr1XiO5m0WU="
+        },
+        {
+          "os": "solaris",
+          "arch": "amd64",
+          "filename": "terraform-provider-alibabacloudstack_3.18.21_solaris_amd64.zip",
+          "download_url": "https://github.com/aliyun/terraform-provider-alibabacloudstack/releases/download/v3.18.21/terraform-provider-alibabacloudstack_3.18.21_solaris_amd64.zip",
+          "shasum": "6dfbc844f943ba1aedae97a6e574c1152b1527d73f7b1e467ab7f015020ec474",
+          "h1": "h1:KrR2+ZFwm7knHM4QRNpx9LomhfPG0sjyoiWVzWDd5Wo="
+        }
+      ]
+    },
+    {
       "version": "3.18.20",
       "protocols": [
         "5.0"
