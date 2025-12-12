@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.7.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.7.0/terraform-provider-confluent-schema-registry_0.7.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.7.0/terraform-provider-confluent-schema-registry_0.7.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-confluent-schema-registry_0.7.0_darwin_amd64.zip",
+          "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.7.0/terraform-provider-confluent-schema-registry_0.7.0_darwin_amd64.zip",
+          "shasum": "da8ae5c4ea84cd74c2a59ce1df932451d89a0ccc555661c9a126bf8e08529839",
+          "h1": "h1:Q9GbO32DLb3d2sre2CRmUn16yT74XS30W3fgOH3welw="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-confluent-schema-registry_0.7.0_darwin_arm64.zip",
+          "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.7.0/terraform-provider-confluent-schema-registry_0.7.0_darwin_arm64.zip",
+          "shasum": "0e0c11b8cdba513199e973b6a9be7433ada16cc7e7ba6235298769cc9ffd2f12",
+          "h1": "h1:263c1eu8pJ2PVOYUD2X/IxHbgS1MOHmaE9WUZ/O4HJA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-confluent-schema-registry_0.7.0_freebsd_386.zip",
+          "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.7.0/terraform-provider-confluent-schema-registry_0.7.0_freebsd_386.zip",
+          "shasum": "77e89455ccffe8d5c313b04ad1d14dbde83fbc8f9bacf4919cdadd82a64f1218",
+          "h1": "h1:BXj/Some8PrcdnSHtl0hWE5Ctr0VHST476/Q3eMYddw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-confluent-schema-registry_0.7.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.7.0/terraform-provider-confluent-schema-registry_0.7.0_freebsd_amd64.zip",
+          "shasum": "8ca362df1c8e9d2abd85ea3b15d1393c9759e03859a29bc6d02b61d8ddd049ca",
+          "h1": "h1:rYuo+fJSEFyGsRxXPSCW+5W/cCw0TbxXZZDrMT0e90k="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-confluent-schema-registry_0.7.0_freebsd_arm.zip",
+          "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.7.0/terraform-provider-confluent-schema-registry_0.7.0_freebsd_arm.zip",
+          "shasum": "b8c6ab89206acdd2972801604a69e0998471eb7cb7ea40bacdb034d7f6051dc7",
+          "h1": "h1:bi2SusYEHEVj/0l9MhrxhUlfmB2Oimg+eFkHSN4slfI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-confluent-schema-registry_0.7.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.7.0/terraform-provider-confluent-schema-registry_0.7.0_freebsd_arm64.zip",
+          "shasum": "7ffb720cf5d635012eb8292cacda8a57786a1cc3846d88e597954b196ca34516",
+          "h1": "h1:jVpMSuc2aOEAMRPHQiIR5h4QBwgxx+4dVoG+sjek+DM="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-confluent-schema-registry_0.7.0_linux_386.zip",
+          "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.7.0/terraform-provider-confluent-schema-registry_0.7.0_linux_386.zip",
+          "shasum": "05a49357df5187079a3e7ce8958c3e15b5da58c2a1dc7b38039226c2e4f697f3",
+          "h1": "h1:zOgA5wES9wmDxySNB6614YxaX8kWcNOWUHXxw0CoFQk="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-confluent-schema-registry_0.7.0_linux_amd64.zip",
+          "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.7.0/terraform-provider-confluent-schema-registry_0.7.0_linux_amd64.zip",
+          "shasum": "9b77aba64c71d23b1f8982679ed3357cf3eb33ff99f990e38a37a7a0ff83a8fa",
+          "h1": "h1:OMWyJooEEgq1igMCeca6zzyDMIbUyAI2fUlWKzMIf/k="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-confluent-schema-registry_0.7.0_linux_arm.zip",
+          "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.7.0/terraform-provider-confluent-schema-registry_0.7.0_linux_arm.zip",
+          "shasum": "45da992c343bc093f28ad69b4207cbcd06cfde97ed6049fd739e633e83739167",
+          "h1": "h1:VRH1Xd4ywUZrmT1EtrBZ340uvcxyyV+3Dn4eTImU4+4="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-confluent-schema-registry_0.7.0_linux_arm64.zip",
+          "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.7.0/terraform-provider-confluent-schema-registry_0.7.0_linux_arm64.zip",
+          "shasum": "9017b5a727085e4c8902a0f7d161505dedebfa60f1683b3f7d07fb55007c3146",
+          "h1": "h1:yvASYaYKDpFuVxTmrWfgDyQ3WIRoBSR+6Zrf9Fy5VLI="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-confluent-schema-registry_0.7.0_windows_386.zip",
+          "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.7.0/terraform-provider-confluent-schema-registry_0.7.0_windows_386.zip",
+          "shasum": "fa7f2a7523e1fdfdd6d99cefdabf56446d18eb098027ef5fbda73df063aa8a64",
+          "h1": "h1:mtXhlPYxGaJ1dAYzeZ0Iiv0F6MgXX19WIzmpF1Q6wDM="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-confluent-schema-registry_0.7.0_windows_amd64.zip",
+          "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.7.0/terraform-provider-confluent-schema-registry_0.7.0_windows_amd64.zip",
+          "shasum": "9c7fd6b0b35cb451827a8e447a3df46c9f7af079d219e5309e24e69c1d035e15",
+          "h1": "h1:kSnGFWdVvnDjkPRxudTpvoZjzkzapUProc6GAYHsOy0="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-confluent-schema-registry_0.7.0_windows_arm.zip",
+          "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.7.0/terraform-provider-confluent-schema-registry_0.7.0_windows_arm.zip",
+          "shasum": "da812171fed7f94cacc1e8ef98a3d0b08666a4fe15cb1824ca40640f0992033c",
+          "h1": "h1:uLtykylyz18BmZv12V50Fyd+q8dxrCc6E5p7/xdu4FY="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-confluent-schema-registry_0.7.0_windows_arm64.zip",
+          "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.7.0/terraform-provider-confluent-schema-registry_0.7.0_windows_arm64.zip",
+          "shasum": "b36f844782ddc9dd6c4c1ad87a6f52c7e3870749ba422099fc0b060b2f704764",
+          "h1": "h1:1ogvFhqk0mgPwXD9o6sEGTBs72gYgRzzOFZYaHX8oS0="
+        }
+      ]
+    },
+    {
       "version": "0.6.1",
       "protocols": [
         "5.0"
@@ -13,98 +135,112 @@
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.6.1_darwin_amd64.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.6.1/terraform-provider-confluent-schema-registry_0.6.1_darwin_amd64.zip",
-          "shasum": "b992bfb51e6788fa924e9865307c00f4d4d697bd3584e2de9765b7652ee1494e"
+          "shasum": "b992bfb51e6788fa924e9865307c00f4d4d697bd3584e2de9765b7652ee1494e",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.6.1_darwin_arm64.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.6.1/terraform-provider-confluent-schema-registry_0.6.1_darwin_arm64.zip",
-          "shasum": "5db8597af21bb05d53c556e0f8c59ecb0918137a7eeebc6e97ab46a016945cc2"
+          "shasum": "5db8597af21bb05d53c556e0f8c59ecb0918137a7eeebc6e97ab46a016945cc2",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-confluent-schema-registry_0.6.1_freebsd_386.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.6.1/terraform-provider-confluent-schema-registry_0.6.1_freebsd_386.zip",
-          "shasum": "e0074adb7d7f99db0a0327c3c6ce24cdf36c5cd5d3b409b4b2b96c8598527344"
+          "shasum": "e0074adb7d7f99db0a0327c3c6ce24cdf36c5cd5d3b409b4b2b96c8598527344",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.6.1_freebsd_amd64.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.6.1/terraform-provider-confluent-schema-registry_0.6.1_freebsd_amd64.zip",
-          "shasum": "01d1c5c9ac82005059eed8b01db557f9684b07bb6d7ea703f0f234b29315df30"
+          "shasum": "01d1c5c9ac82005059eed8b01db557f9684b07bb6d7ea703f0f234b29315df30",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-confluent-schema-registry_0.6.1_freebsd_arm.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.6.1/terraform-provider-confluent-schema-registry_0.6.1_freebsd_arm.zip",
-          "shasum": "d026430e009665eafc0e86862c2cbabf2ffc810ee2dbad693ec38562d4f6b751"
+          "shasum": "d026430e009665eafc0e86862c2cbabf2ffc810ee2dbad693ec38562d4f6b751",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.6.1_freebsd_arm64.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.6.1/terraform-provider-confluent-schema-registry_0.6.1_freebsd_arm64.zip",
-          "shasum": "b1c45b4dd8d0a91c1fd23986a83bddaf90aafd5e224533a0b2ba8460bd5d954f"
+          "shasum": "b1c45b4dd8d0a91c1fd23986a83bddaf90aafd5e224533a0b2ba8460bd5d954f",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-confluent-schema-registry_0.6.1_linux_386.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.6.1/terraform-provider-confluent-schema-registry_0.6.1_linux_386.zip",
-          "shasum": "57d6bf57c872f2bdbb9a09fcf91fe4f628b3c3c4ff32b703a5982053d2ebc91d"
+          "shasum": "57d6bf57c872f2bdbb9a09fcf91fe4f628b3c3c4ff32b703a5982053d2ebc91d",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.6.1_linux_amd64.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.6.1/terraform-provider-confluent-schema-registry_0.6.1_linux_amd64.zip",
-          "shasum": "f687f576dcccaef48b1467a78a6150eda23d674e85f871be593720be625c42ef"
+          "shasum": "f687f576dcccaef48b1467a78a6150eda23d674e85f871be593720be625c42ef",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-confluent-schema-registry_0.6.1_linux_arm.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.6.1/terraform-provider-confluent-schema-registry_0.6.1_linux_arm.zip",
-          "shasum": "e3781ffd39e6fd2a3476923741f86c522d27f80a25adf75277ec604012292310"
+          "shasum": "e3781ffd39e6fd2a3476923741f86c522d27f80a25adf75277ec604012292310",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.6.1_linux_arm64.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.6.1/terraform-provider-confluent-schema-registry_0.6.1_linux_arm64.zip",
-          "shasum": "49dbe3cce32853e7e9eba06a6a736e748dd88599d29f9703923a4addc93c8150"
+          "shasum": "49dbe3cce32853e7e9eba06a6a736e748dd88599d29f9703923a4addc93c8150",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-confluent-schema-registry_0.6.1_windows_386.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.6.1/terraform-provider-confluent-schema-registry_0.6.1_windows_386.zip",
-          "shasum": "ab74bf5644b4bf1e9e826cdb1fa4edf04b24a947faca444a600a0bd196e4bb8d"
+          "shasum": "ab74bf5644b4bf1e9e826cdb1fa4edf04b24a947faca444a600a0bd196e4bb8d",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.6.1_windows_amd64.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.6.1/terraform-provider-confluent-schema-registry_0.6.1_windows_amd64.zip",
-          "shasum": "5d0018b1aaf703632b33140921896355eb55011abef9126d16fcc673511e8811"
+          "shasum": "5d0018b1aaf703632b33140921896355eb55011abef9126d16fcc673511e8811",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-confluent-schema-registry_0.6.1_windows_arm.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.6.1/terraform-provider-confluent-schema-registry_0.6.1_windows_arm.zip",
-          "shasum": "62b35e5c5bea93a328daa119de5cbf836b25b714c31139cd67b60a5ead48ef44"
+          "shasum": "62b35e5c5bea93a328daa119de5cbf836b25b714c31139cd67b60a5ead48ef44",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.6.1_windows_arm64.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.6.1/terraform-provider-confluent-schema-registry_0.6.1_windows_arm64.zip",
-          "shasum": "5becaf38f144c205b29f9febb761f83f46c2d1f74f64a4cd016d67b6607eda9a"
+          "shasum": "5becaf38f144c205b29f9febb761f83f46c2d1f74f64a4cd016d67b6607eda9a",
+          "h1": ""
         }
       ]
     },
@@ -121,98 +257,112 @@
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.5.0_darwin_amd64.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.5.0/terraform-provider-confluent-schema-registry_0.5.0_darwin_amd64.zip",
-          "shasum": "7ac257443a17e3e9049e45c977f195cce3436d62470404527bb03c17cf9efffa"
+          "shasum": "7ac257443a17e3e9049e45c977f195cce3436d62470404527bb03c17cf9efffa",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.5.0_darwin_arm64.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.5.0/terraform-provider-confluent-schema-registry_0.5.0_darwin_arm64.zip",
-          "shasum": "a64d307d26cfd812be51e41a5395a579578553b049b5fcb23cf0ce88af93c096"
+          "shasum": "a64d307d26cfd812be51e41a5395a579578553b049b5fcb23cf0ce88af93c096",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-confluent-schema-registry_0.5.0_freebsd_386.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.5.0/terraform-provider-confluent-schema-registry_0.5.0_freebsd_386.zip",
-          "shasum": "857e52a69058a3192436c515859e57e8811325c2c5d7ee72c6b69e0e203ecb63"
+          "shasum": "857e52a69058a3192436c515859e57e8811325c2c5d7ee72c6b69e0e203ecb63",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.5.0_freebsd_amd64.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.5.0/terraform-provider-confluent-schema-registry_0.5.0_freebsd_amd64.zip",
-          "shasum": "6aef4da2876a7f815fb898c232ba6a6c5e60b14f8a1e0057e3c47b274db6343a"
+          "shasum": "6aef4da2876a7f815fb898c232ba6a6c5e60b14f8a1e0057e3c47b274db6343a",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-confluent-schema-registry_0.5.0_freebsd_arm.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.5.0/terraform-provider-confluent-schema-registry_0.5.0_freebsd_arm.zip",
-          "shasum": "8e698fbb98685bfb12e33114e1e8872e76e1fa978679787a2f771b565d77605e"
+          "shasum": "8e698fbb98685bfb12e33114e1e8872e76e1fa978679787a2f771b565d77605e",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.5.0_freebsd_arm64.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.5.0/terraform-provider-confluent-schema-registry_0.5.0_freebsd_arm64.zip",
-          "shasum": "730600a277371e94c23010aef9e12efe9dba20fed75b84dc37e16f75abba34e3"
+          "shasum": "730600a277371e94c23010aef9e12efe9dba20fed75b84dc37e16f75abba34e3",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-confluent-schema-registry_0.5.0_linux_386.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.5.0/terraform-provider-confluent-schema-registry_0.5.0_linux_386.zip",
-          "shasum": "cd3d817614f8cb358ce94f6ec1e99637d06a668bba205b0a8cf8e659e8e31d42"
+          "shasum": "cd3d817614f8cb358ce94f6ec1e99637d06a668bba205b0a8cf8e659e8e31d42",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.5.0_linux_amd64.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.5.0/terraform-provider-confluent-schema-registry_0.5.0_linux_amd64.zip",
-          "shasum": "71201d7d96335f4fe1b687398fb11a79f49e9adef066dd2a2c9eb77d2fcc8f5b"
+          "shasum": "71201d7d96335f4fe1b687398fb11a79f49e9adef066dd2a2c9eb77d2fcc8f5b",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-confluent-schema-registry_0.5.0_linux_arm.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.5.0/terraform-provider-confluent-schema-registry_0.5.0_linux_arm.zip",
-          "shasum": "0f18748b82fc525e91b116659d0358c8578e8249b8f161a2edda95010d998ead"
+          "shasum": "0f18748b82fc525e91b116659d0358c8578e8249b8f161a2edda95010d998ead",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.5.0_linux_arm64.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.5.0/terraform-provider-confluent-schema-registry_0.5.0_linux_arm64.zip",
-          "shasum": "92233116c2cd2d0e06955f14cf8453e056fb2731c44e4a78c368e2ecf11e3002"
+          "shasum": "92233116c2cd2d0e06955f14cf8453e056fb2731c44e4a78c368e2ecf11e3002",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-confluent-schema-registry_0.5.0_windows_386.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.5.0/terraform-provider-confluent-schema-registry_0.5.0_windows_386.zip",
-          "shasum": "eb32a7589031080adab676bb5f930b55f0e7c0a54e42f0a5557640cbe03cca1d"
+          "shasum": "eb32a7589031080adab676bb5f930b55f0e7c0a54e42f0a5557640cbe03cca1d",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.5.0_windows_amd64.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.5.0/terraform-provider-confluent-schema-registry_0.5.0_windows_amd64.zip",
-          "shasum": "915ecac1aafa86e12f46004c88409c60df4dd13f8221a4d220971a9b6282cc70"
+          "shasum": "915ecac1aafa86e12f46004c88409c60df4dd13f8221a4d220971a9b6282cc70",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-confluent-schema-registry_0.5.0_windows_arm.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.5.0/terraform-provider-confluent-schema-registry_0.5.0_windows_arm.zip",
-          "shasum": "7ecc65b525443285fad55f50752b4ee880cb32a372e8c591ed8d6f52dc54682a"
+          "shasum": "7ecc65b525443285fad55f50752b4ee880cb32a372e8c591ed8d6f52dc54682a",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.5.0_windows_arm64.zip",
           "download_url": "https://github.com/drfaust92/terraform-provider-confluent-schema-registry/releases/download/v0.5.0/terraform-provider-confluent-schema-registry_0.5.0_windows_arm64.zip",
-          "shasum": "d4a0da82bb436d6a63c3b050f412970a699707c53414464830027354380721e2"
+          "shasum": "d4a0da82bb436d6a63c3b050f412970a699707c53414464830027354380721e2",
+          "h1": ""
         }
       ]
     },
@@ -229,98 +379,112 @@
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.4.0_darwin_amd64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.4.0/terraform-provider-confluent-schema-registry_0.4.0_darwin_amd64.zip",
-          "shasum": "c82c2bf9bac6dfd352168b488667b2b763d9ec5b4f5f361f79133f82a389b4e7"
+          "shasum": "c82c2bf9bac6dfd352168b488667b2b763d9ec5b4f5f361f79133f82a389b4e7",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.4.0_darwin_arm64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.4.0/terraform-provider-confluent-schema-registry_0.4.0_darwin_arm64.zip",
-          "shasum": "e2115f183ce99c2514e1f9c3c5647c55a5b0859b2c8e7948b16c2f3d1e0854a2"
+          "shasum": "e2115f183ce99c2514e1f9c3c5647c55a5b0859b2c8e7948b16c2f3d1e0854a2",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-confluent-schema-registry_0.4.0_freebsd_386.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.4.0/terraform-provider-confluent-schema-registry_0.4.0_freebsd_386.zip",
-          "shasum": "1aa609bc421c9085441d9e977d4448404b044f3e4fcee6f8ed8cce6aa6daea6a"
+          "shasum": "1aa609bc421c9085441d9e977d4448404b044f3e4fcee6f8ed8cce6aa6daea6a",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.4.0_freebsd_amd64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.4.0/terraform-provider-confluent-schema-registry_0.4.0_freebsd_amd64.zip",
-          "shasum": "00d52b37530422b56baebce47fb2f55ca45fa8256633a50cf2605364457ace4d"
+          "shasum": "00d52b37530422b56baebce47fb2f55ca45fa8256633a50cf2605364457ace4d",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-confluent-schema-registry_0.4.0_freebsd_arm.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.4.0/terraform-provider-confluent-schema-registry_0.4.0_freebsd_arm.zip",
-          "shasum": "f4aa861ec8e3505da2914b62405e22e90613d4acede4e8d2be2e976f4474c44c"
+          "shasum": "f4aa861ec8e3505da2914b62405e22e90613d4acede4e8d2be2e976f4474c44c",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.4.0_freebsd_arm64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.4.0/terraform-provider-confluent-schema-registry_0.4.0_freebsd_arm64.zip",
-          "shasum": "d24f8ca7bcfa531a009245f2c3bf625616e9d24542df6f5c9f8f4584e6814413"
+          "shasum": "d24f8ca7bcfa531a009245f2c3bf625616e9d24542df6f5c9f8f4584e6814413",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-confluent-schema-registry_0.4.0_linux_386.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.4.0/terraform-provider-confluent-schema-registry_0.4.0_linux_386.zip",
-          "shasum": "9778a1deabd850e46087ad6371b1b19873edfe00e1d6e6830ab50b09ec67fbc3"
+          "shasum": "9778a1deabd850e46087ad6371b1b19873edfe00e1d6e6830ab50b09ec67fbc3",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.4.0_linux_amd64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.4.0/terraform-provider-confluent-schema-registry_0.4.0_linux_amd64.zip",
-          "shasum": "d3fe6fd244abe225c0ee337505dac539fff7b7b2e3c8f41913c0f9a8069a09ca"
+          "shasum": "d3fe6fd244abe225c0ee337505dac539fff7b7b2e3c8f41913c0f9a8069a09ca",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-confluent-schema-registry_0.4.0_linux_arm.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.4.0/terraform-provider-confluent-schema-registry_0.4.0_linux_arm.zip",
-          "shasum": "f25acf6104e3f4fbde2c5b21d54f5b30dfcc4f81d8bf15d95397fb36fc1c9e2c"
+          "shasum": "f25acf6104e3f4fbde2c5b21d54f5b30dfcc4f81d8bf15d95397fb36fc1c9e2c",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.4.0_linux_arm64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.4.0/terraform-provider-confluent-schema-registry_0.4.0_linux_arm64.zip",
-          "shasum": "ea42c9628e200811130390222593d704e031e0f7af35d3d641388086d7b5141c"
+          "shasum": "ea42c9628e200811130390222593d704e031e0f7af35d3d641388086d7b5141c",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-confluent-schema-registry_0.4.0_windows_386.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.4.0/terraform-provider-confluent-schema-registry_0.4.0_windows_386.zip",
-          "shasum": "4191ddf3d6b45b4c323fb2a179778c2af1e96a7b15f9e96a244deac721301bed"
+          "shasum": "4191ddf3d6b45b4c323fb2a179778c2af1e96a7b15f9e96a244deac721301bed",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.4.0_windows_amd64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.4.0/terraform-provider-confluent-schema-registry_0.4.0_windows_amd64.zip",
-          "shasum": "bacdc2500205d00780e85b4961ce22da7a6503b11cd6fe1a428ee292c6629001"
+          "shasum": "bacdc2500205d00780e85b4961ce22da7a6503b11cd6fe1a428ee292c6629001",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-confluent-schema-registry_0.4.0_windows_arm.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.4.0/terraform-provider-confluent-schema-registry_0.4.0_windows_arm.zip",
-          "shasum": "e627abc8f7fafb6eb968339d8605970f920f4b653591456dab9d115141b17253"
+          "shasum": "e627abc8f7fafb6eb968339d8605970f920f4b653591456dab9d115141b17253",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.4.0_windows_arm64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.4.0/terraform-provider-confluent-schema-registry_0.4.0_windows_arm64.zip",
-          "shasum": "133c6f921d99807b9f2f557e0ecddab9cea4902896b261e3c0cf443aa8bf3517"
+          "shasum": "133c6f921d99807b9f2f557e0ecddab9cea4902896b261e3c0cf443aa8bf3517",
+          "h1": ""
         }
       ]
     },
@@ -337,98 +501,112 @@
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.3.1_darwin_amd64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.3.1/terraform-provider-confluent-schema-registry_0.3.1_darwin_amd64.zip",
-          "shasum": "85f8b98bb0d946e9e3af93944f1c14b0a9fe7237ec953ecd3311f41390792b1d"
+          "shasum": "85f8b98bb0d946e9e3af93944f1c14b0a9fe7237ec953ecd3311f41390792b1d",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.3.1_darwin_arm64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.3.1/terraform-provider-confluent-schema-registry_0.3.1_darwin_arm64.zip",
-          "shasum": "1e7a86af8a5af8f6939b1681145f86d9c668f29c400909ba99d75904207d1880"
+          "shasum": "1e7a86af8a5af8f6939b1681145f86d9c668f29c400909ba99d75904207d1880",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-confluent-schema-registry_0.3.1_freebsd_386.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.3.1/terraform-provider-confluent-schema-registry_0.3.1_freebsd_386.zip",
-          "shasum": "0fe12eceb06ea15df17d7694b6e662afcba8f8767875ac19d2dcb285f32fecc6"
+          "shasum": "0fe12eceb06ea15df17d7694b6e662afcba8f8767875ac19d2dcb285f32fecc6",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.3.1_freebsd_amd64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.3.1/terraform-provider-confluent-schema-registry_0.3.1_freebsd_amd64.zip",
-          "shasum": "c356826cb4d5f0fbdcd50e1d74c33fafc58a66dd9f4db459bf21e897944af949"
+          "shasum": "c356826cb4d5f0fbdcd50e1d74c33fafc58a66dd9f4db459bf21e897944af949",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-confluent-schema-registry_0.3.1_freebsd_arm.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.3.1/terraform-provider-confluent-schema-registry_0.3.1_freebsd_arm.zip",
-          "shasum": "2282edb303915721055b2256be6e255e1d561bd8911148bb2505feb5b3142793"
+          "shasum": "2282edb303915721055b2256be6e255e1d561bd8911148bb2505feb5b3142793",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.3.1_freebsd_arm64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.3.1/terraform-provider-confluent-schema-registry_0.3.1_freebsd_arm64.zip",
-          "shasum": "e9674ca4a28eade378e9ead3a63aba7bb56161532544c545ccdd93f7e0ba09c3"
+          "shasum": "e9674ca4a28eade378e9ead3a63aba7bb56161532544c545ccdd93f7e0ba09c3",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-confluent-schema-registry_0.3.1_linux_386.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.3.1/terraform-provider-confluent-schema-registry_0.3.1_linux_386.zip",
-          "shasum": "7d73cba7d6b36b9dadda4fd01f7605c8f68baa8bffeb19e23232e8ba2c1183a3"
+          "shasum": "7d73cba7d6b36b9dadda4fd01f7605c8f68baa8bffeb19e23232e8ba2c1183a3",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.3.1_linux_amd64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.3.1/terraform-provider-confluent-schema-registry_0.3.1_linux_amd64.zip",
-          "shasum": "631a4df2e5df8673f9a5dc96c1c2074ac9829c25599e0f36166277795b69cc58"
+          "shasum": "631a4df2e5df8673f9a5dc96c1c2074ac9829c25599e0f36166277795b69cc58",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-confluent-schema-registry_0.3.1_linux_arm.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.3.1/terraform-provider-confluent-schema-registry_0.3.1_linux_arm.zip",
-          "shasum": "018ca0636ab80075ea28c73cd0359b9c4db772481bb85295959f7bcea7ee5ce7"
+          "shasum": "018ca0636ab80075ea28c73cd0359b9c4db772481bb85295959f7bcea7ee5ce7",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.3.1_linux_arm64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.3.1/terraform-provider-confluent-schema-registry_0.3.1_linux_arm64.zip",
-          "shasum": "4b9ead011b3fc6b3d2ff6d9a54cc74c1a3ebdd5f6e38601a4ce7e735a6ffc7da"
+          "shasum": "4b9ead011b3fc6b3d2ff6d9a54cc74c1a3ebdd5f6e38601a4ce7e735a6ffc7da",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-confluent-schema-registry_0.3.1_windows_386.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.3.1/terraform-provider-confluent-schema-registry_0.3.1_windows_386.zip",
-          "shasum": "8426caa609c524192f6187bc6ef5763e2e6121893350f9c76c0f0de01ee3087c"
+          "shasum": "8426caa609c524192f6187bc6ef5763e2e6121893350f9c76c0f0de01ee3087c",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.3.1_windows_amd64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.3.1/terraform-provider-confluent-schema-registry_0.3.1_windows_amd64.zip",
-          "shasum": "9d6be50c43a5092dd40697a9adb73de0e7b47169b85a06053046d30e69ce02d1"
+          "shasum": "9d6be50c43a5092dd40697a9adb73de0e7b47169b85a06053046d30e69ce02d1",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-confluent-schema-registry_0.3.1_windows_arm.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.3.1/terraform-provider-confluent-schema-registry_0.3.1_windows_arm.zip",
-          "shasum": "c6da712f46fce9c600de7c99972315e534d622e36a55fc111d537f9c5ae27935"
+          "shasum": "c6da712f46fce9c600de7c99972315e534d622e36a55fc111d537f9c5ae27935",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.3.1_windows_arm64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.3.1/terraform-provider-confluent-schema-registry_0.3.1_windows_arm64.zip",
-          "shasum": "2755365498413d54bffd84139518261793850b7cb2739235c61548a6ffea2a54"
+          "shasum": "2755365498413d54bffd84139518261793850b7cb2739235c61548a6ffea2a54",
+          "h1": ""
         }
       ]
     },
@@ -445,98 +623,112 @@
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.2.0_darwin_amd64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.2.0/terraform-provider-confluent-schema-registry_0.2.0_darwin_amd64.zip",
-          "shasum": "753ecaab4428ad1ba7a070085f78a41732296b8e8618c32ff2437bf90e69160e"
+          "shasum": "753ecaab4428ad1ba7a070085f78a41732296b8e8618c32ff2437bf90e69160e",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.2.0_darwin_arm64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.2.0/terraform-provider-confluent-schema-registry_0.2.0_darwin_arm64.zip",
-          "shasum": "342c136ec5046086a8a500b103b0792350b8d202725cf4ac95fff5641bb4745e"
+          "shasum": "342c136ec5046086a8a500b103b0792350b8d202725cf4ac95fff5641bb4745e",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-confluent-schema-registry_0.2.0_freebsd_386.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.2.0/terraform-provider-confluent-schema-registry_0.2.0_freebsd_386.zip",
-          "shasum": "04a85b5be4db8c953f76851af3de0f387d4a9e9803a48d59f31dc2b99e7f69a0"
+          "shasum": "04a85b5be4db8c953f76851af3de0f387d4a9e9803a48d59f31dc2b99e7f69a0",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.2.0_freebsd_amd64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.2.0/terraform-provider-confluent-schema-registry_0.2.0_freebsd_amd64.zip",
-          "shasum": "6d46a7a059f6600cef2d9eb1fd6e3b858fb671966b9d3e714948a0ae5d1cb6f7"
+          "shasum": "6d46a7a059f6600cef2d9eb1fd6e3b858fb671966b9d3e714948a0ae5d1cb6f7",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-confluent-schema-registry_0.2.0_freebsd_arm.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.2.0/terraform-provider-confluent-schema-registry_0.2.0_freebsd_arm.zip",
-          "shasum": "4a56c922c5ce8b573d8a25dd4dc9055e23b71aaa1789ba83f367f6b801b91c8d"
+          "shasum": "4a56c922c5ce8b573d8a25dd4dc9055e23b71aaa1789ba83f367f6b801b91c8d",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.2.0_freebsd_arm64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.2.0/terraform-provider-confluent-schema-registry_0.2.0_freebsd_arm64.zip",
-          "shasum": "ee5942bc0b3b6a7f58f6c05a123a69b65f3f9930d549fa1ce2cb9fb7345bf14a"
+          "shasum": "ee5942bc0b3b6a7f58f6c05a123a69b65f3f9930d549fa1ce2cb9fb7345bf14a",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-confluent-schema-registry_0.2.0_linux_386.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.2.0/terraform-provider-confluent-schema-registry_0.2.0_linux_386.zip",
-          "shasum": "7dfb54e7829666808a2084e23e3ae33fe572ebf15daedad07375d87b9214999b"
+          "shasum": "7dfb54e7829666808a2084e23e3ae33fe572ebf15daedad07375d87b9214999b",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.2.0_linux_amd64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.2.0/terraform-provider-confluent-schema-registry_0.2.0_linux_amd64.zip",
-          "shasum": "e8a791de092ea6dee8699580ec80d8394b494ea1413bcdb7defac5a092d40595"
+          "shasum": "e8a791de092ea6dee8699580ec80d8394b494ea1413bcdb7defac5a092d40595",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-confluent-schema-registry_0.2.0_linux_arm.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.2.0/terraform-provider-confluent-schema-registry_0.2.0_linux_arm.zip",
-          "shasum": "de19e62bf6cc5f3dc9bf707df00c6cc42eb3ff5a92d8cc94cb36c3ec60c695e5"
+          "shasum": "de19e62bf6cc5f3dc9bf707df00c6cc42eb3ff5a92d8cc94cb36c3ec60c695e5",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.2.0_linux_arm64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.2.0/terraform-provider-confluent-schema-registry_0.2.0_linux_arm64.zip",
-          "shasum": "9f22d667a1707d92201ef5f7b40c271f9c291f772d2ccdc615425d2e5c5b66f7"
+          "shasum": "9f22d667a1707d92201ef5f7b40c271f9c291f772d2ccdc615425d2e5c5b66f7",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-confluent-schema-registry_0.2.0_windows_386.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.2.0/terraform-provider-confluent-schema-registry_0.2.0_windows_386.zip",
-          "shasum": "28aced4667a6f320bb6870127070eb4fd27c34eba2e9c6f6623b495c716e6d1f"
+          "shasum": "28aced4667a6f320bb6870127070eb4fd27c34eba2e9c6f6623b495c716e6d1f",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.2.0_windows_amd64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.2.0/terraform-provider-confluent-schema-registry_0.2.0_windows_amd64.zip",
-          "shasum": "454f4a35ba80f07c1f6852ca9029be0661cc164970951b7e17fd9feacfdd57e3"
+          "shasum": "454f4a35ba80f07c1f6852ca9029be0661cc164970951b7e17fd9feacfdd57e3",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-confluent-schema-registry_0.2.0_windows_arm.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.2.0/terraform-provider-confluent-schema-registry_0.2.0_windows_arm.zip",
-          "shasum": "266e23d66e84c4aa220a43d1dd11269e9975379fd30e777b3e6a279ee8cbb4aa"
+          "shasum": "266e23d66e84c4aa220a43d1dd11269e9975379fd30e777b3e6a279ee8cbb4aa",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.2.0_windows_arm64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.2.0/terraform-provider-confluent-schema-registry_0.2.0_windows_arm64.zip",
-          "shasum": "15c4b1c336c680e4630f5c2ccb50033aa8f6cd8f7f95edc68de16142ffa2c6c0"
+          "shasum": "15c4b1c336c680e4630f5c2ccb50033aa8f6cd8f7f95edc68de16142ffa2c6c0",
+          "h1": ""
         }
       ]
     },
@@ -553,98 +745,112 @@
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.1.2_darwin_amd64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.1.2/terraform-provider-confluent-schema-registry_0.1.2_darwin_amd64.zip",
-          "shasum": "403a1c5a54892616ff230ce98dd632b0643f2fb5ac77310d4502baea20312fb0"
+          "shasum": "403a1c5a54892616ff230ce98dd632b0643f2fb5ac77310d4502baea20312fb0",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.1.2_darwin_arm64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.1.2/terraform-provider-confluent-schema-registry_0.1.2_darwin_arm64.zip",
-          "shasum": "33821f537fe080e50530e5a22aab3f5e3671645d8ed87168fd7928e486af9c7c"
+          "shasum": "33821f537fe080e50530e5a22aab3f5e3671645d8ed87168fd7928e486af9c7c",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-confluent-schema-registry_0.1.2_freebsd_386.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.1.2/terraform-provider-confluent-schema-registry_0.1.2_freebsd_386.zip",
-          "shasum": "0eceb3c001eec70914a5a6b094cd183c3948768e8f60d64cc2f309c0fc7a3753"
+          "shasum": "0eceb3c001eec70914a5a6b094cd183c3948768e8f60d64cc2f309c0fc7a3753",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.1.2_freebsd_amd64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.1.2/terraform-provider-confluent-schema-registry_0.1.2_freebsd_amd64.zip",
-          "shasum": "8595be7199caef74d75813d0212d39563fc0a3e0cabf2016306c88b702a1fac3"
+          "shasum": "8595be7199caef74d75813d0212d39563fc0a3e0cabf2016306c88b702a1fac3",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-confluent-schema-registry_0.1.2_freebsd_arm.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.1.2/terraform-provider-confluent-schema-registry_0.1.2_freebsd_arm.zip",
-          "shasum": "431dafc4b754e8ded048bea79901018a2868b7143f40cdef36ab52992c047fd4"
+          "shasum": "431dafc4b754e8ded048bea79901018a2868b7143f40cdef36ab52992c047fd4",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.1.2_freebsd_arm64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.1.2/terraform-provider-confluent-schema-registry_0.1.2_freebsd_arm64.zip",
-          "shasum": "640c78ee42fef015590057cd5b913d7d857abccde7c428c56d2e3f2c698ecd20"
+          "shasum": "640c78ee42fef015590057cd5b913d7d857abccde7c428c56d2e3f2c698ecd20",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-confluent-schema-registry_0.1.2_linux_386.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.1.2/terraform-provider-confluent-schema-registry_0.1.2_linux_386.zip",
-          "shasum": "b205f4a10ed69eee2561610e142f272e58c190a19b76c60db1ed93855a486dfb"
+          "shasum": "b205f4a10ed69eee2561610e142f272e58c190a19b76c60db1ed93855a486dfb",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.1.2_linux_amd64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.1.2/terraform-provider-confluent-schema-registry_0.1.2_linux_amd64.zip",
-          "shasum": "5ba54691758b420b18ab2102e3ac74d32afbd226ef63806b2be81d488446b98a"
+          "shasum": "5ba54691758b420b18ab2102e3ac74d32afbd226ef63806b2be81d488446b98a",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-confluent-schema-registry_0.1.2_linux_arm.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.1.2/terraform-provider-confluent-schema-registry_0.1.2_linux_arm.zip",
-          "shasum": "2b5c458dda9f2ee9e7eea8b73a2aa1540d2f14c800cc01e806b35d30a44568fe"
+          "shasum": "2b5c458dda9f2ee9e7eea8b73a2aa1540d2f14c800cc01e806b35d30a44568fe",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.1.2_linux_arm64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.1.2/terraform-provider-confluent-schema-registry_0.1.2_linux_arm64.zip",
-          "shasum": "a99520d65b69a2021345a55a87244d75622963f5de449e55ba9ed135754aa124"
+          "shasum": "a99520d65b69a2021345a55a87244d75622963f5de449e55ba9ed135754aa124",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-confluent-schema-registry_0.1.2_windows_386.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.1.2/terraform-provider-confluent-schema-registry_0.1.2_windows_386.zip",
-          "shasum": "e045c87979a57a873825370ef1285d05e9005ed9a52ba175dd0d42bfdf968b83"
+          "shasum": "e045c87979a57a873825370ef1285d05e9005ed9a52ba175dd0d42bfdf968b83",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-confluent-schema-registry_0.1.2_windows_amd64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.1.2/terraform-provider-confluent-schema-registry_0.1.2_windows_amd64.zip",
-          "shasum": "09926b4267b2b9914664820c370aaacf98af0948ea54f2b4fc8f3ca845da4ca8"
+          "shasum": "09926b4267b2b9914664820c370aaacf98af0948ea54f2b4fc8f3ca845da4ca8",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-confluent-schema-registry_0.1.2_windows_arm.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.1.2/terraform-provider-confluent-schema-registry_0.1.2_windows_arm.zip",
-          "shasum": "efd0f8171d185260fc4fe5ea76995ab8806b7487402bccf594fed88611e0e81a"
+          "shasum": "efd0f8171d185260fc4fe5ea76995ab8806b7487402bccf594fed88611e0e81a",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-confluent-schema-registry_0.1.2_windows_arm64.zip",
           "download_url": "https://github.com/DrFaust92/terraform-provider-confluent-schema-registry/releases/download/v0.1.2/terraform-provider-confluent-schema-registry_0.1.2_windows_arm64.zip",
-          "shasum": "81e06004d50ff445557f9c682c8aa1f66def3a943774dcac923eb689d053a476"
+          "shasum": "81e06004d50ff445557f9c682c8aa1f66def3a943774dcac923eb689d053a476",
+          "h1": ""
         }
       ]
     }
