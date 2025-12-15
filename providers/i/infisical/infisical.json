@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.15.55",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/infisical/terraform-provider-infisical/releases/download/v0.15.55/terraform-provider-infisical_0.15.55_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/infisical/terraform-provider-infisical/releases/download/v0.15.55/terraform-provider-infisical_0.15.55_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-infisical_0.15.55_darwin_amd64.zip",
+          "download_url": "https://github.com/infisical/terraform-provider-infisical/releases/download/v0.15.55/terraform-provider-infisical_0.15.55_darwin_amd64.zip",
+          "shasum": "f1a6240ce378e931c8f448036fb2e22dc1063c84d910f1474b9911c37c388f17",
+          "h1": "h1:RklNFzn6/KjvXnMW1AbvdjBWi0XGw1YbpZkB85BkizI="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-infisical_0.15.55_darwin_arm64.zip",
+          "download_url": "https://github.com/infisical/terraform-provider-infisical/releases/download/v0.15.55/terraform-provider-infisical_0.15.55_darwin_arm64.zip",
+          "shasum": "ede410973ceed85e03ab4ebeca5d09a01e4d703bff58d3a606616010afa8543d",
+          "h1": "h1:dCU23K8qW4YvK88rqedsGelKtXkNaRZbY/EsknsC03M="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-infisical_0.15.55_freebsd_386.zip",
+          "download_url": "https://github.com/infisical/terraform-provider-infisical/releases/download/v0.15.55/terraform-provider-infisical_0.15.55_freebsd_386.zip",
+          "shasum": "76aa9897b67cfe4a4ac1090d5095c6e44fe7284e5119d99ab584415db901911e",
+          "h1": "h1:J5p8ZvmxVj6h9wdDal7PoPdEUkfXG7yiFsXPNnVappw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-infisical_0.15.55_freebsd_amd64.zip",
+          "download_url": "https://github.com/infisical/terraform-provider-infisical/releases/download/v0.15.55/terraform-provider-infisical_0.15.55_freebsd_amd64.zip",
+          "shasum": "4131df0d36131c09b70a9c2d948cdd115f4a6b0746bad2e331e210f08f354858",
+          "h1": "h1:IBgLqxnjKUcYhh9mlstT9rQVRCr442c/8XYo2xjrll0="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-infisical_0.15.55_freebsd_arm.zip",
+          "download_url": "https://github.com/infisical/terraform-provider-infisical/releases/download/v0.15.55/terraform-provider-infisical_0.15.55_freebsd_arm.zip",
+          "shasum": "e41cb19d3fef592e62b6d69037412c9b16c3385648b85a92f9242f3787094de2",
+          "h1": "h1:RSSGlpYr8lHAfcbsY7HHnq2D+rsqvKBLlK4CXFFGloQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-infisical_0.15.55_freebsd_arm64.zip",
+          "download_url": "https://github.com/infisical/terraform-provider-infisical/releases/download/v0.15.55/terraform-provider-infisical_0.15.55_freebsd_arm64.zip",
+          "shasum": "488c04a74c8d2a53da854264395a30df878b3ea89b67dbb1ae6c13141dc8ee58",
+          "h1": "h1:IeT9PNUxSr23rLbHWlGuiEUJvSKV0RuEQtkQ+0FfJLo="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-infisical_0.15.55_linux_386.zip",
+          "download_url": "https://github.com/infisical/terraform-provider-infisical/releases/download/v0.15.55/terraform-provider-infisical_0.15.55_linux_386.zip",
+          "shasum": "469c15e41c2bf208cdf60a2e9274e573690dcb884f61cb6e35b770b65ac09dec",
+          "h1": "h1:9d72Y0WrUdQitEjEAltLTMDptcYXUiX1QhcmfhixhRU="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-infisical_0.15.55_linux_amd64.zip",
+          "download_url": "https://github.com/infisical/terraform-provider-infisical/releases/download/v0.15.55/terraform-provider-infisical_0.15.55_linux_amd64.zip",
+          "shasum": "2bfa44660afd64a2ede089cce3cc4b53cd1244908153ac7a1bf6da9c92e7a623",
+          "h1": "h1:zwsR34IRaTiP73NKdh3uA3uiUkjc6fRYimNnoMaYb38="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-infisical_0.15.55_linux_arm.zip",
+          "download_url": "https://github.com/infisical/terraform-provider-infisical/releases/download/v0.15.55/terraform-provider-infisical_0.15.55_linux_arm.zip",
+          "shasum": "30b5091d6661f72f2a2db18e0d5da7c90659a7d3e69dfecda3b29d03cb796ff8",
+          "h1": "h1:uUJmngTb7muZNXGId/MiTAr/Ldc+dgvfsbHEfAdnQz8="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-infisical_0.15.55_linux_arm64.zip",
+          "download_url": "https://github.com/infisical/terraform-provider-infisical/releases/download/v0.15.55/terraform-provider-infisical_0.15.55_linux_arm64.zip",
+          "shasum": "46b707151c3a959aacbc99146f65304530a0fe29a5856c754987829137de0712",
+          "h1": "h1:88/HpPmdIBL7EbqIzZEp89WGUI3CAwwE0SNSOkVQ2Yo="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-infisical_0.15.55_windows_386.zip",
+          "download_url": "https://github.com/infisical/terraform-provider-infisical/releases/download/v0.15.55/terraform-provider-infisical_0.15.55_windows_386.zip",
+          "shasum": "b1deb7b207efa8d764be96b7e0281b82d54702b1feb222998be24bcfe884477c",
+          "h1": "h1:PpjRVf5dcBUWaANdjP8mQT01YDYLrCSY3rH+4kxoQSU="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-infisical_0.15.55_windows_amd64.zip",
+          "download_url": "https://github.com/infisical/terraform-provider-infisical/releases/download/v0.15.55/terraform-provider-infisical_0.15.55_windows_amd64.zip",
+          "shasum": "3b831dbd4d569dceb96f04f035fdf2de9c25b60cf57072ef86d1e1ba7cc6cbb5",
+          "h1": "h1:ygmbtvmODqWfgK0w2TkzCaJtEfPt8iSmDdJBsRR3nAs="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-infisical_0.15.55_windows_arm.zip",
+          "download_url": "https://github.com/infisical/terraform-provider-infisical/releases/download/v0.15.55/terraform-provider-infisical_0.15.55_windows_arm.zip",
+          "shasum": "2f7f5f0459cf6b24bdd2ccbd796fc0519521621f0f52c08962a2effcac214b52",
+          "h1": "h1:tzd1ixEFDpdU0gnY7lk8nZIzWtQ+dgOoFoGRvmdBziE="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-infisical_0.15.55_windows_arm64.zip",
+          "download_url": "https://github.com/infisical/terraform-provider-infisical/releases/download/v0.15.55/terraform-provider-infisical_0.15.55_windows_arm64.zip",
+          "shasum": "d3847f1a8eb68cbf635189cee4624fdc80ccd6da5fe685e3a2a2dbcf141cbf78",
+          "h1": "h1:GOCs7fHc4tBJtj6t/NmctDn09e+QZ0WSgHEduRiasFQ="
+        }
+      ]
+    },
+    {
       "version": "0.15.54",
       "protocols": [
         "6.0"
