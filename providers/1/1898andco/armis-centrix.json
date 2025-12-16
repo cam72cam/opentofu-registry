@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.14.5",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/1898andco/terraform-provider-armis-centrix/releases/download/v0.14.5/terraform-provider-armis-centrix_0.14.5_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/1898andco/terraform-provider-armis-centrix/releases/download/v0.14.5/terraform-provider-armis-centrix_0.14.5_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-armis-centrix_0.14.5_darwin_amd64.zip",
+          "download_url": "https://github.com/1898andco/terraform-provider-armis-centrix/releases/download/v0.14.5/terraform-provider-armis-centrix_0.14.5_darwin_amd64.zip",
+          "shasum": "7847b7ea95c36a9b01a4fbfcf977f76f1c508c15de89e68136da8c84cbaeaf2d",
+          "h1": "h1:CjMtf9HyDrrNenT+37JkQVR2i6tPP6xg6lEshmECmLM="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-armis-centrix_0.14.5_darwin_arm64.zip",
+          "download_url": "https://github.com/1898andco/terraform-provider-armis-centrix/releases/download/v0.14.5/terraform-provider-armis-centrix_0.14.5_darwin_arm64.zip",
+          "shasum": "79a2f38b6524e1a167748f1b107c5dac896ee11ddc363084685f09ce1cf7c20c",
+          "h1": "h1:GLD9WysvphAG73PDTxPMh/O+4yebFVO/lg4D/xDoILM="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-armis-centrix_0.14.5_freebsd_386.zip",
+          "download_url": "https://github.com/1898andco/terraform-provider-armis-centrix/releases/download/v0.14.5/terraform-provider-armis-centrix_0.14.5_freebsd_386.zip",
+          "shasum": "f88b476548319025e0fa7fc682380d34bfa3ba061c5e4e04d0eff2725cc4e960",
+          "h1": "h1:1uAvle2PBJdC6mQbfkg+tu0mI0N/qRgD76FbKDhlzz0="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-armis-centrix_0.14.5_freebsd_amd64.zip",
+          "download_url": "https://github.com/1898andco/terraform-provider-armis-centrix/releases/download/v0.14.5/terraform-provider-armis-centrix_0.14.5_freebsd_amd64.zip",
+          "shasum": "c7537e0455e7467abe8e099f57fb380ff88b4d6187fa675b6ec2baf54f80c04e",
+          "h1": "h1:CZu91S1QPcZOdQ4novD1TZ86Kq1XLfN2zveGLMJR5FA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-armis-centrix_0.14.5_freebsd_arm.zip",
+          "download_url": "https://github.com/1898andco/terraform-provider-armis-centrix/releases/download/v0.14.5/terraform-provider-armis-centrix_0.14.5_freebsd_arm.zip",
+          "shasum": "bbcf1e5d204da25d9b2c3e9f80dcb5409ed95cefe75104b8b075d76309bd5659",
+          "h1": "h1:75eMvWuEjLMVd15bhfsppIkGBnmiNcmwtxbjN8KuNh8="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-armis-centrix_0.14.5_freebsd_arm64.zip",
+          "download_url": "https://github.com/1898andco/terraform-provider-armis-centrix/releases/download/v0.14.5/terraform-provider-armis-centrix_0.14.5_freebsd_arm64.zip",
+          "shasum": "13aa0bbb04750b8f40b71a315d0f43061b62f2e3557caeb4c45ba68b765fe5a5",
+          "h1": "h1:W/VO31kaU9IspNAqFIW7gUldzwSKb56+U/qI58SOcnU="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-armis-centrix_0.14.5_linux_386.zip",
+          "download_url": "https://github.com/1898andco/terraform-provider-armis-centrix/releases/download/v0.14.5/terraform-provider-armis-centrix_0.14.5_linux_386.zip",
+          "shasum": "348c66d68593e811959bac16ebce3d28591ddbaa71906b2a236f6e4ff6d8f60e",
+          "h1": "h1:xi9ymTzGecp0LyEl3Z8eLGS0bqU4a99OGB2vVsUsg50="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-armis-centrix_0.14.5_linux_amd64.zip",
+          "download_url": "https://github.com/1898andco/terraform-provider-armis-centrix/releases/download/v0.14.5/terraform-provider-armis-centrix_0.14.5_linux_amd64.zip",
+          "shasum": "5160c4e97d7bc1a09c88b07eea91af5883f2acbbbffe11dc457e3bf3aac2eb4e",
+          "h1": "h1:SlSRtg5ujbbe8uVyNvkpEw1vUh8gPwcFs63vScZAd8Y="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-armis-centrix_0.14.5_linux_arm.zip",
+          "download_url": "https://github.com/1898andco/terraform-provider-armis-centrix/releases/download/v0.14.5/terraform-provider-armis-centrix_0.14.5_linux_arm.zip",
+          "shasum": "febfcffdd1dfd241c2335434be075655461c8ffc0b562f51a2170f3180d7dbd2",
+          "h1": "h1:qQO4Og8svg634Bx8jmYFh0B/SaNfO7mCCllu0bhZFHo="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-armis-centrix_0.14.5_linux_arm64.zip",
+          "download_url": "https://github.com/1898andco/terraform-provider-armis-centrix/releases/download/v0.14.5/terraform-provider-armis-centrix_0.14.5_linux_arm64.zip",
+          "shasum": "28ec763b1c91b0f239561a83711a15b45f846feae8870afefb20b330e330e87f",
+          "h1": "h1:T+Qe/lpxfjtZhIQ0R9wOvi/aZ4d++yKH2pBAe5oTpFQ="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-armis-centrix_0.14.5_windows_386.zip",
+          "download_url": "https://github.com/1898andco/terraform-provider-armis-centrix/releases/download/v0.14.5/terraform-provider-armis-centrix_0.14.5_windows_386.zip",
+          "shasum": "171697ed33a882c5cdd3ee8f977c56915f466a5c67149ff317d86348ed515a6d",
+          "h1": "h1:rgspSUz64ijI96suLlIN9BSsw7jRJHfz1gx+tSnEMoI="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-armis-centrix_0.14.5_windows_amd64.zip",
+          "download_url": "https://github.com/1898andco/terraform-provider-armis-centrix/releases/download/v0.14.5/terraform-provider-armis-centrix_0.14.5_windows_amd64.zip",
+          "shasum": "1d641bd450e39e023b5f088f5cf2f8d1385984ca1d2a40606e5ebfc11ca2dc4c",
+          "h1": "h1:0Rii5Q6Mxppt5LX2c476XXdZL128NBcUnlOF19CUd18="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-armis-centrix_0.14.5_windows_arm.zip",
+          "download_url": "https://github.com/1898andco/terraform-provider-armis-centrix/releases/download/v0.14.5/terraform-provider-armis-centrix_0.14.5_windows_arm.zip",
+          "shasum": "4e7b06588a0aa066a106590b8377786448dec2884616e235d6fceb2f84407f1b",
+          "h1": "h1:SN7whot2TTsrkhG9y1DtQWOm5m0HzxUMPe67nwFKIjI="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-armis-centrix_0.14.5_windows_arm64.zip",
+          "download_url": "https://github.com/1898andco/terraform-provider-armis-centrix/releases/download/v0.14.5/terraform-provider-armis-centrix_0.14.5_windows_arm64.zip",
+          "shasum": "ebf2a6ca004c59d7436372d96f44f7cf2ba4d09222879306b64f7dca21c2890c",
+          "h1": "h1:Cuq/RR1R/LJdeNK58otiJ1npm/Iv+jjEgyoWQ5mfRiw="
+        }
+      ]
+    },
+    {
       "version": "0.14.3",
       "protocols": [
         "6.0"
