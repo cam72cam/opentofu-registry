@@ -1,6 +1,104 @@
 {
   "versions": [
     {
+      "version": "0.2.14",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/solarwinds/terraform-provider-swo/releases/download/v0.2.14/terraform-provider-swo_0.2.14_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/solarwinds/terraform-provider-swo/releases/download/v0.2.14/terraform-provider-swo_0.2.14_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-swo_0.2.14_darwin_amd64.zip",
+          "download_url": "https://github.com/solarwinds/terraform-provider-swo/releases/download/v0.2.14/terraform-provider-swo_0.2.14_darwin_amd64.zip",
+          "shasum": "6a1b84b77f32e35acc9e5424183d42f2525669b2730b0215e4724b665d4bdf51",
+          "h1": "h1:M3NDCZqDokLHN2HzNoMdUqENekQoz1yZAGzmTy+SEfQ="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-swo_0.2.14_darwin_arm64.zip",
+          "download_url": "https://github.com/solarwinds/terraform-provider-swo/releases/download/v0.2.14/terraform-provider-swo_0.2.14_darwin_arm64.zip",
+          "shasum": "ee64c6fe92fca6d24e0dd93b1c4347ba07848080a80d80aacdd2ce21b990188b",
+          "h1": "h1:V5P/7wh0XkMa+6T6TWCzGa5aIz+fqNoB581sa5fXNPA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-swo_0.2.14_freebsd_386.zip",
+          "download_url": "https://github.com/solarwinds/terraform-provider-swo/releases/download/v0.2.14/terraform-provider-swo_0.2.14_freebsd_386.zip",
+          "shasum": "a1771746c3851e3396c30b82eabad9c186996a4f166fb3582e56b26be460880f",
+          "h1": "h1:mDZfbK2J8ns8zB076u8oIKCMRTKFeXqQHXt5SaxJZ3I="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-swo_0.2.14_freebsd_amd64.zip",
+          "download_url": "https://github.com/solarwinds/terraform-provider-swo/releases/download/v0.2.14/terraform-provider-swo_0.2.14_freebsd_amd64.zip",
+          "shasum": "fca717f1b584d145681b2c54c702f0daf4d39177b414aa43fe9dfb6d3bcebc37",
+          "h1": "h1:xn11wnYCK7+sENCZVo1gt+/r2cDVCumDOm2c2Xaw63s="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-swo_0.2.14_freebsd_arm.zip",
+          "download_url": "https://github.com/solarwinds/terraform-provider-swo/releases/download/v0.2.14/terraform-provider-swo_0.2.14_freebsd_arm.zip",
+          "shasum": "249d15483cc0106b80fbd3ce84fe99e804469e9359904bb271341c5a8cf8504a",
+          "h1": "h1:b7v0LI+rrnCcr2+wdyxiuGEsE3H+oEnwX2nz9kaF9XU="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-swo_0.2.14_freebsd_arm64.zip",
+          "download_url": "https://github.com/solarwinds/terraform-provider-swo/releases/download/v0.2.14/terraform-provider-swo_0.2.14_freebsd_arm64.zip",
+          "shasum": "7d29520dd8cb3046b6b746f00f4940c834cd37f9add4a058202dbacc804ae231",
+          "h1": "h1:SZLLKEUyYoXbC4lMhr950zUesCWJpV35ZdfICD6cmEc="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-swo_0.2.14_linux_386.zip",
+          "download_url": "https://github.com/solarwinds/terraform-provider-swo/releases/download/v0.2.14/terraform-provider-swo_0.2.14_linux_386.zip",
+          "shasum": "a6ba5169bbb2fe9392fe554f7a16d969cb82eb216af516299c1d1b2967d28e83",
+          "h1": "h1:w/ZMxC7WEPn3haugOckFCrPDiH4Q9f7GXUC40WPTdrM="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-swo_0.2.14_linux_amd64.zip",
+          "download_url": "https://github.com/solarwinds/terraform-provider-swo/releases/download/v0.2.14/terraform-provider-swo_0.2.14_linux_amd64.zip",
+          "shasum": "79ad7c20c77286cd36a47bd7aa7c6526b697cdf1a01a826973366d3d26a2b0a7",
+          "h1": "h1:4T3pYpaOBuMDQT3cTkk4fGLw6NP5uy4U9M4eEidNGHI="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-swo_0.2.14_linux_arm.zip",
+          "download_url": "https://github.com/solarwinds/terraform-provider-swo/releases/download/v0.2.14/terraform-provider-swo_0.2.14_linux_arm.zip",
+          "shasum": "8e04b43e954b734e40d262006eeb1ae87a0a5eeb5ecf1e3e53c8386c4fb6ef79",
+          "h1": "h1:8fkKPf3yljam0ZLq4RcKJz3GVMOLH+HBCApA0Ix7eaw="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-swo_0.2.14_linux_arm64.zip",
+          "download_url": "https://github.com/solarwinds/terraform-provider-swo/releases/download/v0.2.14/terraform-provider-swo_0.2.14_linux_arm64.zip",
+          "shasum": "fb0ea26b09bb503d24c2bf6253f7c1706e1fe3318e122c34d36e157d2959a1e2",
+          "h1": "h1:czsgKozD6qlUa3QeJMFFgF8sNQEY13oBd6uj5ApC9IA="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-swo_0.2.14_windows_amd64.zip",
+          "download_url": "https://github.com/solarwinds/terraform-provider-swo/releases/download/v0.2.14/terraform-provider-swo_0.2.14_windows_amd64.zip",
+          "shasum": "efa9340901e6e7d634dee51e5fb813133d020ca55035afd0e8b55774156ed8ac",
+          "h1": "h1:CsLZvt+fSNj7XfHTCtTQ+ltLsOhkKcvkZh16/OxlK/A="
+        }
+      ]
+    },
+    {
       "version": "0.2.13",
       "protocols": [
         "6.0"
