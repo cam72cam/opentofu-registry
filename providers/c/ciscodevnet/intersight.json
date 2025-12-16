@@ -1,6 +1,56 @@
 {
   "versions": [
     {
+      "version": "1.0.75",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/ciscodevnet/terraform-provider-intersight/releases/download/v1.0.75/terraform-provider-intersight_1.0.75_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/ciscodevnet/terraform-provider-intersight/releases/download/v1.0.75/terraform-provider-intersight_1.0.75_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-intersight_1.0.75_darwin_amd64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-intersight/releases/download/v1.0.75/terraform-provider-intersight_1.0.75_darwin_amd64.zip",
+          "shasum": "4000f9f24fb8bc821379a26c88e272ddf5a19074dcfc3a2b13b23380def8f14f",
+          "h1": "h1:BveaTrC5Zbv8uiIcHW1LXmbDHzf85j5vhvv60MFNkX4="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-intersight_1.0.75_darwin_arm64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-intersight/releases/download/v1.0.75/terraform-provider-intersight_1.0.75_darwin_arm64.zip",
+          "shasum": "155ffdcbf924776e16264ee8e458548a976a57942515f5f90ff61b236bff83c1",
+          "h1": "h1:thxALsvROmHhRjTB4/A2GdvmOnlKVjR6vMy9apUjYEg="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-intersight_1.0.75_linux_amd64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-intersight/releases/download/v1.0.75/terraform-provider-intersight_1.0.75_linux_amd64.zip",
+          "shasum": "51f4298ea56884f632604db299b5dcebd000e805500e68ba34da9ed695d479b1",
+          "h1": "h1:Yipbq4yvmdEpnxVWbccPH5yXWiy/1JvwdFKb775KN8M="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-intersight_1.0.75_linux_arm64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-intersight/releases/download/v1.0.75/terraform-provider-intersight_1.0.75_linux_arm64.zip",
+          "shasum": "79c95ca78056b829a6f1173a907c773f120ab2554ad2d683ed5fd9ce7ebccbc1",
+          "h1": "h1:UFrvAIY3geDJx9V5XgY/0R6TlUNss4aepdeZBGM+Sp0="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-intersight_1.0.75_windows_amd64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-intersight/releases/download/v1.0.75/terraform-provider-intersight_1.0.75_windows_amd64.zip",
+          "shasum": "cf213155b43850f8219bd116e3ad143a03d091905afdfc672195c1321e3db6a0",
+          "h1": "h1:9U7u59xBOAlFwK+vw6upx9VG1ttoIx4VsMPYg3tXDo8="
+        }
+      ]
+    },
+    {
       "version": "1.0.74",
       "protocols": [
         "5.0"
