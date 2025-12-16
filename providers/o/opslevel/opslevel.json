@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.8.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/opslevel/terraform-provider-opslevel/releases/download/v1.8.0/terraform-provider-opslevel_1.8.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/opslevel/terraform-provider-opslevel/releases/download/v1.8.0/terraform-provider-opslevel_1.8.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-opslevel_1.8.0_darwin_amd64.zip",
+          "download_url": "https://github.com/opslevel/terraform-provider-opslevel/releases/download/v1.8.0/terraform-provider-opslevel_1.8.0_darwin_amd64.zip",
+          "shasum": "870c2547d694ca5b26d650aca03ff1f53ca7b50bc0ea9f919a76364a45354085",
+          "h1": "h1:EYO0taocs28w6hbToex1EBlCHbTgBPaRJMJ2hgvuty0="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-opslevel_1.8.0_darwin_arm64.zip",
+          "download_url": "https://github.com/opslevel/terraform-provider-opslevel/releases/download/v1.8.0/terraform-provider-opslevel_1.8.0_darwin_arm64.zip",
+          "shasum": "ec658bee5fe4614add4ea139fa85c08424e3b93439b7c8ea2cea3ecc12be797e",
+          "h1": "h1:I/nevD0AZgPeoxF1pAmPfaplTmL7+eae+kZqTRVJz4Q="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-opslevel_1.8.0_freebsd_386.zip",
+          "download_url": "https://github.com/opslevel/terraform-provider-opslevel/releases/download/v1.8.0/terraform-provider-opslevel_1.8.0_freebsd_386.zip",
+          "shasum": "5bdc2ba5f086eddd839b9ae9cd4f52232d808e54957f51b2ae33544f1f66ab7f",
+          "h1": "h1:0cRjLQfqboQGKOjulgY8GCdtl3WJ2JvfPHJwif/0aT8="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-opslevel_1.8.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/opslevel/terraform-provider-opslevel/releases/download/v1.8.0/terraform-provider-opslevel_1.8.0_freebsd_amd64.zip",
+          "shasum": "1ba8084e8e50990b80ab8a03cdf11a5c73069cc3c45886625e29b4c989a25bfb",
+          "h1": "h1:ZJ+JoD1DsLqQUmQiRptNx0p/i5sT2BriYKu7Gd5BKLQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-opslevel_1.8.0_freebsd_arm.zip",
+          "download_url": "https://github.com/opslevel/terraform-provider-opslevel/releases/download/v1.8.0/terraform-provider-opslevel_1.8.0_freebsd_arm.zip",
+          "shasum": "f2ade3b0fbdf62fbbdaf3a433170b3f63928a984f69a9fd439e6f3818b48df77",
+          "h1": "h1:flgR5v/tyKMg4LMLKJvYR+keI85fLAF5bbnJu/Zp10U="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-opslevel_1.8.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/opslevel/terraform-provider-opslevel/releases/download/v1.8.0/terraform-provider-opslevel_1.8.0_freebsd_arm64.zip",
+          "shasum": "f04195558d501748745a8212fda7f7564acc4e7cd9d689150d10dc3da6feeb68",
+          "h1": "h1:DrRZiyybXXtb2JJv7XcEbRgBKmXFoIoVfpJCNBa+YVo="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-opslevel_1.8.0_linux_386.zip",
+          "download_url": "https://github.com/opslevel/terraform-provider-opslevel/releases/download/v1.8.0/terraform-provider-opslevel_1.8.0_linux_386.zip",
+          "shasum": "52aa4cf51365b53dfbb035cd7fc3f5137d839246f27ab89f30687ca80e4cf566",
+          "h1": "h1:CLmRRGJJfefpJ22jXNXmj2CTDftpIlGdJ286ncTEZsM="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-opslevel_1.8.0_linux_amd64.zip",
+          "download_url": "https://github.com/opslevel/terraform-provider-opslevel/releases/download/v1.8.0/terraform-provider-opslevel_1.8.0_linux_amd64.zip",
+          "shasum": "0466cc7754db0374efe79e1eb22b5822f580d5a07853c20fcdfd2a1b1a2751a3",
+          "h1": "h1:0M673RSqvO6bajmMSsGXOXp5cz+g0rKS8Q36+DCZ2UM="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-opslevel_1.8.0_linux_arm.zip",
+          "download_url": "https://github.com/opslevel/terraform-provider-opslevel/releases/download/v1.8.0/terraform-provider-opslevel_1.8.0_linux_arm.zip",
+          "shasum": "7688c688e840092849d8618fe8708557341454021217b645b769ce0e691b7038",
+          "h1": "h1:B6o1oyHrwNZd7N3Tzy6nwdmZ3fi0ghZKbg0Obzq0E5M="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-opslevel_1.8.0_linux_arm64.zip",
+          "download_url": "https://github.com/opslevel/terraform-provider-opslevel/releases/download/v1.8.0/terraform-provider-opslevel_1.8.0_linux_arm64.zip",
+          "shasum": "59f8a632c940895a7042340309bf0f35a47fe427ee5fa695fa5eac4279c277b0",
+          "h1": "h1:uMlnsnA3LTm3YTHOwMTqscTe4eP2ERqGtmLFRAPpmrY="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-opslevel_1.8.0_windows_386.zip",
+          "download_url": "https://github.com/opslevel/terraform-provider-opslevel/releases/download/v1.8.0/terraform-provider-opslevel_1.8.0_windows_386.zip",
+          "shasum": "77065b3bd73c8d51a1cae0a7329e709c95d3d28674612cae06ffb4e998b0b376",
+          "h1": "h1:1Cy2EEwwKwkn9njFoDgR8Z3AEXJW9ED68ZslRCLJud4="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-opslevel_1.8.0_windows_amd64.zip",
+          "download_url": "https://github.com/opslevel/terraform-provider-opslevel/releases/download/v1.8.0/terraform-provider-opslevel_1.8.0_windows_amd64.zip",
+          "shasum": "77b8ab8cd94f608e6d344193dd2088e4b78b31000635b7800222d443c0f30c5c",
+          "h1": "h1:FiUItas3m5MmTbIvSOvEBPx5CMoqZNjOid3drhzm4LA="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-opslevel_1.8.0_windows_arm.zip",
+          "download_url": "https://github.com/opslevel/terraform-provider-opslevel/releases/download/v1.8.0/terraform-provider-opslevel_1.8.0_windows_arm.zip",
+          "shasum": "ae19a5bbfa99969ce8a3477f3c3987dcad326753c07d4d33497a88795d231069",
+          "h1": "h1:Ry/9lseDBEkAFYo2Q0XeVQo+q7uN+ySm0mwJ574LhhU="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-opslevel_1.8.0_windows_arm64.zip",
+          "download_url": "https://github.com/opslevel/terraform-provider-opslevel/releases/download/v1.8.0/terraform-provider-opslevel_1.8.0_windows_arm64.zip",
+          "shasum": "636852e3a03730b52aa793764810206e17cad31c0c6f373b31f34102a3cda27e",
+          "h1": "h1:O8QmHiX84Lq66k8z1wcIORfiy/yqwRrT5GTWwuae7qc="
+        }
+      ]
+    },
+    {
       "version": "1.7.0",
       "protocols": [
         "5.0"
