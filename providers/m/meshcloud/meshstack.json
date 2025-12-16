@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.16.2",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/meshcloud/terraform-provider-meshstack/releases/download/v0.16.2/terraform-provider-meshstack_0.16.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/meshcloud/terraform-provider-meshstack/releases/download/v0.16.2/terraform-provider-meshstack_0.16.2_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-meshstack_0.16.2_darwin_amd64.zip",
+          "download_url": "https://github.com/meshcloud/terraform-provider-meshstack/releases/download/v0.16.2/terraform-provider-meshstack_0.16.2_darwin_amd64.zip",
+          "shasum": "3f46d4e9e2425569320cdb50a6ae71098c4c2afc28f6fdc773d98e0938f5b12e",
+          "h1": "h1:wj/+Syvywmi0urFp1gwNd/5ne++hMWFTppA19smMHF8="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-meshstack_0.16.2_darwin_arm64.zip",
+          "download_url": "https://github.com/meshcloud/terraform-provider-meshstack/releases/download/v0.16.2/terraform-provider-meshstack_0.16.2_darwin_arm64.zip",
+          "shasum": "0bc8a9f33d31b47c79dcc09bd19c07f7f7bd3cf5a16a3beed2f358245bcda22a",
+          "h1": "h1:VCR1+k/94Q78SbuG0Mknbl8sWI+zcoxPx8SidN6nR0o="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-meshstack_0.16.2_freebsd_386.zip",
+          "download_url": "https://github.com/meshcloud/terraform-provider-meshstack/releases/download/v0.16.2/terraform-provider-meshstack_0.16.2_freebsd_386.zip",
+          "shasum": "034eebc9448e147ca19a9e1ee1ae663e5412912ef2331f4fb585ac238b7ce1f0",
+          "h1": "h1:KXhNM3bj0wLjtNl65GAvJapk8suX9ltwJNaX2gMOl6A="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-meshstack_0.16.2_freebsd_amd64.zip",
+          "download_url": "https://github.com/meshcloud/terraform-provider-meshstack/releases/download/v0.16.2/terraform-provider-meshstack_0.16.2_freebsd_amd64.zip",
+          "shasum": "fb7a27870ecd60ebfc15ba4d230771dd393be121c1be02fb78585b1e79e33497",
+          "h1": "h1:JLF67/VH3gaO4pvLTStxkGZScm8/PtaRvbEziUNn/yQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-meshstack_0.16.2_freebsd_arm.zip",
+          "download_url": "https://github.com/meshcloud/terraform-provider-meshstack/releases/download/v0.16.2/terraform-provider-meshstack_0.16.2_freebsd_arm.zip",
+          "shasum": "cc7d3bb7a4ae5fa21938a49d1f3ba89a959e641cd039a54a0ba32f1df14a2ac1",
+          "h1": "h1:FL13Scn0kpytUjxX97+lBB2YKaiba/HBr52JGqwGvnQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-meshstack_0.16.2_freebsd_arm64.zip",
+          "download_url": "https://github.com/meshcloud/terraform-provider-meshstack/releases/download/v0.16.2/terraform-provider-meshstack_0.16.2_freebsd_arm64.zip",
+          "shasum": "650d1cc53811e54c8f7b80a831a330658030e2f630bb64663ba25dea11b0cb2c",
+          "h1": "h1:WMJHfW7VmCrwQfjT14zJZOqjZ8fDHq2eGj4qDcWusbw="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-meshstack_0.16.2_linux_386.zip",
+          "download_url": "https://github.com/meshcloud/terraform-provider-meshstack/releases/download/v0.16.2/terraform-provider-meshstack_0.16.2_linux_386.zip",
+          "shasum": "13df06bfccba40565e516f29d4de978339f100da00f01a6757fefd41ace12bfa",
+          "h1": "h1:SgtFU6SPsmK6nWvwgKnoFiGAi6XFqJaZBIIokaqKkR8="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-meshstack_0.16.2_linux_amd64.zip",
+          "download_url": "https://github.com/meshcloud/terraform-provider-meshstack/releases/download/v0.16.2/terraform-provider-meshstack_0.16.2_linux_amd64.zip",
+          "shasum": "39851fd8bf3afb4a852b2965cfa4314998084c635ac8d6653001627ab97cac4a",
+          "h1": "h1:D2kU7+4eVmbKJf4cZhH9401wl1P+8RBxPgXN/3ZeUzI="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-meshstack_0.16.2_linux_arm.zip",
+          "download_url": "https://github.com/meshcloud/terraform-provider-meshstack/releases/download/v0.16.2/terraform-provider-meshstack_0.16.2_linux_arm.zip",
+          "shasum": "b9b3f6510a1d945e3283e270d61728c445201f96f720677a0ff7db184a1516d4",
+          "h1": "h1:1gU5WqRe6x9QLiMnwH7P+Q7IZ/Nr/THc79GWSpIiqLM="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-meshstack_0.16.2_linux_arm64.zip",
+          "download_url": "https://github.com/meshcloud/terraform-provider-meshstack/releases/download/v0.16.2/terraform-provider-meshstack_0.16.2_linux_arm64.zip",
+          "shasum": "398895e8c3ec0c884a229fe1008857f66769ac19cb5a60685495b50b7c8fb736",
+          "h1": "h1:RL9R4074qsOjWyIYoOYGmM2qL4QBDpu1/Npxbw7kvc0="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-meshstack_0.16.2_windows_386.zip",
+          "download_url": "https://github.com/meshcloud/terraform-provider-meshstack/releases/download/v0.16.2/terraform-provider-meshstack_0.16.2_windows_386.zip",
+          "shasum": "8680de22271c1f30bfe122c6465f6dd6c8ac22071394bb48ccc0adbb4162cdfa",
+          "h1": "h1:jbFJ1V5PL92aEMNIrhgCf5+6BQyBC/eca90aqh1SGD8="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-meshstack_0.16.2_windows_amd64.zip",
+          "download_url": "https://github.com/meshcloud/terraform-provider-meshstack/releases/download/v0.16.2/terraform-provider-meshstack_0.16.2_windows_amd64.zip",
+          "shasum": "078738b56d9b00966ce08556e1078e1275fd08accc762978dceac2d77427f774",
+          "h1": "h1:cTYMJy8OaB1ZTsor7ySr3k4Fr2YIx1IbA+N0+PGVfsU="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-meshstack_0.16.2_windows_arm.zip",
+          "download_url": "https://github.com/meshcloud/terraform-provider-meshstack/releases/download/v0.16.2/terraform-provider-meshstack_0.16.2_windows_arm.zip",
+          "shasum": "c0d585752e35878eeea3372ded0d85eb46941a9e0d0bd4d5c07a236c191718f7",
+          "h1": "h1:1gfjuYF8rN+hlIyk/5oHOByb3Wat1hzXcV3FoSG9YyI="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-meshstack_0.16.2_windows_arm64.zip",
+          "download_url": "https://github.com/meshcloud/terraform-provider-meshstack/releases/download/v0.16.2/terraform-provider-meshstack_0.16.2_windows_arm64.zip",
+          "shasum": "94e47b574eb0c64bd6d952623df9b574b0978fb8ca7fabbf30aeded0824a53b7",
+          "h1": "h1:nCfBRd0VPxPHC4haSIpwXOw3ZN+4M+/NN+AI93arF24="
+        }
+      ]
+    },
+    {
       "version": "0.16.1",
       "protocols": [
         "6.0"
