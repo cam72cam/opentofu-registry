@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.4.0-beta.4",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v1.4.0-beta.4/terraform-provider-polaris_1.4.0-beta.4_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v1.4.0-beta.4/terraform-provider-polaris_1.4.0-beta.4_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-polaris_1.4.0-beta.4_darwin_amd64.zip",
+          "download_url": "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v1.4.0-beta.4/terraform-provider-polaris_1.4.0-beta.4_darwin_amd64.zip",
+          "shasum": "b97ee901c296b63397e097f29aef6b74268e9eca0f47259d1d5fab16f1e58eac",
+          "h1": "h1:zuTrO7RF7vRXho+swSO4Lonyj6qqe/L5aW8DziB78DE="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-polaris_1.4.0-beta.4_darwin_arm64.zip",
+          "download_url": "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v1.4.0-beta.4/terraform-provider-polaris_1.4.0-beta.4_darwin_arm64.zip",
+          "shasum": "39df6efc7f87b9abecd2bb9619ca450a58df625bf780f1b00de7fdc3ccb54324",
+          "h1": "h1:827lH9IBiNepO34bwHteRQyln4MexWIXo8Ip1j0vI18="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-polaris_1.4.0-beta.4_freebsd_386.zip",
+          "download_url": "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v1.4.0-beta.4/terraform-provider-polaris_1.4.0-beta.4_freebsd_386.zip",
+          "shasum": "5d3310bc21cf07ae04cc0ad5dd50afa2c4b304dfce68e7016ce30fbd2b26f573",
+          "h1": "h1:RggpzwBCsbNlGG4OzJp+1IxA4lN+u/CfuhtSkHuXHZQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-polaris_1.4.0-beta.4_freebsd_amd64.zip",
+          "download_url": "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v1.4.0-beta.4/terraform-provider-polaris_1.4.0-beta.4_freebsd_amd64.zip",
+          "shasum": "dc026a2285c1832db9a31b1ddfe90f26eec2b5e8092fc62cd3d152b52e2a553f",
+          "h1": "h1:GTNOWn1juITXGZGUL4dNPEJZM8A7I12C0kPFXGj8wpU="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-polaris_1.4.0-beta.4_freebsd_arm.zip",
+          "download_url": "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v1.4.0-beta.4/terraform-provider-polaris_1.4.0-beta.4_freebsd_arm.zip",
+          "shasum": "4387d083eeb5586744647aa5035d90cac3f467fdf3d6749fc249f3646fd9e9fb",
+          "h1": "h1:Bt5pkQtNMlUcI67U2edNmtMHfRcLZdZUEBouOc+IUFk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-polaris_1.4.0-beta.4_freebsd_arm64.zip",
+          "download_url": "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v1.4.0-beta.4/terraform-provider-polaris_1.4.0-beta.4_freebsd_arm64.zip",
+          "shasum": "6e6f5fe96a76a50f12e7ae7b155825a2ab51bb85fb7e104168ba0fb1a068a91b",
+          "h1": "h1:BW1eC81VDuAtwQ39FREpxbKbDvjYWK9OS5DMXF8jbKM="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-polaris_1.4.0-beta.4_linux_386.zip",
+          "download_url": "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v1.4.0-beta.4/terraform-provider-polaris_1.4.0-beta.4_linux_386.zip",
+          "shasum": "f498f08949a161dd3321147665d7bba0a01e2936ea7f2ac1448499c41ccc806f",
+          "h1": "h1:TVIGuWY/5o3fAjfdzQZzTK5O5d+zI83SMCVrKMSdZIg="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-polaris_1.4.0-beta.4_linux_amd64.zip",
+          "download_url": "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v1.4.0-beta.4/terraform-provider-polaris_1.4.0-beta.4_linux_amd64.zip",
+          "shasum": "e381b24674f8b43c9704c9d17a1203b3b4d3d5cee759a1b1b19f2520e95898f3",
+          "h1": "h1:d8lEe4HASEUCv4fI1PKyoXw6dp/AG6GCOO/yY3DocZw="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-polaris_1.4.0-beta.4_linux_arm.zip",
+          "download_url": "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v1.4.0-beta.4/terraform-provider-polaris_1.4.0-beta.4_linux_arm.zip",
+          "shasum": "0ac79dad7cb484d26be28440aaaa4d9b688c0fa7fc1db78d7bc826af8c6d5299",
+          "h1": "h1:81SHbWrxyeY9aJipeyFqmPyd0J0HKYpVJGEY3K+pPVQ="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-polaris_1.4.0-beta.4_linux_arm64.zip",
+          "download_url": "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v1.4.0-beta.4/terraform-provider-polaris_1.4.0-beta.4_linux_arm64.zip",
+          "shasum": "23bbd8f3710c39e3eb4756b4bd6f909594e95209b840236511a5ed4bffa44edb",
+          "h1": "h1:4LjtbT0J64MzrkT4OxKUkU27OX2bUh6Mh8bljeIVxJ4="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-polaris_1.4.0-beta.4_windows_386.zip",
+          "download_url": "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v1.4.0-beta.4/terraform-provider-polaris_1.4.0-beta.4_windows_386.zip",
+          "shasum": "44973865a3b5e199caa3911e306ebe1caf3f2ce8c9e8490f7cd532bbbfce2d2b",
+          "h1": "h1:GjwniDcp0Fb+X5IILsyl5E063/n7Pac5m3VzHywybYo="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-polaris_1.4.0-beta.4_windows_amd64.zip",
+          "download_url": "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v1.4.0-beta.4/terraform-provider-polaris_1.4.0-beta.4_windows_amd64.zip",
+          "shasum": "b56d24603e26a3dd57cef142a91b65df0df3adf13ff03af692dac676bb735791",
+          "h1": "h1:EEy+JS1jSU/MStaDLGmWjT5HESn+gY3QFCuAeYYBCBI="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-polaris_1.4.0-beta.4_windows_arm.zip",
+          "download_url": "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v1.4.0-beta.4/terraform-provider-polaris_1.4.0-beta.4_windows_arm.zip",
+          "shasum": "b23636fb38dcde774ce60d253b82c57746226693deb1f1a1ec5145ae7a506fff",
+          "h1": "h1:yLsw7BfOh3LvhByjrvt5xnrZAYTWGFwPuQ6EZtePrDg="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-polaris_1.4.0-beta.4_windows_arm64.zip",
+          "download_url": "https://github.com/rubrikinc/terraform-provider-polaris/releases/download/v1.4.0-beta.4/terraform-provider-polaris_1.4.0-beta.4_windows_arm64.zip",
+          "shasum": "de0f92bb2c8c4766d0f0357e553fe07b3c2f4610e9942ee7e8c1c13bffc07237",
+          "h1": "h1:TZ1AWlaxKFz3Mgw3BA7POdD+hP47h1kQrvDfdY+/0Wg="
+        }
+      ]
+    },
+    {
       "version": "1.4.0-beta.3",
       "protocols": [
         "5.0"
