@@ -1,6 +1,96 @@
 {
   "versions": [
     {
+      "version": "1.7.1",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/octopusdeploy/terraform-provider-octopusdeploy/releases/download/v1.7.1/terraform-provider-octopusdeploy_1.7.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/octopusdeploy/terraform-provider-octopusdeploy/releases/download/v1.7.1/terraform-provider-octopusdeploy_1.7.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-octopusdeploy_1.7.1_darwin_amd64.zip",
+          "download_url": "https://github.com/octopusdeploy/terraform-provider-octopusdeploy/releases/download/v1.7.1/terraform-provider-octopusdeploy_1.7.1_darwin_amd64.zip",
+          "shasum": "4563bacd55cd374e8c95fd81d1c1fc49af5d985f8b4d7dd7a2b85a7797f5866e",
+          "h1": "h1:5ZZ+JMFPQxcQT4X8LD/9UUQ1T5urOmqvSWG6qgAdrlw="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-octopusdeploy_1.7.1_darwin_arm64.zip",
+          "download_url": "https://github.com/octopusdeploy/terraform-provider-octopusdeploy/releases/download/v1.7.1/terraform-provider-octopusdeploy_1.7.1_darwin_arm64.zip",
+          "shasum": "6563fda1c876709c4ffa3066d69ccc2cb74bfe8dc94d029a64d2ba1c207f2987",
+          "h1": "h1:cdOCzgK9HJBYy/JQQj4+duOsV9/gq8F7QhcWc0wAoDU="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-octopusdeploy_1.7.1_linux_386.zip",
+          "download_url": "https://github.com/octopusdeploy/terraform-provider-octopusdeploy/releases/download/v1.7.1/terraform-provider-octopusdeploy_1.7.1_linux_386.zip",
+          "shasum": "a0e4825bb43508cb2458100f621dd1eca95f850cf28a2c33530211a5c1884763",
+          "h1": "h1:4zMracakip3i8csLgGg0liiMZmdyz8GCaBh/wbl8OhU="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-octopusdeploy_1.7.1_linux_amd64.zip",
+          "download_url": "https://github.com/octopusdeploy/terraform-provider-octopusdeploy/releases/download/v1.7.1/terraform-provider-octopusdeploy_1.7.1_linux_amd64.zip",
+          "shasum": "29048dbb539751fa9a2b443ecede01c133df83a7c6bf2df458e4bac0128eac45",
+          "h1": "h1:l1bonUPMaFPBr9B81PWGkCItVjeFDZsG1JQKia2kdaM="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-octopusdeploy_1.7.1_linux_arm.zip",
+          "download_url": "https://github.com/octopusdeploy/terraform-provider-octopusdeploy/releases/download/v1.7.1/terraform-provider-octopusdeploy_1.7.1_linux_arm.zip",
+          "shasum": "7d715b60d56859adb621e75a6f943efea05a64b2b61925978e42cafbfbc45f24",
+          "h1": "h1:0JIprI9RJiVwnNhI9V47TSN/7HtgQDo1opKgRtfX5r4="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-octopusdeploy_1.7.1_linux_arm64.zip",
+          "download_url": "https://github.com/octopusdeploy/terraform-provider-octopusdeploy/releases/download/v1.7.1/terraform-provider-octopusdeploy_1.7.1_linux_arm64.zip",
+          "shasum": "38866edae8bdfab535d26614e2fe8c228a650e8810dae9f9c57b85ce946e646c",
+          "h1": "h1:Bthtss/VblkBZ2AgvmiDzvObDm4Neazne239DUXyri8="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-octopusdeploy_1.7.1_windows_386.zip",
+          "download_url": "https://github.com/octopusdeploy/terraform-provider-octopusdeploy/releases/download/v1.7.1/terraform-provider-octopusdeploy_1.7.1_windows_386.zip",
+          "shasum": "2ac77bc89eb7a1444a8becf26680b53c51d55abb69c6eb333aaf3ef5933ffc97",
+          "h1": "h1:coHOAmHSlw9tjAp8DZ2vy1KlM6VhuL7X7bZPLdFuFPQ="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-octopusdeploy_1.7.1_windows_amd64.zip",
+          "download_url": "https://github.com/octopusdeploy/terraform-provider-octopusdeploy/releases/download/v1.7.1/terraform-provider-octopusdeploy_1.7.1_windows_amd64.zip",
+          "shasum": "27f13c969f116b21c40205893706b3e6ea22c2dadf0c2bd0cf0632bccf8e308c",
+          "h1": "h1:FUGK3FLhyopMM4OL9OKE0qSKWPIfqOcjLkBsFtfr/FY="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-octopusdeploy_1.7.1_windows_arm.zip",
+          "download_url": "https://github.com/octopusdeploy/terraform-provider-octopusdeploy/releases/download/v1.7.1/terraform-provider-octopusdeploy_1.7.1_windows_arm.zip",
+          "shasum": "5cab1cfab03376401eaec218324e34ca2c8614cd9ed20c6fbb09c7afec5d6752",
+          "h1": "h1:dUxkm01rKWM9ktsasNkjDJdmwkbxLG++m9lgkNxIVDw="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-octopusdeploy_1.7.1_windows_arm64.zip",
+          "download_url": "https://github.com/octopusdeploy/terraform-provider-octopusdeploy/releases/download/v1.7.1/terraform-provider-octopusdeploy_1.7.1_windows_arm64.zip",
+          "shasum": "b4937477da12d672e1915ea814f309e6bd05c94662a5c87bd7592642753084c1",
+          "h1": "h1:PqWKULHgKpunsVS3U4+i6I48FUbetF3+8puYtb1qaUY="
+        }
+      ]
+    },
+    {
       "version": "1.7.0",
       "protocols": [
         "5.0"
