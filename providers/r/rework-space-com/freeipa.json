@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "5.2.1",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/rework-space-com/terraform-provider-freeipa/releases/download/v5.2.1/terraform-provider-freeipa_5.2.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/rework-space-com/terraform-provider-freeipa/releases/download/v5.2.1/terraform-provider-freeipa_5.2.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-freeipa_5.2.1_darwin_amd64.zip",
+          "download_url": "https://github.com/rework-space-com/terraform-provider-freeipa/releases/download/v5.2.1/terraform-provider-freeipa_5.2.1_darwin_amd64.zip",
+          "shasum": "1e8698413bb796396d877d9a4e683cc9e9cd3180b7c3efbf2683efea2f7af88c",
+          "h1": "h1:XUJLY+9JNA1fm1CC/lruxxdtodk3mveem8CmEqcyxLM="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-freeipa_5.2.1_darwin_arm64.zip",
+          "download_url": "https://github.com/rework-space-com/terraform-provider-freeipa/releases/download/v5.2.1/terraform-provider-freeipa_5.2.1_darwin_arm64.zip",
+          "shasum": "66cccda84a34dc360872c74e03d60bd99e1215d5998851372438565004e2c1ba",
+          "h1": "h1:WLZdL44yO++D7ULcTfinWc/Wh8LKbr3n7Q0usqFMPuk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-freeipa_5.2.1_freebsd_386.zip",
+          "download_url": "https://github.com/rework-space-com/terraform-provider-freeipa/releases/download/v5.2.1/terraform-provider-freeipa_5.2.1_freebsd_386.zip",
+          "shasum": "3211c8aa8b32e71f275210a6e093bddc9d4416c34fec73cc75691e94919ec975",
+          "h1": "h1:AKj8foVjOKub5G27C6Ljga/Vrvx9EZckSnsxEOMw7FQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-freeipa_5.2.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/rework-space-com/terraform-provider-freeipa/releases/download/v5.2.1/terraform-provider-freeipa_5.2.1_freebsd_amd64.zip",
+          "shasum": "2afde28d03ca716ab7c71b2a19bb2e3da51ed3db7ece61c030fe4556f665c449",
+          "h1": "h1:+zYxu7QXrwZrDP4ojOCrPFcOnAj3AOh3tqueAVdcARQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-freeipa_5.2.1_freebsd_arm.zip",
+          "download_url": "https://github.com/rework-space-com/terraform-provider-freeipa/releases/download/v5.2.1/terraform-provider-freeipa_5.2.1_freebsd_arm.zip",
+          "shasum": "4715e70ad41de9b583259b903e18f8edc9cf2ae0d690e84b4bab66314341a202",
+          "h1": "h1:PGyY0802vPzClq9sYSRs44bXVj84mCVBdoqdbqQ+eLA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-freeipa_5.2.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/rework-space-com/terraform-provider-freeipa/releases/download/v5.2.1/terraform-provider-freeipa_5.2.1_freebsd_arm64.zip",
+          "shasum": "9cb9ad400737010a3a4a4920597d75336d0f9670c101da62ea0e71c4ccdbdc52",
+          "h1": "h1:uZHW+Qytz64ryKT72qzsTJHnUBphQU3cPk4NNCKp07I="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-freeipa_5.2.1_linux_386.zip",
+          "download_url": "https://github.com/rework-space-com/terraform-provider-freeipa/releases/download/v5.2.1/terraform-provider-freeipa_5.2.1_linux_386.zip",
+          "shasum": "998bccc0de1d8da733dfcc9d21580125d73b3e4cdd07b90946b2366aeac0bb60",
+          "h1": "h1:N3KwDS675wUSuFaIzZp43dKAwekB5zPBXLO6NTqJHMU="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-freeipa_5.2.1_linux_amd64.zip",
+          "download_url": "https://github.com/rework-space-com/terraform-provider-freeipa/releases/download/v5.2.1/terraform-provider-freeipa_5.2.1_linux_amd64.zip",
+          "shasum": "396a313c3f17fe9c4eb96ff1c54ad1785f4d4c7a1f3f675792f9208198e76e5d",
+          "h1": "h1:93PrVoQEMcRZnlOX3qCMal73oHS096u+8iBS8kduXfM="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-freeipa_5.2.1_linux_arm.zip",
+          "download_url": "https://github.com/rework-space-com/terraform-provider-freeipa/releases/download/v5.2.1/terraform-provider-freeipa_5.2.1_linux_arm.zip",
+          "shasum": "0d48b6b5e1e543d7944c4abd845e6c07a2dc0873a1ea6f9669d4fd07d100974a",
+          "h1": "h1:7EAuiyS/Tesz1TLIcqN9EcmVU9wuvlXQr6eH/SZ2dOo="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-freeipa_5.2.1_linux_arm64.zip",
+          "download_url": "https://github.com/rework-space-com/terraform-provider-freeipa/releases/download/v5.2.1/terraform-provider-freeipa_5.2.1_linux_arm64.zip",
+          "shasum": "771726147fe0b97af65a9cb0fe607a2cdf95b425bd8902e280a08e7646c6dee2",
+          "h1": "h1:DgeMleUSVrktvSgkOjO8x4KhTyEmBy9iSH39v+UqquM="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-freeipa_5.2.1_windows_386.zip",
+          "download_url": "https://github.com/rework-space-com/terraform-provider-freeipa/releases/download/v5.2.1/terraform-provider-freeipa_5.2.1_windows_386.zip",
+          "shasum": "c1c4d7568abfefc8c13490efea529f90d4efb2e3b2189b1d1e39b041ffb7f992",
+          "h1": "h1:P2hJarmp5HZeIPk5sNRKDIiRiMAhKYg0OQ9pLSVbhEc="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-freeipa_5.2.1_windows_amd64.zip",
+          "download_url": "https://github.com/rework-space-com/terraform-provider-freeipa/releases/download/v5.2.1/terraform-provider-freeipa_5.2.1_windows_amd64.zip",
+          "shasum": "890fa06ae746b52859368380983672f61495366839486bcaf5791b429d4d5cef",
+          "h1": "h1:aw7bzd0fTz9L19G68husVbXwg0Q+eXQ12BLm45i8wwU="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-freeipa_5.2.1_windows_arm.zip",
+          "download_url": "https://github.com/rework-space-com/terraform-provider-freeipa/releases/download/v5.2.1/terraform-provider-freeipa_5.2.1_windows_arm.zip",
+          "shasum": "277121a44e6cad2eaf2674868418f0827bdc659a64e3b3483233ada57426bb57",
+          "h1": "h1:0kh5HIq2XoDMqifB5HesXz7D9FqaoZb59dxt4R+Ibco="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-freeipa_5.2.1_windows_arm64.zip",
+          "download_url": "https://github.com/rework-space-com/terraform-provider-freeipa/releases/download/v5.2.1/terraform-provider-freeipa_5.2.1_windows_arm64.zip",
+          "shasum": "f368cf4ce2dc8858f849b525319325db80c681cdd90d491d261431423d1df41a",
+          "h1": "h1:R1jNU1DzM4LPeKbWamXQLWPsm4vensu4B1cSxD7ooYw="
+        }
+      ]
+    },
+    {
       "version": "5.2.0",
       "protocols": [
         "5.0"
