@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.10.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/neilmartin83/terraform-provider-itunessearchapi/releases/download/v1.10.0/terraform-provider-itunessearchapi_1.10.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/neilmartin83/terraform-provider-itunessearchapi/releases/download/v1.10.0/terraform-provider-itunessearchapi_1.10.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-itunessearchapi_1.10.0_darwin_amd64.zip",
+          "download_url": "https://github.com/neilmartin83/terraform-provider-itunessearchapi/releases/download/v1.10.0/terraform-provider-itunessearchapi_1.10.0_darwin_amd64.zip",
+          "shasum": "0fca1ccc31f5e2965daf548587f37a1bc90f2313d937e1bc03714e0c07156aaa",
+          "h1": "h1:w3jO3CTa53HKJs3/W7Pps72hrHXIZohWjrRKcodVdVM="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-itunessearchapi_1.10.0_darwin_arm64.zip",
+          "download_url": "https://github.com/neilmartin83/terraform-provider-itunessearchapi/releases/download/v1.10.0/terraform-provider-itunessearchapi_1.10.0_darwin_arm64.zip",
+          "shasum": "e9620ad85b2359d89dadbd4760bcc3a09a95cb132decca0c9148ba45c993485f",
+          "h1": "h1:ziXZx8CjaY7AZXc/GLMULRkUcOabVNiRloQh+uQD2YY="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-itunessearchapi_1.10.0_freebsd_386.zip",
+          "download_url": "https://github.com/neilmartin83/terraform-provider-itunessearchapi/releases/download/v1.10.0/terraform-provider-itunessearchapi_1.10.0_freebsd_386.zip",
+          "shasum": "9aef12fa5d42ad51ad2ada73326b3c5e7faa065a6405a78af5ab8cf124ee06c0",
+          "h1": "h1:4zMvZE5TFjKpAiamUJbNGx/9/TWWrdk5w5fusyw94JE="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-itunessearchapi_1.10.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/neilmartin83/terraform-provider-itunessearchapi/releases/download/v1.10.0/terraform-provider-itunessearchapi_1.10.0_freebsd_amd64.zip",
+          "shasum": "6adb2efb409f652b95c8bbc7e0b0aeaab63d14dca54f08e8669d20214bb01235",
+          "h1": "h1:yZNWcioxe9qX/luZCmdLM81FvDj7uM8EB0x+5kH8ETE="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-itunessearchapi_1.10.0_freebsd_arm.zip",
+          "download_url": "https://github.com/neilmartin83/terraform-provider-itunessearchapi/releases/download/v1.10.0/terraform-provider-itunessearchapi_1.10.0_freebsd_arm.zip",
+          "shasum": "6ad9ae39c11753470040c413f3f8c182407b643e4773459d7502321aa8e956c2",
+          "h1": "h1:oZmWRAPQJu51pVgCIGWzeaJ3iTTlo8rU+4q5i/n4gMg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-itunessearchapi_1.10.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/neilmartin83/terraform-provider-itunessearchapi/releases/download/v1.10.0/terraform-provider-itunessearchapi_1.10.0_freebsd_arm64.zip",
+          "shasum": "ec4fba372a5141ed904cb8cf646aae1ea95704767c6c8fd67464acc0b8b05a8b",
+          "h1": "h1:sNqjcgZV8AUClgaUvi4bLJjkHlHlChIBXjdvwdmqicY="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-itunessearchapi_1.10.0_linux_386.zip",
+          "download_url": "https://github.com/neilmartin83/terraform-provider-itunessearchapi/releases/download/v1.10.0/terraform-provider-itunessearchapi_1.10.0_linux_386.zip",
+          "shasum": "2ac21d9d90065b8dd56ecb4941d890ad20fa32d51dd19c01b068ab49794be82a",
+          "h1": "h1:ORc665M0udFQb/aE5BFTJ+Y0fSY+I2/uh5fB9KRb8is="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-itunessearchapi_1.10.0_linux_amd64.zip",
+          "download_url": "https://github.com/neilmartin83/terraform-provider-itunessearchapi/releases/download/v1.10.0/terraform-provider-itunessearchapi_1.10.0_linux_amd64.zip",
+          "shasum": "e1a75cf065ea8eca0e3dea783df2790e202ffdc12b007044f040ed27fd9071d8",
+          "h1": "h1:jQWqgE0mAG9e50QshUGEwmoUNsEF4xBFa4fMyVfmS4U="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-itunessearchapi_1.10.0_linux_arm.zip",
+          "download_url": "https://github.com/neilmartin83/terraform-provider-itunessearchapi/releases/download/v1.10.0/terraform-provider-itunessearchapi_1.10.0_linux_arm.zip",
+          "shasum": "3e3719e9d91847c83504621ad35659a127a7e9adaac77953bca63f2ca9622a0a",
+          "h1": "h1:73jU1Pf2tj/TofpvBKRkmB3IE1BwU4fEURi4m1RIN4c="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-itunessearchapi_1.10.0_linux_arm64.zip",
+          "download_url": "https://github.com/neilmartin83/terraform-provider-itunessearchapi/releases/download/v1.10.0/terraform-provider-itunessearchapi_1.10.0_linux_arm64.zip",
+          "shasum": "d97883f0b6b58d9bf6dda27f01a0ec76c6039f8d1ff17fbc1cccb14d1c83a859",
+          "h1": "h1:aCf/chHpgIaO3UtwapIa9xd+h6BCtcdcCddULt/n/3E="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-itunessearchapi_1.10.0_windows_386.zip",
+          "download_url": "https://github.com/neilmartin83/terraform-provider-itunessearchapi/releases/download/v1.10.0/terraform-provider-itunessearchapi_1.10.0_windows_386.zip",
+          "shasum": "54788c384128733365e2c62ac2aae6c49aa02d224f13f231bc2667cd749df3d5",
+          "h1": "h1:b9mJ0KaS9TgRYgHJ0b2VcElxBcKOu9Qj18GvJJlGyas="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-itunessearchapi_1.10.0_windows_amd64.zip",
+          "download_url": "https://github.com/neilmartin83/terraform-provider-itunessearchapi/releases/download/v1.10.0/terraform-provider-itunessearchapi_1.10.0_windows_amd64.zip",
+          "shasum": "5d156842716147e40db21686bf0dbd07b9c6adda0cf4c48941c3ef4d78c18f97",
+          "h1": "h1:JfQb4zMTezG8n6hNBDkz6OgTVG2vqCRGvq+/6EzC/PY="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-itunessearchapi_1.10.0_windows_arm.zip",
+          "download_url": "https://github.com/neilmartin83/terraform-provider-itunessearchapi/releases/download/v1.10.0/terraform-provider-itunessearchapi_1.10.0_windows_arm.zip",
+          "shasum": "9eb76ea255e0bb0bafeaac8e8484e5409b97e950d505208fa315b329e93b7164",
+          "h1": "h1:vZyuiH/GRhZd3yfUErbpahaH8S7w1hMH2dzVtOpizT0="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-itunessearchapi_1.10.0_windows_arm64.zip",
+          "download_url": "https://github.com/neilmartin83/terraform-provider-itunessearchapi/releases/download/v1.10.0/terraform-provider-itunessearchapi_1.10.0_windows_arm64.zip",
+          "shasum": "d6227a59830f45c7bee3639e8a64cda939e2cb548c98119ba533ac53970768c5",
+          "h1": "h1:3JiFukxw7+7qgu97dG+D73xITAg3f1np91VAomj0kQE="
+        }
+      ]
+    },
+    {
       "version": "1.9.2",
       "protocols": [
         "6.0"
