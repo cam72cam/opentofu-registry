@@ -1,6 +1,104 @@
 {
   "versions": [
     {
+      "version": "1.16.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/qdrant/terraform-provider-qdrant-cloud/releases/download/v1.16.0/terraform-provider-qdrant-cloud_1.16.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/qdrant/terraform-provider-qdrant-cloud/releases/download/v1.16.0/terraform-provider-qdrant-cloud_1.16.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-qdrant-cloud_1.16.0_darwin_amd64.zip",
+          "download_url": "https://github.com/qdrant/terraform-provider-qdrant-cloud/releases/download/v1.16.0/terraform-provider-qdrant-cloud_1.16.0_darwin_amd64.zip",
+          "shasum": "f405ad45ec79d2dd2dc1ef068b5a72ecda35a27581bd6c83a5de17e3646a6f01",
+          "h1": "h1:kTTJEnYgw1MKfgEF8KvLyG59qpqzOW0CiP5Y7H/WfyI="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-qdrant-cloud_1.16.0_darwin_arm64.zip",
+          "download_url": "https://github.com/qdrant/terraform-provider-qdrant-cloud/releases/download/v1.16.0/terraform-provider-qdrant-cloud_1.16.0_darwin_arm64.zip",
+          "shasum": "ca641643ffaa00e0da51891622bcff77233e8367be88704df9215dd76d34c989",
+          "h1": "h1:GZGpRESabSazD7ZF6cAh+zChPFWmgIga96CMGoSJ8sc="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-qdrant-cloud_1.16.0_freebsd_386.zip",
+          "download_url": "https://github.com/qdrant/terraform-provider-qdrant-cloud/releases/download/v1.16.0/terraform-provider-qdrant-cloud_1.16.0_freebsd_386.zip",
+          "shasum": "ee069f3db0564b569f0f90e7593852876593f4c42a2789f24ad655dba7865be5",
+          "h1": "h1:vRl+GVqCS2L7yvIX/FkNkjXkDNJ6tpWaNCBk/5yS/fI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-qdrant-cloud_1.16.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/qdrant/terraform-provider-qdrant-cloud/releases/download/v1.16.0/terraform-provider-qdrant-cloud_1.16.0_freebsd_amd64.zip",
+          "shasum": "1215638d5e9f9cde98e2c6ed91bec3f0f63583bea4387cdf6b279192ade7e774",
+          "h1": "h1:+CVAzKfiqG/M73bVCH8kWgh4lfFA2maJBA2DfKlIh4M="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-qdrant-cloud_1.16.0_freebsd_arm.zip",
+          "download_url": "https://github.com/qdrant/terraform-provider-qdrant-cloud/releases/download/v1.16.0/terraform-provider-qdrant-cloud_1.16.0_freebsd_arm.zip",
+          "shasum": "f226643a1c5d3eba90784850a088fbadc7173a9047c1a94ee4c3f223e9070535",
+          "h1": "h1:85p7lhYqoc6OHzyhjBnmSY9JYz9origRTsTavqajLZw="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-qdrant-cloud_1.16.0_linux_386.zip",
+          "download_url": "https://github.com/qdrant/terraform-provider-qdrant-cloud/releases/download/v1.16.0/terraform-provider-qdrant-cloud_1.16.0_linux_386.zip",
+          "shasum": "9b224cb1c12848256de5654f5d3f76310836bdc71d51bf659f598e4cd0a943ba",
+          "h1": "h1:jjljGYwg2P6KRXfBOTcasv2C64L9tRAn7RciU63ft9c="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-qdrant-cloud_1.16.0_linux_amd64.zip",
+          "download_url": "https://github.com/qdrant/terraform-provider-qdrant-cloud/releases/download/v1.16.0/terraform-provider-qdrant-cloud_1.16.0_linux_amd64.zip",
+          "shasum": "3e53519d7751cf56f0af2a62e98e2717a995551667b42099a527fa530f9eb17d",
+          "h1": "h1:5JhqiMT5NNRPKMolGV/n7tNpzROlfsqIXXC+E7gn9Zg="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-qdrant-cloud_1.16.0_linux_arm.zip",
+          "download_url": "https://github.com/qdrant/terraform-provider-qdrant-cloud/releases/download/v1.16.0/terraform-provider-qdrant-cloud_1.16.0_linux_arm.zip",
+          "shasum": "91363b2a0fb97d9fa60d54e4b869c408e553191d5d5ac0db4ee02c3e66dfd647",
+          "h1": "h1:vj+efg630SoFldrYh9r2vZLlUQ0ETkrsIQtqzSwkyMM="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-qdrant-cloud_1.16.0_linux_arm64.zip",
+          "download_url": "https://github.com/qdrant/terraform-provider-qdrant-cloud/releases/download/v1.16.0/terraform-provider-qdrant-cloud_1.16.0_linux_arm64.zip",
+          "shasum": "94647551a5e1cfc5e059356e52aa8fa4e7e27607b3c397b712b3762ce885114e",
+          "h1": "h1:iY54bI3boJmfNdz4MhHYTgSCXls3J2K4Mftra+Yopi8="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-qdrant-cloud_1.16.0_windows_386.zip",
+          "download_url": "https://github.com/qdrant/terraform-provider-qdrant-cloud/releases/download/v1.16.0/terraform-provider-qdrant-cloud_1.16.0_windows_386.zip",
+          "shasum": "1be3b969d4da13b994d9849b91f96fc36888c47bb3a43a5018c634b62fcef9a8",
+          "h1": "h1:fcwuHqsIR9/8LTToj+ovF0f/7QCSImg6DvZdtkOGhlw="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-qdrant-cloud_1.16.0_windows_amd64.zip",
+          "download_url": "https://github.com/qdrant/terraform-provider-qdrant-cloud/releases/download/v1.16.0/terraform-provider-qdrant-cloud_1.16.0_windows_amd64.zip",
+          "shasum": "d818b61183f7fe0710802c244d2d915a76c2fd49b6b3b2a8a6a735bac5ee3785",
+          "h1": "h1:mgsLtGzctcfoduTPxBiNEXNcuDIjRtoqGHbywE2dhs4="
+        }
+      ]
+    },
+    {
       "version": "1.15.1",
       "protocols": [
         "5.0"
