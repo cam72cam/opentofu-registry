@@ -1,6 +1,64 @@
 {
   "versions": [
     {
+      "version": "1.6.8",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/timeweb-cloud/terraform-provider-timeweb-cloud/releases/download/v1.6.8/terraform-provider-timeweb-cloud_1.6.8_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/timeweb-cloud/terraform-provider-timeweb-cloud/releases/download/v1.6.8/terraform-provider-timeweb-cloud_1.6.8_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-timeweb-cloud_1.6.8_darwin_amd64.zip",
+          "download_url": "https://github.com/timeweb-cloud/terraform-provider-timeweb-cloud/releases/download/v1.6.8/terraform-provider-timeweb-cloud_1.6.8_darwin_amd64.zip",
+          "shasum": "666bf597bdd34cc604b247a29c71320233563e04c0993919ed4d60556c636c7a",
+          "h1": "h1:GGct/mRhPj7mm9wpqj4D6gKuTLhDpRYKr/A4X/Z0spc="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-timeweb-cloud_1.6.8_darwin_arm64.zip",
+          "download_url": "https://github.com/timeweb-cloud/terraform-provider-timeweb-cloud/releases/download/v1.6.8/terraform-provider-timeweb-cloud_1.6.8_darwin_arm64.zip",
+          "shasum": "3089fe7d42326512530c87c61148ac8e5b2827111347ed8c73db52a6c927bee1",
+          "h1": "h1:dYxAbnG15r7Iy/bv1nl4SHY5AEjzYCaRm2xkW+PGqRA="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-timeweb-cloud_1.6.8_linux_amd64.zip",
+          "download_url": "https://github.com/timeweb-cloud/terraform-provider-timeweb-cloud/releases/download/v1.6.8/terraform-provider-timeweb-cloud_1.6.8_linux_amd64.zip",
+          "shasum": "7932acb2ae3e9ba9cdedfe63b63bcbe51a9bccf53921839491e2ddb51dff948f",
+          "h1": "h1:LUFn41DXVY1x8jPMjEJMUallVKhHe1uqYCFKUeCl1gA="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-timeweb-cloud_1.6.8_linux_arm64.zip",
+          "download_url": "https://github.com/timeweb-cloud/terraform-provider-timeweb-cloud/releases/download/v1.6.8/terraform-provider-timeweb-cloud_1.6.8_linux_arm64.zip",
+          "shasum": "86dd19154d6f249eeacc4ca0080398c24a810bd6534dd7581f14b7c617a6b46e",
+          "h1": "h1:3E4yl5At5kCcc+aCbi2wo3yKUKhjfPwF4Wh/o46ix74="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-timeweb-cloud_1.6.8_windows_amd64.zip",
+          "download_url": "https://github.com/timeweb-cloud/terraform-provider-timeweb-cloud/releases/download/v1.6.8/terraform-provider-timeweb-cloud_1.6.8_windows_amd64.zip",
+          "shasum": "a1a3dab78db88c94622e3db26516496cfdf5111cac279da2203a4cd57a8cc43a",
+          "h1": "h1:9gNxpi+vgf/uUImlM5/zlbxYZ439cuAbFTbw1sTvVpM="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-timeweb-cloud_1.6.8_windows_arm64.zip",
+          "download_url": "https://github.com/timeweb-cloud/terraform-provider-timeweb-cloud/releases/download/v1.6.8/terraform-provider-timeweb-cloud_1.6.8_windows_arm64.zip",
+          "shasum": "50d70f868d76fcbd287c45feecb43fac7a68c2a702c068a9d8a44062dbf96e42",
+          "h1": "h1:nQLmtRLCggE8jTtciW6Bw1sL5xBUsHBx3AtslSJSnBw="
+        }
+      ]
+    },
+    {
       "version": "1.6.7",
       "protocols": [
         "5.0"
