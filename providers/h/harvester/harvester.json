@@ -1,6 +1,48 @@
 {
   "versions": [
     {
+      "version": "1.7.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v1.7.0/terraform-provider-harvester_1.7.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v1.7.0/terraform-provider-harvester_1.7.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-harvester_1.7.0_darwin_amd64.zip",
+          "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v1.7.0/terraform-provider-harvester_1.7.0_darwin_amd64.zip",
+          "shasum": "d1d25705841988db94d008eee98b53346a3f4548fe5515e11ec4880fecbca0f0",
+          "h1": "h1:mOZV35DUWosPZTNUl70TY3SagMVu9LEEyrTuRWBysP8="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-harvester_1.7.0_darwin_arm64.zip",
+          "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v1.7.0/terraform-provider-harvester_1.7.0_darwin_arm64.zip",
+          "shasum": "043d74bfab530793ca33bcd107285479860f59b569482a50dda7c91156376821",
+          "h1": "h1:0sczvRqrplIKUw+NcTFSlBuP3aN1yPzJztNmAO4KEgo="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-harvester_1.7.0_linux_amd64.zip",
+          "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v1.7.0/terraform-provider-harvester_1.7.0_linux_amd64.zip",
+          "shasum": "30bafadf2e9923559c553fe99de8f0a695321822e5994cfc3f929258027e997d",
+          "h1": "h1:Uiv67hjlImzW+sqwmkb+n9qBuuCtmeRGccx3eAifhH4="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-harvester_1.7.0_linux_arm64.zip",
+          "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v1.7.0/terraform-provider-harvester_1.7.0_linux_arm64.zip",
+          "shasum": "af62614825b4b6d3a141366592ea91417c98c86027b0fd35904846b4707156a7",
+          "h1": "h1:PyZ1dTWjMkWC7DYLXUl9rxLqCW6ezD3utL57cxLRB7s="
+        }
+      ]
+    },
+    {
       "version": "1.6.0",
       "protocols": [
         "5.0"
@@ -13,28 +55,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-harvester_1.6.0_darwin_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v1.6.0/terraform-provider-harvester_1.6.0_darwin_amd64.zip",
-          "shasum": "1847521b6f51e4ef15162d29e922d1edcb07e7973e4186c6f184d9a3a3a34646"
+          "shasum": "1847521b6f51e4ef15162d29e922d1edcb07e7973e4186c6f184d9a3a3a34646",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_1.6.0_darwin_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v1.6.0/terraform-provider-harvester_1.6.0_darwin_arm64.zip",
-          "shasum": "689a436de069b765761d5da39c3304912221d7cf61c0a026d333f26c5db8e8bf"
+          "shasum": "689a436de069b765761d5da39c3304912221d7cf61c0a026d333f26c5db8e8bf",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-harvester_1.6.0_linux_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v1.6.0/terraform-provider-harvester_1.6.0_linux_amd64.zip",
-          "shasum": "3329e73b481ef640556cac551c109e80c040bc0296baa5f6d42e27c46ea08f68"
+          "shasum": "3329e73b481ef640556cac551c109e80c040bc0296baa5f6d42e27c46ea08f68",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_1.6.0_linux_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v1.6.0/terraform-provider-harvester_1.6.0_linux_arm64.zip",
-          "shasum": "f0c6048d07a78485648550475f531c0343fb32824da529723c8f2a19d0988fbb"
+          "shasum": "f0c6048d07a78485648550475f531c0343fb32824da529723c8f2a19d0988fbb",
+          "h1": ""
         }
       ]
     },
@@ -51,28 +97,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.6.7_darwin_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.7/terraform-provider-harvester_0.6.7_darwin_amd64.zip",
-          "shasum": "b4e431cb595564b5066b0e8071db38d0a99f17cb1a4838e3737772a43dfb7d50"
+          "shasum": "b4e431cb595564b5066b0e8071db38d0a99f17cb1a4838e3737772a43dfb7d50",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.6.7_darwin_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.7/terraform-provider-harvester_0.6.7_darwin_arm64.zip",
-          "shasum": "378a30935f6055b82307c6d77310b66d0954d62ca9f85d11c872372dec293862"
+          "shasum": "378a30935f6055b82307c6d77310b66d0954d62ca9f85d11c872372dec293862",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.6.7_linux_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.7/terraform-provider-harvester_0.6.7_linux_amd64.zip",
-          "shasum": "deb19bf57efdf9fe1fd46aaf6eb43522a5dfd071c4477d2e874c4b6f8cb93dc6"
+          "shasum": "deb19bf57efdf9fe1fd46aaf6eb43522a5dfd071c4477d2e874c4b6f8cb93dc6",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.6.7_linux_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.7/terraform-provider-harvester_0.6.7_linux_arm64.zip",
-          "shasum": "efab93459b20fc9b6196c458e48810705445babac8ee9e4c96e8146e847e7e5b"
+          "shasum": "efab93459b20fc9b6196c458e48810705445babac8ee9e4c96e8146e847e7e5b",
+          "h1": ""
         }
       ]
     },
@@ -89,28 +139,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.6.6_darwin_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.6/terraform-provider-harvester_0.6.6_darwin_amd64.zip",
-          "shasum": "e015d2379ae1c507536a589bafb6176035addad46609f5390f40b32e0b5fa7cc"
+          "shasum": "e015d2379ae1c507536a589bafb6176035addad46609f5390f40b32e0b5fa7cc",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.6.6_darwin_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.6/terraform-provider-harvester_0.6.6_darwin_arm64.zip",
-          "shasum": "cfbcc4b63ff097532351afa24a28737369f47a58e9d8573ed10c641c644820a9"
+          "shasum": "cfbcc4b63ff097532351afa24a28737369f47a58e9d8573ed10c641c644820a9",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.6.6_linux_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.6/terraform-provider-harvester_0.6.6_linux_amd64.zip",
-          "shasum": "4ce7bf2adb5557e7b78053dedf04f377240c67ad87894760c46a6bd2d2dfa6b6"
+          "shasum": "4ce7bf2adb5557e7b78053dedf04f377240c67ad87894760c46a6bd2d2dfa6b6",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.6.6_linux_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.6/terraform-provider-harvester_0.6.6_linux_arm64.zip",
-          "shasum": "148738a15c6f6c9e4bb44fa6dceedb45ba5261d731806b5b3cbd6bd67c176062"
+          "shasum": "148738a15c6f6c9e4bb44fa6dceedb45ba5261d731806b5b3cbd6bd67c176062",
+          "h1": ""
         }
       ]
     },
@@ -127,14 +181,16 @@
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.6.5_linux_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.5/terraform-provider-harvester_0.6.5_linux_amd64.zip",
-          "shasum": "0d974bb1c5f6923a7169fcf98c98554763deecbd3928992580055979857d6862"
+          "shasum": "0d974bb1c5f6923a7169fcf98c98554763deecbd3928992580055979857d6862",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.6.5_linux_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.5/terraform-provider-harvester_0.6.5_linux_arm64.zip",
-          "shasum": "b00b540e2e88fc7c335320f69e2af719f913b6c41cab3b2c024d1fe4e423856e"
+          "shasum": "b00b540e2e88fc7c335320f69e2af719f913b6c41cab3b2c024d1fe4e423856e",
+          "h1": ""
         }
       ]
     },
@@ -151,28 +207,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.6.4_darwin_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.4/terraform-provider-harvester_0.6.4_darwin_amd64.zip",
-          "shasum": "2b249034120f20629f57e2afdb44368fd1ec4b984f894b4dfd49aa8abff742d4"
+          "shasum": "2b249034120f20629f57e2afdb44368fd1ec4b984f894b4dfd49aa8abff742d4",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.6.4_darwin_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.4/terraform-provider-harvester_0.6.4_darwin_arm64.zip",
-          "shasum": "a1bb9d05770dc991f83408b7cac77af7877da3ca7ae3ed1df76cb0a6d93d8934"
+          "shasum": "a1bb9d05770dc991f83408b7cac77af7877da3ca7ae3ed1df76cb0a6d93d8934",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.6.4_linux_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.4/terraform-provider-harvester_0.6.4_linux_amd64.zip",
-          "shasum": "2c557ab60bc824033258efd00189e4759cda8beef8a19d89fe0679caaee894ba"
+          "shasum": "2c557ab60bc824033258efd00189e4759cda8beef8a19d89fe0679caaee894ba",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.6.4_linux_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.4/terraform-provider-harvester_0.6.4_linux_arm64.zip",
-          "shasum": "2d25f0ccbfb348d96e6d82729451337b96d7c7e65eff96cc72ce7d0b139193d4"
+          "shasum": "2d25f0ccbfb348d96e6d82729451337b96d7c7e65eff96cc72ce7d0b139193d4",
+          "h1": ""
         }
       ]
     },
@@ -189,28 +249,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.6.3_darwin_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.3/terraform-provider-harvester_0.6.3_darwin_amd64.zip",
-          "shasum": "50965fca76ad24830e3e879e401e86cffb6b23c4210dfd0f3102bc2ea1283803"
+          "shasum": "50965fca76ad24830e3e879e401e86cffb6b23c4210dfd0f3102bc2ea1283803",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.6.3_darwin_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.3/terraform-provider-harvester_0.6.3_darwin_arm64.zip",
-          "shasum": "d2f6bb81ba1af032082ff0deef1dbc8f988ba04388e319919d5ceee486d55324"
+          "shasum": "d2f6bb81ba1af032082ff0deef1dbc8f988ba04388e319919d5ceee486d55324",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.6.3_linux_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.3/terraform-provider-harvester_0.6.3_linux_amd64.zip",
-          "shasum": "4337e68baec525e40e2d3712737fda6b152df50db1ea11d8415256621b7671c2"
+          "shasum": "4337e68baec525e40e2d3712737fda6b152df50db1ea11d8415256621b7671c2",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.6.3_linux_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.3/terraform-provider-harvester_0.6.3_linux_arm64.zip",
-          "shasum": "2f365a6c0999b6f0ff82cf5cd22409687e665c8dd9b0f5328ed5dbc7cc0ddf47"
+          "shasum": "2f365a6c0999b6f0ff82cf5cd22409687e665c8dd9b0f5328ed5dbc7cc0ddf47",
+          "h1": ""
         }
       ]
     },
@@ -227,28 +291,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.6.2_darwin_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.2/terraform-provider-harvester_0.6.2_darwin_amd64.zip",
-          "shasum": "e9fc8bd6c19056b4eaaf22ac0b1b09a7f63e9c20b5a86023ce2dcf54f21646ce"
+          "shasum": "e9fc8bd6c19056b4eaaf22ac0b1b09a7f63e9c20b5a86023ce2dcf54f21646ce",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.6.2_darwin_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.2/terraform-provider-harvester_0.6.2_darwin_arm64.zip",
-          "shasum": "baa053e61c0325b81330b97ebf7ce0ba77d524e871826243d05ac578fea2ec7f"
+          "shasum": "baa053e61c0325b81330b97ebf7ce0ba77d524e871826243d05ac578fea2ec7f",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.6.2_linux_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.2/terraform-provider-harvester_0.6.2_linux_amd64.zip",
-          "shasum": "a68cf7f15078a6e7441b1f28f3c39e9389a2c572b92a9165a1f2eb53db37849f"
+          "shasum": "a68cf7f15078a6e7441b1f28f3c39e9389a2c572b92a9165a1f2eb53db37849f",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.6.2_linux_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.2/terraform-provider-harvester_0.6.2_linux_arm64.zip",
-          "shasum": "73518d77caaada1a2fee68bfbf9cb0a22026ae5d8e4dbf39f1a527412e6a9774"
+          "shasum": "73518d77caaada1a2fee68bfbf9cb0a22026ae5d8e4dbf39f1a527412e6a9774",
+          "h1": ""
         }
       ]
     },
@@ -265,28 +333,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.6.1_darwin_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.1/terraform-provider-harvester_0.6.1_darwin_amd64.zip",
-          "shasum": "ed6f29719c161c4a31f01bc4419e95a73908e8db677c2a414c52376c6e85f9bf"
+          "shasum": "ed6f29719c161c4a31f01bc4419e95a73908e8db677c2a414c52376c6e85f9bf",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.6.1_darwin_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.1/terraform-provider-harvester_0.6.1_darwin_arm64.zip",
-          "shasum": "d7246754d032219cffbecb3773053205ae0dcb28b58aab47d74edd7539b9a342"
+          "shasum": "d7246754d032219cffbecb3773053205ae0dcb28b58aab47d74edd7539b9a342",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.6.1_linux_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.1/terraform-provider-harvester_0.6.1_linux_amd64.zip",
-          "shasum": "7766818ffb99271635879faa328ddf63ec3f002094886ef5c84d490b3e4c386e"
+          "shasum": "7766818ffb99271635879faa328ddf63ec3f002094886ef5c84d490b3e4c386e",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.6.1_linux_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.1/terraform-provider-harvester_0.6.1_linux_arm64.zip",
-          "shasum": "9dd75176c0cfba8c454b821b513077b5c263e261084fbcb70cd9481438bf473d"
+          "shasum": "9dd75176c0cfba8c454b821b513077b5c263e261084fbcb70cd9481438bf473d",
+          "h1": ""
         }
       ]
     },
@@ -303,28 +375,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.6.0_darwin_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.0/terraform-provider-harvester_0.6.0_darwin_amd64.zip",
-          "shasum": "768cf29e0c4b141e71f1d9cc49897d5648cc28f1b391e353372a6be3a4f3d2ba"
+          "shasum": "768cf29e0c4b141e71f1d9cc49897d5648cc28f1b391e353372a6be3a4f3d2ba",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.6.0_darwin_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.0/terraform-provider-harvester_0.6.0_darwin_arm64.zip",
-          "shasum": "b2ef74c3ca3db44dc4116b6d7f4e4ed37af68de77d40693995ac3d4611d22e72"
+          "shasum": "b2ef74c3ca3db44dc4116b6d7f4e4ed37af68de77d40693995ac3d4611d22e72",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.6.0_linux_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.0/terraform-provider-harvester_0.6.0_linux_amd64.zip",
-          "shasum": "3d28801903906cd37f31c8e687c2387f49d539681f13999079cd7332d48cbc46"
+          "shasum": "3d28801903906cd37f31c8e687c2387f49d539681f13999079cd7332d48cbc46",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.6.0_linux_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.6.0/terraform-provider-harvester_0.6.0_linux_arm64.zip",
-          "shasum": "541d634b2466c3a7dc4017fe29a0db51fbc4f38abd1fbe26df68583e6e832845"
+          "shasum": "541d634b2466c3a7dc4017fe29a0db51fbc4f38abd1fbe26df68583e6e832845",
+          "h1": ""
         }
       ]
     },
@@ -341,28 +417,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.5.4_darwin_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.5.4/terraform-provider-harvester_0.5.4_darwin_amd64.zip",
-          "shasum": "b91ea5f5c016e2ed39b7c8fc74ad2ff3fc05ec198218f6ae7e8d8361e1a1d9b5"
+          "shasum": "b91ea5f5c016e2ed39b7c8fc74ad2ff3fc05ec198218f6ae7e8d8361e1a1d9b5",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.5.4_darwin_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.5.4/terraform-provider-harvester_0.5.4_darwin_arm64.zip",
-          "shasum": "d6a8d3c0edca7fb715aab76e1d6962af1473086784b627d6a9bf1b77c69adbe7"
+          "shasum": "d6a8d3c0edca7fb715aab76e1d6962af1473086784b627d6a9bf1b77c69adbe7",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.5.4_linux_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.5.4/terraform-provider-harvester_0.5.4_linux_amd64.zip",
-          "shasum": "575a0a4fbae2f7f955349e095efa56e69551261da30fb0103dbd11fbbb5b5c76"
+          "shasum": "575a0a4fbae2f7f955349e095efa56e69551261da30fb0103dbd11fbbb5b5c76",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.5.4_linux_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.5.4/terraform-provider-harvester_0.5.4_linux_arm64.zip",
-          "shasum": "a893ca8dbbc237d7e4d107ce0a958ed0d47d80ec5a42cb014db0b7da394f415d"
+          "shasum": "a893ca8dbbc237d7e4d107ce0a958ed0d47d80ec5a42cb014db0b7da394f415d",
+          "h1": ""
         }
       ]
     },
@@ -379,28 +459,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.5.3_darwin_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.5.3/terraform-provider-harvester_0.5.3_darwin_amd64.zip",
-          "shasum": "4f85b49d09b2fbb5b2103acc27055a5c3085efd1ad4b42a7741ae296ffeedc4a"
+          "shasum": "4f85b49d09b2fbb5b2103acc27055a5c3085efd1ad4b42a7741ae296ffeedc4a",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.5.3_darwin_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.5.3/terraform-provider-harvester_0.5.3_darwin_arm64.zip",
-          "shasum": "f2e18d6e6266fd158d0e5ef1e5e4812f7e38ed312830cf2aa7af15832b33e846"
+          "shasum": "f2e18d6e6266fd158d0e5ef1e5e4812f7e38ed312830cf2aa7af15832b33e846",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.5.3_linux_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.5.3/terraform-provider-harvester_0.5.3_linux_amd64.zip",
-          "shasum": "f71fe375c57b52f9be9a00ef69bab080b0d12012831be981f73fc426d59d912b"
+          "shasum": "f71fe375c57b52f9be9a00ef69bab080b0d12012831be981f73fc426d59d912b",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.5.3_linux_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.5.3/terraform-provider-harvester_0.5.3_linux_arm64.zip",
-          "shasum": "e16e6eec18d1013f28dc0fa6d5cd9a9c9792e81fbc6aaa2c3c3eacfa1de99f68"
+          "shasum": "e16e6eec18d1013f28dc0fa6d5cd9a9c9792e81fbc6aaa2c3c3eacfa1de99f68",
+          "h1": ""
         }
       ]
     },
@@ -417,28 +501,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.5.2_darwin_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.5.2/terraform-provider-harvester_0.5.2_darwin_amd64.zip",
-          "shasum": "2f142b1f58a74f2031695bd0e98f0d5b322eeb809deda7059519f90288c967b0"
+          "shasum": "2f142b1f58a74f2031695bd0e98f0d5b322eeb809deda7059519f90288c967b0",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.5.2_darwin_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.5.2/terraform-provider-harvester_0.5.2_darwin_arm64.zip",
-          "shasum": "738fb08f8578730e04046dd579508749abf0d71b6c84460bebfd5178b9a143c4"
+          "shasum": "738fb08f8578730e04046dd579508749abf0d71b6c84460bebfd5178b9a143c4",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.5.2_linux_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.5.2/terraform-provider-harvester_0.5.2_linux_amd64.zip",
-          "shasum": "3233ff2aefec2d62972043466598da08afefe8b203f1d41eceee288d4871b51e"
+          "shasum": "3233ff2aefec2d62972043466598da08afefe8b203f1d41eceee288d4871b51e",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.5.2_linux_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.5.2/terraform-provider-harvester_0.5.2_linux_arm64.zip",
-          "shasum": "15113208cc20cc76cdb06ae26ecb754e09c9319fd53c1f304ab97afd54e6cdf1"
+          "shasum": "15113208cc20cc76cdb06ae26ecb754e09c9319fd53c1f304ab97afd54e6cdf1",
+          "h1": ""
         }
       ]
     },
@@ -455,28 +543,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.5.1_darwin_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.5.1/terraform-provider-harvester_0.5.1_darwin_amd64.zip",
-          "shasum": "8a6bbe47c02f98fd2120695f8e878c4ecfa4e90d2556a6a8d7f1d70d0067bef0"
+          "shasum": "8a6bbe47c02f98fd2120695f8e878c4ecfa4e90d2556a6a8d7f1d70d0067bef0",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.5.1_darwin_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.5.1/terraform-provider-harvester_0.5.1_darwin_arm64.zip",
-          "shasum": "199ccb60499b429044a1cfe9bd36e391555631fa6c1f60efb5f4c45d2c812a09"
+          "shasum": "199ccb60499b429044a1cfe9bd36e391555631fa6c1f60efb5f4c45d2c812a09",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.5.1_linux_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.5.1/terraform-provider-harvester_0.5.1_linux_amd64.zip",
-          "shasum": "5781722c34f90cfcf7f46d7b766a6b1612e37c8014d38f3647d51e6e682f452c"
+          "shasum": "5781722c34f90cfcf7f46d7b766a6b1612e37c8014d38f3647d51e6e682f452c",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.5.1_linux_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.5.1/terraform-provider-harvester_0.5.1_linux_arm64.zip",
-          "shasum": "2b3bcdfe4e9523821bf1491ec2c50500aba274a48a1859a4c1ecb82ac6b975d9"
+          "shasum": "2b3bcdfe4e9523821bf1491ec2c50500aba274a48a1859a4c1ecb82ac6b975d9",
+          "h1": ""
         }
       ]
     },
@@ -493,28 +585,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.5.0_darwin_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.5.0/terraform-provider-harvester_0.5.0_darwin_amd64.zip",
-          "shasum": "092132201a2ebea7ad7b3c80308e2267bd4857abc0a9d3973d1a43b0728c8d87"
+          "shasum": "092132201a2ebea7ad7b3c80308e2267bd4857abc0a9d3973d1a43b0728c8d87",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.5.0_darwin_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.5.0/terraform-provider-harvester_0.5.0_darwin_arm64.zip",
-          "shasum": "a89783a32c24a037ec087d3c2df36a5960b99b643fd386d76485ae45968cead1"
+          "shasum": "a89783a32c24a037ec087d3c2df36a5960b99b643fd386d76485ae45968cead1",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.5.0_linux_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.5.0/terraform-provider-harvester_0.5.0_linux_amd64.zip",
-          "shasum": "d0594a30ac1506f2414bc9b4744ad4eaa1ea06e3df15efba0b056df32eff791e"
+          "shasum": "d0594a30ac1506f2414bc9b4744ad4eaa1ea06e3df15efba0b056df32eff791e",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.5.0_linux_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.5.0/terraform-provider-harvester_0.5.0_linux_arm64.zip",
-          "shasum": "9b265dcbd0b2d74ea223b25f902e55116bcb14f78a13358a8e7bdd3699d5fd63"
+          "shasum": "9b265dcbd0b2d74ea223b25f902e55116bcb14f78a13358a8e7bdd3699d5fd63",
+          "h1": ""
         }
       ]
     },
@@ -531,28 +627,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.4.0_darwin_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.4.0/terraform-provider-harvester_0.4.0_darwin_amd64.zip",
-          "shasum": "6bb38b63a82c748dd6ba83937d8d251200cf61441041a4cf10da2ba9e80b5508"
+          "shasum": "6bb38b63a82c748dd6ba83937d8d251200cf61441041a4cf10da2ba9e80b5508",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.4.0_darwin_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.4.0/terraform-provider-harvester_0.4.0_darwin_arm64.zip",
-          "shasum": "962fa30f970fac519ea49ca7a3699f424ae849742b120ee1462bc648ad42e203"
+          "shasum": "962fa30f970fac519ea49ca7a3699f424ae849742b120ee1462bc648ad42e203",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.4.0_linux_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.4.0/terraform-provider-harvester_0.4.0_linux_amd64.zip",
-          "shasum": "19a12f3727c48e66578233daac94fe29d8cd1692f790bc7b4421284b9823fc7b"
+          "shasum": "19a12f3727c48e66578233daac94fe29d8cd1692f790bc7b4421284b9823fc7b",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.4.0_linux_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.4.0/terraform-provider-harvester_0.4.0_linux_arm64.zip",
-          "shasum": "0cbb3379d1bacbe76903125c4d19e7a16bc6100e30bfda981d3ebe7097ccb39b"
+          "shasum": "0cbb3379d1bacbe76903125c4d19e7a16bc6100e30bfda981d3ebe7097ccb39b",
+          "h1": ""
         }
       ]
     },
@@ -569,28 +669,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.3.2_darwin_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.3.2/terraform-provider-harvester_0.3.2_darwin_amd64.zip",
-          "shasum": "c0b0b4d9436319ba66b427e1d221f639a7703422cb2a90e682478e35a87c7a42"
+          "shasum": "c0b0b4d9436319ba66b427e1d221f639a7703422cb2a90e682478e35a87c7a42",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.3.2_darwin_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.3.2/terraform-provider-harvester_0.3.2_darwin_arm64.zip",
-          "shasum": "bb065a3f169ed35923dad41d77392a55509b7729dc285c783db6947c410a8989"
+          "shasum": "bb065a3f169ed35923dad41d77392a55509b7729dc285c783db6947c410a8989",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.3.2_linux_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.3.2/terraform-provider-harvester_0.3.2_linux_amd64.zip",
-          "shasum": "be751ff40fb95619b12cf3a0029606ab8dba5c7bbcdb2519930a5a6e5fd29d32"
+          "shasum": "be751ff40fb95619b12cf3a0029606ab8dba5c7bbcdb2519930a5a6e5fd29d32",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.3.2_linux_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.3.2/terraform-provider-harvester_0.3.2_linux_arm64.zip",
-          "shasum": "5dadb79d4565932a0313d2ee7c97082aedd9e11df58a118ac688971804395887"
+          "shasum": "5dadb79d4565932a0313d2ee7c97082aedd9e11df58a118ac688971804395887",
+          "h1": ""
         }
       ]
     },
@@ -607,28 +711,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.3.1_darwin_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.3.1/terraform-provider-harvester_0.3.1_darwin_amd64.zip",
-          "shasum": "fd6bfe0e7d9846d493960ed71b7cbdf6aee8cbb074789b7403ac6f5f5a8ec92e"
+          "shasum": "fd6bfe0e7d9846d493960ed71b7cbdf6aee8cbb074789b7403ac6f5f5a8ec92e",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.3.1_darwin_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.3.1/terraform-provider-harvester_0.3.1_darwin_arm64.zip",
-          "shasum": "5fe9c8d5d260f46c386668e0a88d886055052e2e2667b429587920f42512f491"
+          "shasum": "5fe9c8d5d260f46c386668e0a88d886055052e2e2667b429587920f42512f491",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.3.1_linux_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.3.1/terraform-provider-harvester_0.3.1_linux_amd64.zip",
-          "shasum": "d20b19b5973d58f7055094dba2699eb86c4c50b61fe1671467aad4ca09c4874d"
+          "shasum": "d20b19b5973d58f7055094dba2699eb86c4c50b61fe1671467aad4ca09c4874d",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.3.1_linux_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.3.1/terraform-provider-harvester_0.3.1_linux_arm64.zip",
-          "shasum": "d053b36f261b3a768d20dee065694823d6fe7d99ddff5307b9f36e214c5aa588"
+          "shasum": "d053b36f261b3a768d20dee065694823d6fe7d99ddff5307b9f36e214c5aa588",
+          "h1": ""
         }
       ]
     },
@@ -645,28 +753,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.3.0_darwin_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.3.0/terraform-provider-harvester_0.3.0_darwin_amd64.zip",
-          "shasum": "bbd30d2fee1c405e3741c90677c058cf7709f526cb951ebb135229fa58510b3d"
+          "shasum": "bbd30d2fee1c405e3741c90677c058cf7709f526cb951ebb135229fa58510b3d",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.3.0_darwin_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.3.0/terraform-provider-harvester_0.3.0_darwin_arm64.zip",
-          "shasum": "901fd6865316c8625a18f058944b81b6ffaab60f32cfedb0e4eb79f5b9c03f0d"
+          "shasum": "901fd6865316c8625a18f058944b81b6ffaab60f32cfedb0e4eb79f5b9c03f0d",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.3.0_linux_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.3.0/terraform-provider-harvester_0.3.0_linux_amd64.zip",
-          "shasum": "09516b51ab6b6a732384a5da2c1263934eaa96b3956288fd967612a9a771a3d3"
+          "shasum": "09516b51ab6b6a732384a5da2c1263934eaa96b3956288fd967612a9a771a3d3",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.3.0_linux_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.3.0/terraform-provider-harvester_0.3.0_linux_arm64.zip",
-          "shasum": "ac2f92ed204ca4777bee8898a165849ff37d75b68313f4619641a37f452207b0"
+          "shasum": "ac2f92ed204ca4777bee8898a165849ff37d75b68313f4619641a37f452207b0",
+          "h1": ""
         }
       ]
     },
@@ -683,28 +795,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.2.9_darwin_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.2.9/terraform-provider-harvester_0.2.9_darwin_amd64.zip",
-          "shasum": "45d422fcc8e1bdb82c7ba86599ef907c3445dac003821340281716e94910c9c4"
+          "shasum": "45d422fcc8e1bdb82c7ba86599ef907c3445dac003821340281716e94910c9c4",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.2.9_darwin_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.2.9/terraform-provider-harvester_0.2.9_darwin_arm64.zip",
-          "shasum": "1ac981537a17bffacf14b4158d20f350370d8b84c374f73f2222e34d19a5306e"
+          "shasum": "1ac981537a17bffacf14b4158d20f350370d8b84c374f73f2222e34d19a5306e",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.2.9_linux_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.2.9/terraform-provider-harvester_0.2.9_linux_amd64.zip",
-          "shasum": "d18ff52df1c4c35d903b35b3e733ba3b4d943acf563915f41b0eaed7b948584f"
+          "shasum": "d18ff52df1c4c35d903b35b3e733ba3b4d943acf563915f41b0eaed7b948584f",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.2.9_linux_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.2.9/terraform-provider-harvester_0.2.9_linux_arm64.zip",
-          "shasum": "f632edae6c7b344608517173bc35859177ee0f0b70d78759b2469f2dfbce116d"
+          "shasum": "f632edae6c7b344608517173bc35859177ee0f0b70d78759b2469f2dfbce116d",
+          "h1": ""
         }
       ]
     },
@@ -721,28 +837,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.2.8_darwin_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.2.8/terraform-provider-harvester_0.2.8_darwin_amd64.zip",
-          "shasum": "60b412dac0c73f19da291c0497c07d412028f830d2fb4d0b396279578dfc45f5"
+          "shasum": "60b412dac0c73f19da291c0497c07d412028f830d2fb4d0b396279578dfc45f5",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.2.8_darwin_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.2.8/terraform-provider-harvester_0.2.8_darwin_arm64.zip",
-          "shasum": "e09be49ee99783db4f2925fefb9e12b745571814b457c19f031f5d4476e156f2"
+          "shasum": "e09be49ee99783db4f2925fefb9e12b745571814b457c19f031f5d4476e156f2",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.2.8_linux_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.2.8/terraform-provider-harvester_0.2.8_linux_amd64.zip",
-          "shasum": "9b7b29a800b3078751508666f897250202b2913ed0a322df76bb64a35983d1cc"
+          "shasum": "9b7b29a800b3078751508666f897250202b2913ed0a322df76bb64a35983d1cc",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.2.8_linux_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.2.8/terraform-provider-harvester_0.2.8_linux_arm64.zip",
-          "shasum": "1803b34c9fe4560782e29b9f07099ed82890c28e54d3cac3a371e47bfa6a91cb"
+          "shasum": "1803b34c9fe4560782e29b9f07099ed82890c28e54d3cac3a371e47bfa6a91cb",
+          "h1": ""
         }
       ]
     },
@@ -759,28 +879,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.2.7_darwin_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.2.7/terraform-provider-harvester_0.2.7_darwin_amd64.zip",
-          "shasum": "2011e44904298380303ac8e8a422b6d1ad69f9412c244ae69ebaa834d9c2e770"
+          "shasum": "2011e44904298380303ac8e8a422b6d1ad69f9412c244ae69ebaa834d9c2e770",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.2.7_darwin_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.2.7/terraform-provider-harvester_0.2.7_darwin_arm64.zip",
-          "shasum": "e4d0a90154d35266749dc5706ff992255f5835708300a68b32fd7feec02b40b0"
+          "shasum": "e4d0a90154d35266749dc5706ff992255f5835708300a68b32fd7feec02b40b0",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-harvester_0.2.7_linux_amd64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.2.7/terraform-provider-harvester_0.2.7_linux_amd64.zip",
-          "shasum": "018d8449cde427dd860f89f234cd9da1b3090d24e91b1f3437427d0b61b61572"
+          "shasum": "018d8449cde427dd860f89f234cd9da1b3090d24e91b1f3437427d0b61b61572",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-harvester_0.2.7_linux_arm64.zip",
           "download_url": "https://github.com/harvester/terraform-provider-harvester/releases/download/v0.2.7/terraform-provider-harvester_0.2.7_linux_arm64.zip",
-          "shasum": "e794ec67e1134bd10aa9f85aa4a0c76370beb3927d4a6acf1dbdf2ce6c52f5d4"
+          "shasum": "e794ec67e1134bd10aa9f85aa4a0c76370beb3927d4a6acf1dbdf2ce6c52f5d4",
+          "h1": ""
         }
       ]
     }
