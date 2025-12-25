@@ -1,6 +1,112 @@
 {
   "versions": [
     {
+      "version": "0.3.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/microsoft/terraform-provider-msgraph/releases/download/v0.3.0/terraform-provider-msgraph_0.3.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/microsoft/terraform-provider-msgraph/releases/download/v0.3.0/terraform-provider-msgraph_0.3.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-msgraph_0.3.0_darwin_amd64.zip",
+          "download_url": "https://github.com/microsoft/terraform-provider-msgraph/releases/download/v0.3.0/terraform-provider-msgraph_0.3.0_darwin_amd64.zip",
+          "shasum": "d8bfe6b37075c00fd742a3f676b2edf0fd9c8a3f2a835347a1969a535223bf44",
+          "h1": "h1:6LMFdYJ5Ej+4B6Dpm9Fb6pThpML73cmiCfvJMtj/zLs="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-msgraph_0.3.0_darwin_arm64.zip",
+          "download_url": "https://github.com/microsoft/terraform-provider-msgraph/releases/download/v0.3.0/terraform-provider-msgraph_0.3.0_darwin_arm64.zip",
+          "shasum": "8c30c11780ee053d4ec4d34baf659af379a3f3c0d6b61cebf665515242b1d296",
+          "h1": "h1:v+EbLxcA5WnNx/qYfPVUMcmfE5ZLzyJl4yN0IP0ner8="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-msgraph_0.3.0_freebsd_386.zip",
+          "download_url": "https://github.com/microsoft/terraform-provider-msgraph/releases/download/v0.3.0/terraform-provider-msgraph_0.3.0_freebsd_386.zip",
+          "shasum": "817eb0468356fe92507ac9a9e217ad08c35de3229993e72e781a7100030d2e29",
+          "h1": "h1:E2fMfJzbOCvSga19DqKw4en9Nvz4tWgsgWCrryv75cw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-msgraph_0.3.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/microsoft/terraform-provider-msgraph/releases/download/v0.3.0/terraform-provider-msgraph_0.3.0_freebsd_amd64.zip",
+          "shasum": "6fe93c425460178b72832995623936c964636572088d070eb023e9fa45de6a8b",
+          "h1": "h1:4ZFPCgc6Eco+F0Q/a1hmqU84/PxHIEwQ4230g6BOg2M="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-msgraph_0.3.0_freebsd_arm.zip",
+          "download_url": "https://github.com/microsoft/terraform-provider-msgraph/releases/download/v0.3.0/terraform-provider-msgraph_0.3.0_freebsd_arm.zip",
+          "shasum": "dcedcecd8ce08a51b48dc8df33e9579ea59100669bcb3800d17995d90e1c7da5",
+          "h1": "h1:ozc0NlnXcQ7fVAAJipXevPjfo8zxWDrhRIp2EzaOmHQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-msgraph_0.3.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/microsoft/terraform-provider-msgraph/releases/download/v0.3.0/terraform-provider-msgraph_0.3.0_freebsd_arm64.zip",
+          "shasum": "c94e6441bdf1289c62660fb9b1942e162bcefe536052294559a84f5d816ebc9e",
+          "h1": "h1:sHQFZOJqw0v1Esb9Q/1ig/dlxzWcn6xSkAswybp0AA4="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-msgraph_0.3.0_linux_386.zip",
+          "download_url": "https://github.com/microsoft/terraform-provider-msgraph/releases/download/v0.3.0/terraform-provider-msgraph_0.3.0_linux_386.zip",
+          "shasum": "519beccd7708c5356da863697a05fd77a618d2e7805aa5f721735d2df3a805ec",
+          "h1": "h1:zeFXh1hJt5xd/p8m/Pl676xIqeUXmJiNVR4MF0ghGjs="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-msgraph_0.3.0_linux_amd64.zip",
+          "download_url": "https://github.com/microsoft/terraform-provider-msgraph/releases/download/v0.3.0/terraform-provider-msgraph_0.3.0_linux_amd64.zip",
+          "shasum": "3b345421dc00d0681ae225e655c47156a0332107fbf721d20a621134dc8ffecb",
+          "h1": "h1:sYP1VbPgdkpLGlhkFBpS2gopxQpyVY06a9rlG14DBcc="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-msgraph_0.3.0_linux_arm.zip",
+          "download_url": "https://github.com/microsoft/terraform-provider-msgraph/releases/download/v0.3.0/terraform-provider-msgraph_0.3.0_linux_arm.zip",
+          "shasum": "6a435e8b12c8eb71eae72b106154dec5445f626f11fea5c41b7c3d9c77683b67",
+          "h1": "h1:sTGmOFum35bQLE2YaVNv2PAqCxHTXTnSiz8HoA+qzzY="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-msgraph_0.3.0_linux_arm64.zip",
+          "download_url": "https://github.com/microsoft/terraform-provider-msgraph/releases/download/v0.3.0/terraform-provider-msgraph_0.3.0_linux_arm64.zip",
+          "shasum": "690363ac5e7b04a1526c6beab6415ef032fe04515ad0e77786097c700845e25d",
+          "h1": "h1:Ohk71sp/SYr/TRRVqpLUq1T3vJVE+WgX5x0PlxzoTQQ="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-msgraph_0.3.0_windows_386.zip",
+          "download_url": "https://github.com/microsoft/terraform-provider-msgraph/releases/download/v0.3.0/terraform-provider-msgraph_0.3.0_windows_386.zip",
+          "shasum": "dd59ad7516ddb8b40a18a7e722e60f6eda00d6828cbd5fe01420640b8508f2eb",
+          "h1": "h1:3G04dP8GPntd6wK0c9ESlPjFo0sSIOjSX7PpPNLevcY="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-msgraph_0.3.0_windows_amd64.zip",
+          "download_url": "https://github.com/microsoft/terraform-provider-msgraph/releases/download/v0.3.0/terraform-provider-msgraph_0.3.0_windows_amd64.zip",
+          "shasum": "a376cbed0aea4b8b7fcad30ded846b9fe35f504b110777b9b2853a596970480a",
+          "h1": "h1:uevRctleUb9KzCZU70bXPQZBOdulxvyKhhMyOpOPu7s="
+        }
+      ]
+    },
+    {
       "version": "0.2.0",
       "protocols": [
         "5.0"
