@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.1.8",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/adaptive-scale/terraform-provider-adaptive/releases/download/v0.1.8/terraform-provider-adaptive_0.1.8_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/adaptive-scale/terraform-provider-adaptive/releases/download/v0.1.8/terraform-provider-adaptive_0.1.8_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-adaptive_0.1.8_darwin_amd64.zip",
+          "download_url": "https://github.com/adaptive-scale/terraform-provider-adaptive/releases/download/v0.1.8/terraform-provider-adaptive_0.1.8_darwin_amd64.zip",
+          "shasum": "1521295abf427466b65a94fae29f8ded2cd9865415332733fb672954f499d9b4",
+          "h1": "h1:xvM4xD0K//+4IFVbRXbkRNy5evmCjJSayU6S9LrTLyc="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-adaptive_0.1.8_darwin_arm64.zip",
+          "download_url": "https://github.com/adaptive-scale/terraform-provider-adaptive/releases/download/v0.1.8/terraform-provider-adaptive_0.1.8_darwin_arm64.zip",
+          "shasum": "5086eef4638d5bf351c828abf6e98a49e66835180136bcc9b612a04ed823de4e",
+          "h1": "h1:w4RKDfv9aWThaGWvb+539CoHXMLpu976IpZUvEsfMEE="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-adaptive_0.1.8_freebsd_386.zip",
+          "download_url": "https://github.com/adaptive-scale/terraform-provider-adaptive/releases/download/v0.1.8/terraform-provider-adaptive_0.1.8_freebsd_386.zip",
+          "shasum": "1c34cd599ef89bafe6fa21cd5628b37dd0ffe99387fa017030c9100c6b0b0a5d",
+          "h1": "h1:g7oda6+LvGr5b/bK5imy6PEmma4mFf9i1TSVUzLHD8E="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-adaptive_0.1.8_freebsd_amd64.zip",
+          "download_url": "https://github.com/adaptive-scale/terraform-provider-adaptive/releases/download/v0.1.8/terraform-provider-adaptive_0.1.8_freebsd_amd64.zip",
+          "shasum": "d28ae7fcf889fe586bcbf1cb4ff7de2a44c0eb133f3799f7a1428e578064f402",
+          "h1": "h1:snJrDcoeI+6Yiwr1BOZoEWWoJY3NubF0gM/+tuo9SWA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-adaptive_0.1.8_freebsd_arm.zip",
+          "download_url": "https://github.com/adaptive-scale/terraform-provider-adaptive/releases/download/v0.1.8/terraform-provider-adaptive_0.1.8_freebsd_arm.zip",
+          "shasum": "7081e84596debf99cc74d7b9ae02b167dd0d1596a98cf1533adb72cb2ae60ee6",
+          "h1": "h1:dov0PIO+f3X4f83/mtE4Y4vEWnZeUcmtPLg8bj9wmg8="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-adaptive_0.1.8_freebsd_arm64.zip",
+          "download_url": "https://github.com/adaptive-scale/terraform-provider-adaptive/releases/download/v0.1.8/terraform-provider-adaptive_0.1.8_freebsd_arm64.zip",
+          "shasum": "69631ab6160d49b25484eef877b933824e09196218e063f078eb8b08ad4f64d7",
+          "h1": "h1:HNV/gBiTde9BO0w7QxeWPQAeP1fnH9uCcTRX7spQSqs="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-adaptive_0.1.8_linux_386.zip",
+          "download_url": "https://github.com/adaptive-scale/terraform-provider-adaptive/releases/download/v0.1.8/terraform-provider-adaptive_0.1.8_linux_386.zip",
+          "shasum": "2dac07b83421fb62ba66f9312e3066273ff2d46e284bf15545be7e4f0dcadf3c",
+          "h1": "h1:KT2U1//A8J0lJ6nBR3nncwcPIERhqQ+2oaqoRh5iKMw="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-adaptive_0.1.8_linux_amd64.zip",
+          "download_url": "https://github.com/adaptive-scale/terraform-provider-adaptive/releases/download/v0.1.8/terraform-provider-adaptive_0.1.8_linux_amd64.zip",
+          "shasum": "a06d87b980ec5dd632f73fa5dd852542b9a8115ec7b2171cdf10667d1e78240d",
+          "h1": "h1:UYtuD7GaYMfGBkpvU7NzPaxEklhIQi/xjO9m7plw2ro="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-adaptive_0.1.8_linux_arm.zip",
+          "download_url": "https://github.com/adaptive-scale/terraform-provider-adaptive/releases/download/v0.1.8/terraform-provider-adaptive_0.1.8_linux_arm.zip",
+          "shasum": "94364909dc332a3809f3b195aacc63f11b5a51921f0450677f7d3c12adace31a",
+          "h1": "h1:0meiEVrgsIoy47kNFBOizQSc+YBQCh8QAQD1aTh6drI="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-adaptive_0.1.8_linux_arm64.zip",
+          "download_url": "https://github.com/adaptive-scale/terraform-provider-adaptive/releases/download/v0.1.8/terraform-provider-adaptive_0.1.8_linux_arm64.zip",
+          "shasum": "60dc99e0bd7428cf27d776344a987fe0312445a165e86e4a295a2dc225b64a97",
+          "h1": "h1:MimPKuFhtJVc8wZpqbP3ISBoH3yBVvG2dxnx+V7R8wM="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-adaptive_0.1.8_windows_386.zip",
+          "download_url": "https://github.com/adaptive-scale/terraform-provider-adaptive/releases/download/v0.1.8/terraform-provider-adaptive_0.1.8_windows_386.zip",
+          "shasum": "7af15a597e897db260ab9ec7b0a860826bd05f3b0da2a47b68a8ecf150ba81e9",
+          "h1": "h1:Hkrb8MjVT7/Pl/DsJE+sHZkkQ6z/f1I1CTnDUtDj9OE="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-adaptive_0.1.8_windows_amd64.zip",
+          "download_url": "https://github.com/adaptive-scale/terraform-provider-adaptive/releases/download/v0.1.8/terraform-provider-adaptive_0.1.8_windows_amd64.zip",
+          "shasum": "3dc2e65612c7eb535eeae906b97404a2459a912ce4b064ba08cdeb5d01215d92",
+          "h1": "h1:SKcOabYWq6NzOHEAgd6bS55j9nqd7fr4FFwwCU13Kdo="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-adaptive_0.1.8_windows_arm.zip",
+          "download_url": "https://github.com/adaptive-scale/terraform-provider-adaptive/releases/download/v0.1.8/terraform-provider-adaptive_0.1.8_windows_arm.zip",
+          "shasum": "766ef1bb76cf0518e2565b34fc56cdee6168046dfc74ebdfae479e4d6e60cebb",
+          "h1": "h1:DgoRievbR0DtdIKSPU/ZP630aVEn47URin9PBvdSfoc="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-adaptive_0.1.8_windows_arm64.zip",
+          "download_url": "https://github.com/adaptive-scale/terraform-provider-adaptive/releases/download/v0.1.8/terraform-provider-adaptive_0.1.8_windows_arm64.zip",
+          "shasum": "59fb9068f0dffd3ce0e0307125a0bcb633466f7a67485bb72e710b080144b00d",
+          "h1": "h1:gAfUBRjMpdXzHbHz+uDKuObv5TTlrhgQXHcSnPqq7s8="
+        }
+      ]
+    },
+    {
       "version": "0.1.7",
       "protocols": [
         "5.0"
