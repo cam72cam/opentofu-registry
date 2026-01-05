@@ -1,6 +1,80 @@
 {
   "versions": [
     {
+      "version": "0.7.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/terr4m/terraform-provider-shell/releases/download/v0.7.0/terraform-provider-shell_0.7.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/terr4m/terraform-provider-shell/releases/download/v0.7.0/terraform-provider-shell_0.7.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-shell_0.7.0_darwin_amd64.zip",
+          "download_url": "https://github.com/terr4m/terraform-provider-shell/releases/download/v0.7.0/terraform-provider-shell_0.7.0_darwin_amd64.zip",
+          "shasum": "62d50f6fe556c7437bc14abca321c1769c19f97fc27423e2ae4c2d555c8ce35d",
+          "h1": "h1:8H2rJryVuk34OjRAm6h6lfABjUMjmJSQrqMEa7b902Q="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-shell_0.7.0_darwin_arm64.zip",
+          "download_url": "https://github.com/terr4m/terraform-provider-shell/releases/download/v0.7.0/terraform-provider-shell_0.7.0_darwin_arm64.zip",
+          "shasum": "2b31b964797c9637fd8d79b2958063563a78cc9fa4e4ec8a9a2c72bc35df3b1e",
+          "h1": "h1:ihdqaitQLFkK0IxjFRd7JjCSKlZx46xcBRTskTHAMI4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-shell_0.7.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/terr4m/terraform-provider-shell/releases/download/v0.7.0/terraform-provider-shell_0.7.0_freebsd_amd64.zip",
+          "shasum": "314477ed84fd8639b2465773ec3ecf59ca630e6e7cdeef87dcf64b217903e6b5",
+          "h1": "h1:H3SrO1Sj77OFsPkvzcO5+gGmudRlac0xdcu/Y5mur1U="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-shell_0.7.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/terr4m/terraform-provider-shell/releases/download/v0.7.0/terraform-provider-shell_0.7.0_freebsd_arm64.zip",
+          "shasum": "eb23ddda8a40ed5314cb8f68ad2d359330c88a3a2c0876cf01d852809e7f0f6c",
+          "h1": "h1:ZXfxrEPlF31P30Qg1IQ9YIv+4D8M5SLfetufvY17A18="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-shell_0.7.0_linux_amd64.zip",
+          "download_url": "https://github.com/terr4m/terraform-provider-shell/releases/download/v0.7.0/terraform-provider-shell_0.7.0_linux_amd64.zip",
+          "shasum": "ca615f705c27a0d722f0144bc448d15143cc99a4f571b5dc3c313f127ea19c75",
+          "h1": "h1:sc/ukFs9N7gYlrlAuDZ8FlVpwkEoo/GexmEaWJfdmdo="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-shell_0.7.0_linux_arm64.zip",
+          "download_url": "https://github.com/terr4m/terraform-provider-shell/releases/download/v0.7.0/terraform-provider-shell_0.7.0_linux_arm64.zip",
+          "shasum": "211e34884ade3cfd93f9dda3693b271a831b0274d9292221da6d3c9251c5242b",
+          "h1": "h1:dOBD69Hga84l6k1Amla4gv7NzD/SxeXe/zHjgdVv4t8="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-shell_0.7.0_windows_amd64.zip",
+          "download_url": "https://github.com/terr4m/terraform-provider-shell/releases/download/v0.7.0/terraform-provider-shell_0.7.0_windows_amd64.zip",
+          "shasum": "4f01c2eca59b8beba92598ede698cbb85ca6452585e73e7bbd279ae094b0cf29",
+          "h1": "h1:n8JrrLQ2J664Dxt/g8S5nlwQ2lfciMgJWX/F6XoZjnk="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-shell_0.7.0_windows_arm64.zip",
+          "download_url": "https://github.com/terr4m/terraform-provider-shell/releases/download/v0.7.0/terraform-provider-shell_0.7.0_windows_arm64.zip",
+          "shasum": "f390b0788d931781481a53ae8ed1b82c1233f434ca010851c4a160708fc3d969",
+          "h1": "h1:/lG3OU6CAiwZKz9XsghG+nTlqc7CeBfSd3UmwFcOMZk="
+        }
+      ]
+    },
+    {
       "version": "0.6.0",
       "protocols": [
         "6.0"
