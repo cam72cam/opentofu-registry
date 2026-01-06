@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.25.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.25.0/terraform-provider-tailscale_0.25.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.25.0/terraform-provider-tailscale_0.25.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-tailscale_0.25.0_darwin_amd64.zip",
+          "download_url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.25.0/terraform-provider-tailscale_0.25.0_darwin_amd64.zip",
+          "shasum": "e40e28bcbfc619d79ceef211da0c202dd40af116ebc2187c7d9fd7af04ffca01",
+          "h1": "h1:GReU6rt592txBrifzSLwmgp+FaA0cExgkt/Z8S6LRv8="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-tailscale_0.25.0_darwin_arm64.zip",
+          "download_url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.25.0/terraform-provider-tailscale_0.25.0_darwin_arm64.zip",
+          "shasum": "7c8a0facf95cf06190cc920f9fcf05535edea8cc9d636b06dc5a4204d8c8f8f0",
+          "h1": "h1:72w+KxE37r2LtjOW1RCAs9v8dewl7wqVRvPDlBd7BD8="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-tailscale_0.25.0_freebsd_386.zip",
+          "download_url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.25.0/terraform-provider-tailscale_0.25.0_freebsd_386.zip",
+          "shasum": "be6360b3ec77e20502a91af15923b0e6cc88244372b79675ac6ad1b2c7958d6b",
+          "h1": "h1:wuDtE0hKVuOVkDqUKIN8luC2H2mPAAIt75ar/3QXVxg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-tailscale_0.25.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.25.0/terraform-provider-tailscale_0.25.0_freebsd_amd64.zip",
+          "shasum": "ae8dacdbb2acbddc5755b979714450a6e0b6746c37478b58bcb3fe5414e7442d",
+          "h1": "h1:zOfEgrimUd+aIQWEn3OLxSeGDusPTGFFV1HB7I6A85o="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-tailscale_0.25.0_freebsd_arm.zip",
+          "download_url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.25.0/terraform-provider-tailscale_0.25.0_freebsd_arm.zip",
+          "shasum": "420c0102a5a0d51f94c3a4f432a3c5c4cbed83ccb98070b9e85921c106541f04",
+          "h1": "h1:gWcAmmNVzjD8XvWV3Mbqr6hiLxDOEgkmm2XYY6j6tCU="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-tailscale_0.25.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.25.0/terraform-provider-tailscale_0.25.0_freebsd_arm64.zip",
+          "shasum": "a2ecbc71f922d013d8ddc049e302f630f0784512fed6dcfeee290b46410d7905",
+          "h1": "h1:39A/6JQVVrodg/6R0NLHkrGAQZufdzqmb5Azb31d4UY="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-tailscale_0.25.0_linux_386.zip",
+          "download_url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.25.0/terraform-provider-tailscale_0.25.0_linux_386.zip",
+          "shasum": "3f45bec088ad6f39d47c048adff2902d760714b01c10fbb59b511c90a5a7f8ca",
+          "h1": "h1:hUpMpmKIbV61hVPc56GTJbSanZYCUwJqkr0A09AbHJA="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-tailscale_0.25.0_linux_amd64.zip",
+          "download_url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.25.0/terraform-provider-tailscale_0.25.0_linux_amd64.zip",
+          "shasum": "ba34871eb04cff318f427e87db417d012298abac166f3485a16a204916152847",
+          "h1": "h1:BGJtyoKLWQdAw/hs1TSKETJtkvVPiOyE22aNvmrHJSo="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-tailscale_0.25.0_linux_arm.zip",
+          "download_url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.25.0/terraform-provider-tailscale_0.25.0_linux_arm.zip",
+          "shasum": "a5fab5b9ed0b32456f1c7005535d29bc9dcb06614f2446c72ee239bfd1139b75",
+          "h1": "h1:kFfY2oBDhW70/4MbPxjNln+RPk3SWR7ewrJjErEuLII="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-tailscale_0.25.0_linux_arm64.zip",
+          "download_url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.25.0/terraform-provider-tailscale_0.25.0_linux_arm64.zip",
+          "shasum": "aea2a1fe52ef0736f7ef5d8608fe56e5c9018b2d09b5671637fc742ed1d6df69",
+          "h1": "h1:ExYp+uA9yjr3f52EPyB7RF9lNxGG4LLgI0Weoxas8II="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-tailscale_0.25.0_windows_386.zip",
+          "download_url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.25.0/terraform-provider-tailscale_0.25.0_windows_386.zip",
+          "shasum": "719f53783f5d6c2b99ae836e099da450c7c08f408eff45a3bb02b4f14a4d77a6",
+          "h1": "h1:pNlrK2rMm3+nnZBj+Ud+nVYyoZHZZA1h+W8y277yNco="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-tailscale_0.25.0_windows_amd64.zip",
+          "download_url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.25.0/terraform-provider-tailscale_0.25.0_windows_amd64.zip",
+          "shasum": "4dab293c98ca41bd0d6252039e0f91e4eb3f5609173d3859e8fe5e615efd6dbe",
+          "h1": "h1:2If45ZePbAJBb1UZtNdi2GT7OLi5n8njgyVm2ITlawY="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-tailscale_0.25.0_windows_arm.zip",
+          "download_url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.25.0/terraform-provider-tailscale_0.25.0_windows_arm.zip",
+          "shasum": "97d6749915ff165b0e2133b5824faed36cbb9a9345b7d76e230e8863796465fe",
+          "h1": "h1:WXdg0GcLxtnZpK2vH1xx1dp47s1gUvt4upaoK0KxrsI="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-tailscale_0.25.0_windows_arm64.zip",
+          "download_url": "https://github.com/tailscale/terraform-provider-tailscale/releases/download/v0.25.0/terraform-provider-tailscale_0.25.0_windows_arm64.zip",
+          "shasum": "3e19c26a69b2621b466899f1e593f2d46a5bad367d51c73b2d71dca00b6c42e5",
+          "h1": "h1:zXDVQaH+Ug04j+OMrChHymE+AW9JsFS44SbfpPrzn4I="
+        }
+      ]
+    },
+    {
       "version": "0.24.0",
       "protocols": [
         "5.0"
