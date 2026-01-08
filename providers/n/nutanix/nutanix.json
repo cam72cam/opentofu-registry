@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "2.4.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v2.4.0/terraform-provider-nutanix_2.4.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v2.4.0/terraform-provider-nutanix_2.4.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-nutanix_2.4.0_darwin_amd64.zip",
+          "download_url": "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v2.4.0/terraform-provider-nutanix_2.4.0_darwin_amd64.zip",
+          "shasum": "eff6136e36b8f48f47b44588b646428ae2b95af33beb71fa7e58a8e84772fb6a",
+          "h1": "h1:HPuB6o2VJI4BRgWGytTTlv9+JKEa04drXiNl8otFJSY="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-nutanix_2.4.0_darwin_arm64.zip",
+          "download_url": "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v2.4.0/terraform-provider-nutanix_2.4.0_darwin_arm64.zip",
+          "shasum": "99ff392969a172d96adc601959ea0aa69129a8b3a155d7d5b2c3341b194e2fca",
+          "h1": "h1:cYDGYiQ/sma6kDKazpEmCanBuQiDDGGaOegAA5cybII="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-nutanix_2.4.0_freebsd_386.zip",
+          "download_url": "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v2.4.0/terraform-provider-nutanix_2.4.0_freebsd_386.zip",
+          "shasum": "2d3d6b8aab13cf960c438d6b338d4f18e44a89d93abb5274349478be46c7b250",
+          "h1": "h1:fZCIU8f9NRG543A8u50AcErs2nBA10XQfDwUzCjQkk0="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-nutanix_2.4.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v2.4.0/terraform-provider-nutanix_2.4.0_freebsd_amd64.zip",
+          "shasum": "33f59233e9d7f935bd37d2a05fb773c260141d7dd39aa4ca0d0c1fcb74ba326b",
+          "h1": "h1:vFTE1uP0aUSG/oHAsQ8fVzCwXr49vvNBt3NY/QGMxZA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-nutanix_2.4.0_freebsd_arm.zip",
+          "download_url": "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v2.4.0/terraform-provider-nutanix_2.4.0_freebsd_arm.zip",
+          "shasum": "22e48017b5e3726e75368962c856026bb97e685c24db9fca33230922dee1198c",
+          "h1": "h1:biCA/FuxB+co5V2Dp99F8dHUxnfE+Oue+n9BU8Ylzco="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-nutanix_2.4.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v2.4.0/terraform-provider-nutanix_2.4.0_freebsd_arm64.zip",
+          "shasum": "3507ca8c7c09dd1f829c19b0f469a4e1d19a7677e9b5fa0338cbb79fdc077920",
+          "h1": "h1:M+o79+LRB/ONSxfJF8QoR5Y33tTGs2fBLqnyIJiqH+M="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-nutanix_2.4.0_linux_386.zip",
+          "download_url": "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v2.4.0/terraform-provider-nutanix_2.4.0_linux_386.zip",
+          "shasum": "e08b565f2b2f7b4eb79afa6465f1a24395806f7781f1262040e5a0fda4522970",
+          "h1": "h1:Dd0yaz20Dus9qey6d5hcN2h5XZPP/bX3oynrx/ce7IQ="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-nutanix_2.4.0_linux_amd64.zip",
+          "download_url": "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v2.4.0/terraform-provider-nutanix_2.4.0_linux_amd64.zip",
+          "shasum": "c3ecf586cdc99bfe73b4ba040a96ed2abf7f38eaa8751dfd9b416300a05a227b",
+          "h1": "h1:+G0oeeGE6LRVFrR2B4e2/gDxK6GT9JhXwH7YIMvVcWI="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-nutanix_2.4.0_linux_arm.zip",
+          "download_url": "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v2.4.0/terraform-provider-nutanix_2.4.0_linux_arm.zip",
+          "shasum": "326f6527259f166ceec1ec6d6f6afed2e9f415499d642699932a6281935bb5da",
+          "h1": "h1:UQdpD89HckDtPWzFv7fg3N7kuZEeG7KXe6zur8a+sM4="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-nutanix_2.4.0_linux_arm64.zip",
+          "download_url": "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v2.4.0/terraform-provider-nutanix_2.4.0_linux_arm64.zip",
+          "shasum": "9da34d2ebebe5f1abd81fdcccf48271609afb1db802574d327aef33909950f2d",
+          "h1": "h1:0/aMIZljajhkMsjimZRKJaJlxBfwwOqEl/09Fowu4pE="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-nutanix_2.4.0_windows_386.zip",
+          "download_url": "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v2.4.0/terraform-provider-nutanix_2.4.0_windows_386.zip",
+          "shasum": "e6ebee5c1ae018566678a1f33d413d1e0b0510beec4839e2b92ec31c9a72e7ef",
+          "h1": "h1:UeOeXFNiWXl5gm8lFY3k7TZbyWV3n4E+LSvNit+hD4U="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-nutanix_2.4.0_windows_amd64.zip",
+          "download_url": "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v2.4.0/terraform-provider-nutanix_2.4.0_windows_amd64.zip",
+          "shasum": "ae43138a82aa1381272a75555d77da6cb0a9d0c85460ba61a09b72ddd2921b3d",
+          "h1": "h1:m7R5byeyPZYkC3cojOmOCooWljH33QQDtk1jtQim/w8="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-nutanix_2.4.0_windows_arm.zip",
+          "download_url": "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v2.4.0/terraform-provider-nutanix_2.4.0_windows_arm.zip",
+          "shasum": "67cf92da6394c1cf1d38c53d152ccee7449f2af0c0bbfc285aa6cefd758806da",
+          "h1": "h1:za1/YSMkSl+7Mn/nOPzhCp4iJfpbtJE5wKHB9vrAKz0="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-nutanix_2.4.0_windows_arm64.zip",
+          "download_url": "https://github.com/nutanix/terraform-provider-nutanix/releases/download/v2.4.0/terraform-provider-nutanix_2.4.0_windows_arm64.zip",
+          "shasum": "0db13d2cdb39cebc88160485ba479957b4b7d6d1ce33b38b97a5df4b5660e77d",
+          "h1": "h1:LE9yhPSd4Vo8Z2Wc21H9fD+4vBxHErnOSQmDuWBOMew="
+        }
+      ]
+    },
+    {
       "version": "2.3.4",
       "protocols": [
         "5.0"
