@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.27.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/elestio/terraform-provider-elestio/releases/download/v0.27.0/terraform-provider-elestio_0.27.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/elestio/terraform-provider-elestio/releases/download/v0.27.0/terraform-provider-elestio_0.27.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-elestio_0.27.0_darwin_amd64.zip",
+          "download_url": "https://github.com/elestio/terraform-provider-elestio/releases/download/v0.27.0/terraform-provider-elestio_0.27.0_darwin_amd64.zip",
+          "shasum": "91ed4d8227489a96f491898e83f10aed0303c514f230f08f5bd2b5367af7bec8",
+          "h1": "h1:uWEp54SirXjIsQ4xxfYNiSt2ID1YOWmhdvutWUVV2zQ="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-elestio_0.27.0_darwin_arm64.zip",
+          "download_url": "https://github.com/elestio/terraform-provider-elestio/releases/download/v0.27.0/terraform-provider-elestio_0.27.0_darwin_arm64.zip",
+          "shasum": "69ae92977900794b04b9c1cbd24056470dfa5e72a373341928f5ce99f23cd153",
+          "h1": "h1:0gsfdw3RqnWIKNtMWJXXIV3e3D69YWXpn2GjTp+NNtg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-elestio_0.27.0_freebsd_386.zip",
+          "download_url": "https://github.com/elestio/terraform-provider-elestio/releases/download/v0.27.0/terraform-provider-elestio_0.27.0_freebsd_386.zip",
+          "shasum": "0e6d477e8714874438bc9100cce65de7679bd743f1fa87bf13bb952cc3fb5848",
+          "h1": "h1:cNxZGN0E8w7wh6mhlzvbW1Iv5mZewTHN1e/5uHI6m+o="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-elestio_0.27.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/elestio/terraform-provider-elestio/releases/download/v0.27.0/terraform-provider-elestio_0.27.0_freebsd_amd64.zip",
+          "shasum": "2c6c6b53b8f13f08db97267c9126dfb9a2767d924f2b37388e40fd496c16c6b4",
+          "h1": "h1:8Tf7rwQGTj7Gxezk/gtRVq+iQG+WpT6d4iU7/adEP3I="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-elestio_0.27.0_freebsd_arm.zip",
+          "download_url": "https://github.com/elestio/terraform-provider-elestio/releases/download/v0.27.0/terraform-provider-elestio_0.27.0_freebsd_arm.zip",
+          "shasum": "967c4ed4b2dd9f0e65f6ad66979afd3367a682f1de417aa92f8b2fd37c083e97",
+          "h1": "h1:EyzavLfxaH6uTN8sGGft6uZNb5/qkcxE771xuRuxwXQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-elestio_0.27.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/elestio/terraform-provider-elestio/releases/download/v0.27.0/terraform-provider-elestio_0.27.0_freebsd_arm64.zip",
+          "shasum": "b42a2a5d06fdc190a844877ff3ccaa07595beebc50d0b91ad95d11abd35dbc61",
+          "h1": "h1:cODU1CVwDGhCgRog751tgQ0WSP4KAPe/aDcohDHsTds="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-elestio_0.27.0_linux_386.zip",
+          "download_url": "https://github.com/elestio/terraform-provider-elestio/releases/download/v0.27.0/terraform-provider-elestio_0.27.0_linux_386.zip",
+          "shasum": "b3bca0e2ca4b866b7735fe205cac53937f8a74fd6f422d4090ef72d19ed65ac0",
+          "h1": "h1:SFoULHPpwh8i+m07KvICoTLheVg+iKLOUud2hqo8mq8="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-elestio_0.27.0_linux_amd64.zip",
+          "download_url": "https://github.com/elestio/terraform-provider-elestio/releases/download/v0.27.0/terraform-provider-elestio_0.27.0_linux_amd64.zip",
+          "shasum": "ed163d347e8a616fe3ecc2e2b09c532c24a209e6128b2a208dea16837c7dbd97",
+          "h1": "h1:xpkhpvFB8maryWTkvFpL/eLGnOwhUOldlEo1XJ6d9pw="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-elestio_0.27.0_linux_arm.zip",
+          "download_url": "https://github.com/elestio/terraform-provider-elestio/releases/download/v0.27.0/terraform-provider-elestio_0.27.0_linux_arm.zip",
+          "shasum": "33a8d1be83c632ef29dc709c35dd78e6164a1389a10b021812651e17f6775c63",
+          "h1": "h1:Gt8sXjOU5Z3He0Dcq1CaPYXo7W7wBt6RToqoABbnGnw="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-elestio_0.27.0_linux_arm64.zip",
+          "download_url": "https://github.com/elestio/terraform-provider-elestio/releases/download/v0.27.0/terraform-provider-elestio_0.27.0_linux_arm64.zip",
+          "shasum": "1c5b723ec1863004ae4918bedbcfef1d746fa9784f25f316687eefaa28439023",
+          "h1": "h1:t/RZTwTw1n4tRfUdqWPVjvGLAY0P6Sae5Yj7/TNEZO0="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-elestio_0.27.0_windows_386.zip",
+          "download_url": "https://github.com/elestio/terraform-provider-elestio/releases/download/v0.27.0/terraform-provider-elestio_0.27.0_windows_386.zip",
+          "shasum": "e1bd1e6afba96e18437e4f6a03cbb1055d8e831b13af15fe297895171c2d8e9a",
+          "h1": "h1:U+vkABWYid0wMZE2U86CfcuIueqaCNa7rM5uBij1otA="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-elestio_0.27.0_windows_amd64.zip",
+          "download_url": "https://github.com/elestio/terraform-provider-elestio/releases/download/v0.27.0/terraform-provider-elestio_0.27.0_windows_amd64.zip",
+          "shasum": "2dcd6e1c2ab0fe89dc74301e7de946be87e5654707cbb4178434e5092206f9ad",
+          "h1": "h1:Pf1NnUtrobCytrE3FT7qlXJegAWV0ZgHd4D4puJguOU="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-elestio_0.27.0_windows_arm.zip",
+          "download_url": "https://github.com/elestio/terraform-provider-elestio/releases/download/v0.27.0/terraform-provider-elestio_0.27.0_windows_arm.zip",
+          "shasum": "f36276b21e27133cf97761410ed6ff28296b840d675667788e90ad1263539a6d",
+          "h1": "h1:ElgP0tDSFX4y7QBhqAchBUaE8bSx7P5ILLv5N3+w6Zg="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-elestio_0.27.0_windows_arm64.zip",
+          "download_url": "https://github.com/elestio/terraform-provider-elestio/releases/download/v0.27.0/terraform-provider-elestio_0.27.0_windows_arm64.zip",
+          "shasum": "07bef680e40e11172f5b66475944233a0d1cfcb064b878cbca923318ec30d915",
+          "h1": "h1:5zu2oo2Frsr3pdqqnbw1pj/CQ/umh630h6HZj1qiIQI="
+        }
+      ]
+    },
+    {
       "version": "0.26.0",
       "protocols": [
         "6.0"
