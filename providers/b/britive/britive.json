@@ -1,6 +1,120 @@
 {
   "versions": [
     {
+      "version": "2.2.7",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/britive/terraform-provider-britive/releases/download/v2.2.7/terraform-provider-britive_2.2.7_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/britive/terraform-provider-britive/releases/download/v2.2.7/terraform-provider-britive_2.2.7_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-britive_2.2.7_darwin_amd64.zip",
+          "download_url": "https://github.com/britive/terraform-provider-britive/releases/download/v2.2.7/terraform-provider-britive_2.2.7_darwin_amd64.zip",
+          "shasum": "7a241f502a07ab9398ef1383b57dc8ae93030de3a6e25c48bcad3051a87c6fc9",
+          "h1": "h1:q+QjO4QqE4LjNYjmKTrI7LFLhoyafI37F4gCeu2le4Y="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-britive_2.2.7_darwin_arm64.zip",
+          "download_url": "https://github.com/britive/terraform-provider-britive/releases/download/v2.2.7/terraform-provider-britive_2.2.7_darwin_arm64.zip",
+          "shasum": "c5247646d7f29760dda5876e503ccd618154406c9e32fff5a93647231e9886f3",
+          "h1": "h1:rKOH8/Q1wYwKvqy7b0g2lkQizakoe2qVVew/IAsx2Ro="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-britive_2.2.7_freebsd_386.zip",
+          "download_url": "https://github.com/britive/terraform-provider-britive/releases/download/v2.2.7/terraform-provider-britive_2.2.7_freebsd_386.zip",
+          "shasum": "e3fc78ff26a530e3bb605351b333aa2f8c35e7a10ef5978962a7b32224f4fdd5",
+          "h1": "h1:bvs+BkD9HcNg5a7YOtE7bk/awhxrrS6rCB8GSXam4XA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-britive_2.2.7_freebsd_amd64.zip",
+          "download_url": "https://github.com/britive/terraform-provider-britive/releases/download/v2.2.7/terraform-provider-britive_2.2.7_freebsd_amd64.zip",
+          "shasum": "a80cac0f946965d3d12abce562e68b0346a44a81b49dab2caeedb9959fb99cbb",
+          "h1": "h1:vskPasK69tyvz1Dlvu931dHURtZsPJQVGrEaGoY1m9k="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-britive_2.2.7_freebsd_arm.zip",
+          "download_url": "https://github.com/britive/terraform-provider-britive/releases/download/v2.2.7/terraform-provider-britive_2.2.7_freebsd_arm.zip",
+          "shasum": "eeffbab4bf91c512b00898303af5b4684f585c7802176d2e19152609f71ea411",
+          "h1": "h1:iaUFSo4GRsUuzed0C+EnA35gssveuWuTCeBN7/E0NWk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-britive_2.2.7_freebsd_arm64.zip",
+          "download_url": "https://github.com/britive/terraform-provider-britive/releases/download/v2.2.7/terraform-provider-britive_2.2.7_freebsd_arm64.zip",
+          "shasum": "d72bd313af6351e5cfb4a16900a21ff5c8f560d2d98ba479f7aee41572e0e93c",
+          "h1": "h1:IP4JDTGtOtiG/XBDJ0VhNEfmGC5Mml2Pu/FjpiNZ3SA="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-britive_2.2.7_linux_386.zip",
+          "download_url": "https://github.com/britive/terraform-provider-britive/releases/download/v2.2.7/terraform-provider-britive_2.2.7_linux_386.zip",
+          "shasum": "6d33a7fb3932d9dd5f1fd4b171e080c49d9c6f3a15b857c0885b571667562fba",
+          "h1": "h1:eUiVuD8zNxKvREYEFMu28XqoMDKUX+DHhe5caP6zSoo="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-britive_2.2.7_linux_amd64.zip",
+          "download_url": "https://github.com/britive/terraform-provider-britive/releases/download/v2.2.7/terraform-provider-britive_2.2.7_linux_amd64.zip",
+          "shasum": "d9df249710e6d3472c5d2bc0e50fe576278ffa72d7eabf0866f34ba20fdf4284",
+          "h1": "h1:5racSf1D9TDadjcv3/iVq7ZM5PhMHeq35qIg7Pb6dJQ="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-britive_2.2.7_linux_arm.zip",
+          "download_url": "https://github.com/britive/terraform-provider-britive/releases/download/v2.2.7/terraform-provider-britive_2.2.7_linux_arm.zip",
+          "shasum": "dcb05c430fea8dd19758b028de9f56e1752ba51dda401ad5f94bc67fc5f1a0a1",
+          "h1": "h1://zi12JRD5pmdY3G471ICcOt316T40hi7gIQvckje/g="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-britive_2.2.7_linux_arm64.zip",
+          "download_url": "https://github.com/britive/terraform-provider-britive/releases/download/v2.2.7/terraform-provider-britive_2.2.7_linux_arm64.zip",
+          "shasum": "c5a052c70cb8518bbf156a6fac023919f4996d3e6923d70083e2cf0bb4a00681",
+          "h1": "h1:ziWgkqvo+xJ+SIDnb+SmwZGs/KrUhpvribWPqeYuhkg="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-britive_2.2.7_windows_386.zip",
+          "download_url": "https://github.com/britive/terraform-provider-britive/releases/download/v2.2.7/terraform-provider-britive_2.2.7_windows_386.zip",
+          "shasum": "6317746091715e4500e66079470b886e07c89d8bcf12bbc022d494ac5b0b67d1",
+          "h1": "h1:JOG9ELrJpUxGuLDAxVsIXsK+xFJFUWz0Fwxg8kPk3FY="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-britive_2.2.7_windows_amd64.zip",
+          "download_url": "https://github.com/britive/terraform-provider-britive/releases/download/v2.2.7/terraform-provider-britive_2.2.7_windows_amd64.zip",
+          "shasum": "601115c21a9e1da29d888375f1dcf4da52c4c90ad175d6bf6f9e99bb9824a8f7",
+          "h1": "h1:lqkWJI22z0Hku5nfztr5HosVam5UEDdLSxnHax/Oh7E="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-britive_2.2.7_windows_arm.zip",
+          "download_url": "https://github.com/britive/terraform-provider-britive/releases/download/v2.2.7/terraform-provider-britive_2.2.7_windows_arm.zip",
+          "shasum": "c15f4d1e676fb4349121c678c85809e5654ed5321a03c9c1d57788eba14024da",
+          "h1": "h1:PlD97oAuNnsRLGT40L2oLTduC59SK8S9oUlL7yER8gQ="
+        }
+      ]
+    },
+    {
       "version": "2.2.6",
       "protocols": [
         "5.0"
