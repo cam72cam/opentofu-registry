@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "2.10.1",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/redislabs/terraform-provider-rediscloud/releases/download/v2.10.1/terraform-provider-rediscloud_2.10.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/redislabs/terraform-provider-rediscloud/releases/download/v2.10.1/terraform-provider-rediscloud_2.10.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-rediscloud_2.10.1_darwin_amd64.zip",
+          "download_url": "https://github.com/redislabs/terraform-provider-rediscloud/releases/download/v2.10.1/terraform-provider-rediscloud_2.10.1_darwin_amd64.zip",
+          "shasum": "9ae1490305d5ceca4d6104accafb8932bf7b4a4384eb90726128bf9239309584",
+          "h1": "h1:oBB3LDyDOFRKjMJn7RwCKRpsHUHw8hHaWXhbxDejTTE="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-rediscloud_2.10.1_darwin_arm64.zip",
+          "download_url": "https://github.com/redislabs/terraform-provider-rediscloud/releases/download/v2.10.1/terraform-provider-rediscloud_2.10.1_darwin_arm64.zip",
+          "shasum": "77971a9d33b1e0dace7025105e502f7c00f7b386e03932c7860934507c03ad69",
+          "h1": "h1:OdmAOHuDOrjaifZwVp+5IcXAe4wKU6HcvBTV2c55zRE="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-rediscloud_2.10.1_freebsd_386.zip",
+          "download_url": "https://github.com/redislabs/terraform-provider-rediscloud/releases/download/v2.10.1/terraform-provider-rediscloud_2.10.1_freebsd_386.zip",
+          "shasum": "4f42b8a10f02479a6df43a2c528cdfdbb276551e9f3c35b3ac11eda893978472",
+          "h1": "h1:yboMvP8HoXuhxsbTCMmYr2LjaYsdb9/dVn+4aLCkLsg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-rediscloud_2.10.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/redislabs/terraform-provider-rediscloud/releases/download/v2.10.1/terraform-provider-rediscloud_2.10.1_freebsd_amd64.zip",
+          "shasum": "1749f7c6246d1c8b76d108c1f02d6300f95b96b01ce61b98658427bbd726752b",
+          "h1": "h1:DecHRG7cv5D0qeKsuMN695pqKq/JOMZ8xD1Ktfu5jAw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-rediscloud_2.10.1_freebsd_arm.zip",
+          "download_url": "https://github.com/redislabs/terraform-provider-rediscloud/releases/download/v2.10.1/terraform-provider-rediscloud_2.10.1_freebsd_arm.zip",
+          "shasum": "37414a285e0a5481558f1852ff0624da851584d2c1e754fce0ab90d3db9e5869",
+          "h1": "h1:QJ5kERIRPoRGpMrndD+AIc82GH0kx8ELh05ClbbagiI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-rediscloud_2.10.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/redislabs/terraform-provider-rediscloud/releases/download/v2.10.1/terraform-provider-rediscloud_2.10.1_freebsd_arm64.zip",
+          "shasum": "d26a6c9b768acd26d7b80e20acf42808baf6403e8b926354ea32be25ce0067ad",
+          "h1": "h1:HZtAfse7NU7TyNJbccoeN7s72AVo8biVhqR8eoHjGLE="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-rediscloud_2.10.1_linux_386.zip",
+          "download_url": "https://github.com/redislabs/terraform-provider-rediscloud/releases/download/v2.10.1/terraform-provider-rediscloud_2.10.1_linux_386.zip",
+          "shasum": "ab44a9d44af7bb063d59ddd13d86740a6eefd6737acd8b1d12ae1e8a4129112c",
+          "h1": "h1:ZTLiyCrdycBNerYPbaoMGHIjKAHT4hvZ/quzSdl7Og8="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-rediscloud_2.10.1_linux_amd64.zip",
+          "download_url": "https://github.com/redislabs/terraform-provider-rediscloud/releases/download/v2.10.1/terraform-provider-rediscloud_2.10.1_linux_amd64.zip",
+          "shasum": "95fe9be90f1d9c8205a7f45023875fdc5b158ee2888a6b90611fe2a31087fae3",
+          "h1": "h1:YDDvj2ujYuyj73vd/ruO4mwWgafSqP+kL5uwO6LW4XA="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-rediscloud_2.10.1_linux_arm.zip",
+          "download_url": "https://github.com/redislabs/terraform-provider-rediscloud/releases/download/v2.10.1/terraform-provider-rediscloud_2.10.1_linux_arm.zip",
+          "shasum": "dab1826da0c59fc735d76efe0fb0365f8a399eed51529c70d506cfcd32d15f52",
+          "h1": "h1:ySJaN1ul6yIi0P8+RkvL51i+LERXqDcAfYyUtKLR+Dg="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-rediscloud_2.10.1_linux_arm64.zip",
+          "download_url": "https://github.com/redislabs/terraform-provider-rediscloud/releases/download/v2.10.1/terraform-provider-rediscloud_2.10.1_linux_arm64.zip",
+          "shasum": "9e53f988459600b47035e5864558e39efa98fd916fe7c20e5547f6f42af5b334",
+          "h1": "h1:d2KYrBMTEMtf+1o0x0l8H60UKo+YaN+qvrSmpda53kE="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-rediscloud_2.10.1_windows_386.zip",
+          "download_url": "https://github.com/redislabs/terraform-provider-rediscloud/releases/download/v2.10.1/terraform-provider-rediscloud_2.10.1_windows_386.zip",
+          "shasum": "6cd7e6943eed4a12753e8d66dfe36b63c3c389f7b9ef24966e016342bfef69c4",
+          "h1": "h1:I0I34EhqHlmxKHAUC2xsUTgCmM4O8fWpjMOCVEJxkMw="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-rediscloud_2.10.1_windows_amd64.zip",
+          "download_url": "https://github.com/redislabs/terraform-provider-rediscloud/releases/download/v2.10.1/terraform-provider-rediscloud_2.10.1_windows_amd64.zip",
+          "shasum": "093a963048ef55660815bc828fac028b910094d3a5527b5ae4f5f57e3dc06334",
+          "h1": "h1:3b70p/TrvaJm6WlltP8WVdQ52/wb15q8TSraR9+e42k="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-rediscloud_2.10.1_windows_arm.zip",
+          "download_url": "https://github.com/redislabs/terraform-provider-rediscloud/releases/download/v2.10.1/terraform-provider-rediscloud_2.10.1_windows_arm.zip",
+          "shasum": "b2cf2efd78a675d6f0b13dede01c5974e8972c90a5ddc6c1d038bdbcf3675c4a",
+          "h1": "h1:oM4PXanMW8asCK1rDZPz3+v/9fTOTnoCBxMiA2IZgMU="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-rediscloud_2.10.1_windows_arm64.zip",
+          "download_url": "https://github.com/redislabs/terraform-provider-rediscloud/releases/download/v2.10.1/terraform-provider-rediscloud_2.10.1_windows_arm64.zip",
+          "shasum": "a282b26e70bd0bcb1a2a6ece3d2512a822d40476deb433eed2a90b3769c37fe1",
+          "h1": "h1:o0UxgH4M1WbDVbH+3AwMNbWtOqmsnUpsy0Lz7awOn2w="
+        }
+      ]
+    },
+    {
       "version": "2.10.0",
       "protocols": [
         "5.0"
