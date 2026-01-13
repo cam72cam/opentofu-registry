@@ -1,6 +1,64 @@
 {
   "versions": [
     {
+      "version": "15.48.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v15.48.0/terraform-provider-sdm_15.48.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v15.48.0/terraform-provider-sdm_15.48.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-sdm_15.48.0_darwin_amd64.zip",
+          "download_url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v15.48.0/terraform-provider-sdm_15.48.0_darwin_amd64.zip",
+          "shasum": "71b76c56328c418a6ffa8a1afa6ba84da85490b9d8182a765e41f2be5453c99e",
+          "h1": "h1:wj+uLaVN7fMEY9w8T4IVA6IZqCma21g/rAb7ZG78La8="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-sdm_15.48.0_darwin_arm64.zip",
+          "download_url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v15.48.0/terraform-provider-sdm_15.48.0_darwin_arm64.zip",
+          "shasum": "5fefa0b3439050147c4164697a5fdc101392f9a4d10be8ee34a847e722340d6e",
+          "h1": "h1:N07dOLxRwOhNLdELjXDytA5slShRmJrWnIcN36Wms3o="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-sdm_15.48.0_linux_amd64.zip",
+          "download_url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v15.48.0/terraform-provider-sdm_15.48.0_linux_amd64.zip",
+          "shasum": "22935121bcc081d4352b93dd68eb42a7feb7b66d6112cf24122487a54d5af79d",
+          "h1": "h1:K5PqYC+KXhULfSzX5aFl5VQfD1sISKNd599ClL571FY="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-sdm_15.48.0_linux_arm64.zip",
+          "download_url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v15.48.0/terraform-provider-sdm_15.48.0_linux_arm64.zip",
+          "shasum": "c47b0e9dc0e644dae1f03a96a8be5a5466f5b810e22326f95355f73d307f46c4",
+          "h1": "h1:ZMMgLXlADgTHxvCgqiCDn5Rybg13MLEB61ckFHIjcbI="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-sdm_15.48.0_windows_386.zip",
+          "download_url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v15.48.0/terraform-provider-sdm_15.48.0_windows_386.zip",
+          "shasum": "3566b4f87e3ffd7baaa458ba446a6fad30f33514d9a6b16914c9de6b8ca461d6",
+          "h1": "h1:Q8F+x9NXUFSBN5c++GuxTYWqVyza0+048/IrsCm8CLg="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-sdm_15.48.0_windows_amd64.zip",
+          "download_url": "https://github.com/strongdm/terraform-provider-sdm/releases/download/v15.48.0/terraform-provider-sdm_15.48.0_windows_amd64.zip",
+          "shasum": "8414e1403e10f60f278edb4f3827fee21e36d880ed6ba6b2ceba5b025e78ec91",
+          "h1": "h1:lZVH6S7rvT2HLiFOGTbCx5k4dlCW7ibfxj1fhuoGLpM="
+        }
+      ]
+    },
+    {
       "version": "15.45.0",
       "protocols": [
         "5.0"
