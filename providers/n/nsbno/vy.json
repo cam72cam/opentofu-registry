@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.2.0-rc1",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/nsbno/terraform-provider-vy/releases/download/v1.2.0-rc1/terraform-provider-vy_1.2.0-rc1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/nsbno/terraform-provider-vy/releases/download/v1.2.0-rc1/terraform-provider-vy_1.2.0-rc1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-vy_1.2.0-rc1_darwin_amd64.zip",
+          "download_url": "https://github.com/nsbno/terraform-provider-vy/releases/download/v1.2.0-rc1/terraform-provider-vy_1.2.0-rc1_darwin_amd64.zip",
+          "shasum": "8300754d606f44fac7085afc553cfb7a5d32b12b0a45aa14aa0627b88e61bca0",
+          "h1": "h1:MKw2K4ZthVrO69qhDehyf7Dw9A3vHnzn4nUJ1o9Zf4g="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-vy_1.2.0-rc1_darwin_arm64.zip",
+          "download_url": "https://github.com/nsbno/terraform-provider-vy/releases/download/v1.2.0-rc1/terraform-provider-vy_1.2.0-rc1_darwin_arm64.zip",
+          "shasum": "1c5b0e9a67bf5ecccb6edc437698a17e94ea383f795e160b500db4381ec469a3",
+          "h1": "h1:JJ1ydJPvvsvqQgBKoqkdgux2XLH/fKnyDSrCCGTrI2A="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-vy_1.2.0-rc1_freebsd_386.zip",
+          "download_url": "https://github.com/nsbno/terraform-provider-vy/releases/download/v1.2.0-rc1/terraform-provider-vy_1.2.0-rc1_freebsd_386.zip",
+          "shasum": "5061c9cfaa08cd99ad2e332c310109dc2607dbbb1050fbdec914c9021e0f4960",
+          "h1": "h1:HUnv6h6u8x2owjS/+wdUgTPoLJm6HhDusIQ4y6INp34="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-vy_1.2.0-rc1_freebsd_amd64.zip",
+          "download_url": "https://github.com/nsbno/terraform-provider-vy/releases/download/v1.2.0-rc1/terraform-provider-vy_1.2.0-rc1_freebsd_amd64.zip",
+          "shasum": "7984a6f9a2a0f7497dc39e3c72cb94b5be261c1b3ad9c48f16ba1407356e8f39",
+          "h1": "h1:TXiyv3jNAlruZP5NCyt+C0xun36nTc39bSsJvemZ6pE="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-vy_1.2.0-rc1_freebsd_arm.zip",
+          "download_url": "https://github.com/nsbno/terraform-provider-vy/releases/download/v1.2.0-rc1/terraform-provider-vy_1.2.0-rc1_freebsd_arm.zip",
+          "shasum": "50320f71e284e49c1417d625b8eaa336c0a698e3ddd09b6f38199b6a79753449",
+          "h1": "h1:VrgUF/dSkdF7IlzwmC6o07JyEfgBeEhB5pQnRxOfxDw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-vy_1.2.0-rc1_freebsd_arm64.zip",
+          "download_url": "https://github.com/nsbno/terraform-provider-vy/releases/download/v1.2.0-rc1/terraform-provider-vy_1.2.0-rc1_freebsd_arm64.zip",
+          "shasum": "8780c7844df8a934ebb4d5447efe69d121776da5d7b98fc412af6103f861974f",
+          "h1": "h1:iVQR08P+goEC2EqNENGbih7YO+OLVTh+nPMY2Fd7KlY="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-vy_1.2.0-rc1_linux_386.zip",
+          "download_url": "https://github.com/nsbno/terraform-provider-vy/releases/download/v1.2.0-rc1/terraform-provider-vy_1.2.0-rc1_linux_386.zip",
+          "shasum": "3f686ac924642fa695bcc0914cc15a9317aed60067b9e09ad51306f183df0d63",
+          "h1": "h1:H1sg/wdLumZ1/R0uiJHfpgkuY0uPBV725O/Ag0yquPI="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-vy_1.2.0-rc1_linux_amd64.zip",
+          "download_url": "https://github.com/nsbno/terraform-provider-vy/releases/download/v1.2.0-rc1/terraform-provider-vy_1.2.0-rc1_linux_amd64.zip",
+          "shasum": "e9fc2e537c08f6a41b516ee7d8feade201b86db7816014f5ef0d4e46c191f1cb",
+          "h1": "h1:0HnUG3+g3YSyqUQx7cEmL+mPpGaCO3Usr/hBCsHjam8="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-vy_1.2.0-rc1_linux_arm.zip",
+          "download_url": "https://github.com/nsbno/terraform-provider-vy/releases/download/v1.2.0-rc1/terraform-provider-vy_1.2.0-rc1_linux_arm.zip",
+          "shasum": "8b48bb1ecb10c834f3ee32cb00f388cd81ffadb15c706539112c961d3fc8280b",
+          "h1": "h1:y7U5thJnaTfaq9YYLzHvDCwbmQx7XbVURFpLiaDo7A0="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-vy_1.2.0-rc1_linux_arm64.zip",
+          "download_url": "https://github.com/nsbno/terraform-provider-vy/releases/download/v1.2.0-rc1/terraform-provider-vy_1.2.0-rc1_linux_arm64.zip",
+          "shasum": "d6430393273fe17aa48aa08778b7deb09fcb2c258449bc0c443b8a76669720a5",
+          "h1": "h1:F+Utz0TO5yBFq8/WnQgwocXFpS7jWs0O9VS3SzxvlwI="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-vy_1.2.0-rc1_windows_386.zip",
+          "download_url": "https://github.com/nsbno/terraform-provider-vy/releases/download/v1.2.0-rc1/terraform-provider-vy_1.2.0-rc1_windows_386.zip",
+          "shasum": "b30a23e64a257832e97c216b98ba799a2b599d2955e3d450de70226cdee72ee1",
+          "h1": "h1:80DdJmDHl0wN/WNh7v5QtRV4sWT7kdTxnnRO3aIOO/Q="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-vy_1.2.0-rc1_windows_amd64.zip",
+          "download_url": "https://github.com/nsbno/terraform-provider-vy/releases/download/v1.2.0-rc1/terraform-provider-vy_1.2.0-rc1_windows_amd64.zip",
+          "shasum": "3c8f21b383410b93d99cceda4eee38bc0f0fdcd2d72643d62d749fba0057da08",
+          "h1": "h1:BrZGAqfVvwQsxCItrTB77+mW6LT74C8qgQsS63rqcI4="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-vy_1.2.0-rc1_windows_arm.zip",
+          "download_url": "https://github.com/nsbno/terraform-provider-vy/releases/download/v1.2.0-rc1/terraform-provider-vy_1.2.0-rc1_windows_arm.zip",
+          "shasum": "8298c4a2d05aebb2968625eded052f2d79596c0e1027237c2697c53478009dbc",
+          "h1": "h1:P846G+tcwBgHqZIlDURaQqZptqb5jwbsXY02Zn0SLBI="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-vy_1.2.0-rc1_windows_arm64.zip",
+          "download_url": "https://github.com/nsbno/terraform-provider-vy/releases/download/v1.2.0-rc1/terraform-provider-vy_1.2.0-rc1_windows_arm64.zip",
+          "shasum": "40f668c95d08d679fda541ad15708b1cf31f1e195f0c67306470b14f91c285e7",
+          "h1": "h1:6b17X14bpkZkqEYk8tETy2dEDHXIqD0xoO1FNachjPc="
+        }
+      ]
+    },
+    {
       "version": "1.1.1",
       "protocols": [
         "6.0"
