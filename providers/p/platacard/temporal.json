@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.16.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/platacard/terraform-provider-temporal/releases/download/v0.16.0/terraform-provider-temporal_0.16.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/platacard/terraform-provider-temporal/releases/download/v0.16.0/terraform-provider-temporal_0.16.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-temporal_0.16.0_darwin_amd64.zip",
+          "download_url": "https://github.com/platacard/terraform-provider-temporal/releases/download/v0.16.0/terraform-provider-temporal_0.16.0_darwin_amd64.zip",
+          "shasum": "597ad48ee211bbe7045f92fe62a7d3515cd01e27512f2f420ee6ebad264f8014",
+          "h1": "h1:GFtJpTuE4qOZ2ZR51m5hL76Ng8waSn6DoyBMBOhvuwk="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-temporal_0.16.0_darwin_arm64.zip",
+          "download_url": "https://github.com/platacard/terraform-provider-temporal/releases/download/v0.16.0/terraform-provider-temporal_0.16.0_darwin_arm64.zip",
+          "shasum": "e10cd1375a3f134f69662d25a64df85718fd9789fcb9639611c5d93850781850",
+          "h1": "h1:g29aoTHDo+wBOWC8PYqmtZDUjpr3oqWsIwq3qgxdnFA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-temporal_0.16.0_freebsd_386.zip",
+          "download_url": "https://github.com/platacard/terraform-provider-temporal/releases/download/v0.16.0/terraform-provider-temporal_0.16.0_freebsd_386.zip",
+          "shasum": "31eda1426bfae157efa4ba1aa58e6b3302db4b40fa18f95a1d8ec5e1596280ea",
+          "h1": "h1:App1vf2utDwJn698c+Lu6TB9YCMpXeXkvYWN22JjHdQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-temporal_0.16.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/platacard/terraform-provider-temporal/releases/download/v0.16.0/terraform-provider-temporal_0.16.0_freebsd_amd64.zip",
+          "shasum": "93effea8960a5921a20fb01088359bb7e399a999fa981d507e5a45c0cc406634",
+          "h1": "h1:XCrdw28slPxz9KsZt/PBRwiqHUKdqUPz9HnPDFabsiA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-temporal_0.16.0_freebsd_arm.zip",
+          "download_url": "https://github.com/platacard/terraform-provider-temporal/releases/download/v0.16.0/terraform-provider-temporal_0.16.0_freebsd_arm.zip",
+          "shasum": "e35cddf385188bd7257e743a3c1a5b9b061ce09d371266984f29697db1c4b09e",
+          "h1": "h1:qbVYi5SxFGb0O/1KjKAsmSSup9JlvsrtcXztdwTKVX0="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-temporal_0.16.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/platacard/terraform-provider-temporal/releases/download/v0.16.0/terraform-provider-temporal_0.16.0_freebsd_arm64.zip",
+          "shasum": "5827082314fd6b62fa1f1929adf7a398f7e8de1de1772ef54eb2480b3a62ef02",
+          "h1": "h1:cJGG9/MDleRElfv6rME/seZi9tSwR1saPt30f+2YqxM="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-temporal_0.16.0_linux_386.zip",
+          "download_url": "https://github.com/platacard/terraform-provider-temporal/releases/download/v0.16.0/terraform-provider-temporal_0.16.0_linux_386.zip",
+          "shasum": "b70747adab5be54c8b39eb0c9153bea9e36c9ed13b02864ea3e6e028e13066c1",
+          "h1": "h1:v8yU6lvWqNHRmEMwHfzgDA/sIF6rOaA1DkO/GYsVVNI="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-temporal_0.16.0_linux_amd64.zip",
+          "download_url": "https://github.com/platacard/terraform-provider-temporal/releases/download/v0.16.0/terraform-provider-temporal_0.16.0_linux_amd64.zip",
+          "shasum": "ca2b9a007af2e5b3783c3f133546d2eefa13037db19a2255f9ce7a31c265cc8f",
+          "h1": "h1:T+PZNHhsBLQp5aAGR9PD6gjFRdc7ik7mbm02WT6/Nxw="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-temporal_0.16.0_linux_arm.zip",
+          "download_url": "https://github.com/platacard/terraform-provider-temporal/releases/download/v0.16.0/terraform-provider-temporal_0.16.0_linux_arm.zip",
+          "shasum": "abf6e99a2f3e9c7125388d840468026b9f8988d18499fd79cf5700e9b2052d6f",
+          "h1": "h1:+vWYD30FO2EtV9pdg+FXF4GGeX1l2AoqLFZ+aPXfxe4="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-temporal_0.16.0_linux_arm64.zip",
+          "download_url": "https://github.com/platacard/terraform-provider-temporal/releases/download/v0.16.0/terraform-provider-temporal_0.16.0_linux_arm64.zip",
+          "shasum": "ac07e8a0ec9515a943c4ba88356e6d335f875355b0dc7130583fea594eaea06d",
+          "h1": "h1:aZD+JOKCVVOF5DdpJlPhJIhuEIr4U0mWAtzP1zAM7rU="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-temporal_0.16.0_windows_386.zip",
+          "download_url": "https://github.com/platacard/terraform-provider-temporal/releases/download/v0.16.0/terraform-provider-temporal_0.16.0_windows_386.zip",
+          "shasum": "88bb8a08f6188a239961ccb508d502b24a57756868cf502628051b16fa45c517",
+          "h1": "h1:Ql6gh+D25hra+8r9KwXDAjY7SbgwJ6zI24qKY1nRyJM="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-temporal_0.16.0_windows_amd64.zip",
+          "download_url": "https://github.com/platacard/terraform-provider-temporal/releases/download/v0.16.0/terraform-provider-temporal_0.16.0_windows_amd64.zip",
+          "shasum": "47d0ff955b29dbaf8ffd2e1ccc85aab7e1a08498deab11b1ace5a62cbdbadffc",
+          "h1": "h1:lRPImhwzH/H7jK9t3ZC/r+PF94FUfqXO1VQHNphzi30="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-temporal_0.16.0_windows_arm.zip",
+          "download_url": "https://github.com/platacard/terraform-provider-temporal/releases/download/v0.16.0/terraform-provider-temporal_0.16.0_windows_arm.zip",
+          "shasum": "3fddd720bd9edbc14cf7e93b0cae4920b1c6fde8e97d672d81422bd9a974db38",
+          "h1": "h1:wnBfaq6g2s8NFMPeMDcZC9GzkbON1Z+L5u3xekT/tYE="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-temporal_0.16.0_windows_arm64.zip",
+          "download_url": "https://github.com/platacard/terraform-provider-temporal/releases/download/v0.16.0/terraform-provider-temporal_0.16.0_windows_arm64.zip",
+          "shasum": "729479a3483d22a8843b369a4c9e343890ce96da5c4039f8846c01a5fb78c3e0",
+          "h1": "h1:wFObn/PEPp6ln7XRLsWd+bIUQRi+HCy1dyzbFxGQr7M="
+        }
+      ]
+    },
+    {
       "version": "0.15.0",
       "protocols": [
         "6.0"
