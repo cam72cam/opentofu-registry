@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "2.8.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v2.8.0/terraform-provider-ns1_2.8.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v2.8.0/terraform-provider-ns1_2.8.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-ns1_2.8.0_darwin_amd64.zip",
+          "download_url": "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v2.8.0/terraform-provider-ns1_2.8.0_darwin_amd64.zip",
+          "shasum": "2e7432a0e279abda44ffbf690af3b9afa4f937a64d83ded2aa66fe8452a80f48",
+          "h1": "h1:Own4dWDXsER9DfZUvJTgzCZzxCsDOtpvBE+kviK9Eo8="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-ns1_2.8.0_darwin_arm64.zip",
+          "download_url": "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v2.8.0/terraform-provider-ns1_2.8.0_darwin_arm64.zip",
+          "shasum": "c571830df31a231db626db2390a0b03f1b3c820b9030a70219c2272974e42167",
+          "h1": "h1:AWqXZ3ZqQcbXu+hLCQNbxlVoyiEipaxRQYl2A5ilTEk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-ns1_2.8.0_freebsd_386.zip",
+          "download_url": "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v2.8.0/terraform-provider-ns1_2.8.0_freebsd_386.zip",
+          "shasum": "0d600f7061583003a6761068115da323a2eee19eb3c702452a9e48383d02ecbc",
+          "h1": "h1:vrig09L3AHT8iW0gENvYKy0byh+h8tQ4ygsBxhxQa7g="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-ns1_2.8.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v2.8.0/terraform-provider-ns1_2.8.0_freebsd_amd64.zip",
+          "shasum": "5d31e5d51aa0c532a8a69519004eeee93756a6f588cc2b14f6e656012c99271d",
+          "h1": "h1:96ADu2xVj63y+Yv298C/EOPnExOYjCJA1Wwmkpgyz+8="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-ns1_2.8.0_freebsd_arm.zip",
+          "download_url": "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v2.8.0/terraform-provider-ns1_2.8.0_freebsd_arm.zip",
+          "shasum": "e2fa2b8a30a9e7cc559aaf2a73fe9f102fe7028a5344f7721ec14402c9f5fce6",
+          "h1": "h1:ZAzD9PI+s2H3wu2ilYJchQWpkLtL7PW0QHaKNNxvAEs="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-ns1_2.8.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v2.8.0/terraform-provider-ns1_2.8.0_freebsd_arm64.zip",
+          "shasum": "7779c83817013957178c945823456c58b41c7e7db28a718a08e824ddaf0902c4",
+          "h1": "h1:35smUW7EGi9tyX4RgToOUV26WlyPVSXyQ+GVItJ2k88="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-ns1_2.8.0_linux_386.zip",
+          "download_url": "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v2.8.0/terraform-provider-ns1_2.8.0_linux_386.zip",
+          "shasum": "fd8c2afb91e102b8347fbef28e850a06569c9eeebcc2eeb59771a2bad795dd92",
+          "h1": "h1:ddNrYF5rX02yj8droMniMLE4HlRahoS/dJ7i450JTqc="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-ns1_2.8.0_linux_amd64.zip",
+          "download_url": "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v2.8.0/terraform-provider-ns1_2.8.0_linux_amd64.zip",
+          "shasum": "66f8ee1dfece0517532a06c618e1e030b2fa08d180456f6c54a11cb2f5573894",
+          "h1": "h1:VFxbY9SXh/X7IwP+2cz06+lJd74i6tNWEAC6hPWBn9A="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-ns1_2.8.0_linux_arm.zip",
+          "download_url": "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v2.8.0/terraform-provider-ns1_2.8.0_linux_arm.zip",
+          "shasum": "825409bb63645d02519d3d20b3bc3516b6f39969858b5aafb845a9f8ac1ef42d",
+          "h1": "h1:2/z/FOZV+l1Q3RDfjVuZuFkrlJSKFFYE/qpBqGJTNpQ="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-ns1_2.8.0_linux_arm64.zip",
+          "download_url": "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v2.8.0/terraform-provider-ns1_2.8.0_linux_arm64.zip",
+          "shasum": "27da36e013a43a8b6feb731eacc188b9f73ce8d912a75aab553dae507f6db262",
+          "h1": "h1:z6HDF5exhzlN56WCaiZBmuEFAxbwRE3VLdmF3bhFybE="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-ns1_2.8.0_windows_386.zip",
+          "download_url": "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v2.8.0/terraform-provider-ns1_2.8.0_windows_386.zip",
+          "shasum": "4cd2667ddc0085877a92ab57c248cca38d5eee6dee97658dcb4d6e3a4ae23cec",
+          "h1": "h1:nTqwvo3G0CLSyu8zGbXKra5Yd5XOUNwcErCrIHB1Ico="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-ns1_2.8.0_windows_amd64.zip",
+          "download_url": "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v2.8.0/terraform-provider-ns1_2.8.0_windows_amd64.zip",
+          "shasum": "07bf9b273a6ba49db0d8269701523bbcff242562db189fc8074dc3ce33fd6234",
+          "h1": "h1:iukHpBGNm+B875YyyhRIsVghOzQ3d/1FMz3BZEKheQo="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-ns1_2.8.0_windows_arm.zip",
+          "download_url": "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v2.8.0/terraform-provider-ns1_2.8.0_windows_arm.zip",
+          "shasum": "bf91c92fc5c23e2b1d7f4e6c6fcd5c33f2a1e60c28c3fac092301939bd7a96f1",
+          "h1": "h1:QE6NgB3e86kZ4226Bpf5J5KxH7jgReE8Y3D/wuCzW7M="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-ns1_2.8.0_windows_arm64.zip",
+          "download_url": "https://github.com/ns1-terraform/terraform-provider-ns1/releases/download/v2.8.0/terraform-provider-ns1_2.8.0_windows_arm64.zip",
+          "shasum": "031c9da50f7f5fcc7d1869c06ad84f1ac841a5e8369e4757a70af2e539a5a477",
+          "h1": "h1:k3HoEjUaeNvyyvJ4r6wuz9L6J2LyKzCyCIkgJ6FjV3Q="
+        }
+      ]
+    },
+    {
       "version": "2.7.3",
       "protocols": [
         "5.0"
