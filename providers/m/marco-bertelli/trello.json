@@ -1,6 +1,250 @@
 {
   "versions": [
     {
+      "version": "3.3.4",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.4/terraform-provider-trello_3.3.4_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.4/terraform-provider-trello_3.3.4_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-trello_3.3.4_darwin_amd64.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.4/terraform-provider-trello_3.3.4_darwin_amd64.zip",
+          "shasum": "e47e6f01d31ec7f99c0958c56451bd748ae3581d0cc5920860f65de458842eeb",
+          "h1": "h1:9Hqfcn0+X6DvPwv5/SInhdsaGjSDg2BoAwMHQaL8c4k="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-trello_3.3.4_darwin_arm64.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.4/terraform-provider-trello_3.3.4_darwin_arm64.zip",
+          "shasum": "f804506718799b341ab32c3c8b0e1646fbe4ce6c43e363c7d5ce1504e6e4c345",
+          "h1": "h1:64P8c4LXETGVuuYyV1TgqorYZTmhp8WuISID/6r2j/U="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-trello_3.3.4_freebsd_386.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.4/terraform-provider-trello_3.3.4_freebsd_386.zip",
+          "shasum": "0c0466f7691f37f54ef03326291b93476412a98cfb4f188a348e3c208be6cff3",
+          "h1": "h1:RqUKD3Zh59IAusKQY5H/vah8coGciloAna7DIdI2/8M="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-trello_3.3.4_freebsd_amd64.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.4/terraform-provider-trello_3.3.4_freebsd_amd64.zip",
+          "shasum": "e925a986598ea26c34b284dddaf5719d989f0385adfe6307636a8cf72dfa66d6",
+          "h1": "h1:ko77lQ42J+vfjjdti4G8AIAs9Ue3oCpAEzYoyo10c0Y="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-trello_3.3.4_freebsd_arm.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.4/terraform-provider-trello_3.3.4_freebsd_arm.zip",
+          "shasum": "5f356fe5733adcd5b8db5f20b2b157771b6ab38586d28d053388311c71a62364",
+          "h1": "h1:mZRf1ETXzr+Rn9kuRE8RYd40blhVYUhpNPYOtXVqxE8="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-trello_3.3.4_freebsd_arm64.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.4/terraform-provider-trello_3.3.4_freebsd_arm64.zip",
+          "shasum": "253aee56e554a7dcaa7e1f40de0713e1c219fb11ba7beec16e5a2f6b5c0fe7f1",
+          "h1": "h1:tFDfVHqGLELRjPCS/QZACl3MSShBXarmsOS9JCIXAwI="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-trello_3.3.4_linux_386.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.4/terraform-provider-trello_3.3.4_linux_386.zip",
+          "shasum": "087f779cd2405cf5a59e5af170abe56aeb621a32ec18621a41d97132d30d0fb3",
+          "h1": "h1:P6QGMlDPhbeHQ50xZtxRTK4sz7iF7RqzU/UlfZRuLaE="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-trello_3.3.4_linux_amd64.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.4/terraform-provider-trello_3.3.4_linux_amd64.zip",
+          "shasum": "5ca61abcb14a7bc5a0530e57c6190128697909531f6d3a44c4d5eed89da951ee",
+          "h1": "h1:lG4nz8Q27CRnkAogZFBVD4yXwIPjbh0OyuR7ewlg2RY="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-trello_3.3.4_linux_arm.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.4/terraform-provider-trello_3.3.4_linux_arm.zip",
+          "shasum": "1d9e3b03d7497d32dfec87f7c4a7264529c0aadd41ea18db5dc1d93a5350289d",
+          "h1": "h1:rN1LGspP29kMiwCEMYuhY+t6hT6nPgxtNbRmgpjDfdY="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-trello_3.3.4_linux_arm64.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.4/terraform-provider-trello_3.3.4_linux_arm64.zip",
+          "shasum": "6012f8eae5e33bbc6b22afd3d01dd7d753222ce685405ca31a5434cfdf157fe3",
+          "h1": "h1:SCxvt/nYx8vm6Mk5qXr8/Mc9F4X371C6SLuASWCgogA="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-trello_3.3.4_windows_386.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.4/terraform-provider-trello_3.3.4_windows_386.zip",
+          "shasum": "0e10fbdc3d9fe213be68285377f89a409237ea8534d7a31c4ca63aaae13c6731",
+          "h1": "h1:Y0Yr3UPAsOw6eUlzR0Le51NfkSvSCu2xBpvsBWc4h00="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-trello_3.3.4_windows_amd64.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.4/terraform-provider-trello_3.3.4_windows_amd64.zip",
+          "shasum": "8d3db59aadc7c020d86836b1d544fd407b672553c008fca90acc94b4fa505811",
+          "h1": "h1:lPkmXdpqO7v7c4KblFP1olp0ljkIVfzvRHbgRvsOQps="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-trello_3.3.4_windows_arm.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.4/terraform-provider-trello_3.3.4_windows_arm.zip",
+          "shasum": "5be90efde369d4ed382a6ce637d4e6a60c31e60bdad6ccfed0669c9e30925c82",
+          "h1": "h1:mXbOdKZ2xT5L+e4xtqFwvdKqNwu7iBop8SgPxOc0Qrc="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-trello_3.3.4_windows_arm64.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.4/terraform-provider-trello_3.3.4_windows_arm64.zip",
+          "shasum": "c1f6b4ed5dcb2c9aad933ddb992d98e3ed3c98086cc1e4ff5e2cdde68108262b",
+          "h1": "h1:Rgjz6HD2fKfhWKf9teYjh182hbc/Gdv+4xu+XvpYR+o="
+        }
+      ]
+    },
+    {
+      "version": "3.3.2",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.2/terraform-provider-trello_3.3.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.2/terraform-provider-trello_3.3.2_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-trello_3.3.2_darwin_amd64.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.2/terraform-provider-trello_3.3.2_darwin_amd64.zip",
+          "shasum": "ce72ea42daee1ef531a9e6a29130d20beae7f9256d966fe80b47fd3eac899c99",
+          "h1": "h1:66Mdc+5+D3gn3mos+MoccmkhdRiWx85JIRH6oOtoIIM="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-trello_3.3.2_darwin_arm64.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.2/terraform-provider-trello_3.3.2_darwin_arm64.zip",
+          "shasum": "b0b65fa7323aa293ee6dd553b1ea81ec537130706c0e185b2601bd4b8521d04a",
+          "h1": "h1:hR9x/2HwTZJ3zpDTtxCHNtOOi9kl9hKEQbFzb8GqmuU="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-trello_3.3.2_freebsd_386.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.2/terraform-provider-trello_3.3.2_freebsd_386.zip",
+          "shasum": "913b701baa39c6c60e589d530e4b3733df871721dc5600bc499ab4ab7cc5c3a4",
+          "h1": "h1:XqIHx601A9pyqorxIq4tlrkGSUBcGKE0VIDNkHVAUpk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-trello_3.3.2_freebsd_amd64.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.2/terraform-provider-trello_3.3.2_freebsd_amd64.zip",
+          "shasum": "af138790570a6970392038fbd745f8ed7ba27716bccd0c058f6e3cff6ee05f3e",
+          "h1": "h1:jD8J+rbX3vTPbmFY3PItQEXh9YlYdpHGZ3P2FHaWPGU="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-trello_3.3.2_freebsd_arm.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.2/terraform-provider-trello_3.3.2_freebsd_arm.zip",
+          "shasum": "075852384cf0c4c456eda301e7b7e6bd22c3ac345e4e16e5cfd1a5100700f432",
+          "h1": "h1:ue0jjIS+hmRLz6ncf32cH6Eg01UNtVMTSfrp+/poRC8="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-trello_3.3.2_freebsd_arm64.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.2/terraform-provider-trello_3.3.2_freebsd_arm64.zip",
+          "shasum": "388ccab123c700c98335fa2f751402e85aa48a5f27e7bbd7b37ce9700d8289db",
+          "h1": "h1:ELESHrUxBRuCazV+g33goQKw20wYasbivIGLVxzNRbU="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-trello_3.3.2_linux_386.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.2/terraform-provider-trello_3.3.2_linux_386.zip",
+          "shasum": "d22ef865f975312447ad625d37ddc0c57fa2fd9e08089ee6ee8fd82f2386a02d",
+          "h1": "h1:1vKleQ8xey4uO1jnwRRFbq2YftOWDbuaSVmageSuibE="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-trello_3.3.2_linux_amd64.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.2/terraform-provider-trello_3.3.2_linux_amd64.zip",
+          "shasum": "76cefaeae4d8c27f8b8d299cae84f728fd093b559901d9f86a9d9bcaa22d13d5",
+          "h1": "h1:vf5j/XXS24jKgI6yBiWBqOxzGQZN63dVdL010YzPY8g="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-trello_3.3.2_linux_arm.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.2/terraform-provider-trello_3.3.2_linux_arm.zip",
+          "shasum": "07d256e7f7ee6d6619fc5bf59e3d4b690ef5d8aaa679f616d30f372df40529c8",
+          "h1": "h1:r8ks/I6QxyDsWulOH9b7Gvm9rkGrMoEXD+HiBHnZ7Bg="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-trello_3.3.2_linux_arm64.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.2/terraform-provider-trello_3.3.2_linux_arm64.zip",
+          "shasum": "160e2b6352eec7fae5d94cb4c932eb471c73c4038be71d350678e73582efabf9",
+          "h1": "h1:VTBkwkHoovaVpQk6Es1yhQep0WNhfzwLLtpHaFo5HxQ="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-trello_3.3.2_windows_386.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.2/terraform-provider-trello_3.3.2_windows_386.zip",
+          "shasum": "a1b5e4e01ae3b6a8df0a7f8edd364e3bd1d80cdc0b2ab85a674a7f139273ef0a",
+          "h1": "h1:BIVMK1ah4JVoc1BC2hvqa7B2INQ/rhFKaH83+WsGmF8="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-trello_3.3.2_windows_amd64.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.2/terraform-provider-trello_3.3.2_windows_amd64.zip",
+          "shasum": "c56cd0e22500c1dc467d279aca929211a284b5025d136a76635c3f5266a00815",
+          "h1": "h1:Za0Bc+wo3Zff5A86X+p2xGz4BpBY6UUbGYvm3rrNh6U="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-trello_3.3.2_windows_arm.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.2/terraform-provider-trello_3.3.2_windows_arm.zip",
+          "shasum": "db0349cf500aa7187e4ff65d5c9a98ea37a60cb63d566179052c2b7b832ca547",
+          "h1": "h1:Gee2mR3Pyv5crzs0vH8Xu6649OguT9O7lcjXaPv4Xag="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-trello_3.3.2_windows_arm64.zip",
+          "download_url": "https://github.com/marco-bertelli/terraform-provider-trello/releases/download/v3.3.2/terraform-provider-trello_3.3.2_windows_arm64.zip",
+          "shasum": "157d9650575ef61be1eb157e6e0a9e079886d10132134808ef26a8e7c0c66e5d",
+          "h1": "h1:jbH2wJkFTvsf/DymFgHBhKXDe4CHpO2uKuryvNtXuc8="
+        }
+      ]
+    },
+    {
       "version": "3.3.1",
       "protocols": [
         "6.0"
