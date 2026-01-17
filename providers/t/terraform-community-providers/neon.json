@@ -1,6 +1,250 @@
 {
   "versions": [
     {
+      "version": "0.1.12",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.12/terraform-provider-neon_0.1.12_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.12/terraform-provider-neon_0.1.12_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-neon_0.1.12_darwin_amd64.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.12/terraform-provider-neon_0.1.12_darwin_amd64.zip",
+          "shasum": "97871768ee732ee18d53615dfe552562e392b1d5ce6d43b7fef21a39c24fac8b",
+          "h1": "h1:rsQuU2DDoHQ2lVVnWtvDvv/sdvR5gwarVHdE52bz0dc="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-neon_0.1.12_darwin_arm64.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.12/terraform-provider-neon_0.1.12_darwin_arm64.zip",
+          "shasum": "16646e7f3c051b32f6bfe326a9924066883c5256e797a8741f7923c26f019a1c",
+          "h1": "h1:rDuiUcTISo+EDnbDhXQ24TqmYbZTxXS9f3NVZCgTfnQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-neon_0.1.12_freebsd_386.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.12/terraform-provider-neon_0.1.12_freebsd_386.zip",
+          "shasum": "5fe9c2c52f2537b47fb9209eee11b4aa7fe6f3b3b89b13f3bbca0c2f0433f4fa",
+          "h1": "h1:mdazEReC4MCl6RgqDXptRJRczPpClX4Isp3Fgw9hiDw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-neon_0.1.12_freebsd_amd64.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.12/terraform-provider-neon_0.1.12_freebsd_amd64.zip",
+          "shasum": "c907a829d797bd44665f831a8d593a31aaf0c40e786222cfb82afb5858427086",
+          "h1": "h1:Ms+MA25L6q3A+lMw3e61yGkHOkTW3uXokbPibEBQXD4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-neon_0.1.12_freebsd_arm.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.12/terraform-provider-neon_0.1.12_freebsd_arm.zip",
+          "shasum": "8a522ef1d96fe4f35cd803e72d062de8b68e2e6d7a2d265b66eae024f7a09af1",
+          "h1": "h1:pvqh4YEa9OGNSwZX4TQ7RZOT9z+a4KIOaq3tcKHx6do="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-neon_0.1.12_freebsd_arm64.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.12/terraform-provider-neon_0.1.12_freebsd_arm64.zip",
+          "shasum": "e7dba2c543e4d272c2073bf401b46cb39d3ba242ab5bc1858bdbc0e4f8e54537",
+          "h1": "h1:OKTMfoBoCQXq0sS43jdaY3g73rcwbiLXcKMAkUXzJ1c="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-neon_0.1.12_linux_386.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.12/terraform-provider-neon_0.1.12_linux_386.zip",
+          "shasum": "943edafdf62575a84ed6be80c6bd5964a6617e79c2e145d77cc0b0a83351d815",
+          "h1": "h1:7ecipAt6sNIpaW2tzGUqi7O2wCvuVLT1QP0tdQn37tA="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-neon_0.1.12_linux_amd64.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.12/terraform-provider-neon_0.1.12_linux_amd64.zip",
+          "shasum": "20b66b79b06509f5c97fa6ca6d742d85bfacea6d796c1b9eaea4415af1367e32",
+          "h1": "h1:ZJJCqTvrLv7LKE3EM85F5sdu0Zph86KHpGy8ouU+vXc="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-neon_0.1.12_linux_arm.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.12/terraform-provider-neon_0.1.12_linux_arm.zip",
+          "shasum": "4fa6b15e7f7c284ccffc4f856dbedd97efd1c74121b5a5a8a4cb6abed6079442",
+          "h1": "h1:5714nGTgRuehDmpff0T13Ahag5egAP1qPDwRaSX260E="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-neon_0.1.12_linux_arm64.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.12/terraform-provider-neon_0.1.12_linux_arm64.zip",
+          "shasum": "40e8e2147bae5ec297bd7721ecbb8662443e1787ac484ab017a990b4bcbc512d",
+          "h1": "h1:YgzjTbXwmUGHZGkuWAfr+KjDsGFAxj10+fHg2xb3qKw="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-neon_0.1.12_windows_386.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.12/terraform-provider-neon_0.1.12_windows_386.zip",
+          "shasum": "4faa651f7c0ec480e0b66b4d931d2a49af6e3b1b19a05f42d74bf1b441a52647",
+          "h1": "h1:60WiiRbB+3xIsAzsBuZBHJ82YGZqgV547GA0W0g885s="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-neon_0.1.12_windows_amd64.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.12/terraform-provider-neon_0.1.12_windows_amd64.zip",
+          "shasum": "82bfdb0f54a6c7bbf53d668059ddbefac3430fad1785868dff119565fd9725b9",
+          "h1": "h1:/wrGh3aJhEhcXGNRmASmPsb+hZyKi+t8vcooJCWkkZ4="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-neon_0.1.12_windows_arm.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.12/terraform-provider-neon_0.1.12_windows_arm.zip",
+          "shasum": "793d41c258c995b3b62328c810b644c14bd113b2097d40beb683cccc07e1d595",
+          "h1": "h1:kSL14ukNNCr7wTNuzENRjQleRw6v49f7vidcgXoNkQ4="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-neon_0.1.12_windows_arm64.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.12/terraform-provider-neon_0.1.12_windows_arm64.zip",
+          "shasum": "659f7deca18f4082f407553931370ecb41ada55636b8b11dc183de2796a3fcb0",
+          "h1": "h1:YKL4YUFEYrQovyG0XwmR+k4/SH4sCKSxhREICsciaQA="
+        }
+      ]
+    },
+    {
+      "version": "0.1.11",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.11/terraform-provider-neon_0.1.11_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.11/terraform-provider-neon_0.1.11_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-neon_0.1.11_darwin_amd64.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.11/terraform-provider-neon_0.1.11_darwin_amd64.zip",
+          "shasum": "ed5483a626f748941c9d62659e8632557aaa4044695aaa57d1f91b8fd31ec173",
+          "h1": "h1:1gxegoPj+DjdAYKpBqXNBe67eloiNUY+HYpTwt9HG0U="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-neon_0.1.11_darwin_arm64.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.11/terraform-provider-neon_0.1.11_darwin_arm64.zip",
+          "shasum": "0a840bddd7d6a10f0819209a4c70d08d2a2aa8fd6137a205fbed86f028e0bfbd",
+          "h1": "h1:xw3pgRLefGm+0JoDErHYfoO8vgW6PdKalnx9EUsl+gs="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-neon_0.1.11_freebsd_386.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.11/terraform-provider-neon_0.1.11_freebsd_386.zip",
+          "shasum": "be903f3192bdb20fc8f585ba47d650e75766c112514d9758424a6df059711971",
+          "h1": "h1:qw0XNU5NO+L0HPzD81aeLgCLlrfLbBhFb8inViK1eBA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-neon_0.1.11_freebsd_amd64.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.11/terraform-provider-neon_0.1.11_freebsd_amd64.zip",
+          "shasum": "5eb5d8c0fa8accee2487edca899b6193285706852a6e70d1e963bf45d0b0b1e0",
+          "h1": "h1:2XhRcF4g6/v/j0xJ4GKyCAm5QtOrw3+AiT69elqkZy4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-neon_0.1.11_freebsd_arm.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.11/terraform-provider-neon_0.1.11_freebsd_arm.zip",
+          "shasum": "cac436e4709d36a421973a172aa276785271926eec4d2582f210e62efef9ec17",
+          "h1": "h1:kkkJSqtq6sndDHPASMfNhqz38xTTUyhXw0cH+QlDngM="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-neon_0.1.11_freebsd_arm64.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.11/terraform-provider-neon_0.1.11_freebsd_arm64.zip",
+          "shasum": "988aaa65fca84c6a92c5fd9c0ceeb19ef2657ffb1e59154cdf3c8fc312684ebd",
+          "h1": "h1:Yh5tRiIWzwg/iEMpwdfXi+W8+ZB9aKQylk5RrY0x5JE="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-neon_0.1.11_linux_386.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.11/terraform-provider-neon_0.1.11_linux_386.zip",
+          "shasum": "5c96d5c47959de06a83d47a5461226b683674b33dcd45ee8d01af0b9d808c619",
+          "h1": "h1:Mqth+IxORkWZ5LpbDHjlnonoRPlV4gW6MtFCgIXzi30="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-neon_0.1.11_linux_amd64.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.11/terraform-provider-neon_0.1.11_linux_amd64.zip",
+          "shasum": "fff8518d61299dfd8945d9b8023404962cee84e1bdf1adc0c8413f842b40317b",
+          "h1": "h1:2H16fs1XXMoEYANKRhGVmhwwjZ6P94oXSrDEvyk/Kd8="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-neon_0.1.11_linux_arm.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.11/terraform-provider-neon_0.1.11_linux_arm.zip",
+          "shasum": "ea2c7ce36ad9750d44a4e1986e8e6a0c31715e3828d4aea6b7a5905d41670bcc",
+          "h1": "h1:wbTIUMBFhcOeBFHjfiUKOo6DGp7foGE33nCkT0UWk8w="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-neon_0.1.11_linux_arm64.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.11/terraform-provider-neon_0.1.11_linux_arm64.zip",
+          "shasum": "de1432a8beb19ff69bd697bae84851fd1ba510fd148b47c528094ce625d3dd81",
+          "h1": "h1:GaUmH6bFDUnFI5H3yvxitjJDICUXuRPb+kic/VJu7N4="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-neon_0.1.11_windows_386.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.11/terraform-provider-neon_0.1.11_windows_386.zip",
+          "shasum": "11ceaf9c12446741e4a29f3ddbe1a41bd581599da2528e2b6e0a3b3de866ae30",
+          "h1": "h1:yf2cgzO6anspGCO4nmVBPHPzidHEaOO5NDfNlkMdEqU="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-neon_0.1.11_windows_amd64.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.11/terraform-provider-neon_0.1.11_windows_amd64.zip",
+          "shasum": "1ddcb60872f95fb8c1f590cacbb835ac0f3ffdae7ae1ecdd2ab3809ba5159d75",
+          "h1": "h1:D9m7pT3ZvUM+guvUutNkvxp7nQyUZYtEM65jSk6EJKw="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-neon_0.1.11_windows_arm.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.11/terraform-provider-neon_0.1.11_windows_arm.zip",
+          "shasum": "a897308474fb8a53f7859c096ec658da581dd5027bc09b80e90f8226b4802df5",
+          "h1": "h1:F2a3PkLS97kLHRZZHIUleLvy4fa05cx660wRtaqVois="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-neon_0.1.11_windows_arm64.zip",
+          "download_url": "https://github.com/terraform-community-providers/terraform-provider-neon/releases/download/v0.1.11/terraform-provider-neon_0.1.11_windows_arm64.zip",
+          "shasum": "e8febd02f7bd80b2a311286769f984b0ed668ff84e6cec4b242f11657bed92df",
+          "h1": "h1:cXGt1DzgyjykGcfTXw95bIC0sbkRyUd4BN4AUGB054s="
+        }
+      ]
+    },
+    {
       "version": "0.1.9",
       "protocols": [
         "6.0"
