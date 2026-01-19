@@ -1,6 +1,64 @@
 {
   "versions": [
     {
+      "version": "2026.1.19",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/metio/terraform-provider-k8s/releases/download/2026.1.19/terraform-provider-k8s_2026.1.19_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/metio/terraform-provider-k8s/releases/download/2026.1.19/terraform-provider-k8s_2026.1.19_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-k8s_2026.1.19_darwin_amd64.zip",
+          "download_url": "https://github.com/metio/terraform-provider-k8s/releases/download/2026.1.19/terraform-provider-k8s_2026.1.19_darwin_amd64.zip",
+          "shasum": "da895399c94fef9e9a28b48c495c69ca5d794a5e9c8861c2d8a16e698a55f1fe",
+          "h1": "h1:GHCn8fJ3EukOLvgqCWuHPUutRVZFsYFGd3Cb7wClRQc="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-k8s_2026.1.19_darwin_arm64.zip",
+          "download_url": "https://github.com/metio/terraform-provider-k8s/releases/download/2026.1.19/terraform-provider-k8s_2026.1.19_darwin_arm64.zip",
+          "shasum": "f43576f38f66aa6a80f4ecd4061ef163bd0a68d9686b263388d80f9c664fe30e",
+          "h1": "h1:d1A/Ou/TWlFplwMxcu+wvgZnMkGskgnpFUsnh3BX8+0="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-k8s_2026.1.19_linux_amd64.zip",
+          "download_url": "https://github.com/metio/terraform-provider-k8s/releases/download/2026.1.19/terraform-provider-k8s_2026.1.19_linux_amd64.zip",
+          "shasum": "dbf3fb8d475a14f93eeef2d00d94d6affa31193a1eb77870e1e782a82f6c4eed",
+          "h1": "h1:4q5h/HL8EqjNIWNCfz5DasoBsfvuasPnpZZt1+phW2k="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-k8s_2026.1.19_linux_arm.zip",
+          "download_url": "https://github.com/metio/terraform-provider-k8s/releases/download/2026.1.19/terraform-provider-k8s_2026.1.19_linux_arm.zip",
+          "shasum": "2082ccd234b46881b93ca6b6ee82ca16338f36018b47a30bb279257fa2164d2f",
+          "h1": "h1:J8NQhGvItA2yHOCnn2eXRAa8/SVz6ITNWNngvemB0JM="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-k8s_2026.1.19_linux_arm64.zip",
+          "download_url": "https://github.com/metio/terraform-provider-k8s/releases/download/2026.1.19/terraform-provider-k8s_2026.1.19_linux_arm64.zip",
+          "shasum": "06a323020ebf8e7d9c7ccd65ac72a43a87eaeaaf4ac3e4730d0951a8ad3ef936",
+          "h1": "h1:PVHsTEiv+fPQ+y7SEehaCzhusqjFubGILt0mQQvN72w="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-k8s_2026.1.19_windows_amd64.zip",
+          "download_url": "https://github.com/metio/terraform-provider-k8s/releases/download/2026.1.19/terraform-provider-k8s_2026.1.19_windows_amd64.zip",
+          "shasum": "299a65ded2d88a581cf43c5cbc9d5b77826eaf90c0446af260fd707f73e9a819",
+          "h1": "h1:8datgYF/zmmDztj9+9breUJEACKXQ27xZVQ89L+3/PI="
+        }
+      ]
+    },
+    {
       "version": "2025.12.22",
       "protocols": [
         "6.0"
