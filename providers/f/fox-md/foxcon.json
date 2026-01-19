@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.3.2",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/fox-md/terraform-provider-foxcon/releases/download/v1.3.2/terraform-provider-foxcon_1.3.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/fox-md/terraform-provider-foxcon/releases/download/v1.3.2/terraform-provider-foxcon_1.3.2_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-foxcon_1.3.2_darwin_amd64.zip",
+          "download_url": "https://github.com/fox-md/terraform-provider-foxcon/releases/download/v1.3.2/terraform-provider-foxcon_1.3.2_darwin_amd64.zip",
+          "shasum": "eec7498836f0fdc5a08dcdbd935aad05dd756dea2059699027482e2a026d9ca7",
+          "h1": "h1:OoaHt9UkWt+PmkaxJD19QxqLw+fzFOUKCnPvcJ+AHek="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-foxcon_1.3.2_darwin_arm64.zip",
+          "download_url": "https://github.com/fox-md/terraform-provider-foxcon/releases/download/v1.3.2/terraform-provider-foxcon_1.3.2_darwin_arm64.zip",
+          "shasum": "9606bb6ee31970c059f453960c0323ce9dbcfa2024aadd1d082d1557b6c70534",
+          "h1": "h1:ZSt36DWxiJ38gOkiz3/MGA94qwm95MJn5iunYcDcN70="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-foxcon_1.3.2_freebsd_386.zip",
+          "download_url": "https://github.com/fox-md/terraform-provider-foxcon/releases/download/v1.3.2/terraform-provider-foxcon_1.3.2_freebsd_386.zip",
+          "shasum": "fbe86b7e9152c4c3c778053a5e8d686c169640f2350b6448728114b529ccfe99",
+          "h1": "h1:8N+RIG0l14FL/9nj40KVgufm9Unf0yAp7m/mLEqfgqo="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-foxcon_1.3.2_freebsd_amd64.zip",
+          "download_url": "https://github.com/fox-md/terraform-provider-foxcon/releases/download/v1.3.2/terraform-provider-foxcon_1.3.2_freebsd_amd64.zip",
+          "shasum": "7e7e0ff8251d981231bb85b30a717f9749f0b68ca75270b634821bb8a9ac4c44",
+          "h1": "h1:G4qhf5bnb2uMXgk9cdQWP9KBFBV4QNSyiVdK7lnFMZU="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-foxcon_1.3.2_freebsd_arm.zip",
+          "download_url": "https://github.com/fox-md/terraform-provider-foxcon/releases/download/v1.3.2/terraform-provider-foxcon_1.3.2_freebsd_arm.zip",
+          "shasum": "b0c38732d0ecb9035c3448d35489587022bda982537cb0f2f53230736d704e26",
+          "h1": "h1:kKhoq27vcfEfjihXM3gHZm5CXJ6Rvoqj63pra9HLCAw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-foxcon_1.3.2_freebsd_arm64.zip",
+          "download_url": "https://github.com/fox-md/terraform-provider-foxcon/releases/download/v1.3.2/terraform-provider-foxcon_1.3.2_freebsd_arm64.zip",
+          "shasum": "be0debd807372248d399ddb431eeea441fa8359178765a6398d4914b883e45fa",
+          "h1": "h1:hyoKSjUj+IsdGA8zpWo0p6hh0skeRNOdVsXBUwoZpbI="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-foxcon_1.3.2_linux_386.zip",
+          "download_url": "https://github.com/fox-md/terraform-provider-foxcon/releases/download/v1.3.2/terraform-provider-foxcon_1.3.2_linux_386.zip",
+          "shasum": "5abbde58dc65a179a9f4c10b8e9faa83efc4d5e2a88c4ed2106f49729fad0797",
+          "h1": "h1:6jETKYXKn6AScRl0iQzToMevtHTYW+rdQ0EjBxM6FJg="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-foxcon_1.3.2_linux_amd64.zip",
+          "download_url": "https://github.com/fox-md/terraform-provider-foxcon/releases/download/v1.3.2/terraform-provider-foxcon_1.3.2_linux_amd64.zip",
+          "shasum": "0848ee0a3af3cebf770c365cf32245daae33aeb5890d31b4abdf7a9162336d93",
+          "h1": "h1:+tK+xF+ILA4yCp+pdfwggLBrCDEW1v4OCcyXfplsWKc="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-foxcon_1.3.2_linux_arm.zip",
+          "download_url": "https://github.com/fox-md/terraform-provider-foxcon/releases/download/v1.3.2/terraform-provider-foxcon_1.3.2_linux_arm.zip",
+          "shasum": "0364c618cd8ff6f4e389777c1933c427a0bd33a2b9d8633a2c7cec8f5a8ac757",
+          "h1": "h1:at6vGVevcdm6ZBhtUf9O7zCO82NQzJ+CXK6ef06+LMI="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-foxcon_1.3.2_linux_arm64.zip",
+          "download_url": "https://github.com/fox-md/terraform-provider-foxcon/releases/download/v1.3.2/terraform-provider-foxcon_1.3.2_linux_arm64.zip",
+          "shasum": "0460c562e21c879fe6b32714ce9341d4e38d1154a3b8c512f79274d53aebc966",
+          "h1": "h1:p1gjzy9YtHKcDHVOuaAx27rQtAcNnzrsdR70kW6wrX4="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-foxcon_1.3.2_windows_386.zip",
+          "download_url": "https://github.com/fox-md/terraform-provider-foxcon/releases/download/v1.3.2/terraform-provider-foxcon_1.3.2_windows_386.zip",
+          "shasum": "c8dd9fb6183c83f14554f8f2bef848c8e95cee656c83e314afca841867b8c774",
+          "h1": "h1:jRYHIpmWIEqP0i17QNLWP/LIq8VwpBl32EzbEMdXxCI="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-foxcon_1.3.2_windows_amd64.zip",
+          "download_url": "https://github.com/fox-md/terraform-provider-foxcon/releases/download/v1.3.2/terraform-provider-foxcon_1.3.2_windows_amd64.zip",
+          "shasum": "14bfe662529a5932bc752f53d5ffd37f65c6b8777bcf8f2c45f1eeed4814a4cf",
+          "h1": "h1:A/1poLiP/TWmRUJmAtyEzj9sJs55tFNbFLJpAE/KBDU="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-foxcon_1.3.2_windows_arm.zip",
+          "download_url": "https://github.com/fox-md/terraform-provider-foxcon/releases/download/v1.3.2/terraform-provider-foxcon_1.3.2_windows_arm.zip",
+          "shasum": "c254b9458b271e16b05b7410c21bdfc7a9bdf38fa4c9941a3855c9b3ea310477",
+          "h1": "h1:9yZn8t1p6uhAcIDoW2io3csA02VGnznBnh5DV7vcvWM="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-foxcon_1.3.2_windows_arm64.zip",
+          "download_url": "https://github.com/fox-md/terraform-provider-foxcon/releases/download/v1.3.2/terraform-provider-foxcon_1.3.2_windows_arm64.zip",
+          "shasum": "d60479cac77f2fd5edee54a7c0253f44529e14d0ed74481c507fc511cc9d3088",
+          "h1": "h1:5Ye182UNngSfFbdL+Xtlv+TBdYuLVAp5Fzut1RHI1Ok="
+        }
+      ]
+    },
+    {
       "version": "1.3.1",
       "protocols": [
         "6.0"
