@@ -1,6 +1,72 @@
 {
   "versions": [
     {
+      "version": "4.1.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/rudderlabs/terraform-provider-rudderstack/releases/download/v4.1.0/terraform-provider-rudderstack_4.1.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/rudderlabs/terraform-provider-rudderstack/releases/download/v4.1.0/terraform-provider-rudderstack_4.1.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-rudderstack_4.1.0_darwin_amd64.zip",
+          "download_url": "https://github.com/rudderlabs/terraform-provider-rudderstack/releases/download/v4.1.0/terraform-provider-rudderstack_4.1.0_darwin_amd64.zip",
+          "shasum": "d2b9af256146f87baacf8550504ec12b2a2e557c1aadf5f468145cc133e52b8f",
+          "h1": "h1:IzdYl60974anE/ifhWZAu0BnKgSt3n6QvxZQqCHtPrY="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-rudderstack_4.1.0_darwin_arm64.zip",
+          "download_url": "https://github.com/rudderlabs/terraform-provider-rudderstack/releases/download/v4.1.0/terraform-provider-rudderstack_4.1.0_darwin_arm64.zip",
+          "shasum": "c306f91cb71849774c89a80ededa31d5315cbcb3513f00b79bcf47ac6824228a",
+          "h1": "h1:5InnIqcZmqiaMJ/ZU/IGnG62voDHtsi6fj6sZZieWfY="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-rudderstack_4.1.0_linux_amd64.zip",
+          "download_url": "https://github.com/rudderlabs/terraform-provider-rudderstack/releases/download/v4.1.0/terraform-provider-rudderstack_4.1.0_linux_amd64.zip",
+          "shasum": "ed83eaaadacd29a22005c5185533f3f5e112b5e0fc4535c332c8d36a412f6629",
+          "h1": "h1:+gDMHzr6RKqpFoIe88XqSJ1ygBmn219Duow+Hba3t/8="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-rudderstack_4.1.0_linux_arm.zip",
+          "download_url": "https://github.com/rudderlabs/terraform-provider-rudderstack/releases/download/v4.1.0/terraform-provider-rudderstack_4.1.0_linux_arm.zip",
+          "shasum": "95ae948db43ff7edf6433872c7e6adf87e95d9ddbb256c9503f7e618e7c1d234",
+          "h1": "h1:dAkxLtR3tuUd4/EmR99qQzGDCoT7k+5QxoX33UEhJT4="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-rudderstack_4.1.0_linux_arm64.zip",
+          "download_url": "https://github.com/rudderlabs/terraform-provider-rudderstack/releases/download/v4.1.0/terraform-provider-rudderstack_4.1.0_linux_arm64.zip",
+          "shasum": "c256dc1125eccd67acdfe3693c1bfe952cbd482e8d453b7bfc809250ff35e275",
+          "h1": "h1:DeHJBV1urzGEb3GOOKmdByw4KVivwrg00T4k8A6ODac="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-rudderstack_4.1.0_windows_amd64.zip",
+          "download_url": "https://github.com/rudderlabs/terraform-provider-rudderstack/releases/download/v4.1.0/terraform-provider-rudderstack_4.1.0_windows_amd64.zip",
+          "shasum": "611b9394870d79fe5a06e61d9761dcd8728bcf5e9e2f8cefe1a2d2865d80ed97",
+          "h1": "h1:6AKWeP5nuuhhwTTgWcf3z8N6Ybe7GL/7EGqnNwrtlJo="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-rudderstack_4.1.0_windows_arm.zip",
+          "download_url": "https://github.com/rudderlabs/terraform-provider-rudderstack/releases/download/v4.1.0/terraform-provider-rudderstack_4.1.0_windows_arm.zip",
+          "shasum": "ee24ef6f82ee74957df406afbeca5d6700310fb3785115c0aa9a610f9a426505",
+          "h1": "h1:i53P/oP5Xr9TYa/+OZMbKrEZ7hIA6/eWCP7bhf4nw9w="
+        }
+      ]
+    },
+    {
       "version": "4.0.0",
       "protocols": [
         "5.0"
