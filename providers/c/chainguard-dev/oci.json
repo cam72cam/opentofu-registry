@@ -1,6 +1,48 @@
 {
   "versions": [
     {
+      "version": "0.0.26",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.26/terraform-provider-oci_0.0.26_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.26/terraform-provider-oci_0.0.26_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-oci_0.0.26_darwin_amd64.zip",
+          "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.26/terraform-provider-oci_0.0.26_darwin_amd64.zip",
+          "shasum": "e7e210d60e923673a0c0889fb2e0b5f9c78d2d11cb889dddaaee01020e205b51",
+          "h1": "h1:YaLim8yvqHk7c9WLjo7y6eN5Sg/VuhcoPDKEL/KgMx8="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-oci_0.0.26_darwin_arm64.zip",
+          "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.26/terraform-provider-oci_0.0.26_darwin_arm64.zip",
+          "shasum": "d60bae815a4c850787e9d7c6c8d669442353e9f42c7961f29b279c6b07ac8c9e",
+          "h1": "h1:mCLA3kV0A0Kyzf2vU0j3R3G7v4ZzZy+teudgOp+Mdls="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-oci_0.0.26_linux_amd64.zip",
+          "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.26/terraform-provider-oci_0.0.26_linux_amd64.zip",
+          "shasum": "085032ccac0dda208a48d6292904e9aa5712a2b44e125be525b51fb538802f27",
+          "h1": "h1:LX0C0rRoKXGJVrM6xmgaNe9/JVjuCX6JdG7wL/bHeMg="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-oci_0.0.26_linux_arm64.zip",
+          "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.26/terraform-provider-oci_0.0.26_linux_arm64.zip",
+          "shasum": "f108b3a07a853f3e4f5b2590c8d741d7d183875be1ef5eb2473609479f6180e8",
+          "h1": "h1:cD6ji4jbHErqF4DjXFpytd4NxoCKtYwTa80tKhBwydE="
+        }
+      ]
+    },
+    {
       "version": "0.0.25",
       "protocols": [
         "6.0"
@@ -13,28 +55,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.25_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.25/terraform-provider-oci_0.0.25_darwin_amd64.zip",
-          "shasum": "0ef6527807fe3bb69a33a15ceb4d32f69b59be0ece2de110cd694f82ebb37139"
+          "shasum": "0ef6527807fe3bb69a33a15ceb4d32f69b59be0ece2de110cd694f82ebb37139",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.25_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.25/terraform-provider-oci_0.0.25_darwin_arm64.zip",
-          "shasum": "9ef5ccd53be5c0c69e2c9c1b796dfbaa9b96f672126545032819cbe0f8f66efd"
+          "shasum": "9ef5ccd53be5c0c69e2c9c1b796dfbaa9b96f672126545032819cbe0f8f66efd",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.25_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.25/terraform-provider-oci_0.0.25_linux_amd64.zip",
-          "shasum": "acdfd51f61b9a358ac77e55fab97bf56b62cb9820cfc15deb7b343c664f22109"
+          "shasum": "acdfd51f61b9a358ac77e55fab97bf56b62cb9820cfc15deb7b343c664f22109",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.25_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.25/terraform-provider-oci_0.0.25_linux_arm64.zip",
-          "shasum": "e752e9977e5958c4c5c6740fe3ff20418b1e132b194115a98e26778a4de77782"
+          "shasum": "e752e9977e5958c4c5c6740fe3ff20418b1e132b194115a98e26778a4de77782",
+          "h1": ""
         }
       ]
     },
@@ -51,28 +97,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.24_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.24/terraform-provider-oci_0.0.24_darwin_amd64.zip",
-          "shasum": "7648351128ad8a04e2966869ba5aad2a20d1d0e75ca5a391c8fbdb70ca093cc3"
+          "shasum": "7648351128ad8a04e2966869ba5aad2a20d1d0e75ca5a391c8fbdb70ca093cc3",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.24_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.24/terraform-provider-oci_0.0.24_darwin_arm64.zip",
-          "shasum": "ac76bf953afd6f88bdd7974942ae5634da457e07e9a74410ea229db0760939a9"
+          "shasum": "ac76bf953afd6f88bdd7974942ae5634da457e07e9a74410ea229db0760939a9",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.24_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.24/terraform-provider-oci_0.0.24_linux_amd64.zip",
-          "shasum": "6d116278128372c9e65c87b5f874db536d575dedaaf5b93a1569c9ca1629d019"
+          "shasum": "6d116278128372c9e65c87b5f874db536d575dedaaf5b93a1569c9ca1629d019",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.24_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.24/terraform-provider-oci_0.0.24_linux_arm64.zip",
-          "shasum": "74142f22de302792cfc1567939775b0a9985e0ea6e91c1e84b6064b2f0153cd6"
+          "shasum": "74142f22de302792cfc1567939775b0a9985e0ea6e91c1e84b6064b2f0153cd6",
+          "h1": ""
         }
       ]
     },
@@ -89,28 +139,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.23_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.23/terraform-provider-oci_0.0.23_darwin_amd64.zip",
-          "shasum": "1f3e7efc145145e556fa16a8033a3b65a179b2dda0398be37925202b68244c6e"
+          "shasum": "1f3e7efc145145e556fa16a8033a3b65a179b2dda0398be37925202b68244c6e",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.23_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.23/terraform-provider-oci_0.0.23_darwin_arm64.zip",
-          "shasum": "247bd1759065bc7ad7ead6f2d9fa9fca66cd6831059455bd3829114b58d641b3"
+          "shasum": "247bd1759065bc7ad7ead6f2d9fa9fca66cd6831059455bd3829114b58d641b3",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.23_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.23/terraform-provider-oci_0.0.23_linux_amd64.zip",
-          "shasum": "6bf91039f90c459a2b258049e0a97141c5af977ec91727df8722f1f770a50b41"
+          "shasum": "6bf91039f90c459a2b258049e0a97141c5af977ec91727df8722f1f770a50b41",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.23_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.23/terraform-provider-oci_0.0.23_linux_arm64.zip",
-          "shasum": "515c3a0e14890d5d9339bcf890f5ee7c38bde268aa4f806c1773d3d377210519"
+          "shasum": "515c3a0e14890d5d9339bcf890f5ee7c38bde268aa4f806c1773d3d377210519",
+          "h1": ""
         }
       ]
     },
@@ -127,28 +181,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.22_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.22/terraform-provider-oci_0.0.22_darwin_amd64.zip",
-          "shasum": "36a8ef51ee890bb4831c0bf0c65b14aaf7d298052c8488ad8e19e8e28224105b"
+          "shasum": "36a8ef51ee890bb4831c0bf0c65b14aaf7d298052c8488ad8e19e8e28224105b",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.22_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.22/terraform-provider-oci_0.0.22_darwin_arm64.zip",
-          "shasum": "e8c6aff7c30440c403d86ebece95223f8f12869878bf4f180830cba45262dae9"
+          "shasum": "e8c6aff7c30440c403d86ebece95223f8f12869878bf4f180830cba45262dae9",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.22_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.22/terraform-provider-oci_0.0.22_linux_amd64.zip",
-          "shasum": "5ca8bf93694341ad73918bb1efb41811df7d857ba309784407aafd3f116b49bb"
+          "shasum": "5ca8bf93694341ad73918bb1efb41811df7d857ba309784407aafd3f116b49bb",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.22_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.22/terraform-provider-oci_0.0.22_linux_arm64.zip",
-          "shasum": "646ab6e4f25018d14ad10519f5561e4af8dcfce1ae83d356170f0ff20eb39b0b"
+          "shasum": "646ab6e4f25018d14ad10519f5561e4af8dcfce1ae83d356170f0ff20eb39b0b",
+          "h1": ""
         }
       ]
     },
@@ -165,28 +223,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.21_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.21/terraform-provider-oci_0.0.21_darwin_amd64.zip",
-          "shasum": "b771ff5d5f3eaabec5af1d9748fd2ee30bb9b2fbdd8d59dbe46ef46079b4c3da"
+          "shasum": "b771ff5d5f3eaabec5af1d9748fd2ee30bb9b2fbdd8d59dbe46ef46079b4c3da",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.21_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.21/terraform-provider-oci_0.0.21_darwin_arm64.zip",
-          "shasum": "07fba02db0ef9650a6fad707c49b901511cbfccdf68361e681627538b5de5c91"
+          "shasum": "07fba02db0ef9650a6fad707c49b901511cbfccdf68361e681627538b5de5c91",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.21_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.21/terraform-provider-oci_0.0.21_linux_amd64.zip",
-          "shasum": "961a9f6a708c0c852919e79ae7d654a0b0cc2b02652ee7f2746db9587ea6c5d5"
+          "shasum": "961a9f6a708c0c852919e79ae7d654a0b0cc2b02652ee7f2746db9587ea6c5d5",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.21_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.21/terraform-provider-oci_0.0.21_linux_arm64.zip",
-          "shasum": "0d2eabe09cd58f8e3387d3c4fb30953a72ebcc9f08ec4720747567dc6f4b19ba"
+          "shasum": "0d2eabe09cd58f8e3387d3c4fb30953a72ebcc9f08ec4720747567dc6f4b19ba",
+          "h1": ""
         }
       ]
     },
@@ -203,28 +265,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.20_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.20/terraform-provider-oci_0.0.20_darwin_amd64.zip",
-          "shasum": "5499d427b67a87c78fb71d78de584fb023f6a5ba86b2b3492d095914cfb73054"
+          "shasum": "5499d427b67a87c78fb71d78de584fb023f6a5ba86b2b3492d095914cfb73054",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.20_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.20/terraform-provider-oci_0.0.20_darwin_arm64.zip",
-          "shasum": "45585f6e2b212f54c51d19c89b662ad9063b0d751ffdd58f481055390546e09c"
+          "shasum": "45585f6e2b212f54c51d19c89b662ad9063b0d751ffdd58f481055390546e09c",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.20_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.20/terraform-provider-oci_0.0.20_linux_amd64.zip",
-          "shasum": "4ed92fb48cc738d52bd1513ee4b5413d82b3daf3af0a3244d1ee3983ea9b8fcc"
+          "shasum": "4ed92fb48cc738d52bd1513ee4b5413d82b3daf3af0a3244d1ee3983ea9b8fcc",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.20_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.20/terraform-provider-oci_0.0.20_linux_arm64.zip",
-          "shasum": "de8972f7117a86bdd89617bd103609267de2ee546b7d5934c99538de7a6f3fe9"
+          "shasum": "de8972f7117a86bdd89617bd103609267de2ee546b7d5934c99538de7a6f3fe9",
+          "h1": ""
         }
       ]
     },
@@ -241,28 +307,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.19_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.19/terraform-provider-oci_0.0.19_darwin_amd64.zip",
-          "shasum": "c40aec837edfdded12e40d7bcddd90dad7dae6f1c6cb27c45fa9f08c56cfdc11"
+          "shasum": "c40aec837edfdded12e40d7bcddd90dad7dae6f1c6cb27c45fa9f08c56cfdc11",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.19_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.19/terraform-provider-oci_0.0.19_darwin_arm64.zip",
-          "shasum": "b9bda891a27d7c57dcfa330302fe98e9639b667c65b16b7fbc2c81e5d517ad1c"
+          "shasum": "b9bda891a27d7c57dcfa330302fe98e9639b667c65b16b7fbc2c81e5d517ad1c",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.19_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.19/terraform-provider-oci_0.0.19_linux_amd64.zip",
-          "shasum": "ffb06e1a5c30c7337c2586c4961007640f2793bd4f3b68830de27911d602ec7c"
+          "shasum": "ffb06e1a5c30c7337c2586c4961007640f2793bd4f3b68830de27911d602ec7c",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.19_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.19/terraform-provider-oci_0.0.19_linux_arm64.zip",
-          "shasum": "7b7a5c3be3346d038adf35f64b4f2a60856f3aea462a718552c5361b24276584"
+          "shasum": "7b7a5c3be3346d038adf35f64b4f2a60856f3aea462a718552c5361b24276584",
+          "h1": ""
         }
       ]
     },
@@ -279,28 +349,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.18_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.18/terraform-provider-oci_0.0.18_darwin_amd64.zip",
-          "shasum": "e7db08e98f23498afe8ea273df6f8cb5bd26dede7b2530a7dacf65d17f8ab93c"
+          "shasum": "e7db08e98f23498afe8ea273df6f8cb5bd26dede7b2530a7dacf65d17f8ab93c",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.18_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.18/terraform-provider-oci_0.0.18_darwin_arm64.zip",
-          "shasum": "2056d6af6361b60f016ea56841af7b66bfa1666b55a53a4d9cad3f831b8bab1d"
+          "shasum": "2056d6af6361b60f016ea56841af7b66bfa1666b55a53a4d9cad3f831b8bab1d",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.18_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.18/terraform-provider-oci_0.0.18_linux_amd64.zip",
-          "shasum": "d9d54a0c0f7d7baebfc37c6fd803329f7d276928e534116c6d8e9f248c77326a"
+          "shasum": "d9d54a0c0f7d7baebfc37c6fd803329f7d276928e534116c6d8e9f248c77326a",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.18_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.18/terraform-provider-oci_0.0.18_linux_arm64.zip",
-          "shasum": "5567dfa54cbc9f323342c4636cdbe61e3e4caf85cdffcea6cd8b59f77d125ca3"
+          "shasum": "5567dfa54cbc9f323342c4636cdbe61e3e4caf85cdffcea6cd8b59f77d125ca3",
+          "h1": ""
         }
       ]
     },
@@ -317,28 +391,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.17_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.17/terraform-provider-oci_0.0.17_darwin_amd64.zip",
-          "shasum": "ce58bd75352c57d8dc000f38d565e7214dfe8a0e9da1d39ff858a6dc7497c72e"
+          "shasum": "ce58bd75352c57d8dc000f38d565e7214dfe8a0e9da1d39ff858a6dc7497c72e",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.17_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.17/terraform-provider-oci_0.0.17_darwin_arm64.zip",
-          "shasum": "feb65aff54255addbd99b9bbdc8f6013e0aba5fafaa5a5cbcb8157a75f7839ed"
+          "shasum": "feb65aff54255addbd99b9bbdc8f6013e0aba5fafaa5a5cbcb8157a75f7839ed",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.17_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.17/terraform-provider-oci_0.0.17_linux_amd64.zip",
-          "shasum": "c1601889e828b41174b0bbf9eb69e863f022de97a443f3ddc4395d81eb526d28"
+          "shasum": "c1601889e828b41174b0bbf9eb69e863f022de97a443f3ddc4395d81eb526d28",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.17_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.17/terraform-provider-oci_0.0.17_linux_arm64.zip",
-          "shasum": "3f279b8a7f22bf658891058c62a52aa5753afc1713c4cc5199ace0f0357865e3"
+          "shasum": "3f279b8a7f22bf658891058c62a52aa5753afc1713c4cc5199ace0f0357865e3",
+          "h1": ""
         }
       ]
     },
@@ -355,28 +433,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.16_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.16/terraform-provider-oci_0.0.16_darwin_amd64.zip",
-          "shasum": "5f6dee537a5341b0771c36b0d307b54e583b9ff2051183cdbeebc40a995fd9fc"
+          "shasum": "5f6dee537a5341b0771c36b0d307b54e583b9ff2051183cdbeebc40a995fd9fc",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.16_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.16/terraform-provider-oci_0.0.16_darwin_arm64.zip",
-          "shasum": "05e33ad6880aceeca09d72812de4c71c7f9e903ac19f115ed0fcec9062d951db"
+          "shasum": "05e33ad6880aceeca09d72812de4c71c7f9e903ac19f115ed0fcec9062d951db",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.16_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.16/terraform-provider-oci_0.0.16_linux_amd64.zip",
-          "shasum": "1fa89c1f284b7fe3a488aaeef03eeec867c855ddf176656259ed56e8e2cfd8b5"
+          "shasum": "1fa89c1f284b7fe3a488aaeef03eeec867c855ddf176656259ed56e8e2cfd8b5",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.16_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.16/terraform-provider-oci_0.0.16_linux_arm64.zip",
-          "shasum": "d5b441c6e4cae8fb81d360ba6e944907cce1a4f60715c967c1803d6f874fff1a"
+          "shasum": "d5b441c6e4cae8fb81d360ba6e944907cce1a4f60715c967c1803d6f874fff1a",
+          "h1": ""
         }
       ]
     },
@@ -393,28 +475,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.15_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.15/terraform-provider-oci_0.0.15_darwin_amd64.zip",
-          "shasum": "64b590cd6c9663ee5fec74b29173a66a6158b312ad83543767522d0e528ad391"
+          "shasum": "64b590cd6c9663ee5fec74b29173a66a6158b312ad83543767522d0e528ad391",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.15_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.15/terraform-provider-oci_0.0.15_darwin_arm64.zip",
-          "shasum": "2bb5d7b0096b29b1211a3a51953d730e55021714fbdd7c8e402f5e87c3c52a87"
+          "shasum": "2bb5d7b0096b29b1211a3a51953d730e55021714fbdd7c8e402f5e87c3c52a87",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.15_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.15/terraform-provider-oci_0.0.15_linux_amd64.zip",
-          "shasum": "899ba33ba824bcb57925961aa8527af719a1e3e19aa36199ff70f78735396bbb"
+          "shasum": "899ba33ba824bcb57925961aa8527af719a1e3e19aa36199ff70f78735396bbb",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.15_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.15/terraform-provider-oci_0.0.15_linux_arm64.zip",
-          "shasum": "57d013dd08809e1ffecbaf9c1b13656c4e40f105e6d31104f7547af03fdce195"
+          "shasum": "57d013dd08809e1ffecbaf9c1b13656c4e40f105e6d31104f7547af03fdce195",
+          "h1": ""
         }
       ]
     },
@@ -431,28 +517,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.14_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.14/terraform-provider-oci_0.0.14_darwin_amd64.zip",
-          "shasum": "ce4353857bca78a8fed853ca2c8bd01574e52ff96de8d28ff54fd3123ae3d345"
+          "shasum": "ce4353857bca78a8fed853ca2c8bd01574e52ff96de8d28ff54fd3123ae3d345",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.14_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.14/terraform-provider-oci_0.0.14_darwin_arm64.zip",
-          "shasum": "974e0a23804e4d48d9df3194b6813a5669061dbf8152053411c15ca16db42f41"
+          "shasum": "974e0a23804e4d48d9df3194b6813a5669061dbf8152053411c15ca16db42f41",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.14_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.14/terraform-provider-oci_0.0.14_linux_amd64.zip",
-          "shasum": "ed838f0fd38182d25c5884c9bebe0dbc0c4d076f6c59a6f0382de641d9925cb3"
+          "shasum": "ed838f0fd38182d25c5884c9bebe0dbc0c4d076f6c59a6f0382de641d9925cb3",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.14_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.14/terraform-provider-oci_0.0.14_linux_arm64.zip",
-          "shasum": "759af88ec1451d1b2324b58475e985d82a090c7eefb6118bdc3c9553c657d158"
+          "shasum": "759af88ec1451d1b2324b58475e985d82a090c7eefb6118bdc3c9553c657d158",
+          "h1": ""
         }
       ]
     },
@@ -469,28 +559,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.13_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.13/terraform-provider-oci_0.0.13_darwin_amd64.zip",
-          "shasum": "d3e34b2474454dadd892a24978cae8ab3738d49fe3d5c45d0eba994e45d589a3"
+          "shasum": "d3e34b2474454dadd892a24978cae8ab3738d49fe3d5c45d0eba994e45d589a3",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.13_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.13/terraform-provider-oci_0.0.13_darwin_arm64.zip",
-          "shasum": "7927c1b384c78c6ccf4eae5ac0496fe781db22880f9acb5f781c8e0f430f2852"
+          "shasum": "7927c1b384c78c6ccf4eae5ac0496fe781db22880f9acb5f781c8e0f430f2852",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.13_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.13/terraform-provider-oci_0.0.13_linux_amd64.zip",
-          "shasum": "17f7956ca9aaeea198e509bcd938eb78d0fcecf4617c919ad685cb65ce3e0a8e"
+          "shasum": "17f7956ca9aaeea198e509bcd938eb78d0fcecf4617c919ad685cb65ce3e0a8e",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.13_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.13/terraform-provider-oci_0.0.13_linux_arm64.zip",
-          "shasum": "3315739ce41ce773d7a54d84017e9c7e9f8972185a45f4d49394fffe41f6f8f3"
+          "shasum": "3315739ce41ce773d7a54d84017e9c7e9f8972185a45f4d49394fffe41f6f8f3",
+          "h1": ""
         }
       ]
     },
@@ -507,28 +601,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.12_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.12/terraform-provider-oci_0.0.12_darwin_amd64.zip",
-          "shasum": "bbe4a0082c4889d9447731e84b353176725f3a88fa9e10a33ed3f67b94ec66ca"
+          "shasum": "bbe4a0082c4889d9447731e84b353176725f3a88fa9e10a33ed3f67b94ec66ca",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.12_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.12/terraform-provider-oci_0.0.12_darwin_arm64.zip",
-          "shasum": "ac5e272f5924dd236f4841cfcf6b0d946c22980721247ff6e7c9925f084388f1"
+          "shasum": "ac5e272f5924dd236f4841cfcf6b0d946c22980721247ff6e7c9925f084388f1",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.12_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.12/terraform-provider-oci_0.0.12_linux_amd64.zip",
-          "shasum": "1a822b18b521582ae60c77f884556124c72a2b33be03ad2ab77a8613ea53f58f"
+          "shasum": "1a822b18b521582ae60c77f884556124c72a2b33be03ad2ab77a8613ea53f58f",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.12_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.12/terraform-provider-oci_0.0.12_linux_arm64.zip",
-          "shasum": "7c997407e1eee960589d53c7bd34940f8c9d801006ceea7d074e23c6283a3064"
+          "shasum": "7c997407e1eee960589d53c7bd34940f8c9d801006ceea7d074e23c6283a3064",
+          "h1": ""
         }
       ]
     },
@@ -545,28 +643,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.11_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.11/terraform-provider-oci_0.0.11_darwin_amd64.zip",
-          "shasum": "7c8a1399d189a0eacca13da33b133f5091e66dd32c400c8e768a024d74e71e4d"
+          "shasum": "7c8a1399d189a0eacca13da33b133f5091e66dd32c400c8e768a024d74e71e4d",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.11_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.11/terraform-provider-oci_0.0.11_darwin_arm64.zip",
-          "shasum": "6bd5369186e579bf82fa79f48051bbbe01d7b01652e47dcdae9ff80ff7ed511e"
+          "shasum": "6bd5369186e579bf82fa79f48051bbbe01d7b01652e47dcdae9ff80ff7ed511e",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.11_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.11/terraform-provider-oci_0.0.11_linux_amd64.zip",
-          "shasum": "f0ad8e426202378504e3729ec659ae9332125e8d2d03d883ec1fe0c068b3abfb"
+          "shasum": "f0ad8e426202378504e3729ec659ae9332125e8d2d03d883ec1fe0c068b3abfb",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.11_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.11/terraform-provider-oci_0.0.11_linux_arm64.zip",
-          "shasum": "19dd3193538b53baefc0e803689856db070fb292600ecd56a6c26e8a3bd40972"
+          "shasum": "19dd3193538b53baefc0e803689856db070fb292600ecd56a6c26e8a3bd40972",
+          "h1": ""
         }
       ]
     },
@@ -583,28 +685,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.10_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.10/terraform-provider-oci_0.0.10_darwin_amd64.zip",
-          "shasum": "958188a8e9d1ade1a5cd183435addca5ff8ec44ac212d3f50d7bd4c983681f74"
+          "shasum": "958188a8e9d1ade1a5cd183435addca5ff8ec44ac212d3f50d7bd4c983681f74",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.10_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.10/terraform-provider-oci_0.0.10_darwin_arm64.zip",
-          "shasum": "07eb25649f0c76fbe6aa77a0dc636710f752f16e05162d40a747952803408557"
+          "shasum": "07eb25649f0c76fbe6aa77a0dc636710f752f16e05162d40a747952803408557",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.10_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.10/terraform-provider-oci_0.0.10_linux_amd64.zip",
-          "shasum": "9b79a15a4bc876f02cf5081d4fde3eb473f0e2c90f8047654db5d88937389f00"
+          "shasum": "9b79a15a4bc876f02cf5081d4fde3eb473f0e2c90f8047654db5d88937389f00",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.10_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.10/terraform-provider-oci_0.0.10_linux_arm64.zip",
-          "shasum": "dc77792c9d4c06dd5245539a517e002a50ea422d5a95752c593f2b3f85404647"
+          "shasum": "dc77792c9d4c06dd5245539a517e002a50ea422d5a95752c593f2b3f85404647",
+          "h1": ""
         }
       ]
     },
@@ -621,28 +727,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.9_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.9/terraform-provider-oci_0.0.9_darwin_amd64.zip",
-          "shasum": "2dc0aeeacdf6daab91db0ff788ebe2f8b0d2fc42387ec3d89a4afeef4988dd5d"
+          "shasum": "2dc0aeeacdf6daab91db0ff788ebe2f8b0d2fc42387ec3d89a4afeef4988dd5d",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.9_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.9/terraform-provider-oci_0.0.9_darwin_arm64.zip",
-          "shasum": "0362a6cdc7f49da7adbc7949b90af1dc7acf0a1352c0e9093367f2c423804f70"
+          "shasum": "0362a6cdc7f49da7adbc7949b90af1dc7acf0a1352c0e9093367f2c423804f70",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.9_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.9/terraform-provider-oci_0.0.9_linux_amd64.zip",
-          "shasum": "40b35f1c5cd450015b7ea45a44b42591ff474fc6f015c23694c5d93f92fc1a3b"
+          "shasum": "40b35f1c5cd450015b7ea45a44b42591ff474fc6f015c23694c5d93f92fc1a3b",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.9_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.9/terraform-provider-oci_0.0.9_linux_arm64.zip",
-          "shasum": "f95afe564d5834d8b3abe9c74acfca452cb6ccb8747e58ddbb87b30fabc2f02e"
+          "shasum": "f95afe564d5834d8b3abe9c74acfca452cb6ccb8747e58ddbb87b30fabc2f02e",
+          "h1": ""
         }
       ]
     },
@@ -659,28 +769,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.8_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.8/terraform-provider-oci_0.0.8_darwin_amd64.zip",
-          "shasum": "4a5570e29d17b65b5dcbd01374f5842786a5e50c83054bff9fa979489165d3e7"
+          "shasum": "4a5570e29d17b65b5dcbd01374f5842786a5e50c83054bff9fa979489165d3e7",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.8_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.8/terraform-provider-oci_0.0.8_darwin_arm64.zip",
-          "shasum": "3c7c4b424633a47835e3da2b7426a593d35ce856add5ca8a4717edd03a5abeda"
+          "shasum": "3c7c4b424633a47835e3da2b7426a593d35ce856add5ca8a4717edd03a5abeda",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.8_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.8/terraform-provider-oci_0.0.8_linux_amd64.zip",
-          "shasum": "ab429f1ea373c955dd75b2af89682702956f0be89852343517843f0632fd37d3"
+          "shasum": "ab429f1ea373c955dd75b2af89682702956f0be89852343517843f0632fd37d3",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.8_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.8/terraform-provider-oci_0.0.8_linux_arm64.zip",
-          "shasum": "a4ccb5a15abfa995e8a6b82268634666f6695006cf07c7feb0ecbdb22896f8a9"
+          "shasum": "a4ccb5a15abfa995e8a6b82268634666f6695006cf07c7feb0ecbdb22896f8a9",
+          "h1": ""
         }
       ]
     },
@@ -697,28 +811,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.7_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.7/terraform-provider-oci_0.0.7_darwin_amd64.zip",
-          "shasum": "646298a64e88312604bb6201d95528037b5727271b5e3be50848dde1cbb73298"
+          "shasum": "646298a64e88312604bb6201d95528037b5727271b5e3be50848dde1cbb73298",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.7_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.7/terraform-provider-oci_0.0.7_darwin_arm64.zip",
-          "shasum": "afd7b10d15fbd1611c81fc1e4a5cd5a26795b1518fb001f7161b4ffd68760ec9"
+          "shasum": "afd7b10d15fbd1611c81fc1e4a5cd5a26795b1518fb001f7161b4ffd68760ec9",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.7_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.7/terraform-provider-oci_0.0.7_linux_amd64.zip",
-          "shasum": "aef908db5f727c03adcf29513f08d8dc29021c22a9b17dc5b324cb5e60cafe0e"
+          "shasum": "aef908db5f727c03adcf29513f08d8dc29021c22a9b17dc5b324cb5e60cafe0e",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.7_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.7/terraform-provider-oci_0.0.7_linux_arm64.zip",
-          "shasum": "f706398ad5a8d78a404d0f2dca85083a4cc9d416e2669c3c9174b1ecb9a93cdc"
+          "shasum": "f706398ad5a8d78a404d0f2dca85083a4cc9d416e2669c3c9174b1ecb9a93cdc",
+          "h1": ""
         }
       ]
     },
@@ -735,28 +853,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.6_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.6/terraform-provider-oci_0.0.6_darwin_amd64.zip",
-          "shasum": "a360491a0f91b2c011ac046b717791f0cb4e219d245fa368568d1dc0c5a6531a"
+          "shasum": "a360491a0f91b2c011ac046b717791f0cb4e219d245fa368568d1dc0c5a6531a",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.6_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.6/terraform-provider-oci_0.0.6_darwin_arm64.zip",
-          "shasum": "7d59ae9ecadd650ae5cb060dc5a632ac0f765861c29a805023313a2db28e8990"
+          "shasum": "7d59ae9ecadd650ae5cb060dc5a632ac0f765861c29a805023313a2db28e8990",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.6_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.6/terraform-provider-oci_0.0.6_linux_amd64.zip",
-          "shasum": "b1374f858c4422eedac5c73376b94c36d58c6f42527930b8d726711a34ab4551"
+          "shasum": "b1374f858c4422eedac5c73376b94c36d58c6f42527930b8d726711a34ab4551",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.6_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.6/terraform-provider-oci_0.0.6_linux_arm64.zip",
-          "shasum": "4e43e9cf5c3124bc75835db414370e89d2a20f41ea606eaa466094c47889862c"
+          "shasum": "4e43e9cf5c3124bc75835db414370e89d2a20f41ea606eaa466094c47889862c",
+          "h1": ""
         }
       ]
     },
@@ -773,28 +895,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.5_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.5/terraform-provider-oci_0.0.5_darwin_amd64.zip",
-          "shasum": "7d8061f7653b198cd79b80d7c9f321ba91687d72e6ab48e601ae18ba20427cc8"
+          "shasum": "7d8061f7653b198cd79b80d7c9f321ba91687d72e6ab48e601ae18ba20427cc8",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.5_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.5/terraform-provider-oci_0.0.5_darwin_arm64.zip",
-          "shasum": "e29a83fad393b428241ba935e81950dcfe2487185ec3b230e8d005b15afa163d"
+          "shasum": "e29a83fad393b428241ba935e81950dcfe2487185ec3b230e8d005b15afa163d",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.5_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.5/terraform-provider-oci_0.0.5_linux_amd64.zip",
-          "shasum": "2f76299c13576a2f11f145ed93e073ff839da8810c07207ebaa5e97517db372e"
+          "shasum": "2f76299c13576a2f11f145ed93e073ff839da8810c07207ebaa5e97517db372e",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.5_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.5/terraform-provider-oci_0.0.5_linux_arm64.zip",
-          "shasum": "6e719d93c78152e1e53cb0a3f78e5b244074b004e3ccb6c3ea8bf29339697bc4"
+          "shasum": "6e719d93c78152e1e53cb0a3f78e5b244074b004e3ccb6c3ea8bf29339697bc4",
+          "h1": ""
         }
       ]
     },
@@ -811,28 +937,32 @@
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.4_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.4/terraform-provider-oci_0.0.4_darwin_amd64.zip",
-          "shasum": "5fd9f9d4f89bdc234fe3cb0b42c2cebe20fa9fc9a3590c23f188be9f33c6e584"
+          "shasum": "5fd9f9d4f89bdc234fe3cb0b42c2cebe20fa9fc9a3590c23f188be9f33c6e584",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.4_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.4/terraform-provider-oci_0.0.4_darwin_arm64.zip",
-          "shasum": "3aa1f4292f5be47a429699a1538362ca9eee8e9e280d7c06fe6c9a5bc2a3ac28"
+          "shasum": "3aa1f4292f5be47a429699a1538362ca9eee8e9e280d7c06fe6c9a5bc2a3ac28",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.4_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.4/terraform-provider-oci_0.0.4_linux_amd64.zip",
-          "shasum": "9a4a9e912add6d2ba1313014f31241bcf9a87f95657c1c3c9ca86dd83ec0244d"
+          "shasum": "9a4a9e912add6d2ba1313014f31241bcf9a87f95657c1c3c9ca86dd83ec0244d",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.4_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.4/terraform-provider-oci_0.0.4_linux_arm64.zip",
-          "shasum": "12ae5328d1335641d186a558a7db64fae8f64092a9297e8b5636b64e331a2980"
+          "shasum": "12ae5328d1335641d186a558a7db64fae8f64092a9297e8b5636b64e331a2980",
+          "h1": ""
         }
       ]
     },
@@ -849,98 +979,112 @@
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.1_darwin_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.1/terraform-provider-oci_0.0.1_darwin_amd64.zip",
-          "shasum": "4f744c76c5d91981fa038b106e4fb7ece0c4cfb16eaa19f9002e7c7dac1afae4"
+          "shasum": "4f744c76c5d91981fa038b106e4fb7ece0c4cfb16eaa19f9002e7c7dac1afae4",
+          "h1": ""
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.1_darwin_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.1/terraform-provider-oci_0.0.1_darwin_arm64.zip",
-          "shasum": "ae4bed615d67a2e4dcba0310f467c3d8e410721e2e2651e8cdd02ed19b55e0f4"
+          "shasum": "ae4bed615d67a2e4dcba0310f467c3d8e410721e2e2651e8cdd02ed19b55e0f4",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-oci_0.0.1_freebsd_386.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.1/terraform-provider-oci_0.0.1_freebsd_386.zip",
-          "shasum": "8a146ab4d06f8412f695f383611fbe96c0cbac1ab17aa08fe4f46e63a0b4d5cf"
+          "shasum": "8a146ab4d06f8412f695f383611fbe96c0cbac1ab17aa08fe4f46e63a0b4d5cf",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.1_freebsd_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.1/terraform-provider-oci_0.0.1_freebsd_amd64.zip",
-          "shasum": "327a28e941fc09a9f8a408d507c150a9b03f78e975e6df4ed6bc2aab40ece669"
+          "shasum": "327a28e941fc09a9f8a408d507c150a9b03f78e975e6df4ed6bc2aab40ece669",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-oci_0.0.1_freebsd_arm.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.1/terraform-provider-oci_0.0.1_freebsd_arm.zip",
-          "shasum": "b01ae425fec0cf46a761a3f6375bcba5102fbd938f1a23a6ab395e91a5ce8a03"
+          "shasum": "b01ae425fec0cf46a761a3f6375bcba5102fbd938f1a23a6ab395e91a5ce8a03",
+          "h1": ""
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.1_freebsd_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.1/terraform-provider-oci_0.0.1_freebsd_arm64.zip",
-          "shasum": "f6cd6ae53b8f096d5e6250ce161680975d807ed1cc9c2dde840a4a42b42f7c6d"
+          "shasum": "f6cd6ae53b8f096d5e6250ce161680975d807ed1cc9c2dde840a4a42b42f7c6d",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-oci_0.0.1_linux_386.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.1/terraform-provider-oci_0.0.1_linux_386.zip",
-          "shasum": "6231710c268130aaa126752cd7fd7ea626d503463d2276fa0472a3352bf4153c"
+          "shasum": "6231710c268130aaa126752cd7fd7ea626d503463d2276fa0472a3352bf4153c",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.1_linux_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.1/terraform-provider-oci_0.0.1_linux_amd64.zip",
-          "shasum": "cf0e867e948c483dcca4d1e385d9fc32def70a480b2d7c6bcb4171e707ccc05f"
+          "shasum": "cf0e867e948c483dcca4d1e385d9fc32def70a480b2d7c6bcb4171e707ccc05f",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-oci_0.0.1_linux_arm.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.1/terraform-provider-oci_0.0.1_linux_arm.zip",
-          "shasum": "8a170cd49e7a343f44e2adbf273fba1cfb2d8ddf8ef4787bee6903c410e978af"
+          "shasum": "8a170cd49e7a343f44e2adbf273fba1cfb2d8ddf8ef4787bee6903c410e978af",
+          "h1": ""
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.1_linux_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.1/terraform-provider-oci_0.0.1_linux_arm64.zip",
-          "shasum": "98d4ef97364c5bdd86a774f788a931b102d5b513c56cb0db7f35b2509d33b9f4"
+          "shasum": "98d4ef97364c5bdd86a774f788a931b102d5b513c56cb0db7f35b2509d33b9f4",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-oci_0.0.1_windows_386.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.1/terraform-provider-oci_0.0.1_windows_386.zip",
-          "shasum": "0fe74eb7eb3984281dc37218ddca66687eb624f4d3ff078456ba9448a891f472"
+          "shasum": "0fe74eb7eb3984281dc37218ddca66687eb624f4d3ff078456ba9448a891f472",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-oci_0.0.1_windows_amd64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.1/terraform-provider-oci_0.0.1_windows_amd64.zip",
-          "shasum": "e32dbf132bd9c27581ffab8e9f6de94af08556a2517bb7df2cff4f2505f01324"
+          "shasum": "e32dbf132bd9c27581ffab8e9f6de94af08556a2517bb7df2cff4f2505f01324",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-oci_0.0.1_windows_arm.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.1/terraform-provider-oci_0.0.1_windows_arm.zip",
-          "shasum": "3a9b28e7fc86e8923f5fc330b86bbcb09d5ece78d6700e0eb3b623371f2325ae"
+          "shasum": "3a9b28e7fc86e8923f5fc330b86bbcb09d5ece78d6700e0eb3b623371f2325ae",
+          "h1": ""
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-oci_0.0.1_windows_arm64.zip",
           "download_url": "https://github.com/chainguard-dev/terraform-provider-oci/releases/download/v0.0.1/terraform-provider-oci_0.0.1_windows_arm64.zip",
-          "shasum": "01fe93989af10aa8aba09f766f5caf1ebcb5daed9e78abc4b40c810c51074a88"
+          "shasum": "01fe93989af10aa8aba09f766f5caf1ebcb5daed9e78abc4b40c810c51074a88",
+          "h1": ""
         }
       ]
     }
