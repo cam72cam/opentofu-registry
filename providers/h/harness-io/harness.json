@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.41.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/harness-io/terraform-provider-harness/releases/download/v0.41.0/terraform-provider-harness_0.41.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/harness-io/terraform-provider-harness/releases/download/v0.41.0/terraform-provider-harness_0.41.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-harness_0.41.0_darwin_amd64.zip",
+          "download_url": "https://github.com/harness-io/terraform-provider-harness/releases/download/v0.41.0/terraform-provider-harness_0.41.0_darwin_amd64.zip",
+          "shasum": "1b897ff79ef66ecd2153c731dd5d6b645674ada3e24c6f549aab7533e000a13c",
+          "h1": "h1:Bw5aTK363OpHf553HTCdJ1qJFouaOObT51RFn45RFi0="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-harness_0.41.0_darwin_arm64.zip",
+          "download_url": "https://github.com/harness-io/terraform-provider-harness/releases/download/v0.41.0/terraform-provider-harness_0.41.0_darwin_arm64.zip",
+          "shasum": "8d8a35af4ec2d0947dad46b033b6178aa16b9bba88ecf1259fbe06b07632ead2",
+          "h1": "h1:KvTMvztUjZcddWYc8mHmlPIq+UAhLDBwpuxZz3JEga0="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-harness_0.41.0_freebsd_386.zip",
+          "download_url": "https://github.com/harness-io/terraform-provider-harness/releases/download/v0.41.0/terraform-provider-harness_0.41.0_freebsd_386.zip",
+          "shasum": "dfa0720cfc17aa6767ee7aa42061bde60263b8999473df4e595d7316559b5cfe",
+          "h1": "h1:52lz/Lq6/LN1xQB2nls3BIfkQ0PhKNGpkXUPd0prmhU="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-harness_0.41.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/harness-io/terraform-provider-harness/releases/download/v0.41.0/terraform-provider-harness_0.41.0_freebsd_amd64.zip",
+          "shasum": "af4a942feafb1a64854c3ce40df6e755a4f3debf583e1b7392517477093d69c1",
+          "h1": "h1:QKiE3D/jCXUDgr0Z3gw1wTO9RnFIi9p0dwNPDGYmNqM="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-harness_0.41.0_freebsd_arm.zip",
+          "download_url": "https://github.com/harness-io/terraform-provider-harness/releases/download/v0.41.0/terraform-provider-harness_0.41.0_freebsd_arm.zip",
+          "shasum": "d68352600d4a1dd104106ed6c52fffdb98ee156fd6780f8faddb8b228e16b98f",
+          "h1": "h1:NIfuoACA9OvlkwgRtsivx8/OmlScj/xj+tm+cRC4gB4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-harness_0.41.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/harness-io/terraform-provider-harness/releases/download/v0.41.0/terraform-provider-harness_0.41.0_freebsd_arm64.zip",
+          "shasum": "40690bb6a05501d411b44b5bf66f08e03c894ba7fed3361280cf93b74b846056",
+          "h1": "h1:p3FfWf8826TOWnjnQA7tJj0PYrehHoI7ciDBjZBHqfU="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-harness_0.41.0_linux_386.zip",
+          "download_url": "https://github.com/harness-io/terraform-provider-harness/releases/download/v0.41.0/terraform-provider-harness_0.41.0_linux_386.zip",
+          "shasum": "31fe3738cb26b73b32a344efd9b341c9c77ace674a3f13c7c639dfd0f8d7db8b",
+          "h1": "h1:ZyKe6ZbseeNnn9ll4xn+IkC2uOYI2rHESDS/Z+l4IGc="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-harness_0.41.0_linux_amd64.zip",
+          "download_url": "https://github.com/harness-io/terraform-provider-harness/releases/download/v0.41.0/terraform-provider-harness_0.41.0_linux_amd64.zip",
+          "shasum": "29adb7f7f5afc7a5b8def47bc690cc0354cf2ef165641a047f2d16b909509a81",
+          "h1": "h1:oRRNGjyClBwUwD574CR6zQjMgV/XPzLU/Hq3FD80/g4="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-harness_0.41.0_linux_arm.zip",
+          "download_url": "https://github.com/harness-io/terraform-provider-harness/releases/download/v0.41.0/terraform-provider-harness_0.41.0_linux_arm.zip",
+          "shasum": "035509be17363d396f15484f5791d784233ff28e0cd59d24f4f73dfdac071880",
+          "h1": "h1:jd6N3Y7dEjDFJ8ozA2oQs573k7VcIHJC5K169INCWc4="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-harness_0.41.0_linux_arm64.zip",
+          "download_url": "https://github.com/harness-io/terraform-provider-harness/releases/download/v0.41.0/terraform-provider-harness_0.41.0_linux_arm64.zip",
+          "shasum": "67640462a897cdcd413b4e9ef3ed1d2583e437931826f96324b457389f0852db",
+          "h1": "h1:weRaC4dqkO21lRAUFyhWb/IjaS8P0Kp3JwAdhiG+f+o="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-harness_0.41.0_windows_386.zip",
+          "download_url": "https://github.com/harness-io/terraform-provider-harness/releases/download/v0.41.0/terraform-provider-harness_0.41.0_windows_386.zip",
+          "shasum": "e10dee97357a46cc310cc26a97b09e444d4bab4ac1946ad2aad44d78584876f9",
+          "h1": "h1:OFto9K0iiriQ4qxHbNOSIXhJ9epegGV6RYCV2GeLTvk="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-harness_0.41.0_windows_amd64.zip",
+          "download_url": "https://github.com/harness-io/terraform-provider-harness/releases/download/v0.41.0/terraform-provider-harness_0.41.0_windows_amd64.zip",
+          "shasum": "87377963349065a4d7ea735e68bc732788f473a0e5ccccfbaa10944ccebba25d",
+          "h1": "h1:+/PAM3txaPhn+fAPHYr5SW79DczbtW7XpIF/BzYSgm0="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-harness_0.41.0_windows_arm.zip",
+          "download_url": "https://github.com/harness-io/terraform-provider-harness/releases/download/v0.41.0/terraform-provider-harness_0.41.0_windows_arm.zip",
+          "shasum": "bff25637ae422b6578c83501b6f3069aa3859df3381a30788dad3b4784ae5a48",
+          "h1": "h1:YJI9W3TYeZY4dvSpvkvqvRmY1QgkQ8KCfWEY1CH4hnw="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-harness_0.41.0_windows_arm64.zip",
+          "download_url": "https://github.com/harness-io/terraform-provider-harness/releases/download/v0.41.0/terraform-provider-harness_0.41.0_windows_arm64.zip",
+          "shasum": "5e928ec527c463c8300d8ae28accedb35722bde36663700a511495807739112c",
+          "h1": "h1:9s/wpjzK043LKboq6plVzNv7Vyd1V7Fn2tdlrNQF0iM="
+        }
+      ]
+    },
+    {
       "version": "0.40.0",
       "protocols": [
         "5.0"
