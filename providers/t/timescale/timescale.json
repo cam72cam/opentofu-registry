@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "2.8.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/timescale/terraform-provider-timescale/releases/download/v2.8.0/terraform-provider-timescale_2.8.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/timescale/terraform-provider-timescale/releases/download/v2.8.0/terraform-provider-timescale_2.8.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-timescale_2.8.0_darwin_amd64.zip",
+          "download_url": "https://github.com/timescale/terraform-provider-timescale/releases/download/v2.8.0/terraform-provider-timescale_2.8.0_darwin_amd64.zip",
+          "shasum": "c6754ccbd8dab122f85477a66e6006dd35b28a8d844857df907dfd63b0dee200",
+          "h1": "h1:kfuIbdyR/7DmDcm8QpiC3VUPHJat1mPVrxg864gaVP8="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-timescale_2.8.0_darwin_arm64.zip",
+          "download_url": "https://github.com/timescale/terraform-provider-timescale/releases/download/v2.8.0/terraform-provider-timescale_2.8.0_darwin_arm64.zip",
+          "shasum": "8b1bbd0d6bfec13f3109e3bee7ae6eaee1fff999085d0801f951961cbb0f6e1a",
+          "h1": "h1:hYT3JXdAJ8564vWhIWJS1Mw2zLkv9/UIL8KfcleoHXs="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-timescale_2.8.0_freebsd_386.zip",
+          "download_url": "https://github.com/timescale/terraform-provider-timescale/releases/download/v2.8.0/terraform-provider-timescale_2.8.0_freebsd_386.zip",
+          "shasum": "486190af83465d1c21178ff51f66e9e08cd0aec90b79990bfd5caad42cb5b109",
+          "h1": "h1:EYI838wd/7p38v4Vt2VcqR6qxt8QiLcqlFEj+MArblc="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-timescale_2.8.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/timescale/terraform-provider-timescale/releases/download/v2.8.0/terraform-provider-timescale_2.8.0_freebsd_amd64.zip",
+          "shasum": "2528cba2d1d66be43c612735228a111c2a5e4140288631cd2f409d44474dd66d",
+          "h1": "h1:NXr3bghyE8jzvrERFSrdGVezFTF+eDEMRBS/lfxgG3w="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-timescale_2.8.0_freebsd_arm.zip",
+          "download_url": "https://github.com/timescale/terraform-provider-timescale/releases/download/v2.8.0/terraform-provider-timescale_2.8.0_freebsd_arm.zip",
+          "shasum": "b2214710a82d76cf03ea69536a4204eafd0a763e3d89b207b915f135b009ade4",
+          "h1": "h1:BmEXNa3avokSTG6dlyVzpX6IpKULGv7nZ0ogvkYBrdQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-timescale_2.8.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/timescale/terraform-provider-timescale/releases/download/v2.8.0/terraform-provider-timescale_2.8.0_freebsd_arm64.zip",
+          "shasum": "236b8ffd734ddfea3f3b81765f72790d4131a4ab7007f1cbecec897fac45b1b4",
+          "h1": "h1:g5HNHEjmPaehM5EQfYuQTVKMoY8uFtm3Dmu4na0bzGI="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-timescale_2.8.0_linux_386.zip",
+          "download_url": "https://github.com/timescale/terraform-provider-timescale/releases/download/v2.8.0/terraform-provider-timescale_2.8.0_linux_386.zip",
+          "shasum": "269e6b358a9f6a486ba6cb81b4d38f58aee8c566e6e43047d4f20cffeb9565db",
+          "h1": "h1:ATrr6uhIgOStt+SJRj+nn+OCfgSRvzqPVmLoq27tNOA="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-timescale_2.8.0_linux_amd64.zip",
+          "download_url": "https://github.com/timescale/terraform-provider-timescale/releases/download/v2.8.0/terraform-provider-timescale_2.8.0_linux_amd64.zip",
+          "shasum": "adc0a1f0dd0217f96e669f44783037d3aeb390cd1790ad0b8841da37e14cf0ad",
+          "h1": "h1:bJUCs0QhBM5jycYquhSOWwwGQqF/u2LpQbezHZhK0eA="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-timescale_2.8.0_linux_arm.zip",
+          "download_url": "https://github.com/timescale/terraform-provider-timescale/releases/download/v2.8.0/terraform-provider-timescale_2.8.0_linux_arm.zip",
+          "shasum": "7093f243c03d90e7d86e1e1c2579fdc6b4848ee9e235150152bfc8016c7d7ae9",
+          "h1": "h1:88Q4LZXXLXur+fE/VFtnQRn1dlJMq9qNPVzltewQ8V4="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-timescale_2.8.0_linux_arm64.zip",
+          "download_url": "https://github.com/timescale/terraform-provider-timescale/releases/download/v2.8.0/terraform-provider-timescale_2.8.0_linux_arm64.zip",
+          "shasum": "68699bb2caa6113ec362bd3d6ad4a2575b87f5fb9249a1e74742097d1791dedc",
+          "h1": "h1:/1GncTIYoaddAq+A/AF6pHMYlU7Ojr0q2xgr5fiWlC0="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-timescale_2.8.0_windows_386.zip",
+          "download_url": "https://github.com/timescale/terraform-provider-timescale/releases/download/v2.8.0/terraform-provider-timescale_2.8.0_windows_386.zip",
+          "shasum": "1a0f485a4bd053aa9310dae24ca243591aa78b29b40fed78476c637ecacbbc8a",
+          "h1": "h1:gjhgU29BNZ+vpR5baDiPxN6RAfOmuCGIkZXwEMXInE4="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-timescale_2.8.0_windows_amd64.zip",
+          "download_url": "https://github.com/timescale/terraform-provider-timescale/releases/download/v2.8.0/terraform-provider-timescale_2.8.0_windows_amd64.zip",
+          "shasum": "c2a4e86d421d79628c79bb82e217a4afa63d879536e69ac1ebf46014ed77f169",
+          "h1": "h1:GAOQMq8dq7QK0bHiJhthZa54e0rci4JMl1VKX/vGC4c="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-timescale_2.8.0_windows_arm.zip",
+          "download_url": "https://github.com/timescale/terraform-provider-timescale/releases/download/v2.8.0/terraform-provider-timescale_2.8.0_windows_arm.zip",
+          "shasum": "bc62c0864e05578eeeca5368daccc3b82637899d661549f0cde2f8f5e84b0876",
+          "h1": "h1:U1hXTm2SmFBEaNvA34dJVrZLObmL3yaBtxXFwccUr84="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-timescale_2.8.0_windows_arm64.zip",
+          "download_url": "https://github.com/timescale/terraform-provider-timescale/releases/download/v2.8.0/terraform-provider-timescale_2.8.0_windows_arm64.zip",
+          "shasum": "a38fb0e1b5619b86a18506d80289c2195d22ea69005d2a563f30b71f2f1975ed",
+          "h1": "h1:KD/85qtuvBiPo6/482dGYEaskHe8UNhh2aGto8wvCK0="
+        }
+      ]
+    },
+    {
       "version": "2.7.0",
       "protocols": [
         "6.0"
