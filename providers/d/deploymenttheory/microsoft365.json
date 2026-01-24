@@ -1,6 +1,64 @@
 {
   "versions": [
     {
+      "version": "0.42.0-alpha",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/deploymenttheory/terraform-provider-microsoft365/releases/download/v0.42.0-alpha/terraform-provider-microsoft365_0.42.0-alpha_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/deploymenttheory/terraform-provider-microsoft365/releases/download/v0.42.0-alpha/terraform-provider-microsoft365_0.42.0-alpha_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-microsoft365_0.42.0-alpha_darwin_amd64.zip",
+          "download_url": "https://github.com/deploymenttheory/terraform-provider-microsoft365/releases/download/v0.42.0-alpha/terraform-provider-microsoft365_0.42.0-alpha_darwin_amd64.zip",
+          "shasum": "6e4a6eb78a7e8eab49157d9e835e2b5028ef4c309b9701bf3007066b946b9f8f",
+          "h1": "h1:hFMv+h3nBOu6Xr+Lci6xFNKLr3U5D2HjEP2/3eN7N1U="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-microsoft365_0.42.0-alpha_darwin_arm64.zip",
+          "download_url": "https://github.com/deploymenttheory/terraform-provider-microsoft365/releases/download/v0.42.0-alpha/terraform-provider-microsoft365_0.42.0-alpha_darwin_arm64.zip",
+          "shasum": "d425b39d0bedef8ff4d6050fb4f340988ee1a93a0692d954f6fcb7be4749dccc",
+          "h1": "h1:rwm61T8ZXdac5xA5q3G748quYMi2rRGD3GWg/bEjMTM="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-microsoft365_0.42.0-alpha_linux_amd64.zip",
+          "download_url": "https://github.com/deploymenttheory/terraform-provider-microsoft365/releases/download/v0.42.0-alpha/terraform-provider-microsoft365_0.42.0-alpha_linux_amd64.zip",
+          "shasum": "3f8f6622425554247e3b3355cae82a1ea1d661fba2ebbb97a7b8a48498dee3f2",
+          "h1": "h1:yziV53LSNCG5Rl8VqnrDtpfFEAR4DC5ZODWeevdMvsQ="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-microsoft365_0.42.0-alpha_linux_arm64.zip",
+          "download_url": "https://github.com/deploymenttheory/terraform-provider-microsoft365/releases/download/v0.42.0-alpha/terraform-provider-microsoft365_0.42.0-alpha_linux_arm64.zip",
+          "shasum": "0fffdaa784a2fcb481c935ed5078a7949161e0bcf30758d1247b314d8b15d281",
+          "h1": "h1:7/wfz4bBF+LaGnSu9mRd05i+HJBD5AlbwIwiSci6/QU="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-microsoft365_0.42.0-alpha_windows_amd64.zip",
+          "download_url": "https://github.com/deploymenttheory/terraform-provider-microsoft365/releases/download/v0.42.0-alpha/terraform-provider-microsoft365_0.42.0-alpha_windows_amd64.zip",
+          "shasum": "4ac3a05fa16bbf99b2adf843e2bca36c5f2f0ef3c083a3ef2dcb1912d8f824d7",
+          "h1": "h1:8L1BkncLIQhpE5YqIncX6W4LjaMewSD30OWW6sLyHCY="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-microsoft365_0.42.0-alpha_windows_arm64.zip",
+          "download_url": "https://github.com/deploymenttheory/terraform-provider-microsoft365/releases/download/v0.42.0-alpha/terraform-provider-microsoft365_0.42.0-alpha_windows_arm64.zip",
+          "shasum": "18530fd5081f859c88aeb886816c8477d3eb6da9ee96244c820f0a3733fb3041",
+          "h1": "h1://lyil5Chy70Tv3iMf9CO0BMY7usY2NQrcX5iqinbQk="
+        }
+      ]
+    },
+    {
       "version": "0.41.0-alpha",
       "protocols": [
         "6.0"
