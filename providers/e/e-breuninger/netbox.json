@@ -1,6 +1,80 @@
 {
   "versions": [
     {
+      "version": "5.1.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/e-breuninger/terraform-provider-netbox/releases/download/v5.1.0/terraform-provider-netbox_5.1.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/e-breuninger/terraform-provider-netbox/releases/download/v5.1.0/terraform-provider-netbox_5.1.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-netbox_5.1.0_darwin_amd64.zip",
+          "download_url": "https://github.com/e-breuninger/terraform-provider-netbox/releases/download/v5.1.0/terraform-provider-netbox_5.1.0_darwin_amd64.zip",
+          "shasum": "be108240b0eb15486b6cc32189570a10c9c9c44d00fc03edcb2b7eb749f489ff",
+          "h1": "h1:Ci14VPGfgUhi9P3N5MwYuAcuaH2aSuf2sBo8fN92fwI="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-netbox_5.1.0_darwin_arm64.zip",
+          "download_url": "https://github.com/e-breuninger/terraform-provider-netbox/releases/download/v5.1.0/terraform-provider-netbox_5.1.0_darwin_arm64.zip",
+          "shasum": "2c06db7a479b0e108ec4bd598c493d5094ee312b316912ef7625e44bb1236132",
+          "h1": "h1:i2RfvSU7bOo7ibkPT93WuIMVbJAtmORAx7/8lHi/hIw="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-netbox_5.1.0_linux_386.zip",
+          "download_url": "https://github.com/e-breuninger/terraform-provider-netbox/releases/download/v5.1.0/terraform-provider-netbox_5.1.0_linux_386.zip",
+          "shasum": "89f87c579ee68860045ce88496cfa901d5ac46375a03c9062a69902109917313",
+          "h1": "h1:kuZmgff3lWPL8EagoUSvinK2Dw8L6UOlVic5Y7RrQbA="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-netbox_5.1.0_linux_amd64.zip",
+          "download_url": "https://github.com/e-breuninger/terraform-provider-netbox/releases/download/v5.1.0/terraform-provider-netbox_5.1.0_linux_amd64.zip",
+          "shasum": "c38e6fcc5348885d0dcc9dcce22353fd7c28e4e221991a15616c547a0a38d179",
+          "h1": "h1:q9mvzO69BZP+xBdLkhxEG61uO37H9uUBc+g/BHurMQM="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-netbox_5.1.0_linux_arm64.zip",
+          "download_url": "https://github.com/e-breuninger/terraform-provider-netbox/releases/download/v5.1.0/terraform-provider-netbox_5.1.0_linux_arm64.zip",
+          "shasum": "db094f07e17cbda293bdbfe460183dc3f5cce728cb76001383671e1635a3af02",
+          "h1": "h1:mVEooX5GajF6xXzap4O/sqrWezUBZ5XOkZBzgMjl6JQ="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-netbox_5.1.0_windows_386.zip",
+          "download_url": "https://github.com/e-breuninger/terraform-provider-netbox/releases/download/v5.1.0/terraform-provider-netbox_5.1.0_windows_386.zip",
+          "shasum": "33cc05dd40feff0a225688f47e6e3071a6e09e27cf26365980be742d14626cc4",
+          "h1": "h1:qpv+yP1Z7GB21XV70s+IDFAn1H67P4LwtXZq1QYbfgw="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-netbox_5.1.0_windows_amd64.zip",
+          "download_url": "https://github.com/e-breuninger/terraform-provider-netbox/releases/download/v5.1.0/terraform-provider-netbox_5.1.0_windows_amd64.zip",
+          "shasum": "c2581b8a787d8ddecf68f22faa46ad03c959193b8f856b1c942f288656aa9385",
+          "h1": "h1:G8sX4/BZy3R0wEVA+dfFDup0CQVBKi415u8lOFjQyeA="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-netbox_5.1.0_windows_arm64.zip",
+          "download_url": "https://github.com/e-breuninger/terraform-provider-netbox/releases/download/v5.1.0/terraform-provider-netbox_5.1.0_windows_arm64.zip",
+          "shasum": "1ffc46bef30eb35ec786f6d7f9b2ec6fcbac58d170e63c8ff04a441ad9dd36db",
+          "h1": "h1:HUOrgKdmhlYWY+D+hkdtGV+IqKAxAUDVEM+J91u9Y8k="
+        }
+      ]
+    },
+    {
       "version": "5.0.1",
       "protocols": [
         "5.0"
