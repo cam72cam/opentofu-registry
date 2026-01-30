@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "2.4.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/warpstreamlabs/terraform-provider-warpstream/releases/download/v2.4.0/terraform-provider-warpstream_2.4.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/warpstreamlabs/terraform-provider-warpstream/releases/download/v2.4.0/terraform-provider-warpstream_2.4.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-warpstream_2.4.0_darwin_amd64.zip",
+          "download_url": "https://github.com/warpstreamlabs/terraform-provider-warpstream/releases/download/v2.4.0/terraform-provider-warpstream_2.4.0_darwin_amd64.zip",
+          "shasum": "dc713c322148c471f6f95fd13717769e0dbc7769931060a949114899f8c245ec",
+          "h1": "h1:KIY+1kSOFSynYdkY8R8cnbHuKpVXD4dhJ6PqEc7/VoA="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-warpstream_2.4.0_darwin_arm64.zip",
+          "download_url": "https://github.com/warpstreamlabs/terraform-provider-warpstream/releases/download/v2.4.0/terraform-provider-warpstream_2.4.0_darwin_arm64.zip",
+          "shasum": "d5a28708c87eeb07c742bb3d85b969304df08bce4493c4c55a2a952d37a316ea",
+          "h1": "h1:tYKCs8b95LRF1ogV4KDK692/PwmmFfuLHqzRVG3Z5Q4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-warpstream_2.4.0_freebsd_386.zip",
+          "download_url": "https://github.com/warpstreamlabs/terraform-provider-warpstream/releases/download/v2.4.0/terraform-provider-warpstream_2.4.0_freebsd_386.zip",
+          "shasum": "7ff7ff6b7cb6128ea475e3689e317fdeefc2b01d5312bcbd705e8813752df61f",
+          "h1": "h1:t53cf0ug3kPcxxA/LOWsHlMh2/FjlykyZZYaosTOHsU="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-warpstream_2.4.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/warpstreamlabs/terraform-provider-warpstream/releases/download/v2.4.0/terraform-provider-warpstream_2.4.0_freebsd_amd64.zip",
+          "shasum": "a0544852c646f3313d33bfcb2e921439bedcbc9d3c3efc2dceeddb2723d626ed",
+          "h1": "h1:K7YxYNhBo2dCMVzw+mX3VX9Wcq+mNPP2G2d+40jAzRY="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-warpstream_2.4.0_freebsd_arm.zip",
+          "download_url": "https://github.com/warpstreamlabs/terraform-provider-warpstream/releases/download/v2.4.0/terraform-provider-warpstream_2.4.0_freebsd_arm.zip",
+          "shasum": "2279da8527553fdd282580b2811849893249a52941062332ebd2964978728b6f",
+          "h1": "h1:yKGsvSDeEz2lPoKG90pFZ6O1AFeVegGw+35hnNVBZQo="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-warpstream_2.4.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/warpstreamlabs/terraform-provider-warpstream/releases/download/v2.4.0/terraform-provider-warpstream_2.4.0_freebsd_arm64.zip",
+          "shasum": "e25c4eb1e515a386130de608966e049abe3fa6b32947dd3a9313551e40922485",
+          "h1": "h1:/mivRRNLsdpZ25Mu/MdF0Z3+WzQy5FEFkvjwARFGOAw="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-warpstream_2.4.0_linux_386.zip",
+          "download_url": "https://github.com/warpstreamlabs/terraform-provider-warpstream/releases/download/v2.4.0/terraform-provider-warpstream_2.4.0_linux_386.zip",
+          "shasum": "193fec10382322953d78b8177644a3b3a2ade45980d26534d0a46e24982642e6",
+          "h1": "h1:pezZf+Ix1rgMFp5f5gfq1qwM9dUwciaflOvrCe3Tju0="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-warpstream_2.4.0_linux_amd64.zip",
+          "download_url": "https://github.com/warpstreamlabs/terraform-provider-warpstream/releases/download/v2.4.0/terraform-provider-warpstream_2.4.0_linux_amd64.zip",
+          "shasum": "19915815c185a6c7969945952e2259aaa96876f2d6999e707bbbc73f1f122bf1",
+          "h1": "h1:GXkagKcREsSON8sd9rp2XUSIHnbCJGBf4GzDzUfccCQ="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-warpstream_2.4.0_linux_arm.zip",
+          "download_url": "https://github.com/warpstreamlabs/terraform-provider-warpstream/releases/download/v2.4.0/terraform-provider-warpstream_2.4.0_linux_arm.zip",
+          "shasum": "3327eefd9c6c1b71bf9f6295c1a403f2219b30a6a6bdaf958c5d205a837cfb4a",
+          "h1": "h1:dayWRfazhijuEOHsEP68lvCIkgAxSAU96JDg9LbV6qc="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-warpstream_2.4.0_linux_arm64.zip",
+          "download_url": "https://github.com/warpstreamlabs/terraform-provider-warpstream/releases/download/v2.4.0/terraform-provider-warpstream_2.4.0_linux_arm64.zip",
+          "shasum": "64691914745ab9641b8595767ce2c8ded3ff1e7b3b625233a3c32afe4ec3b4dd",
+          "h1": "h1:46NJXoiHymUOwQZGLp3VuDjKeq21u3EEWYJqmyApT5U="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-warpstream_2.4.0_windows_386.zip",
+          "download_url": "https://github.com/warpstreamlabs/terraform-provider-warpstream/releases/download/v2.4.0/terraform-provider-warpstream_2.4.0_windows_386.zip",
+          "shasum": "e6438c117bedc51a870424a67f845ef5b7f581ebcdf71d6c3716bfce80b7e153",
+          "h1": "h1:9lY0fMlZAtxVP00IUTzSzoO7Bn3COxSsTz6r4GlktHo="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-warpstream_2.4.0_windows_amd64.zip",
+          "download_url": "https://github.com/warpstreamlabs/terraform-provider-warpstream/releases/download/v2.4.0/terraform-provider-warpstream_2.4.0_windows_amd64.zip",
+          "shasum": "7a978aa5b738f6a4c737d71f6012a4f4f5c770cb9ffae3d2d8185a8435130a64",
+          "h1": "h1:n28ipN3Rm0lCwuSxqLUyJp+ndB1DVLSPt21uyM8VvXs="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-warpstream_2.4.0_windows_arm.zip",
+          "download_url": "https://github.com/warpstreamlabs/terraform-provider-warpstream/releases/download/v2.4.0/terraform-provider-warpstream_2.4.0_windows_arm.zip",
+          "shasum": "9879acd5e2a914eeefc097985515a97be0dce39d55cc8727374b290ae84bcf2f",
+          "h1": "h1:4x3BykZ6J34YheiXYocZE4G5Fb6xHIEeSBRRV40xAQI="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-warpstream_2.4.0_windows_arm64.zip",
+          "download_url": "https://github.com/warpstreamlabs/terraform-provider-warpstream/releases/download/v2.4.0/terraform-provider-warpstream_2.4.0_windows_arm64.zip",
+          "shasum": "93876f4eb49587f41947e03ccb26687b59c0475fc7b2ae8a82d45c0ac80970d6",
+          "h1": "h1:iRKSQRCMd7fUxyC7b5qahh/cZRaPOf+x1jraS9TTr2g="
+        }
+      ]
+    },
+    {
       "version": "2.3.13",
       "protocols": [
         "6.0"
