@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "3.4.2",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/fuochi/terraform-provider-sonarr/releases/download/v3.4.2/terraform-provider-sonarr_3.4.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/fuochi/terraform-provider-sonarr/releases/download/v3.4.2/terraform-provider-sonarr_3.4.2_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-sonarr_3.4.2_darwin_amd64.zip",
+          "download_url": "https://github.com/fuochi/terraform-provider-sonarr/releases/download/v3.4.2/terraform-provider-sonarr_3.4.2_darwin_amd64.zip",
+          "shasum": "2da242ee58c1726cff9ce9260bc94756bc8a775a717da5aec8e9a8bf60578ac6",
+          "h1": "h1:OtXAYOHzmEjgDYm7aiaJOiLRazr8lPeq9qUmwFRP7Wg="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-sonarr_3.4.2_darwin_arm64.zip",
+          "download_url": "https://github.com/fuochi/terraform-provider-sonarr/releases/download/v3.4.2/terraform-provider-sonarr_3.4.2_darwin_arm64.zip",
+          "shasum": "67db823f6016e345f2cbceb5300d0cce595bdeb0da32b15a1743724f0a4f978f",
+          "h1": "h1:RCI1fuccrZXNgu04VzxjD2e2A1hsMO8UP/BLDagThqw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-sonarr_3.4.2_freebsd_386.zip",
+          "download_url": "https://github.com/fuochi/terraform-provider-sonarr/releases/download/v3.4.2/terraform-provider-sonarr_3.4.2_freebsd_386.zip",
+          "shasum": "9aee54de9fcce6ef4f6b4f4f394a5628690d7d4849b03cd996ff991f8b29433a",
+          "h1": "h1:EPnSXZ7ee1/DNcNwhfhoOuxJKawOZi+XpOcs/xfqQwo="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-sonarr_3.4.2_freebsd_amd64.zip",
+          "download_url": "https://github.com/fuochi/terraform-provider-sonarr/releases/download/v3.4.2/terraform-provider-sonarr_3.4.2_freebsd_amd64.zip",
+          "shasum": "82033841c5a3fceecc1e3b84ef7328f027e2bb4bf63dfc24886510fed9d8a843",
+          "h1": "h1:Y0hfMSXSn0EavnbgG6NPEPhsG0ko0USrrl68PKXgt+U="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-sonarr_3.4.2_freebsd_arm.zip",
+          "download_url": "https://github.com/fuochi/terraform-provider-sonarr/releases/download/v3.4.2/terraform-provider-sonarr_3.4.2_freebsd_arm.zip",
+          "shasum": "75f119f674b3b0988133d38c1645e97cf6f0aee62a4131dfd62c8462636c2a94",
+          "h1": "h1:2eXqiynDO4Tojbg4q/rrJdCIEQUtcQS7wypHUQUO1mY="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-sonarr_3.4.2_freebsd_arm64.zip",
+          "download_url": "https://github.com/fuochi/terraform-provider-sonarr/releases/download/v3.4.2/terraform-provider-sonarr_3.4.2_freebsd_arm64.zip",
+          "shasum": "5e5c5b1614cf0c61aa154543da1d5bda295a405fda52746d9193b0b8db922ddb",
+          "h1": "h1:Y+5xDTD66B3jnbIdz6961P2NLC46mzOXeg9xFYzg+3I="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-sonarr_3.4.2_linux_386.zip",
+          "download_url": "https://github.com/fuochi/terraform-provider-sonarr/releases/download/v3.4.2/terraform-provider-sonarr_3.4.2_linux_386.zip",
+          "shasum": "e4f8a67b8d08702056073a5ac8928dbb991767a52d3f36c3726399df0b5f2b96",
+          "h1": "h1:4FkDDw2DX4vnUcmwTxnrrAq40th7HD6oSKOjdR5FEmc="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-sonarr_3.4.2_linux_amd64.zip",
+          "download_url": "https://github.com/fuochi/terraform-provider-sonarr/releases/download/v3.4.2/terraform-provider-sonarr_3.4.2_linux_amd64.zip",
+          "shasum": "65ebe76847129677f747364ee20591f01f5df4a67b06c5dff1bf53b813ec613a",
+          "h1": "h1:2XcXWqATWjGrdkC4lngY4LvqUgwxfy5pjpLWRlNVYcY="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-sonarr_3.4.2_linux_arm.zip",
+          "download_url": "https://github.com/fuochi/terraform-provider-sonarr/releases/download/v3.4.2/terraform-provider-sonarr_3.4.2_linux_arm.zip",
+          "shasum": "01d675253aef5586b165bc4749d006f91cda6ce65b24842c7911cc178fe7e09d",
+          "h1": "h1:S0PlWOCiA7rTo7dQC1S3/n6SNdHruQpSyshEnTRQ/Hg="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-sonarr_3.4.2_linux_arm64.zip",
+          "download_url": "https://github.com/fuochi/terraform-provider-sonarr/releases/download/v3.4.2/terraform-provider-sonarr_3.4.2_linux_arm64.zip",
+          "shasum": "7ca3d6cfd4ccc2a9fb008ca93362c97a98f2ae98b55a56a7902fd33030d64179",
+          "h1": "h1:NViWdxf3eWLgUmGpJ9djZOmpJdreDykwTSFsODO3o4A="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-sonarr_3.4.2_windows_386.zip",
+          "download_url": "https://github.com/fuochi/terraform-provider-sonarr/releases/download/v3.4.2/terraform-provider-sonarr_3.4.2_windows_386.zip",
+          "shasum": "cda3fd66138de23856f869549aa06c82ce1f899474bc133d29d8463bfa032b16",
+          "h1": "h1:JUf458Xf1d27s0VNnprV6dbW27V9KArilSRMpeGWF1Y="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-sonarr_3.4.2_windows_amd64.zip",
+          "download_url": "https://github.com/fuochi/terraform-provider-sonarr/releases/download/v3.4.2/terraform-provider-sonarr_3.4.2_windows_amd64.zip",
+          "shasum": "47adaba9c7915c832a9d8dfb5d0a18dd08b60fd7c531a810b2642ab75d200ee1",
+          "h1": "h1:WFDyYkinXBPFQfgDWSKttAP15kT7RkbtLdoDdHO7GUs="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-sonarr_3.4.2_windows_arm.zip",
+          "download_url": "https://github.com/fuochi/terraform-provider-sonarr/releases/download/v3.4.2/terraform-provider-sonarr_3.4.2_windows_arm.zip",
+          "shasum": "551b580729cd82cc7a303d836985286e79a26062f02629bf51081ba2e4edf471",
+          "h1": "h1:OtPlrdLOOt9FZcs224fMw3q5T6IYMaC2oDfkkRsYWhg="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-sonarr_3.4.2_windows_arm64.zip",
+          "download_url": "https://github.com/fuochi/terraform-provider-sonarr/releases/download/v3.4.2/terraform-provider-sonarr_3.4.2_windows_arm64.zip",
+          "shasum": "30acc52a3a31ac75387728c27b3193f0419dcb72ee7488e8dbcd407884921205",
+          "h1": "h1:m+yujmlcnuRf/fSAc1DUs8ghyOt+T3PMfxfk6I7pXzk="
+        }
+      ]
+    },
+    {
       "version": "3.4.1",
       "protocols": [
         "6.0"
