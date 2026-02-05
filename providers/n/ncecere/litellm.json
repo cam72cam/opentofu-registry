@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.0.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/ncecere/terraform-provider-litellm/releases/download/v1.0.0/terraform-provider-litellm_1.0.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/ncecere/terraform-provider-litellm/releases/download/v1.0.0/terraform-provider-litellm_1.0.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-litellm_1.0.0_darwin_amd64.zip",
+          "download_url": "https://github.com/ncecere/terraform-provider-litellm/releases/download/v1.0.0/terraform-provider-litellm_1.0.0_darwin_amd64.zip",
+          "shasum": "3b4ec3d8851d5dcd5247274cb2e6cdcc298d71a3011cfed1f251eba393ebedff",
+          "h1": "h1:vXZoFTaplM6JfCZVPlZCTtmDX3VZnba5vbTIPbZrnMI="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-litellm_1.0.0_darwin_arm64.zip",
+          "download_url": "https://github.com/ncecere/terraform-provider-litellm/releases/download/v1.0.0/terraform-provider-litellm_1.0.0_darwin_arm64.zip",
+          "shasum": "b530ad15dd90d1e57245ea51446ddddb7d476a7038167449b41eba6d54e75c65",
+          "h1": "h1:AoygztHiOIathtO/ocFib4mMJFXXyzsKaCXZcJf4InQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-litellm_1.0.0_freebsd_386.zip",
+          "download_url": "https://github.com/ncecere/terraform-provider-litellm/releases/download/v1.0.0/terraform-provider-litellm_1.0.0_freebsd_386.zip",
+          "shasum": "c72dd07e5e6453c5643808e35651c1934bd99fcc82fbc957647d24c22c261f8c",
+          "h1": "h1:MMR8KxHWmbO/zYyzpQq7p9zSm4VYl+S8RznLgGG9hhc="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-litellm_1.0.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/ncecere/terraform-provider-litellm/releases/download/v1.0.0/terraform-provider-litellm_1.0.0_freebsd_amd64.zip",
+          "shasum": "f81344a6ceac64938762db9d106847b91cf81021b55d76a1b78b9d1905cf5902",
+          "h1": "h1:9sIMBlGW+J/W9mHmXKRFh2X3Zd9S/d8p2dUihgjWMPs="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-litellm_1.0.0_freebsd_arm.zip",
+          "download_url": "https://github.com/ncecere/terraform-provider-litellm/releases/download/v1.0.0/terraform-provider-litellm_1.0.0_freebsd_arm.zip",
+          "shasum": "5b56811e69fc779fe3d152310ccc97dd6e9eb612585b5b880c2587d55a919f51",
+          "h1": "h1:MAPMQtGCmUZpOgTjexOk06PfQ7Oxd9gbuSLpDS3mRJ4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-litellm_1.0.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/ncecere/terraform-provider-litellm/releases/download/v1.0.0/terraform-provider-litellm_1.0.0_freebsd_arm64.zip",
+          "shasum": "5936a9e00e3d92ca2561780ca0b20d34cd46417e0f9c5c7c77b5faf3d068fb97",
+          "h1": "h1:QO0qthwjkHewnuglOOkIv4WzLgXeJ/kkhKJdAoKLl88="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-litellm_1.0.0_linux_386.zip",
+          "download_url": "https://github.com/ncecere/terraform-provider-litellm/releases/download/v1.0.0/terraform-provider-litellm_1.0.0_linux_386.zip",
+          "shasum": "05763f5a48e98b948abeb031623789b740adc5ac05cbe068b30d86b3669d22c9",
+          "h1": "h1:Vvo6D2pqBSUrxHItR5ZC7nKTza4hwcJVJWLKiRT5+XQ="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-litellm_1.0.0_linux_amd64.zip",
+          "download_url": "https://github.com/ncecere/terraform-provider-litellm/releases/download/v1.0.0/terraform-provider-litellm_1.0.0_linux_amd64.zip",
+          "shasum": "24315259bcffc6cd7d02b500ce431421284210404a26bee39b617b2528803a1f",
+          "h1": "h1:LwNHfTu/oo7v2LWSiVMzwv/8XGil0vmsQcfnc16lqgk="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-litellm_1.0.0_linux_arm.zip",
+          "download_url": "https://github.com/ncecere/terraform-provider-litellm/releases/download/v1.0.0/terraform-provider-litellm_1.0.0_linux_arm.zip",
+          "shasum": "99b6c6eb8a3adc90f59e04dc38cdf36694b374754ce2ee921626e5937ae144ba",
+          "h1": "h1:OHxfqGHuRtj2hf5pOng26idEQnAEuQUfwf7CJ0rKoEc="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-litellm_1.0.0_linux_arm64.zip",
+          "download_url": "https://github.com/ncecere/terraform-provider-litellm/releases/download/v1.0.0/terraform-provider-litellm_1.0.0_linux_arm64.zip",
+          "shasum": "8309252d0b76ac71dd593f7e0a4eba08d78ccf94768a528ecd6cda77b157467e",
+          "h1": "h1:Q5faO/Vv8zMODZ5ZgF5d/mXX7hmvbR9QEZ5XpFCetnY="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-litellm_1.0.0_windows_386.zip",
+          "download_url": "https://github.com/ncecere/terraform-provider-litellm/releases/download/v1.0.0/terraform-provider-litellm_1.0.0_windows_386.zip",
+          "shasum": "3031c3581a85be7986e589e3a543a09262ad1b92285fac49094e6ee2a3ef16aa",
+          "h1": "h1:QW/ffbCxEc8pQJle4TX1kDsl7GyWmxkasIZn790yKlk="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-litellm_1.0.0_windows_amd64.zip",
+          "download_url": "https://github.com/ncecere/terraform-provider-litellm/releases/download/v1.0.0/terraform-provider-litellm_1.0.0_windows_amd64.zip",
+          "shasum": "d4ec222fdab6b6ab03e554b2b27a99ef7b44eece38094baa71448aa9be252ff1",
+          "h1": "h1:s1ThjpyH9/4pLevU4n9jGVfQ949Ej3ojLfvrk31gZgc="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-litellm_1.0.0_windows_arm.zip",
+          "download_url": "https://github.com/ncecere/terraform-provider-litellm/releases/download/v1.0.0/terraform-provider-litellm_1.0.0_windows_arm.zip",
+          "shasum": "98dd640896ad5acf32257b2d4ab9b1b6a914ae382073acd59a73f3857ab6dada",
+          "h1": "h1:mOLzISvcckJaESGBrUWqfgNxTaaPRMVfJPacvx1lJNY="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-litellm_1.0.0_windows_arm64.zip",
+          "download_url": "https://github.com/ncecere/terraform-provider-litellm/releases/download/v1.0.0/terraform-provider-litellm_1.0.0_windows_arm64.zip",
+          "shasum": "fec07674976ed13d45ce21ece2e7d8503ba4031a24efccc160a764776b1997af",
+          "h1": "h1:G0Vju/9D/wXrU8dgHSV4Iiyv3/2hsy0SQfzEE8LOGMY="
+        }
+      ]
+    },
+    {
       "version": "0.3.16",
       "protocols": [
         "6.0"
