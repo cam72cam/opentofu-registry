@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "2.0.1",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/atlassian/terraform-provider-atlassian-operations/releases/download/v2.0.1/terraform-provider-atlassian-operations_2.0.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/atlassian/terraform-provider-atlassian-operations/releases/download/v2.0.1/terraform-provider-atlassian-operations_2.0.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-atlassian-operations_2.0.1_darwin_amd64.zip",
+          "download_url": "https://github.com/atlassian/terraform-provider-atlassian-operations/releases/download/v2.0.1/terraform-provider-atlassian-operations_2.0.1_darwin_amd64.zip",
+          "shasum": "39c8713ac979d7b7f30467ec7135af11691bf26396f34196024718d7aa126560",
+          "h1": "h1:qq7TuPFfJK4S8qJ/7ZlRU/4rfGJCeKOqTYhvEoJCaBE="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-atlassian-operations_2.0.1_darwin_arm64.zip",
+          "download_url": "https://github.com/atlassian/terraform-provider-atlassian-operations/releases/download/v2.0.1/terraform-provider-atlassian-operations_2.0.1_darwin_arm64.zip",
+          "shasum": "6011bacfb19040b878c4c88b052442df0cbc51f6a2e18e1d1a62d22af4a07692",
+          "h1": "h1:ztBJFTmsycfGeAXJLzvvQk4/awwzwASr64cF37uLug8="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-atlassian-operations_2.0.1_freebsd_386.zip",
+          "download_url": "https://github.com/atlassian/terraform-provider-atlassian-operations/releases/download/v2.0.1/terraform-provider-atlassian-operations_2.0.1_freebsd_386.zip",
+          "shasum": "88b2d69285989c2decae0757a541d61ba0c5fddef7d15ce100252f030f37dc63",
+          "h1": "h1:F3TQSeAqr7LNvhUQ1qWoJc+Pxx/y27Bp0YlQ7oaHQqA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-atlassian-operations_2.0.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/atlassian/terraform-provider-atlassian-operations/releases/download/v2.0.1/terraform-provider-atlassian-operations_2.0.1_freebsd_amd64.zip",
+          "shasum": "9065db0ad8db0062a47505b61417b18d7c8f776428b877e2c59a21df1ca665a2",
+          "h1": "h1:u9jqfYGyQVHU2/HhWd7AxOlX9b8XCysJK5tysY5U8Xk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-atlassian-operations_2.0.1_freebsd_arm.zip",
+          "download_url": "https://github.com/atlassian/terraform-provider-atlassian-operations/releases/download/v2.0.1/terraform-provider-atlassian-operations_2.0.1_freebsd_arm.zip",
+          "shasum": "7acf9a09dc777746db1f9c14f8237b0d1d98adb9ad0bb6a7537529adcc4887a3",
+          "h1": "h1:QktfPvZ+nIpBQu8bYc5wfCuhEIktVW6fD+a6sNjp4V8="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-atlassian-operations_2.0.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/atlassian/terraform-provider-atlassian-operations/releases/download/v2.0.1/terraform-provider-atlassian-operations_2.0.1_freebsd_arm64.zip",
+          "shasum": "74fc5f75c7ac1cf3331fe6af28838ba92a263c228d23c5db5e66222b6b133178",
+          "h1": "h1:wluseO6EcHHrg2rFz4Y8pl+1XEA+H1FXIvLHmrTNB48="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-atlassian-operations_2.0.1_linux_386.zip",
+          "download_url": "https://github.com/atlassian/terraform-provider-atlassian-operations/releases/download/v2.0.1/terraform-provider-atlassian-operations_2.0.1_linux_386.zip",
+          "shasum": "04a9b14d29e32c514c0c10a4f38045673ee4fc1d9fba754ada98d6a407fc6dda",
+          "h1": "h1:NTF4KzWI/KwN7cB7zNdalAiSrwOQnCKRdj/Z/fi0diQ="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-atlassian-operations_2.0.1_linux_amd64.zip",
+          "download_url": "https://github.com/atlassian/terraform-provider-atlassian-operations/releases/download/v2.0.1/terraform-provider-atlassian-operations_2.0.1_linux_amd64.zip",
+          "shasum": "8639991be6f60d4233092d84027beb02d654bb6fd2d50c7f7aafb111b1885812",
+          "h1": "h1:2V/qf5f79x3+IHYKo244OFPTVglUJIxv3s2n042PBBQ="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-atlassian-operations_2.0.1_linux_arm.zip",
+          "download_url": "https://github.com/atlassian/terraform-provider-atlassian-operations/releases/download/v2.0.1/terraform-provider-atlassian-operations_2.0.1_linux_arm.zip",
+          "shasum": "d1c1def91f665c5bc5c3ec1fadb05d34522b203726f8331360abecc68a04442f",
+          "h1": "h1:4oiqMyGSEzOMhmEH2R4YERLoNKpSiLHqtGRCUqDmLgk="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-atlassian-operations_2.0.1_linux_arm64.zip",
+          "download_url": "https://github.com/atlassian/terraform-provider-atlassian-operations/releases/download/v2.0.1/terraform-provider-atlassian-operations_2.0.1_linux_arm64.zip",
+          "shasum": "50adf86bf97a757456e7afb36bcbdcba169e5ce58c47abe2b5545b4d8b0e9096",
+          "h1": "h1:e/sO8UwikXUkWevERCyxFsJSxFNRAza1JsIBpZL1lCQ="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-atlassian-operations_2.0.1_windows_386.zip",
+          "download_url": "https://github.com/atlassian/terraform-provider-atlassian-operations/releases/download/v2.0.1/terraform-provider-atlassian-operations_2.0.1_windows_386.zip",
+          "shasum": "7865ffd496ab62d462919763bf482d4b518ea2b06858d7900801b26a16b7a47a",
+          "h1": "h1:TJtiXQ80syc5fAek1HexInnKdX4bAP15uAjreyBytwY="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-atlassian-operations_2.0.1_windows_amd64.zip",
+          "download_url": "https://github.com/atlassian/terraform-provider-atlassian-operations/releases/download/v2.0.1/terraform-provider-atlassian-operations_2.0.1_windows_amd64.zip",
+          "shasum": "c33995a5c1dbb9131d8b1eaeadf3c4f7b957c35d1bc878d0c56c362d6cc28241",
+          "h1": "h1:6hJUToeI1erJNApaxaxGyZP8YXygSm8gLE8tj0r65/s="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-atlassian-operations_2.0.1_windows_arm.zip",
+          "download_url": "https://github.com/atlassian/terraform-provider-atlassian-operations/releases/download/v2.0.1/terraform-provider-atlassian-operations_2.0.1_windows_arm.zip",
+          "shasum": "0ecb2094a1885eaada2fb665e6724f179b8d606c265c30bfa8d22f9d961f7c2d",
+          "h1": "h1:v5sJqWCFB9sDrzQYf4LQ5bZmqAlCTqjTeOKw5KTF3Ms="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-atlassian-operations_2.0.1_windows_arm64.zip",
+          "download_url": "https://github.com/atlassian/terraform-provider-atlassian-operations/releases/download/v2.0.1/terraform-provider-atlassian-operations_2.0.1_windows_arm64.zip",
+          "shasum": "f0eae5508d9d6dbe4166c49194cec60c053325934a3c11b8fa0f687242d0222c",
+          "h1": "h1:Z/3j66Dtc0IbTIrHQQWaiRcsYWCzFuQGpLNIkA1BAjM="
+        }
+      ]
+    },
+    {
       "version": "2.0.0",
       "protocols": [
         "6.0"
