@@ -1,6 +1,96 @@
 {
   "versions": [
     {
+      "version": "3.13.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/scalr/terraform-provider-scalr/releases/download/v3.13.0/terraform-provider-scalr_3.13.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/scalr/terraform-provider-scalr/releases/download/v3.13.0/terraform-provider-scalr_3.13.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-scalr_3.13.0_darwin_amd64.zip",
+          "download_url": "https://github.com/scalr/terraform-provider-scalr/releases/download/v3.13.0/terraform-provider-scalr_3.13.0_darwin_amd64.zip",
+          "shasum": "ac0173f67a12d1eb75064c7df7815a9e86b4e9bd2d07316d4da941b7ea4f6255",
+          "h1": "h1:SEoEswlbUIP0gWY+ct6uASCcXISvN0t11ZsT7xVdjyI="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-scalr_3.13.0_darwin_arm64.zip",
+          "download_url": "https://github.com/scalr/terraform-provider-scalr/releases/download/v3.13.0/terraform-provider-scalr_3.13.0_darwin_arm64.zip",
+          "shasum": "57aabb2057e23298d9e6a0832b82772755f68784fb2ec0044c5c50edc992ffa4",
+          "h1": "h1:r3mXX1CSX1uEHg9Scqh1q9+2zK7BCYsd1f5L6I57Qs4="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-scalr_3.13.0_linux_386.zip",
+          "download_url": "https://github.com/scalr/terraform-provider-scalr/releases/download/v3.13.0/terraform-provider-scalr_3.13.0_linux_386.zip",
+          "shasum": "655724c1e6b0402c2834044836de044a1bf1a4816b45144e045702fc361c71b7",
+          "h1": "h1:WkHzxc2BCrQNH5GrKpyqyQMmW5YGRyBP5pzJTG0wtIo="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-scalr_3.13.0_linux_amd64.zip",
+          "download_url": "https://github.com/scalr/terraform-provider-scalr/releases/download/v3.13.0/terraform-provider-scalr_3.13.0_linux_amd64.zip",
+          "shasum": "c12c5e60e85ba82e333e0495b33d45e9fd11ce842f3f4fd3e9616878246cbf5c",
+          "h1": "h1:5BeZIbywzjRyXveuuYAYz0jDmSmEB3/uhsyiMmJkyfM="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-scalr_3.13.0_linux_arm.zip",
+          "download_url": "https://github.com/scalr/terraform-provider-scalr/releases/download/v3.13.0/terraform-provider-scalr_3.13.0_linux_arm.zip",
+          "shasum": "e6e260ba0f78372e973eaef5954ccb0395ec41aed7a17696ed7be0a4f1779e05",
+          "h1": "h1:ATxx/As4y0q3VJNcnvEgOVYiI4zA8HnmqXo+hTSifvI="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-scalr_3.13.0_linux_arm64.zip",
+          "download_url": "https://github.com/scalr/terraform-provider-scalr/releases/download/v3.13.0/terraform-provider-scalr_3.13.0_linux_arm64.zip",
+          "shasum": "2ccd6cb08477ed1135de904eb09002dae2feba6c6c4ddd76d3a06a9f4da490ac",
+          "h1": "h1:fbxh195D/xKtXKabOrOk1KyPuCbUdyIhpmpqJnPq4G0="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-scalr_3.13.0_windows_386.zip",
+          "download_url": "https://github.com/scalr/terraform-provider-scalr/releases/download/v3.13.0/terraform-provider-scalr_3.13.0_windows_386.zip",
+          "shasum": "5745c227d839fbd8249279d52971a348f388693ec71053a13163f31eed718e3d",
+          "h1": "h1:CoP5BamMqcq78aAd+yE2lnjjcpPU3V+S/xzw6o7MOOk="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-scalr_3.13.0_windows_amd64.zip",
+          "download_url": "https://github.com/scalr/terraform-provider-scalr/releases/download/v3.13.0/terraform-provider-scalr_3.13.0_windows_amd64.zip",
+          "shasum": "b137c1017b0874829643feb6e3cd0d43586723f9a4dc6a282d166f61880dc7df",
+          "h1": "h1:bvXHzAp7aFRBIeI5vBsw5iBj2c1DbcYCB6qkQPyEF00="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-scalr_3.13.0_windows_arm.zip",
+          "download_url": "https://github.com/scalr/terraform-provider-scalr/releases/download/v3.13.0/terraform-provider-scalr_3.13.0_windows_arm.zip",
+          "shasum": "071a491f7a37f6ccca5719fccfd68abffb0bf98e8aca56e7c3d8e205742d5891",
+          "h1": "h1:hbbZ80ZlQSMTeABpzWMIG2LpWYVFLnJdrrZAPhoP+yg="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-scalr_3.13.0_windows_arm64.zip",
+          "download_url": "https://github.com/scalr/terraform-provider-scalr/releases/download/v3.13.0/terraform-provider-scalr_3.13.0_windows_arm64.zip",
+          "shasum": "a3b41b0ddcf5d06e395d7f15cd0994febbfdfb31b7696f21f49fecf4887ba683",
+          "h1": "h1:nhH3Y3Z4aGKCs4b6ywQ/vSNgUVQGpdppQqgl08V82Ak="
+        }
+      ]
+    },
+    {
       "version": "3.12.0",
       "protocols": [
         "5.0"
