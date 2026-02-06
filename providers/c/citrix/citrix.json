@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.0.32",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/citrix/terraform-provider-citrix/releases/download/v1.0.32/terraform-provider-citrix_1.0.32_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/citrix/terraform-provider-citrix/releases/download/v1.0.32/terraform-provider-citrix_1.0.32_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-citrix_1.0.32_darwin_amd64.zip",
+          "download_url": "https://github.com/citrix/terraform-provider-citrix/releases/download/v1.0.32/terraform-provider-citrix_1.0.32_darwin_amd64.zip",
+          "shasum": "8bd41b6d2fc5efc47668f14d13f89ce16b83ae7291465fbc9605ef77b9cb3c8e",
+          "h1": "h1:NmWpV6ZtkaV2SP6IkIDRRfsvvKGIpSgyj2TioiemGeM="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-citrix_1.0.32_darwin_arm64.zip",
+          "download_url": "https://github.com/citrix/terraform-provider-citrix/releases/download/v1.0.32/terraform-provider-citrix_1.0.32_darwin_arm64.zip",
+          "shasum": "f49be48738d1efc16004af5acea9dc4bd7e0c042646454a18fa9ce1e533ccb2a",
+          "h1": "h1:2pEK0umMb5cQNr+FxxcgVuxjOu+YWQ3tD+CvdLOyNws="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-citrix_1.0.32_freebsd_386.zip",
+          "download_url": "https://github.com/citrix/terraform-provider-citrix/releases/download/v1.0.32/terraform-provider-citrix_1.0.32_freebsd_386.zip",
+          "shasum": "f0b9e815ec219cab81c47883becba78baad9d02aa16821a46031ea2e807f90ea",
+          "h1": "h1:AwRPt1eX3rkDJX8oTqiY0qMxi/pl+8rp9HEGsZ+LkoU="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-citrix_1.0.32_freebsd_amd64.zip",
+          "download_url": "https://github.com/citrix/terraform-provider-citrix/releases/download/v1.0.32/terraform-provider-citrix_1.0.32_freebsd_amd64.zip",
+          "shasum": "9258563b88cb96ccc2a506fc5ed367279cfdd8add592f2dfbc4eb49746d3f741",
+          "h1": "h1:4jCc2HFMnea+IAI6sMDPgRmd1/S6Fr3Kx9IpmwbT9Fc="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-citrix_1.0.32_freebsd_arm.zip",
+          "download_url": "https://github.com/citrix/terraform-provider-citrix/releases/download/v1.0.32/terraform-provider-citrix_1.0.32_freebsd_arm.zip",
+          "shasum": "bae34331a775c3a7be163f5a4115e0899864aa6c476168f852d63dff2be99b03",
+          "h1": "h1:/96fUofKyRQRmoTjTt6dvVSn+3bPMz8QyqXPM8uUZfM="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-citrix_1.0.32_freebsd_arm64.zip",
+          "download_url": "https://github.com/citrix/terraform-provider-citrix/releases/download/v1.0.32/terraform-provider-citrix_1.0.32_freebsd_arm64.zip",
+          "shasum": "bd026b0b622d407787c4cf62afdf9c7aae4db2d7a1afb3ecb06b2504eab69d2d",
+          "h1": "h1:6uvgEJbgChGb3V7pw66vzU4ir/CkAr6E+YiHfwGvTsk="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-citrix_1.0.32_linux_386.zip",
+          "download_url": "https://github.com/citrix/terraform-provider-citrix/releases/download/v1.0.32/terraform-provider-citrix_1.0.32_linux_386.zip",
+          "shasum": "14415849fd52f434929942b6173488fa7b3e1a87b907eed91c28cf65db4901ea",
+          "h1": "h1:rQf4/aqNzSgIXtUcAtFyert3AJ785llhrbVggPKNMVw="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-citrix_1.0.32_linux_amd64.zip",
+          "download_url": "https://github.com/citrix/terraform-provider-citrix/releases/download/v1.0.32/terraform-provider-citrix_1.0.32_linux_amd64.zip",
+          "shasum": "475a7e4ea617db7342258ddb2b90ac0c0e0ec1ae3844a28525eb9d6d0a8b8546",
+          "h1": "h1:KECxtaAZJ2PRWqmigHotldReZLR7fW+mLt2NKb/uNHc="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-citrix_1.0.32_linux_arm.zip",
+          "download_url": "https://github.com/citrix/terraform-provider-citrix/releases/download/v1.0.32/terraform-provider-citrix_1.0.32_linux_arm.zip",
+          "shasum": "899384949cab5c2b395685bd341256319e5ef9638f1f82be582f544296d57efc",
+          "h1": "h1:FfQtC6VykDt08NGZ2RlOED5sJ2RIFZ86/IcjzF5Flcw="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-citrix_1.0.32_linux_arm64.zip",
+          "download_url": "https://github.com/citrix/terraform-provider-citrix/releases/download/v1.0.32/terraform-provider-citrix_1.0.32_linux_arm64.zip",
+          "shasum": "074315015cc243e369fa42297f8d65a3992ca350ff6f45431a3b023dc039fed7",
+          "h1": "h1:Nqm7ZmQSVfYz9by0qtZ8Amy9ciuPbkkHwabnrqrTpyg="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-citrix_1.0.32_windows_386.zip",
+          "download_url": "https://github.com/citrix/terraform-provider-citrix/releases/download/v1.0.32/terraform-provider-citrix_1.0.32_windows_386.zip",
+          "shasum": "c3c6754743859eeee2ac1e1ae5234675a588927f6f32a90d6aab46368a4a91de",
+          "h1": "h1:FKqBF5R4dKtTWTExt1iZAgoV439pPzaf73gh+yB6BJY="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-citrix_1.0.32_windows_amd64.zip",
+          "download_url": "https://github.com/citrix/terraform-provider-citrix/releases/download/v1.0.32/terraform-provider-citrix_1.0.32_windows_amd64.zip",
+          "shasum": "20a1cec0df63459742f1ba650448eb669a8296253cdcf98f1aa42ef54f20ff4f",
+          "h1": "h1:nI9VEeUAyQIcW+s2NM5TeCbEiI21ZbjGnOfxPbC2w6Y="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-citrix_1.0.32_windows_arm.zip",
+          "download_url": "https://github.com/citrix/terraform-provider-citrix/releases/download/v1.0.32/terraform-provider-citrix_1.0.32_windows_arm.zip",
+          "shasum": "b434b4227a30abde6d4d098a697bc4ec2fb702ba8b685b5cb83174506ad7165b",
+          "h1": "h1:csk9eYmvbSS/IOY9xXNtqTswElS1Ep1mlLXWdekiFa8="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-citrix_1.0.32_windows_arm64.zip",
+          "download_url": "https://github.com/citrix/terraform-provider-citrix/releases/download/v1.0.32/terraform-provider-citrix_1.0.32_windows_arm64.zip",
+          "shasum": "9edf1956e7a90db2dd22bb4717e82da9a624059c10921084dc02851ea385fed0",
+          "h1": "h1:A//tT7MO4unN9zimf5OLSyvQ1aw/pkeEx5epePamA3Y="
+        }
+      ]
+    },
+    {
       "version": "1.0.31",
       "protocols": [
         "6.0"
