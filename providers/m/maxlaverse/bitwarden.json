@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.17.3",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/maxlaverse/terraform-provider-bitwarden/releases/download/v0.17.3/terraform-provider-bitwarden_0.17.3_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/maxlaverse/terraform-provider-bitwarden/releases/download/v0.17.3/terraform-provider-bitwarden_0.17.3_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-bitwarden_0.17.3_darwin_amd64.zip",
+          "download_url": "https://github.com/maxlaverse/terraform-provider-bitwarden/releases/download/v0.17.3/terraform-provider-bitwarden_0.17.3_darwin_amd64.zip",
+          "shasum": "eec306c3f52feb2cb4a294b1ebe2be6feb40c32158665691162e00cdd687e618",
+          "h1": "h1:BLywmPwnx4/Nx1ZKpxv8Dk9XFRtnEO+XRMAmd84G2UE="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-bitwarden_0.17.3_darwin_arm64.zip",
+          "download_url": "https://github.com/maxlaverse/terraform-provider-bitwarden/releases/download/v0.17.3/terraform-provider-bitwarden_0.17.3_darwin_arm64.zip",
+          "shasum": "621cf3d121a14bafed41ed910d07add78b6f752877ff8e7a607299f0dac9d673",
+          "h1": "h1:Q8z0sX1GXWVpPmufC3wuqhI2z3fvA83POXRwuld9zZY="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-bitwarden_0.17.3_freebsd_386.zip",
+          "download_url": "https://github.com/maxlaverse/terraform-provider-bitwarden/releases/download/v0.17.3/terraform-provider-bitwarden_0.17.3_freebsd_386.zip",
+          "shasum": "6e573076426439976a0a422e9ed745929a837198fe732c5f5d585cbf7e2fca4b",
+          "h1": "h1:Q4uFc7P0Cpb+UTKVofgGhqhgahbCdXPKmmM6qHl8puQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-bitwarden_0.17.3_freebsd_amd64.zip",
+          "download_url": "https://github.com/maxlaverse/terraform-provider-bitwarden/releases/download/v0.17.3/terraform-provider-bitwarden_0.17.3_freebsd_amd64.zip",
+          "shasum": "0a8519386d80bc13d7c83247e6410fd486314558fd9a19301d38c3ed134fb2aa",
+          "h1": "h1:bpOnK8yQNWVWDgfyz0/cCGT49Q6FFzdBUyAQ9WogByA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-bitwarden_0.17.3_freebsd_arm.zip",
+          "download_url": "https://github.com/maxlaverse/terraform-provider-bitwarden/releases/download/v0.17.3/terraform-provider-bitwarden_0.17.3_freebsd_arm.zip",
+          "shasum": "97795fe53a423cff6f56dccab2bd84151b114471cb96fae02706a96761550c7f",
+          "h1": "h1:EhWUbm0pJMfi58FqRX40kzH0JUKkmwsNLyeKa6DwYFM="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-bitwarden_0.17.3_freebsd_arm64.zip",
+          "download_url": "https://github.com/maxlaverse/terraform-provider-bitwarden/releases/download/v0.17.3/terraform-provider-bitwarden_0.17.3_freebsd_arm64.zip",
+          "shasum": "8f3f529cb12387aaa9fcaf0f2dff18bba4a8e9842437316ffb9ef551697ab85e",
+          "h1": "h1:HKjGAYYbtgVAZeaPcnCQ2wUohOqoOKgFQ6SXRtej2w8="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-bitwarden_0.17.3_linux_386.zip",
+          "download_url": "https://github.com/maxlaverse/terraform-provider-bitwarden/releases/download/v0.17.3/terraform-provider-bitwarden_0.17.3_linux_386.zip",
+          "shasum": "6ee15d4816a153ef22c80312697b662435f11e39615ab92aca25912ad0bf9544",
+          "h1": "h1:+rhkR/C3dbGvE78fcFIveYbRG88h1e0eFgdE7vBlbvA="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-bitwarden_0.17.3_linux_amd64.zip",
+          "download_url": "https://github.com/maxlaverse/terraform-provider-bitwarden/releases/download/v0.17.3/terraform-provider-bitwarden_0.17.3_linux_amd64.zip",
+          "shasum": "42dfd9879de39791e842c062708b0176be8165741dd595245dbb1083fdd2b993",
+          "h1": "h1:8olmulLl5JXQTcFthUXgxxer8SfqCCr/zkDjoAR9yiA="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-bitwarden_0.17.3_linux_arm.zip",
+          "download_url": "https://github.com/maxlaverse/terraform-provider-bitwarden/releases/download/v0.17.3/terraform-provider-bitwarden_0.17.3_linux_arm.zip",
+          "shasum": "5cac7edd1f5fc13ae862d2a8a07d820f46f5c4d70cfb083e22b13d03c3682347",
+          "h1": "h1:8xxRHNCxPQpc5+qyIUhVVDqe4gpUNKIy36IICYHr0js="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-bitwarden_0.17.3_linux_arm64.zip",
+          "download_url": "https://github.com/maxlaverse/terraform-provider-bitwarden/releases/download/v0.17.3/terraform-provider-bitwarden_0.17.3_linux_arm64.zip",
+          "shasum": "8fb1713e3957c8e46ea745738f43e32aec9c4c3a1e9ba94bdbdbe7334c7a14b8",
+          "h1": "h1:Qw6zkQ3V8bCBlpk8yZOWgFOQWHMn8aHmcmOmaedeeok="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-bitwarden_0.17.3_windows_386.zip",
+          "download_url": "https://github.com/maxlaverse/terraform-provider-bitwarden/releases/download/v0.17.3/terraform-provider-bitwarden_0.17.3_windows_386.zip",
+          "shasum": "75b5eaec7def179b12dbf9fcd19b8b839d552830b179b1d05ff09e8993387b92",
+          "h1": "h1:s4TS7IxKNXsqqa/lirjvtLTLZRrsbzJq66B9bUSJXxY="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-bitwarden_0.17.3_windows_amd64.zip",
+          "download_url": "https://github.com/maxlaverse/terraform-provider-bitwarden/releases/download/v0.17.3/terraform-provider-bitwarden_0.17.3_windows_amd64.zip",
+          "shasum": "7d58cec8e3c18ef1bb88ef76c5fb751c4f804964cb127d0a06001f5dde30a702",
+          "h1": "h1:xgr7vz5Zawspl431nCv32xUZhlo+mumizZIZU2PIuZI="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-bitwarden_0.17.3_windows_arm.zip",
+          "download_url": "https://github.com/maxlaverse/terraform-provider-bitwarden/releases/download/v0.17.3/terraform-provider-bitwarden_0.17.3_windows_arm.zip",
+          "shasum": "10f9e0f172b3cf14750cb432b34a7fec698f994d89ebe7a9585683a0c42b3eca",
+          "h1": "h1:T2GM+HI9yOdpTs5lz+8L+xaFAxgXmty9rEpAa309nek="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-bitwarden_0.17.3_windows_arm64.zip",
+          "download_url": "https://github.com/maxlaverse/terraform-provider-bitwarden/releases/download/v0.17.3/terraform-provider-bitwarden_0.17.3_windows_arm64.zip",
+          "shasum": "a7fe1c913ee35bf3a9faea9299eb476b43d89a3c2743a12c0355d4a6b9b07693",
+          "h1": "h1:I6XV1rx6m7ZOyENtTstyt6tuNqzOAwdqj3M1P1JjVoo="
+        }
+      ]
+    },
+    {
       "version": "0.17.2",
       "protocols": [
         "6.0"
