@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "2.7.1",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/ctfer-io/terraform-provider-ctfd/releases/download/v2.7.1/terraform-provider-ctfd_2.7.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/ctfer-io/terraform-provider-ctfd/releases/download/v2.7.1/terraform-provider-ctfd_2.7.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-ctfd_2.7.1_darwin_amd64.zip",
+          "download_url": "https://github.com/ctfer-io/terraform-provider-ctfd/releases/download/v2.7.1/terraform-provider-ctfd_2.7.1_darwin_amd64.zip",
+          "shasum": "16fc1dd3c2b137c961a9004c371c9a9b05ae7ff5da4caccda6ce2db744d40fe0",
+          "h1": "h1:8OxAZCjZxcO0+3+gsNJwYfR/PYBAzjDXcVj8M5X5uTk="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-ctfd_2.7.1_darwin_arm64.zip",
+          "download_url": "https://github.com/ctfer-io/terraform-provider-ctfd/releases/download/v2.7.1/terraform-provider-ctfd_2.7.1_darwin_arm64.zip",
+          "shasum": "75b4a327bbe6978d1ca48a6ffcc33d11c8123225699e6f9f44bf4762feb0194c",
+          "h1": "h1:sQsxmSfvU7NTSvJvBQ3rKXX9DP9vSftWu9VE+Gx14vw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-ctfd_2.7.1_freebsd_386.zip",
+          "download_url": "https://github.com/ctfer-io/terraform-provider-ctfd/releases/download/v2.7.1/terraform-provider-ctfd_2.7.1_freebsd_386.zip",
+          "shasum": "c5226e0241789df31a3b5d44a3192f05d6b1f38c47d100a065bbc5a3ff9d99df",
+          "h1": "h1:uYcfsDYZQK/LopeEYu98YpDYeTviiFBa1mCG1yhE5Fc="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-ctfd_2.7.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/ctfer-io/terraform-provider-ctfd/releases/download/v2.7.1/terraform-provider-ctfd_2.7.1_freebsd_amd64.zip",
+          "shasum": "b7b2b9d689e54079e6bdde09c27d835235eecb656ce139c87c656a3787d76477",
+          "h1": "h1:dzNNKSElCVK5rJzpi0qC++35F81NSx5NQOl54Cjhyf4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-ctfd_2.7.1_freebsd_arm.zip",
+          "download_url": "https://github.com/ctfer-io/terraform-provider-ctfd/releases/download/v2.7.1/terraform-provider-ctfd_2.7.1_freebsd_arm.zip",
+          "shasum": "7ccbdad632c593d7d56d4cd629bd3cbbaa4adbdf081ce38bb51f2829c55412c7",
+          "h1": "h1:8kQfz55OlZ8lcJO6/blg36NbpmRsZ4GOPtPJVB4IDB0="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-ctfd_2.7.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/ctfer-io/terraform-provider-ctfd/releases/download/v2.7.1/terraform-provider-ctfd_2.7.1_freebsd_arm64.zip",
+          "shasum": "873e7b22ceaecd9fa344a98b3e47e2fa216ffeb6c440f3833f7defbdcd661821",
+          "h1": "h1:TeWl4+OgmRYZFG2CoppWu14S2zk+8ZRGtI2fj5pItYo="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-ctfd_2.7.1_linux_386.zip",
+          "download_url": "https://github.com/ctfer-io/terraform-provider-ctfd/releases/download/v2.7.1/terraform-provider-ctfd_2.7.1_linux_386.zip",
+          "shasum": "00bb95c87f00b49be64b00372532f4c55381172f2e2432a866e0a9ae9c2799d7",
+          "h1": "h1:mVMENNugpBnksqspJvw0q3bjptUJpeqkI1sMmc7mGvY="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-ctfd_2.7.1_linux_amd64.zip",
+          "download_url": "https://github.com/ctfer-io/terraform-provider-ctfd/releases/download/v2.7.1/terraform-provider-ctfd_2.7.1_linux_amd64.zip",
+          "shasum": "5c5340bdb39f235d0c770d95a7d4c23202faf29ff0b6acc9b20c8f5287be29f5",
+          "h1": "h1:BoEG+elIEWrZ01XIepddfspWnTLNoG3hqIuCaMgjMiI="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-ctfd_2.7.1_linux_arm.zip",
+          "download_url": "https://github.com/ctfer-io/terraform-provider-ctfd/releases/download/v2.7.1/terraform-provider-ctfd_2.7.1_linux_arm.zip",
+          "shasum": "ebfb2963227500ab200bda7bf9834078a9e7a86faa1507bf2b829c29196a3876",
+          "h1": "h1:uFk0WlOw+PzmpVgemESzdOXLTUktJWq6VlNDemWYXoc="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-ctfd_2.7.1_linux_arm64.zip",
+          "download_url": "https://github.com/ctfer-io/terraform-provider-ctfd/releases/download/v2.7.1/terraform-provider-ctfd_2.7.1_linux_arm64.zip",
+          "shasum": "76310b876a52c857f923d6ce3fae5d9accb0cb28e89f970a31df42eb1237a17c",
+          "h1": "h1:XCR9QWkJ8JweZ59HTBJjk3lL3uL0dhlyyt2a+TJz33Y="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-ctfd_2.7.1_windows_386.zip",
+          "download_url": "https://github.com/ctfer-io/terraform-provider-ctfd/releases/download/v2.7.1/terraform-provider-ctfd_2.7.1_windows_386.zip",
+          "shasum": "e594baf7ce7d13b86531508833872bee25a961195d2c38f6437ac38dd7414c4b",
+          "h1": "h1:XRiayYeZ2rs1osl5OBm6OCRydNRQ/5LRMg65d6hg3G8="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-ctfd_2.7.1_windows_amd64.zip",
+          "download_url": "https://github.com/ctfer-io/terraform-provider-ctfd/releases/download/v2.7.1/terraform-provider-ctfd_2.7.1_windows_amd64.zip",
+          "shasum": "99f0d10c0ba97328804185099293dc6768f6be7a0ced5a2b6dfad3dce97930e0",
+          "h1": "h1:ua3UCG32yA8RYsDLdUNbFNrB4vZM2+q11kKRuFQ8mNI="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-ctfd_2.7.1_windows_arm.zip",
+          "download_url": "https://github.com/ctfer-io/terraform-provider-ctfd/releases/download/v2.7.1/terraform-provider-ctfd_2.7.1_windows_arm.zip",
+          "shasum": "4edc5507332b83bbd4f5230a5c5740b76d27e0a7f123a720c664105097d11e83",
+          "h1": "h1:2eEigT0Yo5QEABjYdCDrv08JluWyWBlE7oz/AhHGLk8="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-ctfd_2.7.1_windows_arm64.zip",
+          "download_url": "https://github.com/ctfer-io/terraform-provider-ctfd/releases/download/v2.7.1/terraform-provider-ctfd_2.7.1_windows_arm64.zip",
+          "shasum": "25bbf07007c6d747b70dcbe61d07ba6f3ac553d9e78f006aa9fd5809e2a132a9",
+          "h1": "h1:k/eyWCeDSiQufGjwOqiQz9EB/wtRFFooNqcAQL2Nml0="
+        }
+      ]
+    },
+    {
       "version": "2.7.0",
       "protocols": [
         "6.0"
