@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "12.11.2",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v12.11.2/terraform-provider-artifactory_12.11.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v12.11.2/terraform-provider-artifactory_12.11.2_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-artifactory_12.11.2_darwin_amd64.zip",
+          "download_url": "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v12.11.2/terraform-provider-artifactory_12.11.2_darwin_amd64.zip",
+          "shasum": "29f32af72d9ba0d7460b5cd8d95ffbf82c5ee0683fabd6bfa7e13aaa0ddb5afb",
+          "h1": "h1:7oWontlV08zLR9PNU5SsEaL1j4VhZV2OZMePJlgDG/4="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-artifactory_12.11.2_darwin_arm64.zip",
+          "download_url": "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v12.11.2/terraform-provider-artifactory_12.11.2_darwin_arm64.zip",
+          "shasum": "2641c9a85fc4e0cca7d357b4e5614e022b0915e344928290ff166f531a9b5ce2",
+          "h1": "h1:7GE8RxolM+rrgQEzgoprBXyU2BMY108Ye7CtAQkyuUU="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-artifactory_12.11.2_freebsd_386.zip",
+          "download_url": "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v12.11.2/terraform-provider-artifactory_12.11.2_freebsd_386.zip",
+          "shasum": "32f5c7f7a6ef2760e47a3df32895a2a541f0993f941cc25f8d20a947d3e8b2cb",
+          "h1": "h1:5GM5XIn9Cv6omNeK2AlbgcSe7dVdriMWMf6Do9xfE1c="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-artifactory_12.11.2_freebsd_amd64.zip",
+          "download_url": "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v12.11.2/terraform-provider-artifactory_12.11.2_freebsd_amd64.zip",
+          "shasum": "243617e3127cad3ce49fd41368d9485df6e50d7369043d452dd2151c847e8e94",
+          "h1": "h1:s+xM6O8SjWnKGLunml3rsSvNev515Fo3yZmklPopss4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-artifactory_12.11.2_freebsd_arm.zip",
+          "download_url": "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v12.11.2/terraform-provider-artifactory_12.11.2_freebsd_arm.zip",
+          "shasum": "c494109c3c82500ee08c693cb64816474afd46f5ab55cabd6f3afa807e3a334a",
+          "h1": "h1:VtCANq5gxcd+HbLnxGL5384DfgF7ayLKakPvCJiLGRA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-artifactory_12.11.2_freebsd_arm64.zip",
+          "download_url": "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v12.11.2/terraform-provider-artifactory_12.11.2_freebsd_arm64.zip",
+          "shasum": "439f33fbd31fe6e4e2d7db4da00fc771677bdea1dfdbcbbfc8c24f9d374f782e",
+          "h1": "h1:5sXrIgRQPsfCDqbiq1jCLp/n/jPgZsZwWfA09ggwyLw="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-artifactory_12.11.2_linux_386.zip",
+          "download_url": "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v12.11.2/terraform-provider-artifactory_12.11.2_linux_386.zip",
+          "shasum": "7e3bc4e76852dabbe6d4b8b0682fd7e3452a82c181adc46b95a28fc14a0437ac",
+          "h1": "h1:JrfZqCSUFr7iIubyLfy7wj9cQcn+gOf3n0oIUuHOeg8="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-artifactory_12.11.2_linux_amd64.zip",
+          "download_url": "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v12.11.2/terraform-provider-artifactory_12.11.2_linux_amd64.zip",
+          "shasum": "b1e480a6888102d0ea93522286d71f24bbd3bd3b093f7737b57dbb0b89311195",
+          "h1": "h1:HetTiGA+fc7X3bxZq6+lhXTLt3zmfRHmlFw9uqrQtro="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-artifactory_12.11.2_linux_arm.zip",
+          "download_url": "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v12.11.2/terraform-provider-artifactory_12.11.2_linux_arm.zip",
+          "shasum": "11cb5367c179c041a900408d3d396c88bb5c07cf728023d1b7f70d5544d6f018",
+          "h1": "h1:L9Fsz/9DNLkwVAJ6zmKVv99ezGwkbMsDTIItAhB9WQk="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-artifactory_12.11.2_linux_arm64.zip",
+          "download_url": "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v12.11.2/terraform-provider-artifactory_12.11.2_linux_arm64.zip",
+          "shasum": "50eaa469fd5775fc638b953a3b639083110047dba95c6d4a58055d209abcc56f",
+          "h1": "h1:He7Pd2Wv7iI8dlehCY4dvFJMBOEnsXJxD+B7ZgpbfbA="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-artifactory_12.11.2_windows_386.zip",
+          "download_url": "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v12.11.2/terraform-provider-artifactory_12.11.2_windows_386.zip",
+          "shasum": "e7510272a0af78b9a85cc2d2f309e6b47a6a2aa47966cd6a3049f5b00cdfcd50",
+          "h1": "h1:F5R/ierjz5zj+LL5GPQfyJ37m5/Nmsy6dyqFATDTVDA="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-artifactory_12.11.2_windows_amd64.zip",
+          "download_url": "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v12.11.2/terraform-provider-artifactory_12.11.2_windows_amd64.zip",
+          "shasum": "33faeea412cf160c66c63cde44e5c50f5978bb8914163a651c263692d5d24500",
+          "h1": "h1:JYpjnXTURPfEigzPly/yc+nxTTpmGUkeRIKOxbCWqqs="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-artifactory_12.11.2_windows_arm.zip",
+          "download_url": "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v12.11.2/terraform-provider-artifactory_12.11.2_windows_arm.zip",
+          "shasum": "60a11e36e4782265af02506312a1774aa390cb14798429ac6cfea49ae76aba47",
+          "h1": "h1:nKBze0x+0+DurLtndpFnLcm4ZZ6gZXb64eIq9q2m968="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-artifactory_12.11.2_windows_arm64.zip",
+          "download_url": "https://github.com/jfrog/terraform-provider-artifactory/releases/download/v12.11.2/terraform-provider-artifactory_12.11.2_windows_arm64.zip",
+          "shasum": "4b8896d0d3a691550e459d901967c2f745713a284f1ef2296f690baf15544248",
+          "h1": "h1:ES6k2c0HroqjPqEc7s0Q9pm2SNLVEYKq78qso7p/LaA="
+        }
+      ]
+    },
+    {
       "version": "12.11.1",
       "protocols": [
         "6.0"
