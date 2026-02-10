@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.0.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/doitintl/terraform-provider-doit/releases/download/v1.0.0/terraform-provider-doit_1.0.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/doitintl/terraform-provider-doit/releases/download/v1.0.0/terraform-provider-doit_1.0.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-doit_1.0.0_darwin_amd64.zip",
+          "download_url": "https://github.com/doitintl/terraform-provider-doit/releases/download/v1.0.0/terraform-provider-doit_1.0.0_darwin_amd64.zip",
+          "shasum": "d896e57d37d8c0803ac4ab02659e681c5cb90c306423d45ec105c93dc90907c5",
+          "h1": "h1:UJgagKdtXnX1gftgdQvGSJodaZHeQ1JTL0CK619BgWY="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-doit_1.0.0_darwin_arm64.zip",
+          "download_url": "https://github.com/doitintl/terraform-provider-doit/releases/download/v1.0.0/terraform-provider-doit_1.0.0_darwin_arm64.zip",
+          "shasum": "6869890e77eec3bb689c7d3e95050ccb81ebf646e8ef5d3ce967d1db6383ad48",
+          "h1": "h1:E40VaO9bN8wHH2GW2h8RbJj0fQhrRLSQjDpmhY6tGKA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-doit_1.0.0_freebsd_386.zip",
+          "download_url": "https://github.com/doitintl/terraform-provider-doit/releases/download/v1.0.0/terraform-provider-doit_1.0.0_freebsd_386.zip",
+          "shasum": "4b4e44fab658b175efb925a6ea31ec30ad5b2578c9ef63e1c2d326229079ff71",
+          "h1": "h1:C798zrrdXzv4jl6w8bI7DobroMSaUjT3qubqFbz16No="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-doit_1.0.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/doitintl/terraform-provider-doit/releases/download/v1.0.0/terraform-provider-doit_1.0.0_freebsd_amd64.zip",
+          "shasum": "e33c5393c756388162e597e0ee8dc207447f7abe95067c503c0f41923cffdda3",
+          "h1": "h1:0Srga3xAgYGF8JCwrJSuFVRFACuk7dQaJnv+w2cTutI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-doit_1.0.0_freebsd_arm.zip",
+          "download_url": "https://github.com/doitintl/terraform-provider-doit/releases/download/v1.0.0/terraform-provider-doit_1.0.0_freebsd_arm.zip",
+          "shasum": "160b205e400197ae55b6afdf37622904671bea7cb097f9d732150b18876d594d",
+          "h1": "h1:Whq/WWRlCj/3AEjg6LLwidU7b5VhXZjMTW15COUgz28="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-doit_1.0.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/doitintl/terraform-provider-doit/releases/download/v1.0.0/terraform-provider-doit_1.0.0_freebsd_arm64.zip",
+          "shasum": "9667802ec5fbf487f146cd1025b857b47116e84301c49f9c540168d3a27aa895",
+          "h1": "h1:OTvCnuvNL0FEQgj89msBhNGGM8Sc+6vbAcNgkv71X0s="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-doit_1.0.0_linux_386.zip",
+          "download_url": "https://github.com/doitintl/terraform-provider-doit/releases/download/v1.0.0/terraform-provider-doit_1.0.0_linux_386.zip",
+          "shasum": "a73c35a46191190946c1995fa8691514f8354d4c8ddcc8d336d6bb36efe92d4a",
+          "h1": "h1:L4asNh3HOfvBrq4Wi+sW0ophwylpbZRVu7zDJYF3uuU="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-doit_1.0.0_linux_amd64.zip",
+          "download_url": "https://github.com/doitintl/terraform-provider-doit/releases/download/v1.0.0/terraform-provider-doit_1.0.0_linux_amd64.zip",
+          "shasum": "a815a0cc0382e0bca5fbed962d7d7292fa31186957c5e50c42c6f2167620caff",
+          "h1": "h1:v8Cpf6ssZlhV8tHoLq9mlISvOMTK+WYCvEIt/TxSnPA="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-doit_1.0.0_linux_arm.zip",
+          "download_url": "https://github.com/doitintl/terraform-provider-doit/releases/download/v1.0.0/terraform-provider-doit_1.0.0_linux_arm.zip",
+          "shasum": "a1958ca25dd3a422279d7d82b4ac17739db083704d532ac3f9b21bd2a8cb52f2",
+          "h1": "h1:xMk/L+f3iUaX4RP1wuT7CAovvZmnXut49ewlV5f1m8I="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-doit_1.0.0_linux_arm64.zip",
+          "download_url": "https://github.com/doitintl/terraform-provider-doit/releases/download/v1.0.0/terraform-provider-doit_1.0.0_linux_arm64.zip",
+          "shasum": "0202003ca5c3d5e576fb417fa2cc9d6c48d36d4651c792692b9622974e9bdb6a",
+          "h1": "h1:w+wobH9vYdBrRpTm1SFwvKUxsnkIwVGuI5UXaHyhoZA="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-doit_1.0.0_windows_386.zip",
+          "download_url": "https://github.com/doitintl/terraform-provider-doit/releases/download/v1.0.0/terraform-provider-doit_1.0.0_windows_386.zip",
+          "shasum": "7ab99ec056ccbe55ed03d46bfe3321e4b0a81cf541b85ab51984a7cc7c7035ce",
+          "h1": "h1:3gMNEmyo5RZKm4OjBYwNE3ZSWHNwyYfDe4kc71Jb3BA="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-doit_1.0.0_windows_amd64.zip",
+          "download_url": "https://github.com/doitintl/terraform-provider-doit/releases/download/v1.0.0/terraform-provider-doit_1.0.0_windows_amd64.zip",
+          "shasum": "53805865b9e8b9b085097b51b57f1db6cc34954b72fd398ca4f5cd9a6e3a74c3",
+          "h1": "h1:RgYd2x5cncshr9zNBe2ENNVZoQSD362b7flfNuKyfr8="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-doit_1.0.0_windows_arm.zip",
+          "download_url": "https://github.com/doitintl/terraform-provider-doit/releases/download/v1.0.0/terraform-provider-doit_1.0.0_windows_arm.zip",
+          "shasum": "99de4ea7188e9400cf5879b1d35b7f1bb32f5f821b91d5b25babac761d29109e",
+          "h1": "h1:pV4+6PR5YgUIwLFEj6uXGnwm0fptYD7znS05GegswCM="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-doit_1.0.0_windows_arm64.zip",
+          "download_url": "https://github.com/doitintl/terraform-provider-doit/releases/download/v1.0.0/terraform-provider-doit_1.0.0_windows_arm64.zip",
+          "shasum": "86986b81ee7d38dcf4eda900582a4ff00bafb0d43471197b2af349934f6b4d30",
+          "h1": "h1:JHt8cDvYX8sa3iPOeC4z7LDIgROw/nhNsePiEhyoWFI="
+        }
+      ]
+    },
+    {
       "version": "0.26.0",
       "protocols": [
         "6.0"
