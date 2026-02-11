@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "5.4.1",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/jonascrevecoeur/terraform-provider-azuresql/releases/download/v5.4.1/terraform-provider-azuresql_5.4.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/jonascrevecoeur/terraform-provider-azuresql/releases/download/v5.4.1/terraform-provider-azuresql_5.4.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-azuresql_5.4.1_darwin_amd64.zip",
+          "download_url": "https://github.com/jonascrevecoeur/terraform-provider-azuresql/releases/download/v5.4.1/terraform-provider-azuresql_5.4.1_darwin_amd64.zip",
+          "shasum": "e6666d87b6301fea817bd267e5554f4755e279a7449608a336157a8a05982549",
+          "h1": "h1:xxfpAfvPT4Zf/aQZnQQzPDDnQeL/dR5LvLdD+KS/BIk="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-azuresql_5.4.1_darwin_arm64.zip",
+          "download_url": "https://github.com/jonascrevecoeur/terraform-provider-azuresql/releases/download/v5.4.1/terraform-provider-azuresql_5.4.1_darwin_arm64.zip",
+          "shasum": "311ed8662f9bf252d7311b8e7defd63b9c841f55942c7cd65ec58154dacdd913",
+          "h1": "h1:E+tR8mLI5YqGxiuyNsQyrBJdX4N5vIAnQzu4xLskK0s="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-azuresql_5.4.1_freebsd_386.zip",
+          "download_url": "https://github.com/jonascrevecoeur/terraform-provider-azuresql/releases/download/v5.4.1/terraform-provider-azuresql_5.4.1_freebsd_386.zip",
+          "shasum": "593a32e58aa0c5d7771b391175aea8668bbbb07b7336bba1aec0cded0ca96185",
+          "h1": "h1:yh0Jsk8AdtiQgqcgQneeFrFYkPheMh1eeTLQ2oZNvOU="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-azuresql_5.4.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/jonascrevecoeur/terraform-provider-azuresql/releases/download/v5.4.1/terraform-provider-azuresql_5.4.1_freebsd_amd64.zip",
+          "shasum": "f879353291ab57ffc17426dd8aab0a565ee4bc40073771689d3480ecda0f91ae",
+          "h1": "h1:kmFhc4ezOee7E5z33KfTHDNLaHxvuuZQd+ni7W4Qk7o="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-azuresql_5.4.1_freebsd_arm.zip",
+          "download_url": "https://github.com/jonascrevecoeur/terraform-provider-azuresql/releases/download/v5.4.1/terraform-provider-azuresql_5.4.1_freebsd_arm.zip",
+          "shasum": "fa0968a66344323286038dd9f5b122820029284602313555d775dd915945103b",
+          "h1": "h1:u+pRQEOWnvIVAIDoqy8zbWBbyVRfn+iZ8FU8wXgrUKI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-azuresql_5.4.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/jonascrevecoeur/terraform-provider-azuresql/releases/download/v5.4.1/terraform-provider-azuresql_5.4.1_freebsd_arm64.zip",
+          "shasum": "189f53ca4ecd751226c4e80df64e066b2a749062e76e42f90e070847d89e688a",
+          "h1": "h1:MpQcNDbnYg8BoO5ZialBeD0AVHOUOxo4u4/lS2AekqE="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-azuresql_5.4.1_linux_386.zip",
+          "download_url": "https://github.com/jonascrevecoeur/terraform-provider-azuresql/releases/download/v5.4.1/terraform-provider-azuresql_5.4.1_linux_386.zip",
+          "shasum": "47123e3a04f82e03e94234299f6db20b76bb54b771ac635675be7e9c6a8d42b7",
+          "h1": "h1:0WJj2QGMb9WnTW5lhCmwDuwojKcYkyH7ty5i8YLLhvo="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-azuresql_5.4.1_linux_amd64.zip",
+          "download_url": "https://github.com/jonascrevecoeur/terraform-provider-azuresql/releases/download/v5.4.1/terraform-provider-azuresql_5.4.1_linux_amd64.zip",
+          "shasum": "7da51ad2a13f3a7de6e4f7123b4ce774a99b754da5289ac97107e6c7425e3191",
+          "h1": "h1:5UMyAlO3A1TKrQ51BW0z4R6Kh1izfLFc2Pm1qbHfXcM="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-azuresql_5.4.1_linux_arm.zip",
+          "download_url": "https://github.com/jonascrevecoeur/terraform-provider-azuresql/releases/download/v5.4.1/terraform-provider-azuresql_5.4.1_linux_arm.zip",
+          "shasum": "5286840223a750fbb95bf3e3615a5f475c656cba0efaad68efa43ffb17baffa9",
+          "h1": "h1:XGImkKHADOITqw+Fo7VBRStWQM7ZAP6z+o4y53N/NUI="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-azuresql_5.4.1_linux_arm64.zip",
+          "download_url": "https://github.com/jonascrevecoeur/terraform-provider-azuresql/releases/download/v5.4.1/terraform-provider-azuresql_5.4.1_linux_arm64.zip",
+          "shasum": "864a3bac1fb3bc30e3a8f6efb38c509f71ca64e7523fa7a1c3f33be916e335a0",
+          "h1": "h1:NZs8AwJTDX5Gu6ItfVQ2/70ekLhIgQirp+2HsE2mvWU="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-azuresql_5.4.1_windows_386.zip",
+          "download_url": "https://github.com/jonascrevecoeur/terraform-provider-azuresql/releases/download/v5.4.1/terraform-provider-azuresql_5.4.1_windows_386.zip",
+          "shasum": "882938e48aea87eee31b401ac05ae41955523c4ce9d88f43c838de7fa421e942",
+          "h1": "h1:GsTV2qCa7qcewXkxQRXBu3s3MbXrougBN+urk65hobc="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-azuresql_5.4.1_windows_amd64.zip",
+          "download_url": "https://github.com/jonascrevecoeur/terraform-provider-azuresql/releases/download/v5.4.1/terraform-provider-azuresql_5.4.1_windows_amd64.zip",
+          "shasum": "07136aa317eb5119b3a9d8d97f6abc2c4dba8e65e6eabef86c77a3bff2e642b9",
+          "h1": "h1:11dGN5HHhNIMyUYsjX6vhyTmsCsPzU2FZ82TspW6Aqc="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-azuresql_5.4.1_windows_arm.zip",
+          "download_url": "https://github.com/jonascrevecoeur/terraform-provider-azuresql/releases/download/v5.4.1/terraform-provider-azuresql_5.4.1_windows_arm.zip",
+          "shasum": "c3a072e2f388888a5edaced710c57fc10dba96274ee76b19501bbabb5e182a76",
+          "h1": "h1:aZqQcC024ZYCXghNh7eaNXSfVH6hIjIecAhuwP+FoPY="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-azuresql_5.4.1_windows_arm64.zip",
+          "download_url": "https://github.com/jonascrevecoeur/terraform-provider-azuresql/releases/download/v5.4.1/terraform-provider-azuresql_5.4.1_windows_arm64.zip",
+          "shasum": "425c79e7d4b6ee6f6a34297a646f062bb399ccbfb6a6d8f642e73da3a157b3ce",
+          "h1": "h1:w8FcOwqgpz/Et5Y902emTbX2tzJ+44fs1UuMMASfmJU="
+        }
+      ]
+    },
+    {
       "version": "5.4.0",
       "protocols": [
         "6.0"
