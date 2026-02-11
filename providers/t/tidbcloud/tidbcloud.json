@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.4.8",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/tidbcloud/terraform-provider-tidbcloud/releases/download/v0.4.8/terraform-provider-tidbcloud_0.4.8_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/tidbcloud/terraform-provider-tidbcloud/releases/download/v0.4.8/terraform-provider-tidbcloud_0.4.8_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-tidbcloud_0.4.8_darwin_amd64.zip",
+          "download_url": "https://github.com/tidbcloud/terraform-provider-tidbcloud/releases/download/v0.4.8/terraform-provider-tidbcloud_0.4.8_darwin_amd64.zip",
+          "shasum": "3c7458fcd838b4aad3772ee7d34db0860290722ac1fa2e1798273384ac72aee3",
+          "h1": "h1:eH2DLz4Eu/u1i4qFDsMOlRg2FFpC80W6NKAMZgZreYA="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-tidbcloud_0.4.8_darwin_arm64.zip",
+          "download_url": "https://github.com/tidbcloud/terraform-provider-tidbcloud/releases/download/v0.4.8/terraform-provider-tidbcloud_0.4.8_darwin_arm64.zip",
+          "shasum": "4ccbe4da3377caf107bc7f4010f0f6c4e471610278820002a39c23ca81667ca8",
+          "h1": "h1:j7u3IomclArdWbym1b+qdfjaeJx5fieRMgpfmEM8rWA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-tidbcloud_0.4.8_freebsd_386.zip",
+          "download_url": "https://github.com/tidbcloud/terraform-provider-tidbcloud/releases/download/v0.4.8/terraform-provider-tidbcloud_0.4.8_freebsd_386.zip",
+          "shasum": "00ad715794622246cd7a50dc56264f37300b2fca72dd143a4fe85b6e2e94e1a3",
+          "h1": "h1:RHhYgiHTs+4PtGnwSrB1FeKUp+gKMHlwdIo4mPuo+bM="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-tidbcloud_0.4.8_freebsd_amd64.zip",
+          "download_url": "https://github.com/tidbcloud/terraform-provider-tidbcloud/releases/download/v0.4.8/terraform-provider-tidbcloud_0.4.8_freebsd_amd64.zip",
+          "shasum": "0bea19037c54ad2e55e6cb7e36d8b043fc9b071afcd135f5ee0d3fa4f645e18f",
+          "h1": "h1:rcCgzJTdB3B1vTxujDH1Hn+mMR0mbBpdvfcxFqsMNzU="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-tidbcloud_0.4.8_freebsd_arm.zip",
+          "download_url": "https://github.com/tidbcloud/terraform-provider-tidbcloud/releases/download/v0.4.8/terraform-provider-tidbcloud_0.4.8_freebsd_arm.zip",
+          "shasum": "bcb38fdf886749d2a39a7cc6afe983bcf77c352ace8539e7b2315d77dab77bf2",
+          "h1": "h1:NtIc88EIUHajDXQqEch6K17kxM7Otv7+z+Xu4ux2NAs="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-tidbcloud_0.4.8_freebsd_arm64.zip",
+          "download_url": "https://github.com/tidbcloud/terraform-provider-tidbcloud/releases/download/v0.4.8/terraform-provider-tidbcloud_0.4.8_freebsd_arm64.zip",
+          "shasum": "a792984db28935ea9953004d57b1b975e786b97a0d867b2356861e69e47059c6",
+          "h1": "h1:TerhuFGljyHQOVxqmzW7djdkbzv91L5EAT45SRinmqk="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-tidbcloud_0.4.8_linux_386.zip",
+          "download_url": "https://github.com/tidbcloud/terraform-provider-tidbcloud/releases/download/v0.4.8/terraform-provider-tidbcloud_0.4.8_linux_386.zip",
+          "shasum": "c5c65b1372277815cec47e4e805db817254aba0ee5c077137c63f2c3cdf0eb86",
+          "h1": "h1:hRK0mttSqbtSGvceSf17bjdixwJwzBfym1xUWkECvfI="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-tidbcloud_0.4.8_linux_amd64.zip",
+          "download_url": "https://github.com/tidbcloud/terraform-provider-tidbcloud/releases/download/v0.4.8/terraform-provider-tidbcloud_0.4.8_linux_amd64.zip",
+          "shasum": "e8749125f415b8866e3cad15670d4acacbf82d78ee2767de0f15b243178d7acf",
+          "h1": "h1:Blx8XjZ2SzJBEMKJjoioadg76/WaJO9v+0luigQbB7Q="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-tidbcloud_0.4.8_linux_arm.zip",
+          "download_url": "https://github.com/tidbcloud/terraform-provider-tidbcloud/releases/download/v0.4.8/terraform-provider-tidbcloud_0.4.8_linux_arm.zip",
+          "shasum": "9fe58624171048ee3024e1ef9b75289caa763f22313ca959a1dfcd65783ef4e1",
+          "h1": "h1:jvHu2ax+u/PdKvFeUrShw42hNdwdGau3gBjuipbsoJc="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-tidbcloud_0.4.8_linux_arm64.zip",
+          "download_url": "https://github.com/tidbcloud/terraform-provider-tidbcloud/releases/download/v0.4.8/terraform-provider-tidbcloud_0.4.8_linux_arm64.zip",
+          "shasum": "be0cf8c062daaa0027a378f300f9473f9413b74025b949baa323ac74d530e3ec",
+          "h1": "h1:cv9XSIjjgQmJI7D71UowqxRUFMhNfMSeQZLC6cimbRo="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-tidbcloud_0.4.8_windows_386.zip",
+          "download_url": "https://github.com/tidbcloud/terraform-provider-tidbcloud/releases/download/v0.4.8/terraform-provider-tidbcloud_0.4.8_windows_386.zip",
+          "shasum": "57da24c0d4def25398b6286f0d91f4e3c2b3a66098b361216a43d6aa4c090904",
+          "h1": "h1:ZElsxgFxi6vPm0HcRdT//t0m+7VkbyCzznH2m8l19+g="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-tidbcloud_0.4.8_windows_amd64.zip",
+          "download_url": "https://github.com/tidbcloud/terraform-provider-tidbcloud/releases/download/v0.4.8/terraform-provider-tidbcloud_0.4.8_windows_amd64.zip",
+          "shasum": "81cc0b717fa5f9973cd792529b8498f9c3e3221181a7f333f6663912ac553a8c",
+          "h1": "h1:F7vcc+Jyyx54YQlhzymrqbu3HBYrsUQgjFfsdh/fcQk="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-tidbcloud_0.4.8_windows_arm.zip",
+          "download_url": "https://github.com/tidbcloud/terraform-provider-tidbcloud/releases/download/v0.4.8/terraform-provider-tidbcloud_0.4.8_windows_arm.zip",
+          "shasum": "7878bea9939716d174eb84a3ed01da94066a95b10f40913323b970b414986396",
+          "h1": "h1:7dV+1WwUqva72uBfy4auByKqA4jVRhhgaTBV7rXpJ04="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-tidbcloud_0.4.8_windows_arm64.zip",
+          "download_url": "https://github.com/tidbcloud/terraform-provider-tidbcloud/releases/download/v0.4.8/terraform-provider-tidbcloud_0.4.8_windows_arm64.zip",
+          "shasum": "c092329e17f95e43d5e5360bea1eab2e95c851af7cc871ccd9c102bdd232ba23",
+          "h1": "h1:/ZSyA4BMDFo2rZIBabXj2sAraRvQjFMkH9dLVD6HBEs="
+        }
+      ]
+    },
+    {
       "version": "0.4.7",
       "protocols": [
         "6.0"
