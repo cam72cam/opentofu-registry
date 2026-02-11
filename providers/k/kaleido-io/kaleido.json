@@ -1,6 +1,120 @@
 {
   "versions": [
     {
+      "version": "1.2.2",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/kaleido-io/terraform-provider-kaleido/releases/download/v1.2.2/terraform-provider-kaleido_1.2.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/kaleido-io/terraform-provider-kaleido/releases/download/v1.2.2/terraform-provider-kaleido_1.2.2_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-kaleido_1.2.2_darwin_amd64.zip",
+          "download_url": "https://github.com/kaleido-io/terraform-provider-kaleido/releases/download/v1.2.2/terraform-provider-kaleido_1.2.2_darwin_amd64.zip",
+          "shasum": "165907b65036005f46a56f45cca9e5d7f482a228e7f436b837b27c1570be3291",
+          "h1": "h1:xFeZz0ZTTMMm7xjBPjGsqaGaisyciUsaZyvRgKzua1s="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-kaleido_1.2.2_darwin_arm64.zip",
+          "download_url": "https://github.com/kaleido-io/terraform-provider-kaleido/releases/download/v1.2.2/terraform-provider-kaleido_1.2.2_darwin_arm64.zip",
+          "shasum": "883327b4488a596ffd1ea0baa053554a7a7bf5f373f60867abf50b628f358cf1",
+          "h1": "h1:TWptr9r+DbxEnG97Fivx3N+x0fhp1ds//GnvBIxmbmM="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-kaleido_1.2.2_freebsd_386.zip",
+          "download_url": "https://github.com/kaleido-io/terraform-provider-kaleido/releases/download/v1.2.2/terraform-provider-kaleido_1.2.2_freebsd_386.zip",
+          "shasum": "dd15f62b76bea1731c84515c06404a6f4d02adcbfa65a3c4e80b81870e9d2740",
+          "h1": "h1:Vn6NAL8bExrSamHJu6a0bqJdUxQWe1zJu7SO3Apu5Zk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-kaleido_1.2.2_freebsd_amd64.zip",
+          "download_url": "https://github.com/kaleido-io/terraform-provider-kaleido/releases/download/v1.2.2/terraform-provider-kaleido_1.2.2_freebsd_amd64.zip",
+          "shasum": "713ad04587085661991d19e74d6dffa6d8935104893a722b9139e45772f5cc2f",
+          "h1": "h1:TvZl7FCSZbxw6WgQT5aJUth1jCV4xnoNQKPISF4aeXs="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-kaleido_1.2.2_freebsd_arm.zip",
+          "download_url": "https://github.com/kaleido-io/terraform-provider-kaleido/releases/download/v1.2.2/terraform-provider-kaleido_1.2.2_freebsd_arm.zip",
+          "shasum": "998ba6e483660baa9d1c575a663b9abf7ebc17c28fb0cc8f5793ceaf43a59c8a",
+          "h1": "h1:rxbpQxz8OjM/1Imbmtybq+jDJMC4bhmc027fwekVI84="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-kaleido_1.2.2_freebsd_arm64.zip",
+          "download_url": "https://github.com/kaleido-io/terraform-provider-kaleido/releases/download/v1.2.2/terraform-provider-kaleido_1.2.2_freebsd_arm64.zip",
+          "shasum": "0aec6c1e538fa7b08e11f5211643f1e7f72cd1e764e4eb6547d84b36c4fc1a08",
+          "h1": "h1:x9dDbvVh8V8pQN8iPH6EuNpFgnSdoPOQgrurvrtSuYU="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-kaleido_1.2.2_linux_386.zip",
+          "download_url": "https://github.com/kaleido-io/terraform-provider-kaleido/releases/download/v1.2.2/terraform-provider-kaleido_1.2.2_linux_386.zip",
+          "shasum": "88b9eceae1b484738b3a614399aa791471e70c5c07e62dca5f927524c216697d",
+          "h1": "h1:5dbdxfGStaRpupD2XEDJUHmo40H/vskE9j68ZZ1Q4bo="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-kaleido_1.2.2_linux_amd64.zip",
+          "download_url": "https://github.com/kaleido-io/terraform-provider-kaleido/releases/download/v1.2.2/terraform-provider-kaleido_1.2.2_linux_amd64.zip",
+          "shasum": "ecda10b6c65c9b7e277a20a7ce2c6a0f8f5b6ce6936c7587f357dab7e3d0f2bc",
+          "h1": "h1:OnQu9gFbz1zy07hsw3i2jDC5/Li2Xg0Wt+JFKDeXKqA="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-kaleido_1.2.2_linux_arm.zip",
+          "download_url": "https://github.com/kaleido-io/terraform-provider-kaleido/releases/download/v1.2.2/terraform-provider-kaleido_1.2.2_linux_arm.zip",
+          "shasum": "557e6aac2831d53e3761251cdbb1695c7dc3e1f010dd921b5fa3e633b2407d39",
+          "h1": "h1:lnBV9cWufGgNt4suOtnSYoZ2Z9kyCFd41j1fCOzDPMQ="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-kaleido_1.2.2_linux_arm64.zip",
+          "download_url": "https://github.com/kaleido-io/terraform-provider-kaleido/releases/download/v1.2.2/terraform-provider-kaleido_1.2.2_linux_arm64.zip",
+          "shasum": "5f4b4cd53fea5037551f3640e4c5b85a6c3440c718bde74a3708b6c97c253c98",
+          "h1": "h1:tIkt6T3DSx3g5OLvF6YT+GkDEdYoSdlcQISIq+9S9YA="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-kaleido_1.2.2_windows_386.zip",
+          "download_url": "https://github.com/kaleido-io/terraform-provider-kaleido/releases/download/v1.2.2/terraform-provider-kaleido_1.2.2_windows_386.zip",
+          "shasum": "d78567c1f5533a278c43709eff9790e3efa01e7bec4582d04f2879656317e055",
+          "h1": "h1:+QqV+pNFGUJzU85y6qR6imcQaaeSiSb3kzRjs0piOkw="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-kaleido_1.2.2_windows_amd64.zip",
+          "download_url": "https://github.com/kaleido-io/terraform-provider-kaleido/releases/download/v1.2.2/terraform-provider-kaleido_1.2.2_windows_amd64.zip",
+          "shasum": "270cba26ee62dd4c54a66a6b8268c4d2b81512bef83383fb1f1739827e8bfa61",
+          "h1": "h1:fYdtgW6TOXvnXjrIChm2YzulEHCN3FrcENZrK8+AxWw="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-kaleido_1.2.2_windows_arm.zip",
+          "download_url": "https://github.com/kaleido-io/terraform-provider-kaleido/releases/download/v1.2.2/terraform-provider-kaleido_1.2.2_windows_arm.zip",
+          "shasum": "81ba7f6a51b51878c45038895f3858c5b5ed6ee91dbc656435062646149a74b6",
+          "h1": "h1:sbRPSax4itNFuhndgPzlZ5Mn7GgwdHQJ0mdA5kjntlI="
+        }
+      ]
+    },
+    {
       "version": "1.2.1",
       "protocols": [
         "5.0"
