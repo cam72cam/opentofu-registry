@@ -1831,6 +1831,128 @@
       ]
     },
     {
+      "version": "4.37.2",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.37.2/terraform-provider-aiven_4.37.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.37.2/terraform-provider-aiven_4.37.2_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-aiven_4.37.2_darwin_amd64.zip",
+          "download_url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.37.2/terraform-provider-aiven_4.37.2_darwin_amd64.zip",
+          "shasum": "65e1700da5094d1df9c3793d30475d54953ab33e3d78f723871f02ffe94f2994",
+          "h1": "h1:mCqFMrJxDfyGK8IzOFT6XVPjgQpaAqBDuck9/NDaNx4="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-aiven_4.37.2_darwin_arm64.zip",
+          "download_url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.37.2/terraform-provider-aiven_4.37.2_darwin_arm64.zip",
+          "shasum": "99cd4440b14596f078108047261a9a82393defa1c3fd6252a854649994210977",
+          "h1": "h1:1j3Ou6u5sDT2Lh1sx8psATEOc2wau9LjuWK1402WIus="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-aiven_4.37.2_freebsd_386.zip",
+          "download_url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.37.2/terraform-provider-aiven_4.37.2_freebsd_386.zip",
+          "shasum": "d072e916a1d53d6de1aa0976e2a7b2b54f471b3932ea7329f5cdfc08befdef77",
+          "h1": "h1:OAsepcgF4wpqnFn1aowmwSBhPRv11Kgoek1McaGnyFY="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-aiven_4.37.2_freebsd_amd64.zip",
+          "download_url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.37.2/terraform-provider-aiven_4.37.2_freebsd_amd64.zip",
+          "shasum": "1ce99d0406672d3cfbf7e5af5498f0ee36f9333fc963c04d6d6f77ed7a2e33c9",
+          "h1": "h1:MrzA8osenE1R1WwP+A/MaVqaFYlH/0FVc+4LdlbkigE="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-aiven_4.37.2_freebsd_arm.zip",
+          "download_url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.37.2/terraform-provider-aiven_4.37.2_freebsd_arm.zip",
+          "shasum": "ace5ec4fe3bd2378445195ff659cb15d1ab9a4360ff8231b666f3f4ff35e26d9",
+          "h1": "h1:azuW20ZT69QPlVVYWgWcTxRxD64PcKm8HDmtwmXJ3Ys="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-aiven_4.37.2_freebsd_arm64.zip",
+          "download_url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.37.2/terraform-provider-aiven_4.37.2_freebsd_arm64.zip",
+          "shasum": "e79b113b706cdf6703a4771a6eeef5a51c1c25f2b57205cdacc1ec7fbd89fff1",
+          "h1": "h1:KVRcIpEVnJvREGROBglSBb28KfIhEW7yw5hhhIOOewo="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-aiven_4.37.2_linux_386.zip",
+          "download_url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.37.2/terraform-provider-aiven_4.37.2_linux_386.zip",
+          "shasum": "4991d768d9eca8fd8dd75af953450dbb8e63383e5ca1a412e3b049581c7b78ee",
+          "h1": "h1:qajHLjQaZX+OGGosBRd7U6acA+XwcKCVsJuemDCgExo="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-aiven_4.37.2_linux_amd64.zip",
+          "download_url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.37.2/terraform-provider-aiven_4.37.2_linux_amd64.zip",
+          "shasum": "2e9857b065dfe7b9a8ad39b26f3d82bffd36de51e67a0bd59a9a1956ee99227b",
+          "h1": "h1:2pL3Qzt3ybsrDqQnFa+KA8iSKoXQz5SJTka9BcxwCTY="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-aiven_4.37.2_linux_arm.zip",
+          "download_url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.37.2/terraform-provider-aiven_4.37.2_linux_arm.zip",
+          "shasum": "d9fca1162d2f56ada6b6445ea7eac85714e2b94338d0d86b2ccc4c750d98f9a2",
+          "h1": "h1:f26H0pd4QhkAldtFeLLNPCyNMnC0PK3SWFE4HZMUc1Q="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-aiven_4.37.2_linux_arm64.zip",
+          "download_url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.37.2/terraform-provider-aiven_4.37.2_linux_arm64.zip",
+          "shasum": "01d78361d9087cd3312a99341548844fafbe747fd78719c8181ad7e91752efac",
+          "h1": "h1:eF5BJk/UpyxRt638v4UlNnblP4zGjS6VxPIzW1qz/rM="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-aiven_4.37.2_windows_386.zip",
+          "download_url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.37.2/terraform-provider-aiven_4.37.2_windows_386.zip",
+          "shasum": "65d37dfc92ea48fc39bf98f5d39ea9739836f331bb0e51f902dc7a2a9af90327",
+          "h1": "h1:HWz4GWQflMXCNL0LfBRm3ZbKduRP+CjqVwbG39qeb2c="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-aiven_4.37.2_windows_amd64.zip",
+          "download_url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.37.2/terraform-provider-aiven_4.37.2_windows_amd64.zip",
+          "shasum": "c486f8c9a8ee844f0349283e77da633439d2a11e8972b25d02094cfe5377a8f6",
+          "h1": "h1:qk4yI+shdJkpl8uVJTa0D76fFlsmVS87hsFTEo3xpE8="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-aiven_4.37.2_windows_arm.zip",
+          "download_url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.37.2/terraform-provider-aiven_4.37.2_windows_arm.zip",
+          "shasum": "8acf8f9fde7ba3b575a4af8f52232e1b41c5f16f24e6dc70e8a630d64ea748c5",
+          "h1": "h1:pP16Cr9dvkRGgFhoIgfGMG3Ma7k1t1gpe/UwfRaWAO0="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-aiven_4.37.2_windows_arm64.zip",
+          "download_url": "https://github.com/aiven/terraform-provider-aiven/releases/download/v4.37.2/terraform-provider-aiven_4.37.2_windows_arm64.zip",
+          "shasum": "e8a130b8795a5343ca6cbb56b4f4c31dfe9856640e2d5035b0a4862d75ac3269",
+          "h1": "h1:2V9Zuk97D621asCOlr0NvB8UpwCOhJ3x+hxczjcOez0="
+        }
+      ]
+    },
+    {
       "version": "4.37.1",
       "protocols": [
         "5.0"
