@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "7.5.4",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v7.5.4/terraform-provider-selectel_7.5.4_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v7.5.4/terraform-provider-selectel_7.5.4_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-selectel_7.5.4_darwin_amd64.zip",
+          "download_url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v7.5.4/terraform-provider-selectel_7.5.4_darwin_amd64.zip",
+          "shasum": "df710b3fff284d7f1a80c11580378b0c04c2e962ddbd6e0142337fb1e3c23d3c",
+          "h1": "h1:zylOTsSL8pTAnta37n+8HVSAwI4QTK/ALwsbrBAfMUg="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-selectel_7.5.4_darwin_arm64.zip",
+          "download_url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v7.5.4/terraform-provider-selectel_7.5.4_darwin_arm64.zip",
+          "shasum": "3e069b7017291c9890afee83f3b7be51ac4dc1dc3b4817b9aac93a43ebdc39d1",
+          "h1": "h1:M5oHqCF/8TD5O9Tu0kDthFbNqUcBjKknT3gX/T76pJs="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-selectel_7.5.4_freebsd_386.zip",
+          "download_url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v7.5.4/terraform-provider-selectel_7.5.4_freebsd_386.zip",
+          "shasum": "ce1410a268f3c797e7dc6a26d9d320ae6c33f1c85ad6edda91a30e472583e187",
+          "h1": "h1:BAhIHKyJBFlB7crlJ9hE83Fet+5bS2LA2t10VIHnu60="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-selectel_7.5.4_freebsd_amd64.zip",
+          "download_url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v7.5.4/terraform-provider-selectel_7.5.4_freebsd_amd64.zip",
+          "shasum": "67195357604ae6ee3c71bf360c8fee5cbfacf146acc037f81b5465b65ab30510",
+          "h1": "h1:h+iEn5jzLSWlZVVPlqx1w9RGkmW8XzjmQp0hNtqDKy4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-selectel_7.5.4_freebsd_arm.zip",
+          "download_url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v7.5.4/terraform-provider-selectel_7.5.4_freebsd_arm.zip",
+          "shasum": "76bc6280ae5f6a122e129e31c911ca5053d6d8f6400915de98a65440125e07a9",
+          "h1": "h1:PqT2x/JfZ5XPDjqYbZYU6VmnsfzXPA1Eq3QAZOIwcrw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-selectel_7.5.4_freebsd_arm64.zip",
+          "download_url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v7.5.4/terraform-provider-selectel_7.5.4_freebsd_arm64.zip",
+          "shasum": "3c098f3298e6408613d66f370dc2ea6bebc827fcf79219388d9f2b508f92bfdb",
+          "h1": "h1:IrRg5Pki7AxSbB8RdBtHCM6giNn6Vqh+Xb3sm9guG24="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-selectel_7.5.4_linux_386.zip",
+          "download_url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v7.5.4/terraform-provider-selectel_7.5.4_linux_386.zip",
+          "shasum": "f1d2450c854e12ca296231531a115cb670ac99adaea0be151ecd6b889e84f143",
+          "h1": "h1:sEUA07lJn0BEmDxvE19LupoMgLEJ+7Tmg2esskfO1+c="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-selectel_7.5.4_linux_amd64.zip",
+          "download_url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v7.5.4/terraform-provider-selectel_7.5.4_linux_amd64.zip",
+          "shasum": "84e45e1fad150127a9e2fd286848ca89ea797a4b10aaf0205f479a5c6e1ee320",
+          "h1": "h1:FAElAYRnd1U7kFWvnj+U6qoL5x4u628LAb/hnp1GGtc="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-selectel_7.5.4_linux_arm.zip",
+          "download_url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v7.5.4/terraform-provider-selectel_7.5.4_linux_arm.zip",
+          "shasum": "d47168c9ca4eb5027d35fea1d8507042f370d3daeea4c1e471622e0fc340f39a",
+          "h1": "h1:hyjDPHVayL9xmPjurz+NKTZaH/bnVsKeL+X60L4jup8="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-selectel_7.5.4_linux_arm64.zip",
+          "download_url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v7.5.4/terraform-provider-selectel_7.5.4_linux_arm64.zip",
+          "shasum": "3da3e12f456216cb576e4bd5b56eb257d680d3a7aa67fa909f5224c06f66bd39",
+          "h1": "h1:HMLMgE+ugxi45+oE6B7enrjfOPM+1+ydn+tnYOfNhSc="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-selectel_7.5.4_windows_386.zip",
+          "download_url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v7.5.4/terraform-provider-selectel_7.5.4_windows_386.zip",
+          "shasum": "18f9a70bb6654c3d3e9d3f6d5950b3253096d41acafb993ef318d2459ae95b5a",
+          "h1": "h1:JbQK5N0NDQpeIPkKEPj2tkZ0hWJnLzHcvrwCY/dBjX0="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-selectel_7.5.4_windows_amd64.zip",
+          "download_url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v7.5.4/terraform-provider-selectel_7.5.4_windows_amd64.zip",
+          "shasum": "1e3affb854f2d7c9f2e7ee89b2604fd97163ae97e134686b096f05ebb9172f94",
+          "h1": "h1:oatK7hJCAbYXusv8/qJ+J9LLfQQptiRBUUJCDmNrE+I="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-selectel_7.5.4_windows_arm.zip",
+          "download_url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v7.5.4/terraform-provider-selectel_7.5.4_windows_arm.zip",
+          "shasum": "d861a472547cb8a02d58a35755446f02137bbe0f8fed9c8389c8b7e4464d0f70",
+          "h1": "h1:FkWDdNzUvb5eOd2g47cdcnvARZTfDmACCWzlxxjxZ9Q="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-selectel_7.5.4_windows_arm64.zip",
+          "download_url": "https://github.com/selectel/terraform-provider-selectel/releases/download/v7.5.4/terraform-provider-selectel_7.5.4_windows_arm64.zip",
+          "shasum": "025ad0a23bddbdc94bc3809e3c04c4595bc916c5bcbda4d6b251255c1b333402",
+          "h1": "h1:zMH1uRhFQ3uyII6c7cX/Tmdk0iWYqKgKSUGad+23XE8="
+        }
+      ]
+    },
+    {
       "version": "7.5.3",
       "protocols": [
         "5.0"
