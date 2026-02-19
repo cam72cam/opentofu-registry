@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.40.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.40.0/terraform-provider-auth0_1.40.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.40.0/terraform-provider-auth0_1.40.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-auth0_1.40.0_darwin_amd64.zip",
+          "download_url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.40.0/terraform-provider-auth0_1.40.0_darwin_amd64.zip",
+          "shasum": "0b515381b57d5b01fec0e0afd68ac5cd3d9ce3adc166115197fe232521e18384",
+          "h1": "h1:ZVOPvAQ7VRaw3FSPb4gNdMdMiY5C0dSd5Mkn4URwnEs="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-auth0_1.40.0_darwin_arm64.zip",
+          "download_url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.40.0/terraform-provider-auth0_1.40.0_darwin_arm64.zip",
+          "shasum": "a308dbb649f7a493b27488951de7de5f1ce94439350720dfcd0c852ab9a9d2a3",
+          "h1": "h1:Rb2/b/BVr34SEnMRQVGvtHDN3+ZGA+32SAckyJrtg7s="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-auth0_1.40.0_freebsd_386.zip",
+          "download_url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.40.0/terraform-provider-auth0_1.40.0_freebsd_386.zip",
+          "shasum": "b55fcbdefab3c9dc36bdcfae18f7f9b5acc56575bd29ebe56a21dc49382ece86",
+          "h1": "h1:MONiMCXP4PPqbV5VsWe/fNea36iIYiw+pi1/BfQft5A="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-auth0_1.40.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.40.0/terraform-provider-auth0_1.40.0_freebsd_amd64.zip",
+          "shasum": "9439d71dfc1c8a3b98c949442ef20c1bd27853b97e9457fee6901858ae9bcc86",
+          "h1": "h1:dTrk0Q504B8S/0oPayDQ3D7VUdzogCt33uBkBQyoc2w="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-auth0_1.40.0_freebsd_arm.zip",
+          "download_url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.40.0/terraform-provider-auth0_1.40.0_freebsd_arm.zip",
+          "shasum": "4d3d8491872d5da2c3c07ac1794a241fceb86f707152b4f8ecfc185f6945fd31",
+          "h1": "h1:kD7SGjhtQI4CpYgcidAaqbXgXQ33Kx0pg1RyO1YB/lg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-auth0_1.40.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.40.0/terraform-provider-auth0_1.40.0_freebsd_arm64.zip",
+          "shasum": "2e5853f1da3d2b79bc21176773185dc97bf8121ac46c335e909f0474c3f38733",
+          "h1": "h1:bSj2weNaRfoVsX0xNdVQJm45BGcFSJbFuPK2oenbyB0="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-auth0_1.40.0_linux_386.zip",
+          "download_url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.40.0/terraform-provider-auth0_1.40.0_linux_386.zip",
+          "shasum": "b811fe84acd3d64e75a90b4787280e190b6567fbc358ec410bcc0843f49611f5",
+          "h1": "h1:2RJXcFKziJNOfUoulDSelM18Nfvj/FA5m8cPS2hxjC8="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-auth0_1.40.0_linux_amd64.zip",
+          "download_url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.40.0/terraform-provider-auth0_1.40.0_linux_amd64.zip",
+          "shasum": "aee57cafa878d43648d6f7bb42e2d551119cf7f798c67d455a92d7aa59302d15",
+          "h1": "h1:e0n7RHmyxcVoGUjmRvtqcZLjrrtjVDyId7ss9YnXbQA="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-auth0_1.40.0_linux_arm.zip",
+          "download_url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.40.0/terraform-provider-auth0_1.40.0_linux_arm.zip",
+          "shasum": "c1b23163a0037b7fd047412304da4b5ab8e536bf62508eb74063dffdd0ed5dea",
+          "h1": "h1:NU8jXVIK970C9Ma7Ty3TcBCJ1hGsc24M5wIrhz5W76A="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-auth0_1.40.0_linux_arm64.zip",
+          "download_url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.40.0/terraform-provider-auth0_1.40.0_linux_arm64.zip",
+          "shasum": "5f9f1c6e51ede4424c4a19efbb4b52bdf013ab080c3989e84c1481994a106d6c",
+          "h1": "h1:01Ax9UKaDTOOHtxy8FAgxUwUEJz6U7cLUNGeq/fwI3c="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-auth0_1.40.0_windows_386.zip",
+          "download_url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.40.0/terraform-provider-auth0_1.40.0_windows_386.zip",
+          "shasum": "368a7a6a972d510e4a11dc152fc7e6ba589aeebc28b8d46d5f8eb0a35f7e6f69",
+          "h1": "h1:A4+hidRyPvHqbhBNAIjEomfRJFqDRS29TDxb1U+h5Zc="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-auth0_1.40.0_windows_amd64.zip",
+          "download_url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.40.0/terraform-provider-auth0_1.40.0_windows_amd64.zip",
+          "shasum": "64de61406d5b37ed94301b0c21e3f53f9b5143575d14eeea5355b7650bc79cf4",
+          "h1": "h1:9OyJPA8tpyVul4aorqsJGSobJVI6QdxMWF3aqV2DDwk="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-auth0_1.40.0_windows_arm.zip",
+          "download_url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.40.0/terraform-provider-auth0_1.40.0_windows_arm.zip",
+          "shasum": "77e3616770446f084360361d51781cb4eab8ce6b84324991397567d82d77d78a",
+          "h1": "h1:5ckF2Qb0HtcVe/bT7ur+gpAoW+0QKKAxN/Lev+nw54k="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-auth0_1.40.0_windows_arm64.zip",
+          "download_url": "https://github.com/auth0/terraform-provider-auth0/releases/download/v1.40.0/terraform-provider-auth0_1.40.0_windows_arm64.zip",
+          "shasum": "b48e4856da881cf6c88e68a3c4332a1b6c1bc585af4b21cc6c4ecef79a79072c",
+          "h1": "h1:eygYNsCzrs6vSi2sOPF4HFy3+sHzlaUOi9wEu9n2uk0="
+        }
+      ]
+    },
+    {
       "version": "1.39.1",
       "protocols": [
         "5.0"
