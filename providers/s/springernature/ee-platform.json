@@ -1,6 +1,120 @@
 {
   "versions": [
     {
+      "version": "0.10.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/springernature/terraform-provider-ee-platform/releases/download/v0.10.0/terraform-provider-ee-platform_0.10.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/springernature/terraform-provider-ee-platform/releases/download/v0.10.0/terraform-provider-ee-platform_0.10.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-ee-platform_0.10.0_darwin_amd64.zip",
+          "download_url": "https://github.com/springernature/terraform-provider-ee-platform/releases/download/v0.10.0/terraform-provider-ee-platform_0.10.0_darwin_amd64.zip",
+          "shasum": "98bce69627fd7cb0a4cf19750f74d8ec3b859c3356951705730852a60479f076",
+          "h1": "h1:E9ynn2TA6X9jrAGXcC/SHMgJrqHhRfM2fIJJGsJT/tw="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-ee-platform_0.10.0_darwin_arm64.zip",
+          "download_url": "https://github.com/springernature/terraform-provider-ee-platform/releases/download/v0.10.0/terraform-provider-ee-platform_0.10.0_darwin_arm64.zip",
+          "shasum": "e55bb0f006c0fe976b87155e6d9e7d9528c716b5cc14334ee87df0a16b52ed78",
+          "h1": "h1:a/X8cz3NmNKf3PHvQhmkNqGxuPd2uWF+4zWymSCtVdY="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-ee-platform_0.10.0_freebsd_386.zip",
+          "download_url": "https://github.com/springernature/terraform-provider-ee-platform/releases/download/v0.10.0/terraform-provider-ee-platform_0.10.0_freebsd_386.zip",
+          "shasum": "e2c490aa8c5f4ecf28d054888b1b77b5d9da875b91429fd4f08ba3946f18f78e",
+          "h1": "h1:+4k5UUhI+vRTqNdWIAFcdUyTvCoOZKFCVS5eT9eBe5g="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-ee-platform_0.10.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/springernature/terraform-provider-ee-platform/releases/download/v0.10.0/terraform-provider-ee-platform_0.10.0_freebsd_amd64.zip",
+          "shasum": "f057fb40702479943329fe1736ef6ff5cecd5c5c39d6d78f07e68484a087d5f6",
+          "h1": "h1:moxbovChaei+Aa3eIT/Mra9tGtXjP9ZMr+8e45GFze4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-ee-platform_0.10.0_freebsd_arm.zip",
+          "download_url": "https://github.com/springernature/terraform-provider-ee-platform/releases/download/v0.10.0/terraform-provider-ee-platform_0.10.0_freebsd_arm.zip",
+          "shasum": "e81bf18179d5a62873e98f5dc6126b8f092f2d235e54a071674d3f6ee8096acc",
+          "h1": "h1:Vsv7MVvMjnNuJ4m5/h/WXsBGTLydjM7AGfLSSwOz1+8="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-ee-platform_0.10.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/springernature/terraform-provider-ee-platform/releases/download/v0.10.0/terraform-provider-ee-platform_0.10.0_freebsd_arm64.zip",
+          "shasum": "98719b115d2574ec92057caab0f28e1044add7ba3afd28215bf6e86168476eb9",
+          "h1": "h1:D5F1UIhf9JxnIp6/b5M7OOupoTMJZnZ4Js+KHT7x7pE="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-ee-platform_0.10.0_linux_386.zip",
+          "download_url": "https://github.com/springernature/terraform-provider-ee-platform/releases/download/v0.10.0/terraform-provider-ee-platform_0.10.0_linux_386.zip",
+          "shasum": "80341ab17f3bc2af4aaa5b81b480210b97607112a505642cfcf775283aff5fff",
+          "h1": "h1:2LhmcJm04kCg/rFKtvotz25DgsqIt2YoJ2jdYw/Xb/o="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-ee-platform_0.10.0_linux_amd64.zip",
+          "download_url": "https://github.com/springernature/terraform-provider-ee-platform/releases/download/v0.10.0/terraform-provider-ee-platform_0.10.0_linux_amd64.zip",
+          "shasum": "f39e31078b1f9b5a429bbc759c623044618ed9237a35c7759084717ee9955e82",
+          "h1": "h1:15g/DKpQ+FtS03NJo02pa2Ty0bAKFWvj6emwd0cfnZU="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-ee-platform_0.10.0_linux_arm.zip",
+          "download_url": "https://github.com/springernature/terraform-provider-ee-platform/releases/download/v0.10.0/terraform-provider-ee-platform_0.10.0_linux_arm.zip",
+          "shasum": "c004e1e016e813e50ca4007687a36902e8de132d86184fd33ed9ec172bb2b6bf",
+          "h1": "h1:OEFvKOgpj6mfpJnOmRkFVvuTwWjJsDGSYIaP9WSccho="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-ee-platform_0.10.0_linux_arm64.zip",
+          "download_url": "https://github.com/springernature/terraform-provider-ee-platform/releases/download/v0.10.0/terraform-provider-ee-platform_0.10.0_linux_arm64.zip",
+          "shasum": "066b9bcca938cbaff19b893ff1a873b823588973915f72186c67eae22a8f89d4",
+          "h1": "h1:JXZGhXV8tBwxeaytp4vK8ocaukdQ65pFHscamZGkwd4="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-ee-platform_0.10.0_windows_386.zip",
+          "download_url": "https://github.com/springernature/terraform-provider-ee-platform/releases/download/v0.10.0/terraform-provider-ee-platform_0.10.0_windows_386.zip",
+          "shasum": "de8bbbac27f8dec432f73893eb12908de0b3520251f1323bffc6d05d86b1bbc7",
+          "h1": "h1:ylBkZ/+mB1q5A9ZQXPvDiJ8ffQnJ45kMQwa/rLh6Tlo="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-ee-platform_0.10.0_windows_amd64.zip",
+          "download_url": "https://github.com/springernature/terraform-provider-ee-platform/releases/download/v0.10.0/terraform-provider-ee-platform_0.10.0_windows_amd64.zip",
+          "shasum": "b9e9e65b89a93f9cb6633f04aa76080efae256f12e5a6ae9c97bd973aa8120cb",
+          "h1": "h1:+Pc73JCzuD+vTA70OCxkWPfFZ7UZPCzBYxP18s9wcg8="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-ee-platform_0.10.0_windows_arm64.zip",
+          "download_url": "https://github.com/springernature/terraform-provider-ee-platform/releases/download/v0.10.0/terraform-provider-ee-platform_0.10.0_windows_arm64.zip",
+          "shasum": "599fe1977cc359618201dcf99c695f09073a689d6889fa6ab6b8b3c83fb78932",
+          "h1": "h1:zc3P07YCx/Vh0yiFurRG7IZ2hEG5n6OknaQV8r9CjFw="
+        }
+      ]
+    },
+    {
       "version": "0.0.9",
       "protocols": [
         "6.0"
