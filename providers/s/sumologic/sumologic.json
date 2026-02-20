@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "3.2.4",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/sumologic/terraform-provider-sumologic/releases/download/v3.2.4/terraform-provider-sumologic_3.2.4_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/sumologic/terraform-provider-sumologic/releases/download/v3.2.4/terraform-provider-sumologic_3.2.4_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-sumologic_3.2.4_darwin_amd64.zip",
+          "download_url": "https://github.com/sumologic/terraform-provider-sumologic/releases/download/v3.2.4/terraform-provider-sumologic_3.2.4_darwin_amd64.zip",
+          "shasum": "d4bda715b05256094e9d56348b6fd754c4ba86dd29be75d4d5e1a5b5d5b4b287",
+          "h1": "h1:4XPtpNufduWHp//JtnybW0mJY/EGFoGepMLtLOFNTd0="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-sumologic_3.2.4_darwin_arm64.zip",
+          "download_url": "https://github.com/sumologic/terraform-provider-sumologic/releases/download/v3.2.4/terraform-provider-sumologic_3.2.4_darwin_arm64.zip",
+          "shasum": "5919dce6b799fe5a118aab13eb4cb2ccc4e50650e0745a846fb1e68f50be687e",
+          "h1": "h1:CfJIRtAKTOutuDGvMQcLlM2JlM9KZ4G9zhCP4YHyVYM="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-sumologic_3.2.4_freebsd_386.zip",
+          "download_url": "https://github.com/sumologic/terraform-provider-sumologic/releases/download/v3.2.4/terraform-provider-sumologic_3.2.4_freebsd_386.zip",
+          "shasum": "3ca755c0aa7c0c05fcef57e0d5acb70255ad55cc8ed632e20897538dcd0ae437",
+          "h1": "h1:kHcNjglzTkO0klew8myFTlP5S1AxVmfqgSbVDDfLKvI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-sumologic_3.2.4_freebsd_amd64.zip",
+          "download_url": "https://github.com/sumologic/terraform-provider-sumologic/releases/download/v3.2.4/terraform-provider-sumologic_3.2.4_freebsd_amd64.zip",
+          "shasum": "a241030f9afbd46059ee7dd3d20bf7d4009bf8b0f1c1ff849df1278fcdf64b2e",
+          "h1": "h1:bvPjbURGEZAir0Aa7jE37jRlFu6Q5pdDIqQBQ2kRuIM="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-sumologic_3.2.4_freebsd_arm.zip",
+          "download_url": "https://github.com/sumologic/terraform-provider-sumologic/releases/download/v3.2.4/terraform-provider-sumologic_3.2.4_freebsd_arm.zip",
+          "shasum": "59ab1405d9668be2659af05e79a75c52c19b4f4ebeb04c35e0a29b9df99e7307",
+          "h1": "h1:z1tfpGJJOjJ9JnuxlbI3SefkQEkxW/Mpw0yqfEAbglE="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-sumologic_3.2.4_freebsd_arm64.zip",
+          "download_url": "https://github.com/sumologic/terraform-provider-sumologic/releases/download/v3.2.4/terraform-provider-sumologic_3.2.4_freebsd_arm64.zip",
+          "shasum": "906dbc841a8d65f3a32b83c5d72532c7bdb1425698679b1a7fddbb55e55279e1",
+          "h1": "h1:Mevbl07kXYL15jnGZFJKPdhlwPXNJiHShg24ZASX9K4="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-sumologic_3.2.4_linux_386.zip",
+          "download_url": "https://github.com/sumologic/terraform-provider-sumologic/releases/download/v3.2.4/terraform-provider-sumologic_3.2.4_linux_386.zip",
+          "shasum": "f40dfc2d7e5f8a51e6bf1f778ca931e7665dbd846a309ba339ea021c1ae15076",
+          "h1": "h1:W9k75Nf/88xPqbR8om0brYML4UhEHqRqiYkfIIexsbo="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-sumologic_3.2.4_linux_amd64.zip",
+          "download_url": "https://github.com/sumologic/terraform-provider-sumologic/releases/download/v3.2.4/terraform-provider-sumologic_3.2.4_linux_amd64.zip",
+          "shasum": "201a73f066ba3ea76833e395881f64555b526da2d77e8774c6da7bb790812ea4",
+          "h1": "h1:dqJvqg63cbCTP1uV2TqOjlh9oc83MWC7QZIjsBcxJRI="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-sumologic_3.2.4_linux_arm.zip",
+          "download_url": "https://github.com/sumologic/terraform-provider-sumologic/releases/download/v3.2.4/terraform-provider-sumologic_3.2.4_linux_arm.zip",
+          "shasum": "ea8ce09155e0275a7fa3ae3dee005f44fb7e77688a7d3a02141c83a516c12879",
+          "h1": "h1:NAIC+nzXLTPD1v45RtqxqtzjZyG0sdpnfEI4BddMHEA="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-sumologic_3.2.4_linux_arm64.zip",
+          "download_url": "https://github.com/sumologic/terraform-provider-sumologic/releases/download/v3.2.4/terraform-provider-sumologic_3.2.4_linux_arm64.zip",
+          "shasum": "83b567bcffac64f7c2fd5fb5695672893af75beb23998a9c2dba61b9554924d0",
+          "h1": "h1:42RfSvPRltyj3imE2e7yfHP5mBqmYrFzRYDqYDezREs="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-sumologic_3.2.4_windows_386.zip",
+          "download_url": "https://github.com/sumologic/terraform-provider-sumologic/releases/download/v3.2.4/terraform-provider-sumologic_3.2.4_windows_386.zip",
+          "shasum": "b7f4cd24afde0c4e8d95561acbe2fc40dbf07d5833f95ba026732bf07603bafb",
+          "h1": "h1:P/tkXrFnVKiafaGgIYVEwzKjGGrGlzWUzNdK18zJT9s="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-sumologic_3.2.4_windows_amd64.zip",
+          "download_url": "https://github.com/sumologic/terraform-provider-sumologic/releases/download/v3.2.4/terraform-provider-sumologic_3.2.4_windows_amd64.zip",
+          "shasum": "d81610e66fd6679872eccf443af116a09cc3e7e7f3c52d78f50b9ecc425602b9",
+          "h1": "h1:CsEaEuaC0AAvv8HRIxr6bZdSyiFZ8uCbv+aiuj3bhus="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-sumologic_3.2.4_windows_arm.zip",
+          "download_url": "https://github.com/sumologic/terraform-provider-sumologic/releases/download/v3.2.4/terraform-provider-sumologic_3.2.4_windows_arm.zip",
+          "shasum": "7c4800e257a4bf20b125c9abce4ed241822072af8f52109ac49d3d54d48d0cda",
+          "h1": "h1:PuZ6vC68fnJgWMxfVEQijih4bdCoKFvDlooEmXM40oU="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-sumologic_3.2.4_windows_arm64.zip",
+          "download_url": "https://github.com/sumologic/terraform-provider-sumologic/releases/download/v3.2.4/terraform-provider-sumologic_3.2.4_windows_arm64.zip",
+          "shasum": "ffbe48c7134215d54902dbdc15f98dcc689c50a547691715a31af5a435d38e07",
+          "h1": "h1:Ljimi618f0zW91U04ZkAcYX8QQYJ5hm0q8N5I5g5Sf4="
+        }
+      ]
+    },
+    {
       "version": "3.2.3",
       "protocols": [
         "5.0"
