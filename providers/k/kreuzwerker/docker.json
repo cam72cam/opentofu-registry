@@ -1,6 +1,120 @@
 {
   "versions": [
     {
+      "version": "4.0.0-beta2",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v4.0.0-beta2/terraform-provider-docker_4.0.0-beta2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v4.0.0-beta2/terraform-provider-docker_4.0.0-beta2_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-docker_4.0.0-beta2_darwin_amd64.zip",
+          "download_url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v4.0.0-beta2/terraform-provider-docker_4.0.0-beta2_darwin_amd64.zip",
+          "shasum": "cfbd3448ea81722b768aca6a435cb9b6ae86a97f2d0eb97963bf0ed1c70e01c5",
+          "h1": "h1:veg1+YALlDjfDjDkVy0pPHQ6l6Ket/HIgN4IMVDP1iM="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-docker_4.0.0-beta2_darwin_arm64.zip",
+          "download_url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v4.0.0-beta2/terraform-provider-docker_4.0.0-beta2_darwin_arm64.zip",
+          "shasum": "7e95d14c3bf535c3df09eb990bd4f4dc33e7346d9f127aa9992821ff61807867",
+          "h1": "h1:QzYfJlSOp1TOf07bhW2lJuspKsxPjql4/yn2UcaQp8U="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-docker_4.0.0-beta2_linux_386.zip",
+          "download_url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v4.0.0-beta2/terraform-provider-docker_4.0.0-beta2_linux_386.zip",
+          "shasum": "92f560202a7ba8f4de1e546858dbd20d35735b51babdf14567062a201c39e666",
+          "h1": "h1:k3RCAyTr+VQ791RYJlYKuPJk0ftq4UjcFKP09aJTsls="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-docker_4.0.0-beta2_linux_amd64.zip",
+          "download_url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v4.0.0-beta2/terraform-provider-docker_4.0.0-beta2_linux_amd64.zip",
+          "shasum": "570aa271f786efe916fbdac1456fdec588397176d7fe150d68678d27055ea8ac",
+          "h1": "h1:9BRde5TDZoXFkuBxEiu2unZ/Y/y+VGFIWq1VxUSWkkE="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-docker_4.0.0-beta2_linux_arm.zip",
+          "download_url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v4.0.0-beta2/terraform-provider-docker_4.0.0-beta2_linux_arm.zip",
+          "shasum": "e073854e97ef0cb70e89627ab0b2ef1300addecebd202d1017da2eff170e3893",
+          "h1": "h1:60Q9KNdvUDrA3XOoJB7mRcsjdL9fAzKm/pQLGI2Gtlk="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-docker_4.0.0-beta2_linux_arm64.zip",
+          "download_url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v4.0.0-beta2/terraform-provider-docker_4.0.0-beta2_linux_arm64.zip",
+          "shasum": "21ee65722e856e2ba9dc4b56c116280e3a79247e3d7e578e3ae9f3c70bce0804",
+          "h1": "h1:cI6pMJw9SHz+i7m2YlRjZL13ZynDrvkF/mzXVYmjoJk="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-docker_4.0.0-beta2_windows_386.zip",
+          "download_url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v4.0.0-beta2/terraform-provider-docker_4.0.0-beta2_windows_386.zip",
+          "shasum": "0c0a91deae15c194e3a514590f91fac917b44826181e8fa65e6391e8f8b5c4f6",
+          "h1": "h1:HAQkOpMxAuj8wOej2012mmQjJxSpFzNgd2EbTDLJSHw="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-docker_4.0.0-beta2_windows_amd64.zip",
+          "download_url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v4.0.0-beta2/terraform-provider-docker_4.0.0-beta2_windows_amd64.zip",
+          "shasum": "cf4ec48cbbfedab4146c22f6df30a7668873fc60eaee5d792086237d7ead0103",
+          "h1": "h1:l9dyfu03qwBsPuWhheXydPFWtbVr2S1wvNksZjVZTi8="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-docker_4.0.0-beta2_windows_arm.zip",
+          "download_url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v4.0.0-beta2/terraform-provider-docker_4.0.0-beta2_windows_arm.zip",
+          "shasum": "5a25cefbfdd5ffb32cf2d90404a5156720ac0298921ef389707f608ba5a90884",
+          "h1": "h1:RJHICgaVanOfSsrNUaAXLGDSMqezfCJecz7dDMwlPE4="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-docker_4.0.0-beta2_windows_arm64.zip",
+          "download_url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v4.0.0-beta2/terraform-provider-docker_4.0.0-beta2_windows_arm64.zip",
+          "shasum": "148d6a4fa29432641d5636228c566ed6310425a86907aef44a2e98d75af9c974",
+          "h1": "h1:bApwOtz32RVQDGHctPMGxteAvbgKvWDVw780G7sHR2c="
+        },
+        {
+          "os": "openbsd",
+          "arch": "386",
+          "filename": "terraform-provider-docker_4.0.0-beta2_openbsd_386.zip",
+          "download_url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v4.0.0-beta2/terraform-provider-docker_4.0.0-beta2_openbsd_386.zip",
+          "shasum": "5e518818b9993de37fe64060d88645fdfa9cde010081436b16e91457958a9e31",
+          "h1": "h1:zNnaW/EV6czg4tQaEMzrNXcz/Ay6NOyeVHmfTt+VvG8="
+        },
+        {
+          "os": "openbsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-docker_4.0.0-beta2_openbsd_amd64.zip",
+          "download_url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v4.0.0-beta2/terraform-provider-docker_4.0.0-beta2_openbsd_amd64.zip",
+          "shasum": "85f3cb6afef87c73feee2d0b4cc35203e37ab8ba40c8eb03227d2e1e3809735a",
+          "h1": "h1:zy1+1NpD4pAOviFv9JBJdy6HRSaGJRPS1fozzMJt6Y8="
+        },
+        {
+          "os": "openbsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-docker_4.0.0-beta2_openbsd_arm64.zip",
+          "download_url": "https://github.com/kreuzwerker/terraform-provider-docker/releases/download/v4.0.0-beta2/terraform-provider-docker_4.0.0-beta2_openbsd_arm64.zip",
+          "shasum": "1cd3df592755ac48b087786912e390ea9a03f6e3bda791fa69ef5ea710ef6c1d",
+          "h1": "h1:A8E7OGebMnYfZyjzFjFK3y5mPq3fAfrkmQ9vYC1DkUM="
+        }
+      ]
+    },
+    {
       "version": "4.0.0-beta1",
       "protocols": [
         "5.0"
