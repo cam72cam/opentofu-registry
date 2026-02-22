@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "2.7.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/datadrivers/terraform-provider-nexus/releases/download/v2.7.0/terraform-provider-nexus_2.7.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/datadrivers/terraform-provider-nexus/releases/download/v2.7.0/terraform-provider-nexus_2.7.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-nexus_2.7.0_darwin_amd64.zip",
+          "download_url": "https://github.com/datadrivers/terraform-provider-nexus/releases/download/v2.7.0/terraform-provider-nexus_2.7.0_darwin_amd64.zip",
+          "shasum": "26c468c424ad9e9489d112e77808852127d205c3eb7f823a017e2613623fe9ad",
+          "h1": "h1:PuqmklUXelGRv8RZC8FNumsp718svHaJBSjqMHUc0jc="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-nexus_2.7.0_darwin_arm64.zip",
+          "download_url": "https://github.com/datadrivers/terraform-provider-nexus/releases/download/v2.7.0/terraform-provider-nexus_2.7.0_darwin_arm64.zip",
+          "shasum": "be420c68f3db870dc9a264e4b915da4bfb33ab81a6e9ef2a272f23bd8a95c2e5",
+          "h1": "h1:+2wjlQCyIc1jMhNHfl0KPXoevJm9Q7Ocalj3aRROooY="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-nexus_2.7.0_freebsd_386.zip",
+          "download_url": "https://github.com/datadrivers/terraform-provider-nexus/releases/download/v2.7.0/terraform-provider-nexus_2.7.0_freebsd_386.zip",
+          "shasum": "15aa8363624bcd38eed70c3e8d788f2899574b3fc616a32785b068191916ae66",
+          "h1": "h1:9qgnoIxH49oafba0ebi4JjLNVixWFqwSP1QUD5sEIo0="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-nexus_2.7.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/datadrivers/terraform-provider-nexus/releases/download/v2.7.0/terraform-provider-nexus_2.7.0_freebsd_amd64.zip",
+          "shasum": "420be7ef37c6a51b4db2d77c21fc6e8059be32e5e45148391e3da86490cfacb0",
+          "h1": "h1:VvL+G/q4ducCNDNEzXDL3/x7fw7CV/ANftZbbDEw1Gs="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-nexus_2.7.0_freebsd_arm.zip",
+          "download_url": "https://github.com/datadrivers/terraform-provider-nexus/releases/download/v2.7.0/terraform-provider-nexus_2.7.0_freebsd_arm.zip",
+          "shasum": "9627106f74ba506d3c61021dd258ff1ed519b259b1f741c4f9b5dab8d61257a1",
+          "h1": "h1:cBLnkuwTZNjNzYR0gPhZCxcgL5NjB1HrisUnoDJHM9s="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-nexus_2.7.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/datadrivers/terraform-provider-nexus/releases/download/v2.7.0/terraform-provider-nexus_2.7.0_freebsd_arm64.zip",
+          "shasum": "cd7cb7e3da55ffe8c9c09e3fed35b3671b9cd7e6bc282bfc71d467a702929759",
+          "h1": "h1:zSTGrdpCmzYCQSDtJDd1mg21/1WCEaLr+dvQy8ZRJR0="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-nexus_2.7.0_linux_386.zip",
+          "download_url": "https://github.com/datadrivers/terraform-provider-nexus/releases/download/v2.7.0/terraform-provider-nexus_2.7.0_linux_386.zip",
+          "shasum": "6dfaba456b4f275a21ddf70ee378e95016b5e5b163f13eca5d672424dd1487b4",
+          "h1": "h1:lzQzrJRxfHk5ZSZGy0K1YMdZs8ijhrpjcZMHJO6xToc="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-nexus_2.7.0_linux_amd64.zip",
+          "download_url": "https://github.com/datadrivers/terraform-provider-nexus/releases/download/v2.7.0/terraform-provider-nexus_2.7.0_linux_amd64.zip",
+          "shasum": "735a4a47cccb60f61ddcc0fc8cd8b6b792f008ffccade420fd7dd1ee533921a6",
+          "h1": "h1:mse34ruTfx6XCnq2QeDDnWGo8ijxCBF3SXfHEEHFeTs="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-nexus_2.7.0_linux_arm.zip",
+          "download_url": "https://github.com/datadrivers/terraform-provider-nexus/releases/download/v2.7.0/terraform-provider-nexus_2.7.0_linux_arm.zip",
+          "shasum": "658be7b3fbba377b200117136ce502b19cac72eab00098c4f8e1cf31ad76a014",
+          "h1": "h1:6FpmSQDdqGyvbCX1PXIs6Nw6x4nsKQJqCS+B+egxQzs="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-nexus_2.7.0_linux_arm64.zip",
+          "download_url": "https://github.com/datadrivers/terraform-provider-nexus/releases/download/v2.7.0/terraform-provider-nexus_2.7.0_linux_arm64.zip",
+          "shasum": "f84bfb1efbfee5a737196538dc0a9a26d5893e9708177383719cff0b5fb875e7",
+          "h1": "h1:JHRn7nVsukWDmF8pUDWQv7KD0dMP8M+6p2g/x2JKto8="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-nexus_2.7.0_windows_386.zip",
+          "download_url": "https://github.com/datadrivers/terraform-provider-nexus/releases/download/v2.7.0/terraform-provider-nexus_2.7.0_windows_386.zip",
+          "shasum": "ce7abd28ea85b85235b9aeee899eb70e7ab8b2162d611ec39fbc91fce3289e7e",
+          "h1": "h1:LjqmDYmwYv/0GF5Vqd4QxdIQgiy2qs3jr+XFjbfAHDs="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-nexus_2.7.0_windows_amd64.zip",
+          "download_url": "https://github.com/datadrivers/terraform-provider-nexus/releases/download/v2.7.0/terraform-provider-nexus_2.7.0_windows_amd64.zip",
+          "shasum": "ed14bc363d81ec80c44f681c196963d13318f3ca9cfbb1120d4bcbefc649e0ce",
+          "h1": "h1:zg6XD89NKe3XeeLnyOQbimrWwQDqkuWjkjYNrdYY/gs="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-nexus_2.7.0_windows_arm.zip",
+          "download_url": "https://github.com/datadrivers/terraform-provider-nexus/releases/download/v2.7.0/terraform-provider-nexus_2.7.0_windows_arm.zip",
+          "shasum": "4f805406bd4713b15dd0b2adccff905dac244b38cfd81433175b5e290b8a6978",
+          "h1": "h1:A5nFqiKnBhYoBFq3Z249LURZ9baapv1r5t1qSToEIgo="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-nexus_2.7.0_windows_arm64.zip",
+          "download_url": "https://github.com/datadrivers/terraform-provider-nexus/releases/download/v2.7.0/terraform-provider-nexus_2.7.0_windows_arm64.zip",
+          "shasum": "f7f7e84195999242c549bdc8f74d64516081f10ebee996bda2b99743e1e6cf66",
+          "h1": "h1:LdLSHtm+qTxZnfaFYDZOg/AYzU3xGr3Uk+y1/OpHML0="
+        }
+      ]
+    },
+    {
       "version": "2.6.0",
       "protocols": [
         "5.0"
