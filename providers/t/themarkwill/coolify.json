@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "4.5.0-beta.3",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/themarkwill/terraform-provider-coolify/releases/download/v4.5.0-beta.3/terraform-provider-coolify_4.5.0-beta.3_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/themarkwill/terraform-provider-coolify/releases/download/v4.5.0-beta.3/terraform-provider-coolify_4.5.0-beta.3_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-coolify_4.5.0-beta.3_darwin_amd64.zip",
+          "download_url": "https://github.com/themarkwill/terraform-provider-coolify/releases/download/v4.5.0-beta.3/terraform-provider-coolify_4.5.0-beta.3_darwin_amd64.zip",
+          "shasum": "33d962d39f6174360c1f80e63cf54522264a3c05aeb057e6df906107bdfb6d65",
+          "h1": "h1:JBSopS/MyXsMgj6ZwlEN757mppo8+X202eC+FeEreMU="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-coolify_4.5.0-beta.3_darwin_arm64.zip",
+          "download_url": "https://github.com/themarkwill/terraform-provider-coolify/releases/download/v4.5.0-beta.3/terraform-provider-coolify_4.5.0-beta.3_darwin_arm64.zip",
+          "shasum": "c06c458adb6555ab142ff89cf43abca5cd1f7d882fd30943f2264bd3b23ba494",
+          "h1": "h1:uKSGwhDGU0E58L89yJzeUNU8wnyP/s/4Z9QIdur/XDo="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-coolify_4.5.0-beta.3_freebsd_386.zip",
+          "download_url": "https://github.com/themarkwill/terraform-provider-coolify/releases/download/v4.5.0-beta.3/terraform-provider-coolify_4.5.0-beta.3_freebsd_386.zip",
+          "shasum": "4b59f64d6e10ab083b5704ea40b77eedbd3aea298197ab5c23f1664513947026",
+          "h1": "h1:FTa3yWf2H92aRCKmwG54YMz2AQ1I4zvcqsjwoumh41Q="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-coolify_4.5.0-beta.3_freebsd_amd64.zip",
+          "download_url": "https://github.com/themarkwill/terraform-provider-coolify/releases/download/v4.5.0-beta.3/terraform-provider-coolify_4.5.0-beta.3_freebsd_amd64.zip",
+          "shasum": "f64ab7c268af25afc0d24e55012c3e7afbe407eb4a534f9a9cc1d56fd7253a7c",
+          "h1": "h1:lOLA5U71fnEjJDyeP0mdQSWr+Ref5xHfKsySZTOvxMk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-coolify_4.5.0-beta.3_freebsd_arm.zip",
+          "download_url": "https://github.com/themarkwill/terraform-provider-coolify/releases/download/v4.5.0-beta.3/terraform-provider-coolify_4.5.0-beta.3_freebsd_arm.zip",
+          "shasum": "7f75fa632bea02461bce4c295f35765ba49838fcf65068a73bdd0ef49ca70dfc",
+          "h1": "h1:vvk0oKZOn1NFa6EG2+XRmZg08wCxHy7OY8xgZmXgU0Y="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-coolify_4.5.0-beta.3_freebsd_arm64.zip",
+          "download_url": "https://github.com/themarkwill/terraform-provider-coolify/releases/download/v4.5.0-beta.3/terraform-provider-coolify_4.5.0-beta.3_freebsd_arm64.zip",
+          "shasum": "bff433decceda757c4cddc96a15b2042dbda595a5340ffb65775800cdd5a3558",
+          "h1": "h1:aTFiUFeHHdXviVpy8VNOndB/Re5IY7O7Lk4nWo6x4kk="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-coolify_4.5.0-beta.3_linux_386.zip",
+          "download_url": "https://github.com/themarkwill/terraform-provider-coolify/releases/download/v4.5.0-beta.3/terraform-provider-coolify_4.5.0-beta.3_linux_386.zip",
+          "shasum": "dad0928f33f4ba76e3f773fbff4b397f415154f17c6fa6613410c733800b5922",
+          "h1": "h1:euYwpvcunzNrMtphC3SwiWq48Wr5dy1b5AJ+8Fo5FjA="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-coolify_4.5.0-beta.3_linux_amd64.zip",
+          "download_url": "https://github.com/themarkwill/terraform-provider-coolify/releases/download/v4.5.0-beta.3/terraform-provider-coolify_4.5.0-beta.3_linux_amd64.zip",
+          "shasum": "92834911e9dbe3e305c9853bd96b09237c9f36721a3f90d7dacf669ee695a1f1",
+          "h1": "h1:WAUxFyQ5VKkshjn653C7JHf4yx/836KMRg/hPjWNRwk="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-coolify_4.5.0-beta.3_linux_arm.zip",
+          "download_url": "https://github.com/themarkwill/terraform-provider-coolify/releases/download/v4.5.0-beta.3/terraform-provider-coolify_4.5.0-beta.3_linux_arm.zip",
+          "shasum": "8fa167fca9e9787cd7d85210212f329d34adaa32a8a6a291d520a5d3252983fc",
+          "h1": "h1:6Wj2BTSONT5xvML6CPy+1AQrKANmqIoKgdiczG8QRJk="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-coolify_4.5.0-beta.3_linux_arm64.zip",
+          "download_url": "https://github.com/themarkwill/terraform-provider-coolify/releases/download/v4.5.0-beta.3/terraform-provider-coolify_4.5.0-beta.3_linux_arm64.zip",
+          "shasum": "2f6d0c05d39e3167ea295b33a6316db75c95c2053739eced81f572fc8679166c",
+          "h1": "h1:BBacdLOF8cmZLvXgqRETEZ6wyDUu5nXZIpFrKOptCB4="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-coolify_4.5.0-beta.3_windows_386.zip",
+          "download_url": "https://github.com/themarkwill/terraform-provider-coolify/releases/download/v4.5.0-beta.3/terraform-provider-coolify_4.5.0-beta.3_windows_386.zip",
+          "shasum": "2e1dd98680a67074de309038a6539cb69a52c8720b7c1584493e6db7ead97a15",
+          "h1": "h1:cFHHhRrdO+II8bEotz7bSO6VsPIk1ESsTPzgB6+gOd4="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-coolify_4.5.0-beta.3_windows_amd64.zip",
+          "download_url": "https://github.com/themarkwill/terraform-provider-coolify/releases/download/v4.5.0-beta.3/terraform-provider-coolify_4.5.0-beta.3_windows_amd64.zip",
+          "shasum": "9f3bb4f923c08c92ce8ad847462ccebecc731a4f4321e51295ee9d5bcc8a76f3",
+          "h1": "h1:LjRPC19aCtPocBvmkZcc8EdpLmrBoj8zciJ4Px7PlG4="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-coolify_4.5.0-beta.3_windows_arm.zip",
+          "download_url": "https://github.com/themarkwill/terraform-provider-coolify/releases/download/v4.5.0-beta.3/terraform-provider-coolify_4.5.0-beta.3_windows_arm.zip",
+          "shasum": "c517e6cb298d1db0c756061dab88a83e082d3e617271dc880922a66c566f640d",
+          "h1": "h1:FHas13WANy0NxEkK40fis9zVvL0DJdftBY1fLfOXOa0="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-coolify_4.5.0-beta.3_windows_arm64.zip",
+          "download_url": "https://github.com/themarkwill/terraform-provider-coolify/releases/download/v4.5.0-beta.3/terraform-provider-coolify_4.5.0-beta.3_windows_arm64.zip",
+          "shasum": "6516dac91cb05e86095ed0641f12fa6ba07b6a312e0bfaf3599d139f5cd9b83d",
+          "h1": "h1:jMYtaDyJekZK8XRFPqPXiF+0CsrUA+ps+251yDcH3EI="
+        }
+      ]
+    },
+    {
       "version": "4.5.0-beta.2",
       "protocols": [
         "6.0"
