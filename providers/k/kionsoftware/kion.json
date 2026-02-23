@@ -1,6 +1,120 @@
 {
   "versions": [
     {
+      "version": "0.3.32",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/kionsoftware/terraform-provider-kion/releases/download/v0.3.32/terraform-provider-kion_0.3.32_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/kionsoftware/terraform-provider-kion/releases/download/v0.3.32/terraform-provider-kion_0.3.32_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-kion_0.3.32_darwin_amd64.zip",
+          "download_url": "https://github.com/kionsoftware/terraform-provider-kion/releases/download/v0.3.32/terraform-provider-kion_0.3.32_darwin_amd64.zip",
+          "shasum": "3d2f5530aa3d2cdf10ada51fecfb140c3f62c50884ffe195439b6a60b12e64b1",
+          "h1": "h1:S5fAt1/qa4qLh0zMghHz9wdivUCl6KacAmiimPSIW3Q="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-kion_0.3.32_darwin_arm64.zip",
+          "download_url": "https://github.com/kionsoftware/terraform-provider-kion/releases/download/v0.3.32/terraform-provider-kion_0.3.32_darwin_arm64.zip",
+          "shasum": "8c7deddfd12e9d645b005012ea6975199e43477ce96f66bce1a41088936d60ba",
+          "h1": "h1:ZW7hw2X5fFyRaPhnT1vsfGh3d38UD711+SGdeRbph04="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-kion_0.3.32_freebsd_386.zip",
+          "download_url": "https://github.com/kionsoftware/terraform-provider-kion/releases/download/v0.3.32/terraform-provider-kion_0.3.32_freebsd_386.zip",
+          "shasum": "1cfd941200ac101f2a97b933bca8959db9da79b0376459f6393362017321a62b",
+          "h1": "h1:WQgYItSFpMWF3ezL+t4tCBIKQ+QCjJNIt6mEJh+mXxI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-kion_0.3.32_freebsd_amd64.zip",
+          "download_url": "https://github.com/kionsoftware/terraform-provider-kion/releases/download/v0.3.32/terraform-provider-kion_0.3.32_freebsd_amd64.zip",
+          "shasum": "38b326a080585a0a6773df010163dc9b12e4d8f5d480a53e1052822b26c2522b",
+          "h1": "h1:Yh5CYee2mWsJvG5gCI1M/ktvY06EJ7fdTvPl3Gmq/Iw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-kion_0.3.32_freebsd_arm.zip",
+          "download_url": "https://github.com/kionsoftware/terraform-provider-kion/releases/download/v0.3.32/terraform-provider-kion_0.3.32_freebsd_arm.zip",
+          "shasum": "3ec1a3976ef8966e49658cb47849e67695ccbd19dde17668985a93a16c1049de",
+          "h1": "h1:xPamhyW4/4cTB9FiUsCKyzW1ELFoPGs2OJyegOeDU4A="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-kion_0.3.32_freebsd_arm64.zip",
+          "download_url": "https://github.com/kionsoftware/terraform-provider-kion/releases/download/v0.3.32/terraform-provider-kion_0.3.32_freebsd_arm64.zip",
+          "shasum": "a0af62da1d8132537c37c9243835ee3095fe7f70a378d28a634bfdee4de20977",
+          "h1": "h1:UY66KNBFlgqvITrnBV52UMxri41Mu+c/cQsHG0vtRCM="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-kion_0.3.32_linux_386.zip",
+          "download_url": "https://github.com/kionsoftware/terraform-provider-kion/releases/download/v0.3.32/terraform-provider-kion_0.3.32_linux_386.zip",
+          "shasum": "28ef5d98d22b973bbc985a57b32fa4ed60e3a3b037eeb221aa8cf4ba952bd9a8",
+          "h1": "h1:aXbtj4Sw0U4esZN3ydfBBGjjz5yN2DhAE8e+K01XAOI="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-kion_0.3.32_linux_amd64.zip",
+          "download_url": "https://github.com/kionsoftware/terraform-provider-kion/releases/download/v0.3.32/terraform-provider-kion_0.3.32_linux_amd64.zip",
+          "shasum": "0c384d373fd9a6f89bcb96acf523c19153689187fad3a32184e0f235cc387d1e",
+          "h1": "h1:1atszGobqfgDKPo6UhQqdSDS2YzpvgnaLpW3H+qXfBo="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-kion_0.3.32_linux_arm.zip",
+          "download_url": "https://github.com/kionsoftware/terraform-provider-kion/releases/download/v0.3.32/terraform-provider-kion_0.3.32_linux_arm.zip",
+          "shasum": "753f600b768cee02d86a5e1f86497dbf6ebd01fa64174fc5c49e1c807ebf0a37",
+          "h1": "h1:2Q448D6f+cTAwKatnX9E41ngMy8Oh95cDgD5ToFny3M="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-kion_0.3.32_linux_arm64.zip",
+          "download_url": "https://github.com/kionsoftware/terraform-provider-kion/releases/download/v0.3.32/terraform-provider-kion_0.3.32_linux_arm64.zip",
+          "shasum": "f65f6fa68e7babf0cbe3d266a54be4150e854ca6dbcea31d66696c80d540a748",
+          "h1": "h1:OPaDYjCJZpoAxuJgvIH7b5WVqplB28eOZcgNsAFa9hE="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-kion_0.3.32_windows_386.zip",
+          "download_url": "https://github.com/kionsoftware/terraform-provider-kion/releases/download/v0.3.32/terraform-provider-kion_0.3.32_windows_386.zip",
+          "shasum": "44aeca291ddc3486102b1fc98c91a7ee1a96c78276f124aa013cdf67aec66157",
+          "h1": "h1:EcDbCfx6x0ueST+l+uJJiX82p8VkZ6LnNskTa6xAUWE="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-kion_0.3.32_windows_amd64.zip",
+          "download_url": "https://github.com/kionsoftware/terraform-provider-kion/releases/download/v0.3.32/terraform-provider-kion_0.3.32_windows_amd64.zip",
+          "shasum": "2e2322e6036ec19f9df3bfe38b1436fa0d281224ed967a7425e5511c8f45c814",
+          "h1": "h1:BclkygZUthYKKMoWhiTTyNII0huADpNFliVULKvRWAQ="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-kion_0.3.32_windows_arm.zip",
+          "download_url": "https://github.com/kionsoftware/terraform-provider-kion/releases/download/v0.3.32/terraform-provider-kion_0.3.32_windows_arm.zip",
+          "shasum": "8b90f2e5041645bab8f3ba8db608884a7744efba46daa2aa4848bf960d94f7e6",
+          "h1": "h1:v0YYpDR6tewCTHZ1ZviARlvmGb88LV4Tjzu9st4rfaQ="
+        }
+      ]
+    },
+    {
       "version": "0.3.31",
       "protocols": [
         "5.0"
