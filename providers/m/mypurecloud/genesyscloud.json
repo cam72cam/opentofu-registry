@@ -1,6 +1,80 @@
 {
   "versions": [
     {
+      "version": "1.76.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/mypurecloud/terraform-provider-genesyscloud/releases/download/v1.76.0/terraform-provider-genesyscloud_1.76.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/mypurecloud/terraform-provider-genesyscloud/releases/download/v1.76.0/terraform-provider-genesyscloud_1.76.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-genesyscloud_1.76.0_darwin_amd64.zip",
+          "download_url": "https://github.com/mypurecloud/terraform-provider-genesyscloud/releases/download/v1.76.0/terraform-provider-genesyscloud_1.76.0_darwin_amd64.zip",
+          "shasum": "b7cdf8377a8e85dfef256a631551280df3a0582acfd1e6577a642b5cf77b1312",
+          "h1": "h1:u+nlIco95O7xrf8MpfQZWFHngpZQH3HhVlDpGUWUus0="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-genesyscloud_1.76.0_darwin_arm64.zip",
+          "download_url": "https://github.com/mypurecloud/terraform-provider-genesyscloud/releases/download/v1.76.0/terraform-provider-genesyscloud_1.76.0_darwin_arm64.zip",
+          "shasum": "1bc8e41f8f40697fa17d007dade05b0034705f6c2b7f2e70dc770952f1225ca6",
+          "h1": "h1:yQl6jPQcMruima+bmXNMHZm6Zs8a3D46xMQ/v2rWrV0="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-genesyscloud_1.76.0_linux_386.zip",
+          "download_url": "https://github.com/mypurecloud/terraform-provider-genesyscloud/releases/download/v1.76.0/terraform-provider-genesyscloud_1.76.0_linux_386.zip",
+          "shasum": "29b9d19af4f60b79d4e09eb0fd5813eefa853917eef3fc51c02c9ff68eaf3bc1",
+          "h1": "h1:Vi2BHMwbMYs5k26jqzkW5lBNP2YvmHZ3UtYa8XWwx5w="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-genesyscloud_1.76.0_linux_amd64.zip",
+          "download_url": "https://github.com/mypurecloud/terraform-provider-genesyscloud/releases/download/v1.76.0/terraform-provider-genesyscloud_1.76.0_linux_amd64.zip",
+          "shasum": "f34979087d05361ac1e1075adda88958b058c98c467d2c3cb450e0535e3c2805",
+          "h1": "h1:FEEi3jENdJi/JU+FY8mNqi1JCAeLFFcPPBDSQ8e1uEw="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-genesyscloud_1.76.0_linux_arm.zip",
+          "download_url": "https://github.com/mypurecloud/terraform-provider-genesyscloud/releases/download/v1.76.0/terraform-provider-genesyscloud_1.76.0_linux_arm.zip",
+          "shasum": "1d40bd6487e13470f6b564600c515ee8a10044f27e458574c0db64411a8ce49c",
+          "h1": "h1:0ZUGy4fHfUBKdhRIqVn8hOktGDUhw32M9feB0+L80MM="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-genesyscloud_1.76.0_linux_arm64.zip",
+          "download_url": "https://github.com/mypurecloud/terraform-provider-genesyscloud/releases/download/v1.76.0/terraform-provider-genesyscloud_1.76.0_linux_arm64.zip",
+          "shasum": "e3d493bc50ce3cf96a4d14688829e149f0f7d909fdc15b4c7c774928c72c69e0",
+          "h1": "h1:FSJuJx0FemkcrXHrtG+DpegnTUrDWD4aUBTeT5yunFU="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-genesyscloud_1.76.0_windows_386.zip",
+          "download_url": "https://github.com/mypurecloud/terraform-provider-genesyscloud/releases/download/v1.76.0/terraform-provider-genesyscloud_1.76.0_windows_386.zip",
+          "shasum": "93ffc8a15e36a96e083bb39b19cc53c332b3737e497dee6e63f88eed499d368a",
+          "h1": "h1:mvK8MmysJt01XkjMAE9spuBxeocMEwAwEFv6e1GZDwI="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-genesyscloud_1.76.0_windows_amd64.zip",
+          "download_url": "https://github.com/mypurecloud/terraform-provider-genesyscloud/releases/download/v1.76.0/terraform-provider-genesyscloud_1.76.0_windows_amd64.zip",
+          "shasum": "b108626b524322c90309d48b374f09c81249d7f0ad8f167dab069b33e95d7537",
+          "h1": "h1:4qBJswI9MjpWyFxHJbheDEloSGFXsTjHUzjMjtEsn20="
+        }
+      ]
+    },
+    {
       "version": "1.75.1",
       "protocols": [
         "5.0"
