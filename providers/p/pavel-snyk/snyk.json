@@ -1,6 +1,120 @@
 {
   "versions": [
     {
+      "version": "1.0.0-rc6",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/pavel-snyk/terraform-provider-snyk/releases/download/v1.0.0-rc6/terraform-provider-snyk_1.0.0-rc6_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/pavel-snyk/terraform-provider-snyk/releases/download/v1.0.0-rc6/terraform-provider-snyk_1.0.0-rc6_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-snyk_1.0.0-rc6_darwin_amd64.zip",
+          "download_url": "https://github.com/pavel-snyk/terraform-provider-snyk/releases/download/v1.0.0-rc6/terraform-provider-snyk_1.0.0-rc6_darwin_amd64.zip",
+          "shasum": "b8ecdc22ae6b865b039d37ba0b1cb95ee4b319f7827084f2a1e8ae48d88bf715",
+          "h1": "h1:EMz3VlkTM2b/vOql7+0JsE94jBZPebPAHdWvt9hhy2Q="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-snyk_1.0.0-rc6_darwin_arm64.zip",
+          "download_url": "https://github.com/pavel-snyk/terraform-provider-snyk/releases/download/v1.0.0-rc6/terraform-provider-snyk_1.0.0-rc6_darwin_arm64.zip",
+          "shasum": "8cc008d05efced9dcf21edfb34a8e67e5381bff778376d3b2a289de78afd2f1d",
+          "h1": "h1:WZoEJuRGU2fJ0NXXv+31GNYfjqTXPZyHgoz/b+74o98="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-snyk_1.0.0-rc6_freebsd_386.zip",
+          "download_url": "https://github.com/pavel-snyk/terraform-provider-snyk/releases/download/v1.0.0-rc6/terraform-provider-snyk_1.0.0-rc6_freebsd_386.zip",
+          "shasum": "58e42ce1683a4482586722238deca33b4e1a1d30ad30a4ce59119e9a0e2e2ec3",
+          "h1": "h1:Ilrug09I+LAMjGZnTaRbh3N1iA5g+tRpkxIWgezfmh4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-snyk_1.0.0-rc6_freebsd_amd64.zip",
+          "download_url": "https://github.com/pavel-snyk/terraform-provider-snyk/releases/download/v1.0.0-rc6/terraform-provider-snyk_1.0.0-rc6_freebsd_amd64.zip",
+          "shasum": "f4772c7e78f74cbdf4a200ca86d1037a4ed05943761f4a8bcb1a4eaec8253687",
+          "h1": "h1:XRe4BLTEq6dsJruiPBosZdyrv/FXp1QQoIlQ16ZXZHg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-snyk_1.0.0-rc6_freebsd_arm.zip",
+          "download_url": "https://github.com/pavel-snyk/terraform-provider-snyk/releases/download/v1.0.0-rc6/terraform-provider-snyk_1.0.0-rc6_freebsd_arm.zip",
+          "shasum": "01ee463e87cf3598d5782f39bacf06f7a33bd7f57aeb276bdf974439218eab5c",
+          "h1": "h1:QKcsnE60bForJEQIQYBzk8f7+Oun6syL2PZ/HGY7Alc="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-snyk_1.0.0-rc6_freebsd_arm64.zip",
+          "download_url": "https://github.com/pavel-snyk/terraform-provider-snyk/releases/download/v1.0.0-rc6/terraform-provider-snyk_1.0.0-rc6_freebsd_arm64.zip",
+          "shasum": "db586ba5ea55ee53f22ca2cce463fbc63004da0179b6e8ebb5cec9c642ac129a",
+          "h1": "h1:7eyHVFtRV07NW+/IHUl/GGDV5umi38OtPZ5KRd0MuVI="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-snyk_1.0.0-rc6_linux_386.zip",
+          "download_url": "https://github.com/pavel-snyk/terraform-provider-snyk/releases/download/v1.0.0-rc6/terraform-provider-snyk_1.0.0-rc6_linux_386.zip",
+          "shasum": "cd19a851198db240f92c3f69aa3c29ac22ab85397df8e293942b6b530de425a5",
+          "h1": "h1:qPb4oBm50o+GErxG/SoA0piGW12OaXFwmqkdM6zJONo="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-snyk_1.0.0-rc6_linux_amd64.zip",
+          "download_url": "https://github.com/pavel-snyk/terraform-provider-snyk/releases/download/v1.0.0-rc6/terraform-provider-snyk_1.0.0-rc6_linux_amd64.zip",
+          "shasum": "f42b8ac9421719bd5149f1588d570156ffcc63199778d512ba35d6c787611907",
+          "h1": "h1:cMqbNi6Qp/OFhSItsSaD4iMLKoDgPsrwAyGFOwkrxmI="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-snyk_1.0.0-rc6_linux_arm.zip",
+          "download_url": "https://github.com/pavel-snyk/terraform-provider-snyk/releases/download/v1.0.0-rc6/terraform-provider-snyk_1.0.0-rc6_linux_arm.zip",
+          "shasum": "49dba9173406658219e576e0355018f88fb3b94001269816e7f8f0a217ef2752",
+          "h1": "h1:erZDWF43DhDJAGlL3z6a0POFYb+fSRYxA/WwBI+nMEw="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-snyk_1.0.0-rc6_linux_arm64.zip",
+          "download_url": "https://github.com/pavel-snyk/terraform-provider-snyk/releases/download/v1.0.0-rc6/terraform-provider-snyk_1.0.0-rc6_linux_arm64.zip",
+          "shasum": "58589f7efea467f567b81af66df165050641e67eedf21541948633b41eeef1b2",
+          "h1": "h1:GJ/ky0/vK88rtjiaPn3rKC3fmjm6xcoFbZ6UE1VHTyQ="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-snyk_1.0.0-rc6_windows_386.zip",
+          "download_url": "https://github.com/pavel-snyk/terraform-provider-snyk/releases/download/v1.0.0-rc6/terraform-provider-snyk_1.0.0-rc6_windows_386.zip",
+          "shasum": "2a7c08fba79c807c68000a60f1bc21f060aae09a2e777b05e127e45c9fefebd6",
+          "h1": "h1:s5xUeGJIP6i8j/jVdiIC4Bargc9OmA2CP+hG4HlJDro="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-snyk_1.0.0-rc6_windows_amd64.zip",
+          "download_url": "https://github.com/pavel-snyk/terraform-provider-snyk/releases/download/v1.0.0-rc6/terraform-provider-snyk_1.0.0-rc6_windows_amd64.zip",
+          "shasum": "e1ea8036a00267d721cadd4aa75403232ad64c27aa4931ed4b946d5b6ac27714",
+          "h1": "h1:tGWZo5jdflxSnij23Zof8rDD1XABPWObLJgwec2W8L8="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-snyk_1.0.0-rc6_windows_arm64.zip",
+          "download_url": "https://github.com/pavel-snyk/terraform-provider-snyk/releases/download/v1.0.0-rc6/terraform-provider-snyk_1.0.0-rc6_windows_arm64.zip",
+          "shasum": "8819f1e3d4536b8b1f69f4d4c08799d42bee09101b91a532a4ed29318b5ddc67",
+          "h1": "h1:Z0R8aMWsnlqGLe3ZaiC8ap6YV5YuTfh1XLwQuko2bpA="
+        }
+      ]
+    },
+    {
       "version": "1.0.0-rc5",
       "protocols": [
         "6.0"
