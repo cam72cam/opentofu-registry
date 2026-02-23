@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.9.0-alpha1",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/clickhouse/terraform-provider-clickhousedbops/releases/download/v1.9.0-alpha1/terraform-provider-clickhousedbops_1.9.0-alpha1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/clickhouse/terraform-provider-clickhousedbops/releases/download/v1.9.0-alpha1/terraform-provider-clickhousedbops_1.9.0-alpha1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-clickhousedbops_1.9.0-alpha1_darwin_amd64.zip",
+          "download_url": "https://github.com/clickhouse/terraform-provider-clickhousedbops/releases/download/v1.9.0-alpha1/terraform-provider-clickhousedbops_1.9.0-alpha1_darwin_amd64.zip",
+          "shasum": "3717deaabe5ca294a38f7a296ff949a174b0722b893b21c62571e99a8cd0d089",
+          "h1": "h1:tluel+K4NdoFGFky4IHYZ1xdFRDtuLcGimwhn9jDbJw="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-clickhousedbops_1.9.0-alpha1_darwin_arm64.zip",
+          "download_url": "https://github.com/clickhouse/terraform-provider-clickhousedbops/releases/download/v1.9.0-alpha1/terraform-provider-clickhousedbops_1.9.0-alpha1_darwin_arm64.zip",
+          "shasum": "eef48ff58df5f97a228cb0a334ae13e13062dc2602d5a52fa3d5818e679ea5f0",
+          "h1": "h1:dTLTFGpt+fdLJWCcS8bNPuU3r11IsT704wSV738yANQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-clickhousedbops_1.9.0-alpha1_freebsd_386.zip",
+          "download_url": "https://github.com/clickhouse/terraform-provider-clickhousedbops/releases/download/v1.9.0-alpha1/terraform-provider-clickhousedbops_1.9.0-alpha1_freebsd_386.zip",
+          "shasum": "0184cff051f720926d9f1788a7eb870f3731e193bfe64f67358ee0a0979d45f5",
+          "h1": "h1:w9YK30MdJWeXQdp9v4e2VQZ0Bx9C9dByhZEEbh6s3ws="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-clickhousedbops_1.9.0-alpha1_freebsd_amd64.zip",
+          "download_url": "https://github.com/clickhouse/terraform-provider-clickhousedbops/releases/download/v1.9.0-alpha1/terraform-provider-clickhousedbops_1.9.0-alpha1_freebsd_amd64.zip",
+          "shasum": "36f6739d6d756227c63cd4705f67f2a6aa128caf2c887d273ed5b679f04b38db",
+          "h1": "h1:57CzeglMRYN5qpgKYdjvlxbcsmNOc6BP9ZhyC8lsihg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-clickhousedbops_1.9.0-alpha1_freebsd_arm.zip",
+          "download_url": "https://github.com/clickhouse/terraform-provider-clickhousedbops/releases/download/v1.9.0-alpha1/terraform-provider-clickhousedbops_1.9.0-alpha1_freebsd_arm.zip",
+          "shasum": "1bc2174195ee3d28714981faa083279cfaf678152d4c129737f2c85ad07fc0c5",
+          "h1": "h1:Zbk3R8KtZsFNJoqICCdbUjbeXEDzje2KXrHjzbtB7ds="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-clickhousedbops_1.9.0-alpha1_freebsd_arm64.zip",
+          "download_url": "https://github.com/clickhouse/terraform-provider-clickhousedbops/releases/download/v1.9.0-alpha1/terraform-provider-clickhousedbops_1.9.0-alpha1_freebsd_arm64.zip",
+          "shasum": "b13e7f99ba23a932b198f4806a87e81f17fa33a3d5c70cfb5f905282b986a357",
+          "h1": "h1:u7yTFrgAvbWd253CuNMy9WjrjD4SYJaziVIDKumGaGo="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-clickhousedbops_1.9.0-alpha1_linux_386.zip",
+          "download_url": "https://github.com/clickhouse/terraform-provider-clickhousedbops/releases/download/v1.9.0-alpha1/terraform-provider-clickhousedbops_1.9.0-alpha1_linux_386.zip",
+          "shasum": "5586f8555072a8ec21f02ea9462238bafe08e2eb6a63b8648dce43446e99faf0",
+          "h1": "h1:rtP7WwRrCYaIeS+lESR6LVxBO4gkXgOHWW91EFeuivE="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-clickhousedbops_1.9.0-alpha1_linux_amd64.zip",
+          "download_url": "https://github.com/clickhouse/terraform-provider-clickhousedbops/releases/download/v1.9.0-alpha1/terraform-provider-clickhousedbops_1.9.0-alpha1_linux_amd64.zip",
+          "shasum": "e531d3126363baa263eda3f7666b412866a4be6f5973d89723e47485e48c79cb",
+          "h1": "h1:wBN9um8/eccf/u7gj0Lb/5Q1wGasK0eossOiE2oHTqk="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-clickhousedbops_1.9.0-alpha1_linux_arm.zip",
+          "download_url": "https://github.com/clickhouse/terraform-provider-clickhousedbops/releases/download/v1.9.0-alpha1/terraform-provider-clickhousedbops_1.9.0-alpha1_linux_arm.zip",
+          "shasum": "9667d73c90abba750e649b4f29a4887b353b3df6e8b5192a6e77aa3a2d5f8752",
+          "h1": "h1:ky3G2hr/Y0nah/PV8m4LsxR9bafzGBy2jUtqPsgpvA4="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-clickhousedbops_1.9.0-alpha1_linux_arm64.zip",
+          "download_url": "https://github.com/clickhouse/terraform-provider-clickhousedbops/releases/download/v1.9.0-alpha1/terraform-provider-clickhousedbops_1.9.0-alpha1_linux_arm64.zip",
+          "shasum": "f0ae36dfb7aa9e560de5209ab5e451635932ea47910f35ed492bcb0446afe709",
+          "h1": "h1:XIMiyVodNVBVfptCiNtQH8UL5e5LB5DSOqbDu6kh8nE="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-clickhousedbops_1.9.0-alpha1_windows_386.zip",
+          "download_url": "https://github.com/clickhouse/terraform-provider-clickhousedbops/releases/download/v1.9.0-alpha1/terraform-provider-clickhousedbops_1.9.0-alpha1_windows_386.zip",
+          "shasum": "e0376f950e4beb9ec130ae87d3cbbf809ddd38e1bb820584051f25e3e20b6d61",
+          "h1": "h1:6zGz7FyKe98lMPdMZ/G9IGxjmz/MVA2FBLzR2iQmQJk="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-clickhousedbops_1.9.0-alpha1_windows_amd64.zip",
+          "download_url": "https://github.com/clickhouse/terraform-provider-clickhousedbops/releases/download/v1.9.0-alpha1/terraform-provider-clickhousedbops_1.9.0-alpha1_windows_amd64.zip",
+          "shasum": "1c377f672b3404276e05abb5186ce0d79d8bfdf3edc3f799b2b46e6f88fc5f75",
+          "h1": "h1:sHmQ2AY6XhEY7kGsWNc14Re9X+Ycz4MRto0EZN5rNZg="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-clickhousedbops_1.9.0-alpha1_windows_arm.zip",
+          "download_url": "https://github.com/clickhouse/terraform-provider-clickhousedbops/releases/download/v1.9.0-alpha1/terraform-provider-clickhousedbops_1.9.0-alpha1_windows_arm.zip",
+          "shasum": "164c3214882ed96f23d93f09b59477c6f25f2a95e0131316f58b9d1819d4df2b",
+          "h1": "h1:HKc9ynNmYbjQGn4l1h8W/a3r/AID1b/FvpufgCwigdI="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-clickhousedbops_1.9.0-alpha1_windows_arm64.zip",
+          "download_url": "https://github.com/clickhouse/terraform-provider-clickhousedbops/releases/download/v1.9.0-alpha1/terraform-provider-clickhousedbops_1.9.0-alpha1_windows_arm64.zip",
+          "shasum": "46dc103115e605fad2d7fd22d60a791d832b8859f041b9d80668608510482af8",
+          "h1": "h1:FyLccgJfff/JEFqYWzff0/MxtNFKBrI7PbS4N5EXSEc="
+        }
+      ]
+    },
+    {
       "version": "1.8.0",
       "protocols": [
         "6.0"
