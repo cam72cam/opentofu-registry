@@ -1,6 +1,120 @@
 {
   "versions": [
     {
+      "version": "0.36.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/marshallford/terraform-provider-ansible/releases/download/v0.36.0/terraform-provider-ansible_0.36.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/marshallford/terraform-provider-ansible/releases/download/v0.36.0/terraform-provider-ansible_0.36.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-ansible_0.36.0_darwin_amd64.zip",
+          "download_url": "https://github.com/marshallford/terraform-provider-ansible/releases/download/v0.36.0/terraform-provider-ansible_0.36.0_darwin_amd64.zip",
+          "shasum": "b7234ab3777ac89aaf2738d2c2ecb3a8c4c6cef0d199297f5bb3f39dc2a5c526",
+          "h1": "h1:yeJLlUQi1D7nqt+2unAtrcZDpQCtSF4YItVQ0TpVJXo="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-ansible_0.36.0_darwin_arm64.zip",
+          "download_url": "https://github.com/marshallford/terraform-provider-ansible/releases/download/v0.36.0/terraform-provider-ansible_0.36.0_darwin_arm64.zip",
+          "shasum": "ab8c6b547d062da46c081fc275057b4cb01347c82d22d7fa935206b6aac10362",
+          "h1": "h1:DzoErqp0/HTL3Af0UTnWPRkh8ICxyxNLFuw8N05pOq0="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-ansible_0.36.0_freebsd_386.zip",
+          "download_url": "https://github.com/marshallford/terraform-provider-ansible/releases/download/v0.36.0/terraform-provider-ansible_0.36.0_freebsd_386.zip",
+          "shasum": "6f48d880add1325b1dda146494935c184d713314806f65af0222d55e7762eb5a",
+          "h1": "h1:4lf4HPXr+nj8SG02tYx8pW33ZH0XorgoqoCASBS3hPE="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-ansible_0.36.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/marshallford/terraform-provider-ansible/releases/download/v0.36.0/terraform-provider-ansible_0.36.0_freebsd_amd64.zip",
+          "shasum": "3e3a78072d22ed0616719a564f8aa4ba3e595debca9bd735f6c00530abe4e246",
+          "h1": "h1:o3uU0+uhfPWlsZmpWcnzFa9NhoxScICld3y2ezwi1og="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-ansible_0.36.0_freebsd_arm.zip",
+          "download_url": "https://github.com/marshallford/terraform-provider-ansible/releases/download/v0.36.0/terraform-provider-ansible_0.36.0_freebsd_arm.zip",
+          "shasum": "2c16026e03bbc3b721b520fb47905593c8d5d69b5e4ea1ddc8905068a25c675c",
+          "h1": "h1:5Uzsz7fJHY8CuVJI6VJyIb+PZg5IQKsd3Q5zj7e2EIM="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-ansible_0.36.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/marshallford/terraform-provider-ansible/releases/download/v0.36.0/terraform-provider-ansible_0.36.0_freebsd_arm64.zip",
+          "shasum": "7b58133b0412fc9798f691ab53e5ea3e3c9442b355618d796cfda494b86dbc7e",
+          "h1": "h1:GZ9ZTqk+DjxeuVDcxU5cagdMPDNtTtNGmqVeiSLtyXE="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-ansible_0.36.0_linux_386.zip",
+          "download_url": "https://github.com/marshallford/terraform-provider-ansible/releases/download/v0.36.0/terraform-provider-ansible_0.36.0_linux_386.zip",
+          "shasum": "658bca01835ecd0ee2870531f7af5e7ecdc664c45760932724fcd8cf0c265a13",
+          "h1": "h1:10qPz+bInqoVvyLsqjV3TDg9nlDHfJnR2HqPxQonzm8="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-ansible_0.36.0_linux_amd64.zip",
+          "download_url": "https://github.com/marshallford/terraform-provider-ansible/releases/download/v0.36.0/terraform-provider-ansible_0.36.0_linux_amd64.zip",
+          "shasum": "c7f2cb6b9bb5a1a60fb0eecc4e6ce7ba2e67c61192e51bf0c8852467181599f2",
+          "h1": "h1:kl0JW3UORJyvZkyGCkrfK2cQhNwrcTXwjiUcPpFOkAA="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-ansible_0.36.0_linux_arm.zip",
+          "download_url": "https://github.com/marshallford/terraform-provider-ansible/releases/download/v0.36.0/terraform-provider-ansible_0.36.0_linux_arm.zip",
+          "shasum": "98e5a5de039d8fb9f73a3d85cbd713ce78a6becf1603b3c505e89a89dc0aff90",
+          "h1": "h1:7KK3n6g4cfGB1A8V0Asa9z5MntmsV6ahYhpUUtdUf8w="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-ansible_0.36.0_linux_arm64.zip",
+          "download_url": "https://github.com/marshallford/terraform-provider-ansible/releases/download/v0.36.0/terraform-provider-ansible_0.36.0_linux_arm64.zip",
+          "shasum": "ed6b2e76b80e6f6925e8a8a5582e9898e8be0f3a45306405e5afad129e0d1837",
+          "h1": "h1:L0MI2ncrrqLuBaIixzdfVjtSZKBvuaYfSE9xaN9VHak="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-ansible_0.36.0_windows_386.zip",
+          "download_url": "https://github.com/marshallford/terraform-provider-ansible/releases/download/v0.36.0/terraform-provider-ansible_0.36.0_windows_386.zip",
+          "shasum": "cb370bb05d540fa9b10e272a2dcea52098d3c4c5333d7da84cbaa368867f507d",
+          "h1": "h1:J7arWAZ9zjb7nkv5xbve8jqkn7jYjdjopaZX9TFhg+U="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-ansible_0.36.0_windows_amd64.zip",
+          "download_url": "https://github.com/marshallford/terraform-provider-ansible/releases/download/v0.36.0/terraform-provider-ansible_0.36.0_windows_amd64.zip",
+          "shasum": "8eda210ae9e785eb3409a56f831b7e55f4085080b9a14749b866bfab763ee126",
+          "h1": "h1:uF3Grvvor9zatypSfxvfyc8LjsDIlBCMjIxc7oMIoRM="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-ansible_0.36.0_windows_arm64.zip",
+          "download_url": "https://github.com/marshallford/terraform-provider-ansible/releases/download/v0.36.0/terraform-provider-ansible_0.36.0_windows_arm64.zip",
+          "shasum": "ebd3d4fbf738430f23248c7c9bfc83a823de27cee96c395d119a9b26bad3bbed",
+          "h1": "h1:syi5I11dS5T1sLLBCllgWPqJWepSDZfWxhTLkjYxjS8="
+        }
+      ]
+    },
+    {
       "version": "0.35.0",
       "protocols": [
         "6.0"
