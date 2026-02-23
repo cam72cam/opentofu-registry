@@ -1,6 +1,112 @@
 {
   "versions": [
     {
+      "version": "6.0.0-alpha",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/syseleven/terraform-provider-metakube/releases/download/v6.0.0-alpha/terraform-provider-metakube_6.0.0-alpha_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/syseleven/terraform-provider-metakube/releases/download/v6.0.0-alpha/terraform-provider-metakube_6.0.0-alpha_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-metakube_6.0.0-alpha_darwin_amd64.zip",
+          "download_url": "https://github.com/syseleven/terraform-provider-metakube/releases/download/v6.0.0-alpha/terraform-provider-metakube_6.0.0-alpha_darwin_amd64.zip",
+          "shasum": "c58f4669ff47dddfd47ba028172205c53ea848f6102b223e141e68883e3e134d",
+          "h1": "h1:dQ3ieQ3taxKEi0x9fssWsP/j7Fj10NsbF+c9Wc9dOcc="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-metakube_6.0.0-alpha_darwin_arm64.zip",
+          "download_url": "https://github.com/syseleven/terraform-provider-metakube/releases/download/v6.0.0-alpha/terraform-provider-metakube_6.0.0-alpha_darwin_arm64.zip",
+          "shasum": "46ffaac658f62c913d94e21860e5953c06abedf4c8c27a7f76eab5ea4632d2c7",
+          "h1": "h1:1QUUNZZAR8EeLVnG/FCpUkerKFoUUN1bkdx4fam5ing="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-metakube_6.0.0-alpha_freebsd_386.zip",
+          "download_url": "https://github.com/syseleven/terraform-provider-metakube/releases/download/v6.0.0-alpha/terraform-provider-metakube_6.0.0-alpha_freebsd_386.zip",
+          "shasum": "5d332b465f25269709cdb51a1102c064319647be567268812d1099897ea74de6",
+          "h1": "h1:LU12YzgKReL1GvTbcPO+fQGP1SiBDt3XpBO3Y++pLLw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-metakube_6.0.0-alpha_freebsd_amd64.zip",
+          "download_url": "https://github.com/syseleven/terraform-provider-metakube/releases/download/v6.0.0-alpha/terraform-provider-metakube_6.0.0-alpha_freebsd_amd64.zip",
+          "shasum": "44c01c7bf5a3a90c064759b28d871b7bb567ce46470a17e2b1890379fd3c4a92",
+          "h1": "h1:EdVswqwP6iyQKSdAcDfZvdaLi9xR3BX/KBsag6Gww/Q="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-metakube_6.0.0-alpha_freebsd_arm.zip",
+          "download_url": "https://github.com/syseleven/terraform-provider-metakube/releases/download/v6.0.0-alpha/terraform-provider-metakube_6.0.0-alpha_freebsd_arm.zip",
+          "shasum": "e125305770d7f354f5cf35534b3fa10e9fdbb9d7c347deea2a7c82508d9111ba",
+          "h1": "h1:W090jEr4yRbW3adi2DXdSHTJt0mzgG5rObswuzB5jKg="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-metakube_6.0.0-alpha_linux_386.zip",
+          "download_url": "https://github.com/syseleven/terraform-provider-metakube/releases/download/v6.0.0-alpha/terraform-provider-metakube_6.0.0-alpha_linux_386.zip",
+          "shasum": "39b92d202949924ced33813b121140c96e7aabf761ddd6df3826fe23c37306a3",
+          "h1": "h1:XEFkLfKUky0dnc2DRHF67aSThsKTX2h6bc80O6H2F0I="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-metakube_6.0.0-alpha_linux_amd64.zip",
+          "download_url": "https://github.com/syseleven/terraform-provider-metakube/releases/download/v6.0.0-alpha/terraform-provider-metakube_6.0.0-alpha_linux_amd64.zip",
+          "shasum": "1027c4112ffc4e38b204087a74801ffdcf1f715a5cfcce30c1d72aa1fd485eb9",
+          "h1": "h1:fQsq5VJeyfArfCehtxReynGCnM1Koi3nw2PM8FnTVOw="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-metakube_6.0.0-alpha_linux_arm.zip",
+          "download_url": "https://github.com/syseleven/terraform-provider-metakube/releases/download/v6.0.0-alpha/terraform-provider-metakube_6.0.0-alpha_linux_arm.zip",
+          "shasum": "9dad368086e72987b4533c9eca1e3e64f2dc7ccafb8cd7396fcf4529486e42fb",
+          "h1": "h1:s03CkH+1z64jSwiPZetnkfHlWWWqpPmUkj3bUICIQcg="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-metakube_6.0.0-alpha_linux_arm64.zip",
+          "download_url": "https://github.com/syseleven/terraform-provider-metakube/releases/download/v6.0.0-alpha/terraform-provider-metakube_6.0.0-alpha_linux_arm64.zip",
+          "shasum": "c97ddc6376100cc3d3e11ecacf7fb13d055a4a35ea3b5be2f68fce73487ebedc",
+          "h1": "h1:yYW0d3HBmC41JGGGOnA36n/fQao0b8Rp45rTirJruCU="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-metakube_6.0.0-alpha_windows_386.zip",
+          "download_url": "https://github.com/syseleven/terraform-provider-metakube/releases/download/v6.0.0-alpha/terraform-provider-metakube_6.0.0-alpha_windows_386.zip",
+          "shasum": "6e57c042f86b69f48a6ac2da00adc0fa9aa1378ca42be875c94d3f114e16ed0c",
+          "h1": "h1:N9LYLX6nh4vPvPOfLvBshbkD9tCQjnj5Ak8DjjuXWWc="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-metakube_6.0.0-alpha_windows_amd64.zip",
+          "download_url": "https://github.com/syseleven/terraform-provider-metakube/releases/download/v6.0.0-alpha/terraform-provider-metakube_6.0.0-alpha_windows_amd64.zip",
+          "shasum": "6c0ea1b449c9c7502221ecd2083d828763e539b59e94890b8a84c31cf169b429",
+          "h1": "h1:g4AGCIzenNlJ8Qtb2jQhnwalkxBNMj5RbX9y95iNofM="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-metakube_6.0.0-alpha_windows_arm.zip",
+          "download_url": "https://github.com/syseleven/terraform-provider-metakube/releases/download/v6.0.0-alpha/terraform-provider-metakube_6.0.0-alpha_windows_arm.zip",
+          "shasum": "804b52be5f77573284a63b9c30ab28e77598b539739862cab4bf9ce9a0a80e25",
+          "h1": "h1:2rK+oxQKWu1scKSVhu1CW9oKaim2KZQD9OYtEbKrZO4="
+        }
+      ]
+    },
+    {
       "version": "5.5.2",
       "protocols": [
         "5.0"
