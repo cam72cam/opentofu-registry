@@ -1,6 +1,104 @@
 {
   "versions": [
     {
+      "version": "2.0.1",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/nvidia/terraform-provider-mcahr/releases/download/v2.0.1/terraform-provider-mcahr_2.0.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/nvidia/terraform-provider-mcahr/releases/download/v2.0.1/terraform-provider-mcahr_2.0.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-mcahr_2.0.1_darwin_amd64.zip",
+          "download_url": "https://github.com/nvidia/terraform-provider-mcahr/releases/download/v2.0.1/terraform-provider-mcahr_2.0.1_darwin_amd64.zip",
+          "shasum": "03a3a92faf8621f034a77cdeeb5100a52638f54b68c4fe337678565d6eb92b82",
+          "h1": "h1:Pz5ScTl9lQMmAzySrTbTfawL5mpZ5nPJZiT2Ip4m504="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-mcahr_2.0.1_darwin_arm64.zip",
+          "download_url": "https://github.com/nvidia/terraform-provider-mcahr/releases/download/v2.0.1/terraform-provider-mcahr_2.0.1_darwin_arm64.zip",
+          "shasum": "0a63c2dbc26b9bba4d599a7a154b6c4fc45736900a570000bc802e84e9a2914f",
+          "h1": "h1:HVongjVMUIHpiEbIfiQ1k/RqMWIfd3HTbvi19tE6mmQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-mcahr_2.0.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/nvidia/terraform-provider-mcahr/releases/download/v2.0.1/terraform-provider-mcahr_2.0.1_freebsd_amd64.zip",
+          "shasum": "b5ca474f3a6bef637936e0b605c03c7d2897c9956243fd92771773fdc148a6d4",
+          "h1": "h1:mmxZoy3qwdos7EDTOKhqVR2aEIQCzWxiKvRxdaYLeaQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-mcahr_2.0.1_freebsd_arm.zip",
+          "download_url": "https://github.com/nvidia/terraform-provider-mcahr/releases/download/v2.0.1/terraform-provider-mcahr_2.0.1_freebsd_arm.zip",
+          "shasum": "d64aeaa7e59eac1cef2b85fdd25f91d317c1e32cb5554f50fb713a27da251ae9",
+          "h1": "h1:/LcvKQRokjTWrNW6nHLOTKXVpN9sMojII8WjFPoDG2s="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-mcahr_2.0.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/nvidia/terraform-provider-mcahr/releases/download/v2.0.1/terraform-provider-mcahr_2.0.1_freebsd_arm64.zip",
+          "shasum": "5f2c5b5a1e0d2df2f613da3598cbac043c65efff1da2e1d961a86e80682fb824",
+          "h1": "h1:K6mV9NuuMH/kNOE/qwPwdqlMLciEpmq4XjxFV1yoNiw="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-mcahr_2.0.1_linux_amd64.zip",
+          "download_url": "https://github.com/nvidia/terraform-provider-mcahr/releases/download/v2.0.1/terraform-provider-mcahr_2.0.1_linux_amd64.zip",
+          "shasum": "958548b4c4c35254be2e5ca94d0ad488b461c8b6907c0ba70403f557f1f55c2d",
+          "h1": "h1:Ow+ELDvuPQVcGNF7h1gyLlh2txu5NnDh7tAqyQnwmog="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-mcahr_2.0.1_linux_arm.zip",
+          "download_url": "https://github.com/nvidia/terraform-provider-mcahr/releases/download/v2.0.1/terraform-provider-mcahr_2.0.1_linux_arm.zip",
+          "shasum": "a8f3fe30056448f27ab57cd3a2d27e130f2fd9c71b4ad89e619325621ced5563",
+          "h1": "h1:5+hhGAkiTqsVpTPBLwd2h7OZHr706XHrQpHpcBSgfMI="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-mcahr_2.0.1_linux_arm64.zip",
+          "download_url": "https://github.com/nvidia/terraform-provider-mcahr/releases/download/v2.0.1/terraform-provider-mcahr_2.0.1_linux_arm64.zip",
+          "shasum": "f2fb5f88761f0c910efa01a78b231774afc5108cdce4b477006cc0231a6e5e6b",
+          "h1": "h1:5b6YPUoAQ5XWkqyrRfSlvSVWCmudgGQR3OcNCnWrAI8="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-mcahr_2.0.1_windows_amd64.zip",
+          "download_url": "https://github.com/nvidia/terraform-provider-mcahr/releases/download/v2.0.1/terraform-provider-mcahr_2.0.1_windows_amd64.zip",
+          "shasum": "e889cd7e075b5cbb813e32165c88936aa91e77a7c2ea81ef175931be376d82e0",
+          "h1": "h1:7FvFzs0DrjxlsWbDXEFwJuJag07rBqyMLS3i2ezIEF0="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-mcahr_2.0.1_windows_arm.zip",
+          "download_url": "https://github.com/nvidia/terraform-provider-mcahr/releases/download/v2.0.1/terraform-provider-mcahr_2.0.1_windows_arm.zip",
+          "shasum": "22caedf11f94f674f6eb1c5a243bda3b12e4c7fdbe4b67b2d4083d1f0ed074f4",
+          "h1": "h1:IbV16mb2uGlJpPwJW1NUzBxB+wlTyUqnBrvGa7+P1XE="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-mcahr_2.0.1_windows_arm64.zip",
+          "download_url": "https://github.com/nvidia/terraform-provider-mcahr/releases/download/v2.0.1/terraform-provider-mcahr_2.0.1_windows_arm64.zip",
+          "shasum": "eb81e8ffeac41b2d655e2df84e0d6be25bf4da3f15c5db1b07634a031ab4a604",
+          "h1": "h1:BBUglRwZCORGm/gUfVbIAnO071yadw5PFCqWkTULmIQ="
+        }
+      ]
+    },
+    {
       "version": "2.0.0",
       "protocols": [
         "5.0"
