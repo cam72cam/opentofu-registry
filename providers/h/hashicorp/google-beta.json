@@ -1,6 +1,88 @@
 {
   "versions": [
     {
+      "version": "7.21.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/opentofu/terraform-provider-google-beta/releases/download/v7.21.0/terraform-provider-google-beta_7.21.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/opentofu/terraform-provider-google-beta/releases/download/v7.21.0/terraform-provider-google-beta_7.21.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-google-beta_7.21.0_darwin_amd64.zip",
+          "download_url": "https://github.com/opentofu/terraform-provider-google-beta/releases/download/v7.21.0/terraform-provider-google-beta_7.21.0_darwin_amd64.zip",
+          "shasum": "222c811bf1d5513a5299fc2defd7bdd08c44284edeea103cf70532837703c041",
+          "h1": "h1:ssp8sYkFLDKAaCg8Q7DEbXJkDSDxLkG2XVpJJ32Il7o="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-google-beta_7.21.0_darwin_arm64.zip",
+          "download_url": "https://github.com/opentofu/terraform-provider-google-beta/releases/download/v7.21.0/terraform-provider-google-beta_7.21.0_darwin_arm64.zip",
+          "shasum": "2a3115bac4a098252df38285870471626d609a20c56b29f999ffe7137aaa387d",
+          "h1": "h1:5MI0OfH7KnqeiTl9nQQLPLhvNefplQJ7mkXz4fdQyV4="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-google-beta_7.21.0_linux_386.zip",
+          "download_url": "https://github.com/opentofu/terraform-provider-google-beta/releases/download/v7.21.0/terraform-provider-google-beta_7.21.0_linux_386.zip",
+          "shasum": "c24d2f62bf0149817a0bf76023829171ecda335f4d6a379192367fa058219512",
+          "h1": "h1:b8NgGC6zcYpLjkbTcI5N+7MSJgGInV+TzU6o/4I2cOE="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-google-beta_7.21.0_linux_amd64.zip",
+          "download_url": "https://github.com/opentofu/terraform-provider-google-beta/releases/download/v7.21.0/terraform-provider-google-beta_7.21.0_linux_amd64.zip",
+          "shasum": "703836b8e6fd0fe2ecdcb5557d7c29a0d2706a91c125065c8347b78d012d8f83",
+          "h1": "h1:yvk3iIVqvUcmGClD72DmPaPguaUWt6KoYgwA0lvuePs="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-google-beta_7.21.0_linux_arm.zip",
+          "download_url": "https://github.com/opentofu/terraform-provider-google-beta/releases/download/v7.21.0/terraform-provider-google-beta_7.21.0_linux_arm.zip",
+          "shasum": "c82a9b13b03ad418cb4672923cc3219e8ccc81e90e1a3928a5fbf0b0b05eb7a5",
+          "h1": "h1:uOMtVbX2wqlZyKNm6lHrlhYpZB+x5kb4JpYwNd8yZAw="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-google-beta_7.21.0_linux_arm64.zip",
+          "download_url": "https://github.com/opentofu/terraform-provider-google-beta/releases/download/v7.21.0/terraform-provider-google-beta_7.21.0_linux_arm64.zip",
+          "shasum": "7fa8312c6b52ee12304964fcf2f6adffd5320c7fc84cb3545a45e3795dc4e8a9",
+          "h1": "h1:/bNl94rwHQhRupETt95jTNW9bLpZXfTzWJdTPNtqiLM="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-google-beta_7.21.0_windows_386.zip",
+          "download_url": "https://github.com/opentofu/terraform-provider-google-beta/releases/download/v7.21.0/terraform-provider-google-beta_7.21.0_windows_386.zip",
+          "shasum": "ae99e4fe32ff1f96039d1b6758d6f9f18affa0dc114772c072a2b21d15005f45",
+          "h1": "h1:PwLLVJ3T1J8RvDNtt5kT6lFZx5IU+dEM60k87ox9at0="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-google-beta_7.21.0_windows_amd64.zip",
+          "download_url": "https://github.com/opentofu/terraform-provider-google-beta/releases/download/v7.21.0/terraform-provider-google-beta_7.21.0_windows_amd64.zip",
+          "shasum": "8b3a090fa28ad2d192af45484ff92f532ec0b0da31fa2b3d05a8aed8e7e65f1d",
+          "h1": "h1:yx2zLCbVjBa4G2QAkwMy8ZNwHI1URu6HQ66y9jDm/m4="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-google-beta_7.21.0_windows_arm64.zip",
+          "download_url": "https://github.com/opentofu/terraform-provider-google-beta/releases/download/v7.21.0/terraform-provider-google-beta_7.21.0_windows_arm64.zip",
+          "shasum": "5696ef380e8c1bc5a701aeb4e4db520b71a79e08acdacf130fef3abd16be8980",
+          "h1": "h1:4ihEYCKdZxuudktJo/6OOnwFs0ED6Y3Ah6h8pIs95a8="
+        }
+      ]
+    },
+    {
       "version": "7.20.0",
       "protocols": [
         "5.0"
