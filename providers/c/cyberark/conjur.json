@@ -1,6 +1,64 @@
 {
   "versions": [
     {
+      "version": "0.8.3",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/cyberark/terraform-provider-conjur/releases/download/v0.8.3/terraform-provider-conjur_0.8.3_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/cyberark/terraform-provider-conjur/releases/download/v0.8.3/terraform-provider-conjur_0.8.3_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-conjur_0.8.3_darwin_amd64.zip",
+          "download_url": "https://github.com/cyberark/terraform-provider-conjur/releases/download/v0.8.3/terraform-provider-conjur_0.8.3_darwin_amd64.zip",
+          "shasum": "c8dc4497f733cc87619916730774439a4571f8d674adc87db55d3b82c8a9904c",
+          "h1": "h1:EG1LccIponl/6hMXYAlhLcxRdZpZ7+HB9zb+vRSHhZk="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-conjur_0.8.3_darwin_arm64.zip",
+          "download_url": "https://github.com/cyberark/terraform-provider-conjur/releases/download/v0.8.3/terraform-provider-conjur_0.8.3_darwin_arm64.zip",
+          "shasum": "219f3a44c373b83b69aa4d96b31c0952e551b9f0e517af8824ab5378004cb3a3",
+          "h1": "h1:fHciagsQxSAj/0LvGsJi8nMxATjsR2yDSfMudNMKtvw="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-conjur_0.8.3_linux_amd64.zip",
+          "download_url": "https://github.com/cyberark/terraform-provider-conjur/releases/download/v0.8.3/terraform-provider-conjur_0.8.3_linux_amd64.zip",
+          "shasum": "84a50f19f0fb4f0fcdaccfd0aa5f1a15065d855a6cc6619c4a242fce65b2ccd4",
+          "h1": "h1:EwFryMtlzsR7B/beFaTLWKqXv6bzXsG83U7r9XhuDuw="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-conjur_0.8.3_linux_arm64.zip",
+          "download_url": "https://github.com/cyberark/terraform-provider-conjur/releases/download/v0.8.3/terraform-provider-conjur_0.8.3_linux_arm64.zip",
+          "shasum": "8230236c1120c05578b37892ae966823012245fb11bafc2685a6e64e406cb3d8",
+          "h1": "h1:qiVGWPveuDUrW53vo1SLtna3ZYrYi//p0mAjwx74mBM="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-conjur_0.8.3_windows_amd64.zip",
+          "download_url": "https://github.com/cyberark/terraform-provider-conjur/releases/download/v0.8.3/terraform-provider-conjur_0.8.3_windows_amd64.zip",
+          "shasum": "9414d85331ff709fb18604b17ba91588dc520ab2fa77aeb1b1f95609073eadce",
+          "h1": "h1:BHt7O3YendgcNEjjEd8OcnoURr4a9Wz6lNCs0mb5QzY="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-conjur_0.8.3_windows_arm64.zip",
+          "download_url": "https://github.com/cyberark/terraform-provider-conjur/releases/download/v0.8.3/terraform-provider-conjur_0.8.3_windows_arm64.zip",
+          "shasum": "4242e57c616973dfa0b672672dc8127ec2432d2761281a29e6d8ff6188fc8620",
+          "h1": "h1:khjfwNEz4bHitprVF4cI/ScAxDkSRJYqiCsVBpBR94w="
+        }
+      ]
+    },
+    {
       "version": "0.8.2",
       "protocols": [
         "5.0"
