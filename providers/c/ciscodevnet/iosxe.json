@@ -1,6 +1,120 @@
 {
   "versions": [
     {
+      "version": "0.16.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/ciscodevnet/terraform-provider-iosxe/releases/download/v0.16.0/terraform-provider-iosxe_0.16.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/ciscodevnet/terraform-provider-iosxe/releases/download/v0.16.0/terraform-provider-iosxe_0.16.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-iosxe_0.16.0_darwin_amd64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-iosxe/releases/download/v0.16.0/terraform-provider-iosxe_0.16.0_darwin_amd64.zip",
+          "shasum": "757ef59b0033bf93af104c41c393196f2e94e03f36d2dbe73cab57b4035b1481",
+          "h1": "h1:1Y2i1CydsYU+BSkFIw1Jbuegep8owy7Xo4F2zaKGt5I="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-iosxe_0.16.0_darwin_arm64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-iosxe/releases/download/v0.16.0/terraform-provider-iosxe_0.16.0_darwin_arm64.zip",
+          "shasum": "7720e3a7dd45ce20546e3b3284ba7bacc0be3d9c32eb1a93fca41a13963f9a62",
+          "h1": "h1:4j078JFTWqM5JrWPYCZB/Z9lQiKBNVcnbbKgNxmu2Ws="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-iosxe_0.16.0_freebsd_386.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-iosxe/releases/download/v0.16.0/terraform-provider-iosxe_0.16.0_freebsd_386.zip",
+          "shasum": "15ba25ee8c78f6773b1f5c08a260f170fd002c527a19096ce558a08bd16c688b",
+          "h1": "h1:1aHys+gOwz+HW77BfV6PIb9XYyTbKsRlBUAFA3YtJk4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-iosxe_0.16.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-iosxe/releases/download/v0.16.0/terraform-provider-iosxe_0.16.0_freebsd_amd64.zip",
+          "shasum": "96b5cd5c27419962d32be6541526d627851b6068d24bc58ba4cff101fa146979",
+          "h1": "h1:AX6ENg/i09hYozJq0t0cnjYyciFJmqdxZT4L8Uwyokw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-iosxe_0.16.0_freebsd_arm.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-iosxe/releases/download/v0.16.0/terraform-provider-iosxe_0.16.0_freebsd_arm.zip",
+          "shasum": "1431aac3bd83d5b831123045ee2af5d912c67f6c3f457a222b05491d509f4fa4",
+          "h1": "h1:/TR9woTCpoUeABJo5K//Z6nqE9ygtPKDjWTCUV3tFtw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-iosxe_0.16.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-iosxe/releases/download/v0.16.0/terraform-provider-iosxe_0.16.0_freebsd_arm64.zip",
+          "shasum": "7b65a72b2bab1fbcad39c556ac480edf792cc60e5f592b9f8dd1cad59fd43931",
+          "h1": "h1:A1vGNTjaE0aQmcK399IDHQQH16ECOpXqYIAvu/c2T7c="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-iosxe_0.16.0_linux_386.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-iosxe/releases/download/v0.16.0/terraform-provider-iosxe_0.16.0_linux_386.zip",
+          "shasum": "52acfdeceae876cde50fdfc689e3e0a80f2d5b7a9e5585422dd27c4a0d4a8a76",
+          "h1": "h1:yDn8sPFx27qFeI9xFSpaXcUbsdFUfE5IqLjLB5nq1gs="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-iosxe_0.16.0_linux_amd64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-iosxe/releases/download/v0.16.0/terraform-provider-iosxe_0.16.0_linux_amd64.zip",
+          "shasum": "2986a44a3aef941267a00f1fa5ed191a346bdfa20922acfe7c8f33c5c6bf880b",
+          "h1": "h1:zUY3KL43fyyQrm2gzXxE0wFho4s6DumwkwwaHgpm1OU="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-iosxe_0.16.0_linux_arm.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-iosxe/releases/download/v0.16.0/terraform-provider-iosxe_0.16.0_linux_arm.zip",
+          "shasum": "a165f2dc6be8af9d850bf18a3735774d7713ce8b926656685c5d1076fe328740",
+          "h1": "h1:hw7qtpP9vpnwTmPFgX5y89KFZUU6BbpuEaTo1DUlLPI="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-iosxe_0.16.0_linux_arm64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-iosxe/releases/download/v0.16.0/terraform-provider-iosxe_0.16.0_linux_arm64.zip",
+          "shasum": "39ca0ef679a8d60f3de8813310808f3d08ccaa22d8e006498b185af2bcfbbc9f",
+          "h1": "h1:klvPhmrpRuXY5TBQbCigyBA7iz1LvSR8GJXb/1SK8Gk="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-iosxe_0.16.0_windows_386.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-iosxe/releases/download/v0.16.0/terraform-provider-iosxe_0.16.0_windows_386.zip",
+          "shasum": "c49d2aac90ac371a8871592ce252e3f824c2af44b3eb86c466f12b2ed5c02ddb",
+          "h1": "h1:pzd0wDXQKSy9JKA6GWXekjcXyDszrJ3VVHuhUx6IVJI="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-iosxe_0.16.0_windows_amd64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-iosxe/releases/download/v0.16.0/terraform-provider-iosxe_0.16.0_windows_amd64.zip",
+          "shasum": "2d0c44816135b11b17e4f3d9720646f828be82ca0f822030a6640ffd39b30fc4",
+          "h1": "h1:1FU2SUMXrefKV8AK81zAJeQHwvYX1tRTcMfrYQofiIk="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-iosxe_0.16.0_windows_arm64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-iosxe/releases/download/v0.16.0/terraform-provider-iosxe_0.16.0_windows_arm64.zip",
+          "shasum": "d40c4a31c727f37c8a21661aa0aecb4e670f9602a9ea31f634734356e8902e21",
+          "h1": "h1:+FZhrmeIPM59h/owgsNhAQWzl25uFD45xKyKvBqV2EI="
+        }
+      ]
+    },
+    {
       "version": "0.15.0",
       "protocols": [
         "6.0"
