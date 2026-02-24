@@ -1,6 +1,64 @@
 {
   "versions": [
     {
+      "version": "1.7.4",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/observiq/terraform-provider-bindplane/releases/download/v1.7.4/terraform-provider-bindplane_1.7.4_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/observiq/terraform-provider-bindplane/releases/download/v1.7.4/terraform-provider-bindplane_1.7.4_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-bindplane_1.7.4_darwin_amd64.zip",
+          "download_url": "https://github.com/observiq/terraform-provider-bindplane/releases/download/v1.7.4/terraform-provider-bindplane_1.7.4_darwin_amd64.zip",
+          "shasum": "ec1a4c05f941dd171f70ec9b3132357f91d43f8e9a9872f291c14e66d36d917d",
+          "h1": "h1:2OLVSJzNiq3JqSR+SXHInyXgTcWMBqfcOM0TiZYKmW4="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-bindplane_1.7.4_darwin_arm64.zip",
+          "download_url": "https://github.com/observiq/terraform-provider-bindplane/releases/download/v1.7.4/terraform-provider-bindplane_1.7.4_darwin_arm64.zip",
+          "shasum": "09aed9418e8f6fd775434eedd0692a9fb13250b1cd35d7db2e9099462f711036",
+          "h1": "h1:kXhIWPLFnCx8vHO2offpIhGcN9kEE0saR695B8w78iY="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-bindplane_1.7.4_linux_amd64.zip",
+          "download_url": "https://github.com/observiq/terraform-provider-bindplane/releases/download/v1.7.4/terraform-provider-bindplane_1.7.4_linux_amd64.zip",
+          "shasum": "ff039a35893a669278bd3608afc08f062d07b337bfc3d3e105c459bb08bddcdf",
+          "h1": "h1:kF86dJ1CQb+JLXDKwOK7xKD1OhQiRUg4SXdTU0iqJVs="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-bindplane_1.7.4_linux_arm64.zip",
+          "download_url": "https://github.com/observiq/terraform-provider-bindplane/releases/download/v1.7.4/terraform-provider-bindplane_1.7.4_linux_arm64.zip",
+          "shasum": "de89061897fa31df50b82836d1eedc5b98c23d57d90af4f78e73896679ace9ce",
+          "h1": "h1:FpXrPstG4pgeGP/tHVNou54rEfXi0u433rvSzftVsbY="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-bindplane_1.7.4_windows_amd64.zip",
+          "download_url": "https://github.com/observiq/terraform-provider-bindplane/releases/download/v1.7.4/terraform-provider-bindplane_1.7.4_windows_amd64.zip",
+          "shasum": "56ccbe69c131a01920298a1992a23ce734d575a41c3556d44a65e05d5f979aa7",
+          "h1": "h1:B6zcNKy9j8UJwcEM7gqFVLmKPNwK9j2qRfxy7oKGDMo="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-bindplane_1.7.4_windows_arm64.zip",
+          "download_url": "https://github.com/observiq/terraform-provider-bindplane/releases/download/v1.7.4/terraform-provider-bindplane_1.7.4_windows_arm64.zip",
+          "shasum": "6be3cf3909d0d83800c880d3080a007656e1a83af494aaafd62f213c3d5da627",
+          "h1": "h1:u/tszmsTddJl7btW5Ges3+cenlyCQYVzGdHLc/23Kx0="
+        }
+      ]
+    },
+    {
       "version": "1.7.3",
       "protocols": [
         "5.0"
