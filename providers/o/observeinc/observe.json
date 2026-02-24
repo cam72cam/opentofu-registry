@@ -1,6 +1,56 @@
 {
   "versions": [
     {
+      "version": "0.14.51",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/observeinc/terraform-provider-observe/releases/download/v0.14.51/terraform-provider-observe_0.14.51_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/observeinc/terraform-provider-observe/releases/download/v0.14.51/terraform-provider-observe_0.14.51_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-observe_0.14.51_darwin_amd64.zip",
+          "download_url": "https://github.com/observeinc/terraform-provider-observe/releases/download/v0.14.51/terraform-provider-observe_0.14.51_darwin_amd64.zip",
+          "shasum": "84ed81360403802d39296a31225ed189f0ea8f76782d411f9435c4657839f41f",
+          "h1": "h1:8hvdUVpntRl2YYzpSiSxy03ZgZfmU6zfFQt9ZPg5ECw="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-observe_0.14.51_darwin_arm64.zip",
+          "download_url": "https://github.com/observeinc/terraform-provider-observe/releases/download/v0.14.51/terraform-provider-observe_0.14.51_darwin_arm64.zip",
+          "shasum": "f9ce85ccec46a79ea65af2b9c14dd56dbbe201caa60743a84bab923cf00423ee",
+          "h1": "h1:iqLU5JlFkEfNVpRyVDeXnm6rtjnpavZMdeeJ3MVsNYE="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-observe_0.14.51_linux_amd64.zip",
+          "download_url": "https://github.com/observeinc/terraform-provider-observe/releases/download/v0.14.51/terraform-provider-observe_0.14.51_linux_amd64.zip",
+          "shasum": "9b0bbca1444985df77f4ee9f3290de380e8fa75928f4f99090f398f958909995",
+          "h1": "h1:sy13+j2pUxhwT5Zb4v/hViPXpl3wm2RN+G/4nlQOiOE="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-observe_0.14.51_linux_arm64.zip",
+          "download_url": "https://github.com/observeinc/terraform-provider-observe/releases/download/v0.14.51/terraform-provider-observe_0.14.51_linux_arm64.zip",
+          "shasum": "31795b89f68646f3cffc8fc018eb70fd51c668fbc4171566b11332da93a44808",
+          "h1": "h1:NHJ6crVlepUzexWkqs0M85N9/g1aja90OzScA58Kmss="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-observe_0.14.51_windows_amd64.zip",
+          "download_url": "https://github.com/observeinc/terraform-provider-observe/releases/download/v0.14.51/terraform-provider-observe_0.14.51_windows_amd64.zip",
+          "shasum": "14c1e3c478fc68fadf916fc46326290716dd0418ff6376c8a7900a2277896077",
+          "h1": "h1:ir2PcQyOoEYsJ6mHWYHuDCfoCZ45Pl8hstBE9HSh254="
+        }
+      ]
+    },
+    {
       "version": "0.14.50",
       "protocols": [
         "5.0"
