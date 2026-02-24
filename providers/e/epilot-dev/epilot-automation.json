@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "2.4.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/epilot-dev/terraform-provider-epilot-automation/releases/download/v2.4.0/terraform-provider-epilot-automation_2.4.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/epilot-dev/terraform-provider-epilot-automation/releases/download/v2.4.0/terraform-provider-epilot-automation_2.4.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-epilot-automation_2.4.0_darwin_amd64.zip",
+          "download_url": "https://github.com/epilot-dev/terraform-provider-epilot-automation/releases/download/v2.4.0/terraform-provider-epilot-automation_2.4.0_darwin_amd64.zip",
+          "shasum": "f3f82eaa122dc1d6610199d3c6fdb2c0951d8f5ba45d136e774e2a08cb029eb7",
+          "h1": "h1:rjOXHzaRtJnZbPi/nnb3PYsA65/ci6UWn8Ik/i/9gfM="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-epilot-automation_2.4.0_darwin_arm64.zip",
+          "download_url": "https://github.com/epilot-dev/terraform-provider-epilot-automation/releases/download/v2.4.0/terraform-provider-epilot-automation_2.4.0_darwin_arm64.zip",
+          "shasum": "986371008959a2cd915f908c3875405457659a34d68ea50e165d8e93404dc9ce",
+          "h1": "h1:Ye3sRVadMfvvd3ipZs/RAd+Babope9BBfH3LleE3W7M="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-epilot-automation_2.4.0_freebsd_386.zip",
+          "download_url": "https://github.com/epilot-dev/terraform-provider-epilot-automation/releases/download/v2.4.0/terraform-provider-epilot-automation_2.4.0_freebsd_386.zip",
+          "shasum": "ee5af3282329625df8e78b09ad997e2c1bf0b864da024da17218ed9c20db5268",
+          "h1": "h1:uDKw4a4iinJU9f1t+/vGJJi06U/3SRFLXCS3uALvlL0="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-epilot-automation_2.4.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/epilot-dev/terraform-provider-epilot-automation/releases/download/v2.4.0/terraform-provider-epilot-automation_2.4.0_freebsd_amd64.zip",
+          "shasum": "7fdb986705cce08597a59329e25a50974b8eb820049823e12302db81ceb15d67",
+          "h1": "h1:Lgmapj/UkIqOyLhmUbAC9z338fdJX40GCgYNHkxgrOE="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-epilot-automation_2.4.0_freebsd_arm.zip",
+          "download_url": "https://github.com/epilot-dev/terraform-provider-epilot-automation/releases/download/v2.4.0/terraform-provider-epilot-automation_2.4.0_freebsd_arm.zip",
+          "shasum": "3e453fd037238a1cdfc53185bcb9450d9ec15169268dbbc48e6efa7699e85be7",
+          "h1": "h1:xLdjZQy5woj9W2O530TPYd+B95TaNA3I4Xfa3VuhGRw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-epilot-automation_2.4.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/epilot-dev/terraform-provider-epilot-automation/releases/download/v2.4.0/terraform-provider-epilot-automation_2.4.0_freebsd_arm64.zip",
+          "shasum": "443a27174bd6b951d773bf917d8c4863c43efc9295590742afa52e34451c3073",
+          "h1": "h1:fJOQ9pdpmCqHWa2SwaYu5eL3UaUky01hvmjud8JoK+4="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-epilot-automation_2.4.0_linux_386.zip",
+          "download_url": "https://github.com/epilot-dev/terraform-provider-epilot-automation/releases/download/v2.4.0/terraform-provider-epilot-automation_2.4.0_linux_386.zip",
+          "shasum": "a81d4f6f3ba35fb1668d68409218d11b889edb192f55eeee468257889ea62d92",
+          "h1": "h1:r6ononJQVmL9h3Az8Up+q7Tb8j5f8C64INjzjdfDkyw="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-epilot-automation_2.4.0_linux_amd64.zip",
+          "download_url": "https://github.com/epilot-dev/terraform-provider-epilot-automation/releases/download/v2.4.0/terraform-provider-epilot-automation_2.4.0_linux_amd64.zip",
+          "shasum": "fdc6e36b75fed4eacf312808cf4a615261b3f278224c8ede5d995f67439857bc",
+          "h1": "h1:zdF6gItZFUArELgPEnIcnP64nSMnQtf0s32zKKJCsck="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-epilot-automation_2.4.0_linux_arm.zip",
+          "download_url": "https://github.com/epilot-dev/terraform-provider-epilot-automation/releases/download/v2.4.0/terraform-provider-epilot-automation_2.4.0_linux_arm.zip",
+          "shasum": "fe97286225b629d0440ef79e6293f540b1113f9bc09be1fd74d4b268a63be95c",
+          "h1": "h1:nHjquFs2sdX1+uRjU4R3ZF1UaV8xhfxIXEnE4bwIaog="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-epilot-automation_2.4.0_linux_arm64.zip",
+          "download_url": "https://github.com/epilot-dev/terraform-provider-epilot-automation/releases/download/v2.4.0/terraform-provider-epilot-automation_2.4.0_linux_arm64.zip",
+          "shasum": "db8fbb08f7a9bda098e4c1e31587df369cebfa56502e86fa76df960684112f07",
+          "h1": "h1:P+dBSO8oparhAkKbE+gEyrXO5YEan2lN4+P01HKAM0o="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-epilot-automation_2.4.0_windows_386.zip",
+          "download_url": "https://github.com/epilot-dev/terraform-provider-epilot-automation/releases/download/v2.4.0/terraform-provider-epilot-automation_2.4.0_windows_386.zip",
+          "shasum": "2924a8ed598b39e2af2401fe31224dce643d37c7b11069712473aa23fc4a083e",
+          "h1": "h1:0aCyjfuk8JHrx7uVZMY8tW6y1aWUt0ns0mk9n5ryJT0="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-epilot-automation_2.4.0_windows_amd64.zip",
+          "download_url": "https://github.com/epilot-dev/terraform-provider-epilot-automation/releases/download/v2.4.0/terraform-provider-epilot-automation_2.4.0_windows_amd64.zip",
+          "shasum": "02e0bcc0ab3b0ddb9430cc6a2759a2b6eacb7e65cae41c38b9ab58d92a7ae2f1",
+          "h1": "h1:K5C2EFGH3y7fTKBwI33XCPkdCNnEzKXvb1XgyheinRE="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-epilot-automation_2.4.0_windows_arm.zip",
+          "download_url": "https://github.com/epilot-dev/terraform-provider-epilot-automation/releases/download/v2.4.0/terraform-provider-epilot-automation_2.4.0_windows_arm.zip",
+          "shasum": "3c0f642ff0a7afe0bff0e8e8cb2eed7765ec3de9ec6cf74dbb69eabf17e30a7e",
+          "h1": "h1:0Bo+VNONg3UfZ491Y5rfPix6MwBLtfkj2Y/+Y5TS600="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-epilot-automation_2.4.0_windows_arm64.zip",
+          "download_url": "https://github.com/epilot-dev/terraform-provider-epilot-automation/releases/download/v2.4.0/terraform-provider-epilot-automation_2.4.0_windows_arm64.zip",
+          "shasum": "319ceaf04e286116959f21c9ed289eb99eaf68915417bd12384368893c2ae51c",
+          "h1": "h1:83AgJv7Nfm8h65PpCjs2JKze+9+1RybJ0o80i71uw+Q="
+        }
+      ]
+    },
+    {
       "version": "2.3.0",
       "protocols": [
         "6.0"
