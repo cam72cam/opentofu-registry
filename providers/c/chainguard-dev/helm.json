@@ -1,6 +1,48 @@
 {
   "versions": [
     {
+      "version": "0.0.14",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.14/terraform-provider-helm_0.0.14_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.14/terraform-provider-helm_0.0.14_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-helm_0.0.14_darwin_amd64.zip",
+          "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.14/terraform-provider-helm_0.0.14_darwin_amd64.zip",
+          "shasum": "1bc36fec444fab53d6133960e9696c4a0ed498fedcd93af01b35f0ac90cbda55",
+          "h1": "h1:4m8jSrmEKE5wdaMSEazxVQGy6RBoqRVueyd+mt+Hbhc="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-helm_0.0.14_darwin_arm64.zip",
+          "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.14/terraform-provider-helm_0.0.14_darwin_arm64.zip",
+          "shasum": "aad7d0c1b50e1bbc4862f975a9ad5f7e32887ccf66d48495290df39408243ee2",
+          "h1": "h1:5TMPPuPxc4re6P8gEa7tQv13hB/0DkrnxuN2cu/G/hU="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-helm_0.0.14_linux_amd64.zip",
+          "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.14/terraform-provider-helm_0.0.14_linux_amd64.zip",
+          "shasum": "ac3b8866d6e97dae3944879420ad7b8c5698efe7efbfd4ec9cd22a05609f5bb1",
+          "h1": "h1:4D6RkosUI+Y2TA0Y7zpjzi1sTAwP5rrJcEws8qJwMyE="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-helm_0.0.14_linux_arm64.zip",
+          "download_url": "https://github.com/chainguard-dev/terraform-provider-helm/releases/download/v0.0.14/terraform-provider-helm_0.0.14_linux_arm64.zip",
+          "shasum": "8ad7af7ab762e02ea1b000d9b127d285478c7f1f3a49494622eb74820f5a3c6f",
+          "h1": "h1:40+gL4f7oGIwMGwxcHzOiqeJQPsqHOxOxZdWmyTMoXo="
+        }
+      ]
+    },
+    {
       "version": "0.0.13",
       "protocols": [
         "6.0"
