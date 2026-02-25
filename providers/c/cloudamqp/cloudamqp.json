@@ -1,6 +1,64 @@
 {
   "versions": [
     {
+      "version": "1.43.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/cloudamqp/terraform-provider-cloudamqp/releases/download/v1.43.0/terraform-provider-cloudamqp_1.43.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/cloudamqp/terraform-provider-cloudamqp/releases/download/v1.43.0/terraform-provider-cloudamqp_1.43.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-cloudamqp_1.43.0_darwin_amd64.zip",
+          "download_url": "https://github.com/cloudamqp/terraform-provider-cloudamqp/releases/download/v1.43.0/terraform-provider-cloudamqp_1.43.0_darwin_amd64.zip",
+          "shasum": "d78d1abe72ee2f3b52295311a939ec79898d99c507c969aeaf61e88c016fe6f0",
+          "h1": "h1:IZukQaql7YDNWX/7M2YnI7hyPrwV15Iy6lzNmvLs81c="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-cloudamqp_1.43.0_darwin_arm64.zip",
+          "download_url": "https://github.com/cloudamqp/terraform-provider-cloudamqp/releases/download/v1.43.0/terraform-provider-cloudamqp_1.43.0_darwin_arm64.zip",
+          "shasum": "2e05a4a2b888c357a19feec767737a88e8b3ae1ba3173d7191932e315769889b",
+          "h1": "h1:4+Q0TsyIW7rh0VPnXvyqstaLp7m7VYavKgvqz/kO9pE="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-cloudamqp_1.43.0_linux_amd64.zip",
+          "download_url": "https://github.com/cloudamqp/terraform-provider-cloudamqp/releases/download/v1.43.0/terraform-provider-cloudamqp_1.43.0_linux_amd64.zip",
+          "shasum": "707041a6e8fc622890a5f76aedd6b84b247489cb3c7cea8956fd15eb04ebbbae",
+          "h1": "h1:jwTZBKhPKB49bJmFct5dE/4hnIBtwpUEVFDzPKbmK2A="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-cloudamqp_1.43.0_linux_arm64.zip",
+          "download_url": "https://github.com/cloudamqp/terraform-provider-cloudamqp/releases/download/v1.43.0/terraform-provider-cloudamqp_1.43.0_linux_arm64.zip",
+          "shasum": "d7c233b48cbbcaa4bad4fd3c9bc93998111444d970219eebda3aa3bd9db3bf4d",
+          "h1": "h1:CXsblY6XZAJRq5bXUUmPJjMrDiw7bUZkbnnN2/TEJo4="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-cloudamqp_1.43.0_windows_amd64.zip",
+          "download_url": "https://github.com/cloudamqp/terraform-provider-cloudamqp/releases/download/v1.43.0/terraform-provider-cloudamqp_1.43.0_windows_amd64.zip",
+          "shasum": "92659f6dcdc8d402c0a8e9f09779c6312696b9e2fc60f7267f9a3973fbd67904",
+          "h1": "h1:L7nJ27UF+6sPoW4rcmXpjzsBuO9LTDPIBt0dmqkYmkw="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-cloudamqp_1.43.0_windows_arm64.zip",
+          "download_url": "https://github.com/cloudamqp/terraform-provider-cloudamqp/releases/download/v1.43.0/terraform-provider-cloudamqp_1.43.0_windows_arm64.zip",
+          "shasum": "8365563b130603cf95c46caad878a581f28ecf0137f43a4d2e4a348e29db73ad",
+          "h1": "h1:MnIdVK+uyQu27JR1gaRMuv4LE6WKYjsipB/61eQoUiI="
+        }
+      ]
+    },
+    {
       "version": "1.42.1",
       "protocols": [
         "5.0"
