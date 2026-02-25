@@ -1,6 +1,112 @@
 {
   "versions": [
     {
+      "version": "0.12.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/duplocloud/terraform-provider-duplocloud/releases/download/v0.12.0/terraform-provider-duplocloud_0.12.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/duplocloud/terraform-provider-duplocloud/releases/download/v0.12.0/terraform-provider-duplocloud_0.12.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-duplocloud_0.12.0_darwin_amd64.zip",
+          "download_url": "https://github.com/duplocloud/terraform-provider-duplocloud/releases/download/v0.12.0/terraform-provider-duplocloud_0.12.0_darwin_amd64.zip",
+          "shasum": "9a5d068f8afea330cc0a678ac47bc0af4664a165b89682ea0a6c7d3820cddcd4",
+          "h1": "h1:T7I+DAJIdcg8DWQj1/nGs64+vJ0e0HJpMVuXnK3zetI="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-duplocloud_0.12.0_darwin_arm64.zip",
+          "download_url": "https://github.com/duplocloud/terraform-provider-duplocloud/releases/download/v0.12.0/terraform-provider-duplocloud_0.12.0_darwin_arm64.zip",
+          "shasum": "145395423e0941fad894d8f011891412284bde1cce62e935696e70f5020e43b0",
+          "h1": "h1:TPycyANYG1vFeU61cBcRwU1OIweJ7KmIP/bZjzlwCWU="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-duplocloud_0.12.0_freebsd_386.zip",
+          "download_url": "https://github.com/duplocloud/terraform-provider-duplocloud/releases/download/v0.12.0/terraform-provider-duplocloud_0.12.0_freebsd_386.zip",
+          "shasum": "ad897e7b93291c1a206b60b398224210ea511cf85ec37e099aa4209112bb1247",
+          "h1": "h1:V+PTx5ZrjMLga53xhSqi79Amet0my8zLNyuSc5nwAAw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-duplocloud_0.12.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/duplocloud/terraform-provider-duplocloud/releases/download/v0.12.0/terraform-provider-duplocloud_0.12.0_freebsd_amd64.zip",
+          "shasum": "f94835c386a46b996742f6884085633e05feb411931b0bcb95171a0af84b656e",
+          "h1": "h1:h2X/MSTi3hFwFZDQw/1JlPsDOzft6yVgaCjgepmXSf4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-duplocloud_0.12.0_freebsd_arm.zip",
+          "download_url": "https://github.com/duplocloud/terraform-provider-duplocloud/releases/download/v0.12.0/terraform-provider-duplocloud_0.12.0_freebsd_arm.zip",
+          "shasum": "14d526b06898cf63982d4a115a4e42c6657fc5d51b9e84a0e53f70c35153fd6a",
+          "h1": "h1:hwJ4uLvIHT4WuMjxOnebRqDWUE5Q0GXAayiWR4fby9E="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-duplocloud_0.12.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/duplocloud/terraform-provider-duplocloud/releases/download/v0.12.0/terraform-provider-duplocloud_0.12.0_freebsd_arm64.zip",
+          "shasum": "758309284777d0f192666d81b141eb5f9d4e08fa904ed1752605cfdb9d015c27",
+          "h1": "h1:2zITtCCGmmrLbFHb46mKfnK00oRJ6Bt+OYXm26yc0R0="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-duplocloud_0.12.0_linux_386.zip",
+          "download_url": "https://github.com/duplocloud/terraform-provider-duplocloud/releases/download/v0.12.0/terraform-provider-duplocloud_0.12.0_linux_386.zip",
+          "shasum": "c294590a137ae6eddefa734e7b17fd4c32a59e4743d14ef96eb3c416469018a8",
+          "h1": "h1:B39TKUieZs3VOy+GU++ef01ItRPw/8VI/aMQeA38awY="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-duplocloud_0.12.0_linux_amd64.zip",
+          "download_url": "https://github.com/duplocloud/terraform-provider-duplocloud/releases/download/v0.12.0/terraform-provider-duplocloud_0.12.0_linux_amd64.zip",
+          "shasum": "99d4ad4d72030e538003bafa5be02c48a65a4ecfbbf9c286ba5315f5ac234812",
+          "h1": "h1:1Y3EV3vCOxdhhDpOB4F5Ma2GgiblRLW+qjKaXBcwMss="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-duplocloud_0.12.0_linux_arm.zip",
+          "download_url": "https://github.com/duplocloud/terraform-provider-duplocloud/releases/download/v0.12.0/terraform-provider-duplocloud_0.12.0_linux_arm.zip",
+          "shasum": "ce0c89e02759d6e97bf1fb4a70b81d601eae83e2cc2c576c5a44160c03e14ccc",
+          "h1": "h1:j3173iInTsBLvuwAERyiILLaAEHQ2QEWniv7X8ozwwA="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-duplocloud_0.12.0_linux_arm64.zip",
+          "download_url": "https://github.com/duplocloud/terraform-provider-duplocloud/releases/download/v0.12.0/terraform-provider-duplocloud_0.12.0_linux_arm64.zip",
+          "shasum": "84801257c8c10c12d4b4dd473c1ed768b579d8f37588531851570a17fc020fb6",
+          "h1": "h1:BUA0Q9p/IIgm6X5zkHo4ZlZRAKkxqvGnuLn6UUuFAQE="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-duplocloud_0.12.0_windows_386.zip",
+          "download_url": "https://github.com/duplocloud/terraform-provider-duplocloud/releases/download/v0.12.0/terraform-provider-duplocloud_0.12.0_windows_386.zip",
+          "shasum": "147c7d9b3e974a11e9fa3edb8eb813b7a5bac2030f34cd09bf09d0eea11d9ea9",
+          "h1": "h1:Z8X7mjVkhuPvfjdrNcrS0gdg6n7KlifgrUuRXhZdOo8="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-duplocloud_0.12.0_windows_amd64.zip",
+          "download_url": "https://github.com/duplocloud/terraform-provider-duplocloud/releases/download/v0.12.0/terraform-provider-duplocloud_0.12.0_windows_amd64.zip",
+          "shasum": "66d50642549700712c5b2d9310804f93b2a33c462d4cb609d59773d12b36de6b",
+          "h1": "h1:19j9WzoO4uLqs4q7v+83e1bfcs12Kc+Ave0xAyaJra0="
+        }
+      ]
+    },
+    {
       "version": "0.11.33",
       "protocols": [
         "5.0"
