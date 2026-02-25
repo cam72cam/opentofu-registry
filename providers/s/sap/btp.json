@@ -1,6 +1,120 @@
 {
   "versions": [
     {
+      "version": "1.20.1",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/sap/terraform-provider-btp/releases/download/v1.20.1/terraform-provider-btp_1.20.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/sap/terraform-provider-btp/releases/download/v1.20.1/terraform-provider-btp_1.20.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-btp_1.20.1_darwin_amd64.zip",
+          "download_url": "https://github.com/sap/terraform-provider-btp/releases/download/v1.20.1/terraform-provider-btp_1.20.1_darwin_amd64.zip",
+          "shasum": "59a254047427109efb19319c53fcfe2d931b556ffab81157794024929e3e0d79",
+          "h1": "h1:G64gBpHRce2wdAZeRB39wwmwmJcMa+UJ0PyrRDc5UXo="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-btp_1.20.1_darwin_arm64.zip",
+          "download_url": "https://github.com/sap/terraform-provider-btp/releases/download/v1.20.1/terraform-provider-btp_1.20.1_darwin_arm64.zip",
+          "shasum": "ca5f87f5538a1e671e331010652bb278205e9b88c9c3785e13a48d08864926cd",
+          "h1": "h1:K1IqkAVorh5L1R/YKlikcHx8S53DXdZxxjd+VRT88ww="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-btp_1.20.1_freebsd_386.zip",
+          "download_url": "https://github.com/sap/terraform-provider-btp/releases/download/v1.20.1/terraform-provider-btp_1.20.1_freebsd_386.zip",
+          "shasum": "c9ad0226d670fe5d3335001c131079c56be888e0b46f099d2a8c6367e0d8be25",
+          "h1": "h1:wgULzpLFhNDZG/6VdOZ27OiVS1S7hfxwLgMKDO2PbdA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-btp_1.20.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/sap/terraform-provider-btp/releases/download/v1.20.1/terraform-provider-btp_1.20.1_freebsd_amd64.zip",
+          "shasum": "d856e7f5c97e2c6b3ef1526ee0bb5b1970d09b85d18ab224f95505a83631302f",
+          "h1": "h1:pCzSB5SBxlJX9PYzc19AVpPR+2wwb8rvoZ5LKP9dgxM="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-btp_1.20.1_freebsd_arm.zip",
+          "download_url": "https://github.com/sap/terraform-provider-btp/releases/download/v1.20.1/terraform-provider-btp_1.20.1_freebsd_arm.zip",
+          "shasum": "504f2f06019678cb870c81ea623ef3d556587eebf3b6e37ab132b2dc463c359b",
+          "h1": "h1:1yZR+UFU21h216bjN48xrYzWIdCG+wvlwf+DU/TNptk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-btp_1.20.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/sap/terraform-provider-btp/releases/download/v1.20.1/terraform-provider-btp_1.20.1_freebsd_arm64.zip",
+          "shasum": "a3e1f20dbf4aaa6b7e79407cef85bf4bdb5e86a49139e4d663979db88071ee15",
+          "h1": "h1:85m5VRmLMYLri7d15XDB2iUuK25zrGKBY3Uxw8TFrmo="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-btp_1.20.1_linux_386.zip",
+          "download_url": "https://github.com/sap/terraform-provider-btp/releases/download/v1.20.1/terraform-provider-btp_1.20.1_linux_386.zip",
+          "shasum": "7e588a9b32ba816317a84bc11dd4772a26927f51d9ef705745e17b795cc04c4e",
+          "h1": "h1:Y/hdTJvOTq5+a3cM6cws9D9SggjYeslvlVfJ2m7tp7M="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-btp_1.20.1_linux_amd64.zip",
+          "download_url": "https://github.com/sap/terraform-provider-btp/releases/download/v1.20.1/terraform-provider-btp_1.20.1_linux_amd64.zip",
+          "shasum": "a38ca6228bcd9f09054fa8f31480e304114c7e8fc1e77ce249592c34cab1bcd5",
+          "h1": "h1:WJgk25JK3tQGJNcc3X3pPOXSJNtKDM8hcr1VpCrzB+Q="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-btp_1.20.1_linux_arm.zip",
+          "download_url": "https://github.com/sap/terraform-provider-btp/releases/download/v1.20.1/terraform-provider-btp_1.20.1_linux_arm.zip",
+          "shasum": "24947c4b4a45967a690fbaba7890a17e02fe2df0b9395cb08f627972ff2385b4",
+          "h1": "h1:ousIdEy/4I7I+ckcO4ohFoz3Ls+SF9UnU8SJipI5PS0="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-btp_1.20.1_linux_arm64.zip",
+          "download_url": "https://github.com/sap/terraform-provider-btp/releases/download/v1.20.1/terraform-provider-btp_1.20.1_linux_arm64.zip",
+          "shasum": "6d9dcc04cdf97f3504e859fafc674c312606cb1a828a02b3718bba4022a7f219",
+          "h1": "h1:srxh0MF0qqzehO4IZse+uHbj2rraBCz/dNYkS6hTloQ="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-btp_1.20.1_windows_386.zip",
+          "download_url": "https://github.com/sap/terraform-provider-btp/releases/download/v1.20.1/terraform-provider-btp_1.20.1_windows_386.zip",
+          "shasum": "6b23c3097a7fd6c103182394edb5eea12ac89ca243e8f500cfad803bc553ed4e",
+          "h1": "h1:xpMWtD7k4OjbJmePU64PfdON08MgaHJ9PBh+mp0KMzo="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-btp_1.20.1_windows_amd64.zip",
+          "download_url": "https://github.com/sap/terraform-provider-btp/releases/download/v1.20.1/terraform-provider-btp_1.20.1_windows_amd64.zip",
+          "shasum": "46abab0b9beb4baeb1aa7ba1d0293fd571ea3e8c5f394c4f100f640a8e7a497e",
+          "h1": "h1:oILWmOvLLQu4t5AtswdGLAYL3HXrMAGqq+Z0gIzUPdw="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-btp_1.20.1_windows_arm64.zip",
+          "download_url": "https://github.com/sap/terraform-provider-btp/releases/download/v1.20.1/terraform-provider-btp_1.20.1_windows_arm64.zip",
+          "shasum": "c1331f39c7d20282ab4fc04b8a18e036b923f3f736a1126fff9e95102775895d",
+          "h1": "h1:NOYk+u50+MXzzbgeJJ58ZGc3NgyDu9dQW4tL5tswUgY="
+        }
+      ]
+    },
+    {
       "version": "1.20.0",
       "protocols": [
         "6.0"
