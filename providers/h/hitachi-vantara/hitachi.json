@@ -1,6 +1,32 @@
 {
   "versions": [
     {
+      "version": "2.3.1",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/hitachi-vantara/terraform-provider-hitachi/releases/download/v2.3.1/terraform-provider-hitachi_2.3.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/hitachi-vantara/terraform-provider-hitachi/releases/download/v2.3.1/terraform-provider-hitachi_2.3.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-hitachi_2.3.1_linux_amd64.zip",
+          "download_url": "https://github.com/hitachi-vantara/terraform-provider-hitachi/releases/download/v2.3.1/terraform-provider-hitachi_2.3.1_linux_amd64.zip",
+          "shasum": "008b2ed95aebf793f31aca65409cd5ed963529da2bb323f11079047ff23ff349",
+          "h1": "h1:/Nm8RrQyFd5lR8MkXdscY9PLf0sYNUp8ZKbqil2Hnfk="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-hitachi_2.3.1_linux_arm64.zip",
+          "download_url": "https://github.com/hitachi-vantara/terraform-provider-hitachi/releases/download/v2.3.1/terraform-provider-hitachi_2.3.1_linux_arm64.zip",
+          "shasum": "68af24000e348422fe2628635a0e559d9d07d3ef72efc883a101010629261428",
+          "h1": "h1:J7bWRugCQWbxg/b85vK9viotnSZDXkP15qjUf35ugro="
+        }
+      ]
+    },
+    {
       "version": "2.3.0",
       "protocols": [
         "5.0"
