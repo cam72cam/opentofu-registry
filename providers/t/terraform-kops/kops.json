@@ -1,6 +1,64 @@
 {
   "versions": [
     {
+      "version": "1.34.4",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/terraform-kops/terraform-provider-kops/releases/download/v1.34.4/terraform-provider-kops_1.34.4_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/terraform-kops/terraform-provider-kops/releases/download/v1.34.4/terraform-provider-kops_1.34.4_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-kops_1.34.4_darwin_amd64.zip",
+          "download_url": "https://github.com/terraform-kops/terraform-provider-kops/releases/download/v1.34.4/terraform-provider-kops_1.34.4_darwin_amd64.zip",
+          "shasum": "d4ec2c2b55a0fd8babda25571571b0ba1eda41b9c8f2aa4d5171aa33de10309f",
+          "h1": "h1:VHL7+klXRJ3fZ++/RvkkYoWjjLg5eox5kPywvdXozRM="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-kops_1.34.4_darwin_arm64.zip",
+          "download_url": "https://github.com/terraform-kops/terraform-provider-kops/releases/download/v1.34.4/terraform-provider-kops_1.34.4_darwin_arm64.zip",
+          "shasum": "ffee946d88601eb198e8a439f4e53b8fe59fac2a8c8e9bd241976a5048ea81b5",
+          "h1": "h1:Hrf+Ol68y03PAMfTqV3yxuOmFbvJ73ME8YKzOSdM/6w="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-kops_1.34.4_linux_amd64.zip",
+          "download_url": "https://github.com/terraform-kops/terraform-provider-kops/releases/download/v1.34.4/terraform-provider-kops_1.34.4_linux_amd64.zip",
+          "shasum": "ca39dbe65fec820abbaea1e9c0efaa9b045f3495b923ad319895cc3a414dcb19",
+          "h1": "h1:GwF40qiCOzO4p4GckH4hR73hbypz+Z7eeZ4iJ+iYYBM="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-kops_1.34.4_linux_arm64.zip",
+          "download_url": "https://github.com/terraform-kops/terraform-provider-kops/releases/download/v1.34.4/terraform-provider-kops_1.34.4_linux_arm64.zip",
+          "shasum": "2c016b15fa2caccd0a27cf61c20525108f4253d1a6287031776a469c37558515",
+          "h1": "h1:/labkYIgOKJ1yOnEJucc5rnoYbWiR/zLQcEfPuAU6K8="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-kops_1.34.4_windows_amd64.zip",
+          "download_url": "https://github.com/terraform-kops/terraform-provider-kops/releases/download/v1.34.4/terraform-provider-kops_1.34.4_windows_amd64.zip",
+          "shasum": "c74e9c4a8c0b396818c0a5443959ddfadb1f3076f6114381efb4cbc224e0fce6",
+          "h1": "h1:1jqR3RzO7zIUg9hExgqWMUydqNpNfrgLYAD0ud/LtII="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-kops_1.34.4_windows_arm64.zip",
+          "download_url": "https://github.com/terraform-kops/terraform-provider-kops/releases/download/v1.34.4/terraform-provider-kops_1.34.4_windows_arm64.zip",
+          "shasum": "cd4577ba30b280b7587a38a1ccf141d3066f6e5699cab5df351bbd9cb0a83d08",
+          "h1": "h1:Ja2jGZD2qgc7wxy6OQO32Gp3C4pS/QrYGEMRjRNha7I="
+        }
+      ]
+    },
+    {
       "version": "1.34.3",
       "protocols": [
         "5.0"
