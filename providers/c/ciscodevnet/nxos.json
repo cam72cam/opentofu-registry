@@ -1,6 +1,250 @@
 {
   "versions": [
     {
+      "version": "0.8.0-beta1",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta1/terraform-provider-nxos_0.8.0-beta1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta1/terraform-provider-nxos_0.8.0-beta1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-nxos_0.8.0-beta1_darwin_amd64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta1/terraform-provider-nxos_0.8.0-beta1_darwin_amd64.zip",
+          "shasum": "d1941b932a25ee4628d139ab0567f6a0b918977fd0c81a70b0345bfbb073baec",
+          "h1": "h1:k5LJweD3jnMSOPRdZibXnPP3NzXoHiJORWvzHaRGyqc="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-nxos_0.8.0-beta1_darwin_arm64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta1/terraform-provider-nxos_0.8.0-beta1_darwin_arm64.zip",
+          "shasum": "09f01994c120d579c8ba0dfc8061e48164fbfad07df03f55c3a94a1d4ff6ae05",
+          "h1": "h1:A+fYbrji9SUXNVA+fSyJ89ig/ueG4FZktn5++lFbRIY="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-nxos_0.8.0-beta1_freebsd_386.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta1/terraform-provider-nxos_0.8.0-beta1_freebsd_386.zip",
+          "shasum": "ba960ecdd71213a6c7cf80dab4722a838c4041657b1e79394763b106d14953a2",
+          "h1": "h1:ZQT6BirI6XprF+B0urGzsTggf2tq9lxI4hWT07BUhxg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-nxos_0.8.0-beta1_freebsd_amd64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta1/terraform-provider-nxos_0.8.0-beta1_freebsd_amd64.zip",
+          "shasum": "b5d9863ef9742c69957c442a0bf1350979c80f688d0610c0de0048c02204e7c8",
+          "h1": "h1:xrqGtOXTc+QHHTiTBKwrmA1QZpd6P29xTXuLkJ0slY0="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-nxos_0.8.0-beta1_freebsd_arm.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta1/terraform-provider-nxos_0.8.0-beta1_freebsd_arm.zip",
+          "shasum": "01ab4289abe5ca97e660ae15940e1a2884c48b7bf2318e07f7478da836031fbc",
+          "h1": "h1:P+tHrji3+nxDZkq4mZ3z8ByqGRQ+YQm4Ekc1zTWxX4Y="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-nxos_0.8.0-beta1_freebsd_arm64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta1/terraform-provider-nxos_0.8.0-beta1_freebsd_arm64.zip",
+          "shasum": "9c8bad31d8a63a251ba7dad7c345ba3487e1fc24a7276ddc2e01aca04bfc5573",
+          "h1": "h1:E91fcx/p/pqztxwVqc6BLa9YSBHmhrYxs19F5WNESj4="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-nxos_0.8.0-beta1_linux_386.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta1/terraform-provider-nxos_0.8.0-beta1_linux_386.zip",
+          "shasum": "3e905f4151d71d493a5dc90553c345dabe7e51536441d78ef6757ad25e7c08a2",
+          "h1": "h1:bfK11Q8F3bptos3mIebCBoLtVd7PEbvkh5SyGNeT2TY="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-nxos_0.8.0-beta1_linux_amd64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta1/terraform-provider-nxos_0.8.0-beta1_linux_amd64.zip",
+          "shasum": "0fb119a3514e21f773f5b7cac6a5c9ee43e34d54b1ca7f62dbf8082d85e42c0a",
+          "h1": "h1:YhuMWIWxfT82ogZzZ8Urk+JTO694oBBKXIv6u+aa08c="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-nxos_0.8.0-beta1_linux_arm.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta1/terraform-provider-nxos_0.8.0-beta1_linux_arm.zip",
+          "shasum": "bd444afa46c12c08aa1ffbf73441ccffacf3cf0c3b21e84deb0f0ee28cb86145",
+          "h1": "h1:4Dl8+7AqwKM7jdS4aKwQL2tKY3oVTUcb9b8FnO8BggE="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-nxos_0.8.0-beta1_linux_arm64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta1/terraform-provider-nxos_0.8.0-beta1_linux_arm64.zip",
+          "shasum": "3b8286192cf90294bf55fe3d9ac6b3b603db2550c295df35951180e87f1973c2",
+          "h1": "h1:+kaJQeu/ihRmrewd/v834b2hAU1RXZLBi+x3Yy9+DGc="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-nxos_0.8.0-beta1_windows_386.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta1/terraform-provider-nxos_0.8.0-beta1_windows_386.zip",
+          "shasum": "ccb93bcea6d4a4572eff238ba50cc7b358d57c3ff8e55e177cad84c2b7f70c1e",
+          "h1": "h1:gwbAGNWSn+CJT3XTZDtARU4FD+XwOmq7nWKcJHnoP6Y="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-nxos_0.8.0-beta1_windows_amd64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta1/terraform-provider-nxos_0.8.0-beta1_windows_amd64.zip",
+          "shasum": "dde5f9c8f9c95e87be6243794d25d9e913f64e531fe3bfc8d17e762c7cf38fc9",
+          "h1": "h1:tMZ11fv31IWfmVg3gh3+0bagqmfbqq0EgT0PrYWATDw="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-nxos_0.8.0-beta1_windows_arm.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta1/terraform-provider-nxos_0.8.0-beta1_windows_arm.zip",
+          "shasum": "c53dc23bd566358c6d3c6dba0c13d90f6e7de78c4e2bd5bd1a5467ad25cc2581",
+          "h1": "h1:kDT2GY/kIWxjtjXAtiC90CrNY07O5LtoSgZYpa0vT88="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-nxos_0.8.0-beta1_windows_arm64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta1/terraform-provider-nxos_0.8.0-beta1_windows_arm64.zip",
+          "shasum": "a06b4874e01b21c6a73f3a475afc0071686cbe1cf8bb66a399491ad3cc527cdc",
+          "h1": "h1:WeTvOBnMrfBkzxNksA10Hv9ntEDSH/QzLEwrhwEz8oI="
+        }
+      ]
+    },
+    {
+      "version": "0.8.0-beta0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta0/terraform-provider-nxos_0.8.0-beta0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta0/terraform-provider-nxos_0.8.0-beta0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-nxos_0.8.0-beta0_darwin_amd64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta0/terraform-provider-nxos_0.8.0-beta0_darwin_amd64.zip",
+          "shasum": "ec72eddb2169d1063bf197ba827d0b94f8b7d7dc252cf84253c7df24cc125f3b",
+          "h1": "h1:HlGCl2KS/9s/OcmkO0G0DBa904X5hempPkIn1iWClAA="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-nxos_0.8.0-beta0_darwin_arm64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta0/terraform-provider-nxos_0.8.0-beta0_darwin_arm64.zip",
+          "shasum": "2ec9a405c7830b0d982d3f0f08c6951a0c2a63387dbc0baa9a36e43e4422beab",
+          "h1": "h1:LBk3cqGF2e2nomoT3r++Zv/7pvPpAmE9Lk2/P7SnkhI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-nxos_0.8.0-beta0_freebsd_386.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta0/terraform-provider-nxos_0.8.0-beta0_freebsd_386.zip",
+          "shasum": "1d47d53eda418568493d24694fcfe8290cbb679272bafd6dc207fd639dc66cb9",
+          "h1": "h1:gOY8nyPjGAgpzv6wmfyMCmvn28OKZD75c2SkZzR1WQU="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-nxos_0.8.0-beta0_freebsd_amd64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta0/terraform-provider-nxos_0.8.0-beta0_freebsd_amd64.zip",
+          "shasum": "54481a8cb63e90e1c8ffbff7584037600f040f8834a927db5e8ecc04fb728046",
+          "h1": "h1:D9/H8fPXGRERIOZOsiMEGsbhjwoanyq94vAVUQW0MT8="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-nxos_0.8.0-beta0_freebsd_arm.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta0/terraform-provider-nxos_0.8.0-beta0_freebsd_arm.zip",
+          "shasum": "3c8e0ef11ef2bd2ebd72118e334a597aa99ab2a2beacb73c96d6f93b0e752b91",
+          "h1": "h1:HlY6Ywp07vNxRBD18EXrIgfXoR4tRtGI84dENnXTDWI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-nxos_0.8.0-beta0_freebsd_arm64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta0/terraform-provider-nxos_0.8.0-beta0_freebsd_arm64.zip",
+          "shasum": "190d85162ee7a7539deb572a39fad04f87b7d56a05f8c1dd52cbfd9d3965d334",
+          "h1": "h1:XT5IbiSN1KLduifhTIrjhFyEF4MkzBHF+EZRA9FNV5o="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-nxos_0.8.0-beta0_linux_386.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta0/terraform-provider-nxos_0.8.0-beta0_linux_386.zip",
+          "shasum": "4ecd81e5ace74dcb437b8da7065b86531df3d691151162e1bfdf0634b083a3bb",
+          "h1": "h1:Hb14ceIxNEgTBeVKEnWKrhGWDHcGXtR2gvMP2mizGjA="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-nxos_0.8.0-beta0_linux_amd64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta0/terraform-provider-nxos_0.8.0-beta0_linux_amd64.zip",
+          "shasum": "5c391dd0bd4fc5086f48a46d93bdb6c2d6db6ece882dffb96dc078e724ccf136",
+          "h1": "h1:PQf6mGlq/bTWCmXD6L51SWWBrfDEKCkYYZMqD2USWA4="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-nxos_0.8.0-beta0_linux_arm.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta0/terraform-provider-nxos_0.8.0-beta0_linux_arm.zip",
+          "shasum": "05f7fc147d9beaf2a99523dcf7ea4b07e0159e42c5a431432eb134a603c3dedc",
+          "h1": "h1:muRnLUm8y+1yPIU03qT5GVg5o8ozljDsmamHX5MrYuo="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-nxos_0.8.0-beta0_linux_arm64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta0/terraform-provider-nxos_0.8.0-beta0_linux_arm64.zip",
+          "shasum": "0fae3f364be58aaa81ecaa6b082fef47d5fdeb9996c7c84543fe0df793552eb2",
+          "h1": "h1:fI+eD2PaFZP4D8eFD4szeMn+qpLnE0MyBDt1EEOIaGY="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-nxos_0.8.0-beta0_windows_386.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta0/terraform-provider-nxos_0.8.0-beta0_windows_386.zip",
+          "shasum": "f37a5431c28d9be73fe197edd743d5d0a217c544f479a0196e7237e2a93e24ae",
+          "h1": "h1:2be1l0mQeDCt8U5SHijROPLXzjRBVhaqbhBx8nIBqY4="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-nxos_0.8.0-beta0_windows_amd64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta0/terraform-provider-nxos_0.8.0-beta0_windows_amd64.zip",
+          "shasum": "bea63bc99971840a1a3af6f29d8fc0b8145722cb30492c3dff2e525e35751a67",
+          "h1": "h1:rE5OYpQX7wIi4bJrA9n6nNR0sXyQtTvfg8uTdNR4S9k="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-nxos_0.8.0-beta0_windows_arm.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta0/terraform-provider-nxos_0.8.0-beta0_windows_arm.zip",
+          "shasum": "3f445ffc5d14ae10a09ebe9203f26eb5ba68df985d41eff6ee829f860f068dc9",
+          "h1": "h1:fqhFa5wbibtPmRYmF8OXPPSmASJv7DxX1cB15biUEkI="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-nxos_0.8.0-beta0_windows_arm64.zip",
+          "download_url": "https://github.com/ciscodevnet/terraform-provider-nxos/releases/download/v0.8.0-beta0/terraform-provider-nxos_0.8.0-beta0_windows_arm64.zip",
+          "shasum": "1e72824196848cb5ad9db7d4b7792fd6c4fe59da9b919f895698d601e1fd432d",
+          "h1": "h1:WeJSgfcycXUbCxRl54M9toc+V7l/JPApXXYvDdg5LjU="
+        }
+      ]
+    },
+    {
       "version": "0.7.0",
       "protocols": [
         "6.0"
