@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.3.2",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/momentohq/terraform-provider-momento/releases/download/v0.3.2/terraform-provider-momento_0.3.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/momentohq/terraform-provider-momento/releases/download/v0.3.2/terraform-provider-momento_0.3.2_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-momento_0.3.2_darwin_amd64.zip",
+          "download_url": "https://github.com/momentohq/terraform-provider-momento/releases/download/v0.3.2/terraform-provider-momento_0.3.2_darwin_amd64.zip",
+          "shasum": "615b455d9d227891980e100b97c7562a70d4817a609d30838fa6a470a92f1b1c",
+          "h1": "h1:z3Y6Inylo/SAxA+CFKfBadZNS36hgsz8XvjsVLjwK1g="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-momento_0.3.2_darwin_arm64.zip",
+          "download_url": "https://github.com/momentohq/terraform-provider-momento/releases/download/v0.3.2/terraform-provider-momento_0.3.2_darwin_arm64.zip",
+          "shasum": "beb37bf7e881013216895383a4ad316539f1d665e12fb8334796aba925886fd2",
+          "h1": "h1:FbIegsbgs8yT/+3sr+brdXrmh1gW5jGZe24HnwfLfYA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-momento_0.3.2_freebsd_386.zip",
+          "download_url": "https://github.com/momentohq/terraform-provider-momento/releases/download/v0.3.2/terraform-provider-momento_0.3.2_freebsd_386.zip",
+          "shasum": "edb3da1ed2757bc310e3947fcdacfa3eb9cb19491ae2074dd0ae9351a0a0448d",
+          "h1": "h1:Y0RF8+PHmzoTftdBTGz2XXFBOvXBL8gh9DTS/csWgPk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-momento_0.3.2_freebsd_amd64.zip",
+          "download_url": "https://github.com/momentohq/terraform-provider-momento/releases/download/v0.3.2/terraform-provider-momento_0.3.2_freebsd_amd64.zip",
+          "shasum": "4ca037d93777c2f4c00dc8138598e40cd927dd6771b18b42db776f0082916054",
+          "h1": "h1:UAoKX1XpUNjFVA5czF/291tmBDLlJWz/UTTwSFKUOVo="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-momento_0.3.2_freebsd_arm.zip",
+          "download_url": "https://github.com/momentohq/terraform-provider-momento/releases/download/v0.3.2/terraform-provider-momento_0.3.2_freebsd_arm.zip",
+          "shasum": "6a3047000ecb0f7c51266f28bff16530130cd5891afc3267391d03d4ce996852",
+          "h1": "h1:Rg+3nRgFjGbw5nIjPQvkgjZTDY+6kktn/3/V66CeVHc="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-momento_0.3.2_freebsd_arm64.zip",
+          "download_url": "https://github.com/momentohq/terraform-provider-momento/releases/download/v0.3.2/terraform-provider-momento_0.3.2_freebsd_arm64.zip",
+          "shasum": "75e15ef9618182da413c7cabc177e09ffb336f7482ec7f9941f2a65c55ece52d",
+          "h1": "h1:FwPZfA0Ae8UIF/JufnyfUePZHFg4c4NpVzoMwiNDeyE="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-momento_0.3.2_linux_386.zip",
+          "download_url": "https://github.com/momentohq/terraform-provider-momento/releases/download/v0.3.2/terraform-provider-momento_0.3.2_linux_386.zip",
+          "shasum": "f13fcd82e9805580da33393f715267aac4e939e1b8bc96bb88b205a536b8ff16",
+          "h1": "h1:Z/QZMd5ANuou5+SBE0BlTgM3AQ2nYKSay08VYkJiips="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-momento_0.3.2_linux_amd64.zip",
+          "download_url": "https://github.com/momentohq/terraform-provider-momento/releases/download/v0.3.2/terraform-provider-momento_0.3.2_linux_amd64.zip",
+          "shasum": "0041bed8707c9c8b17f61ff7a253189c49ab832a8d1010e898e67821d963d0a4",
+          "h1": "h1:jCdWtPxZh5vAxcsHAKRhS8XtoGyqqgBhbjl7tI+WksM="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-momento_0.3.2_linux_arm.zip",
+          "download_url": "https://github.com/momentohq/terraform-provider-momento/releases/download/v0.3.2/terraform-provider-momento_0.3.2_linux_arm.zip",
+          "shasum": "4004472eb3fed661fb8ade7fb1784d4f31b2d11a5cfaf1c684004129f2ff1c7a",
+          "h1": "h1:PIP0xYlW832e3CKYJl7y1GNKkFCeWbETFcAP+SGdfr0="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-momento_0.3.2_linux_arm64.zip",
+          "download_url": "https://github.com/momentohq/terraform-provider-momento/releases/download/v0.3.2/terraform-provider-momento_0.3.2_linux_arm64.zip",
+          "shasum": "54c4787228875f44698d97a8cfb27d06ee73d957dab2d5acff902687af300f39",
+          "h1": "h1:QTmCO50k/VXfFuI9zt1Am1XESkIfykklOojC/ob6cx0="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-momento_0.3.2_windows_386.zip",
+          "download_url": "https://github.com/momentohq/terraform-provider-momento/releases/download/v0.3.2/terraform-provider-momento_0.3.2_windows_386.zip",
+          "shasum": "38e3302e8bde79364ca25946fb80aa42195b018fc0870dfbc9617879a4cc6f36",
+          "h1": "h1:cvsxtsQavkebwC14fkik5aX2jkhT5w/3hRLgZsgmekk="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-momento_0.3.2_windows_amd64.zip",
+          "download_url": "https://github.com/momentohq/terraform-provider-momento/releases/download/v0.3.2/terraform-provider-momento_0.3.2_windows_amd64.zip",
+          "shasum": "411977b39190de2416f79d5f39a836758e3b6af622f3b9c1cd94cd524c94620e",
+          "h1": "h1:4jE1hNBLGZY2tEj9Tf5eAPei3Hmr80pMHrxoTkiThhg="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-momento_0.3.2_windows_arm.zip",
+          "download_url": "https://github.com/momentohq/terraform-provider-momento/releases/download/v0.3.2/terraform-provider-momento_0.3.2_windows_arm.zip",
+          "shasum": "8e12753b9a14786ab3cea0902ec2b69b8df17c506f6b9ddab650810d1a1847a6",
+          "h1": "h1:m8IfXoMGWL23+7cf5Sf/ORXfiASq+PY0SmcCd6MWowA="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-momento_0.3.2_windows_arm64.zip",
+          "download_url": "https://github.com/momentohq/terraform-provider-momento/releases/download/v0.3.2/terraform-provider-momento_0.3.2_windows_arm64.zip",
+          "shasum": "3ce7197a0b40936af27a391ff9b5a2306cb103a5d0fb0d3b628c8de6eafdefe8",
+          "h1": "h1:UQ+uqEOAlwkhF2pwuHTTIF2CV94jFYf2m/WsrCrPgeQ="
+        }
+      ]
+    },
+    {
       "version": "0.3.1",
       "protocols": [
         "6.0"
