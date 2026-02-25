@@ -1,6 +1,120 @@
 {
   "versions": [
     {
+      "version": "10.0.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/akamai/terraform-provider-akamai/releases/download/v10.0.0/terraform-provider-akamai_10.0.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/akamai/terraform-provider-akamai/releases/download/v10.0.0/terraform-provider-akamai_10.0.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-akamai_10.0.0_darwin_amd64.zip",
+          "download_url": "https://github.com/akamai/terraform-provider-akamai/releases/download/v10.0.0/terraform-provider-akamai_10.0.0_darwin_amd64.zip",
+          "shasum": "80c2f8b572eaa5f1cc708bbeb02b5890cb9cd822c48d250550d628c91308ff3e",
+          "h1": "h1:XUOuGYs6ocva8A9sQ1OToj2gkDJbiL/e4hgHsfqnVtI="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-akamai_10.0.0_darwin_arm64.zip",
+          "download_url": "https://github.com/akamai/terraform-provider-akamai/releases/download/v10.0.0/terraform-provider-akamai_10.0.0_darwin_arm64.zip",
+          "shasum": "89d4bdbf572405232c31b7f75d82b52dc61e98e0128f08607523302bc145c76a",
+          "h1": "h1:9SDO6jvvQNOs/I1NrXrrAcatzy7dGUt5gkcuIjfRLQw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-akamai_10.0.0_freebsd_386.zip",
+          "download_url": "https://github.com/akamai/terraform-provider-akamai/releases/download/v10.0.0/terraform-provider-akamai_10.0.0_freebsd_386.zip",
+          "shasum": "2c4ad887062fbef3d17f6da6e7c794d2d6b2612c9ae649bfcb2083470a001c67",
+          "h1": "h1:d9YM0tm5DrA9S1SBbXUY5Y6b0SyNdCh2+RsXYLuOTSU="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-akamai_10.0.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/akamai/terraform-provider-akamai/releases/download/v10.0.0/terraform-provider-akamai_10.0.0_freebsd_amd64.zip",
+          "shasum": "7a5e9c82556fcba1e8c12deaef035f0f9151a1ff7c812deb73b28503727dc30f",
+          "h1": "h1:wJzSTg1KreqOeCgkwC0KhP/F1YmxYrC6ZKP4VnzbwfI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-akamai_10.0.0_freebsd_arm.zip",
+          "download_url": "https://github.com/akamai/terraform-provider-akamai/releases/download/v10.0.0/terraform-provider-akamai_10.0.0_freebsd_arm.zip",
+          "shasum": "6f6984ad776eb6cf20ed7ba70823e05b7bb1db8eb3973ada4b98d842894d7503",
+          "h1": "h1:28d1s/EtWoVjSYFlkt0VfD/BtqKF29ih77Gtju28+Lk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-akamai_10.0.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/akamai/terraform-provider-akamai/releases/download/v10.0.0/terraform-provider-akamai_10.0.0_freebsd_arm64.zip",
+          "shasum": "c32b58f0f6b314985d7db90210c4ef6ade9ffaaa2afd8d3bbdce4d13e1d543a7",
+          "h1": "h1:mA9mFkDiA28yRQr1z+2+ioTui6dc0FuEgeVX4LGLLFw="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-akamai_10.0.0_linux_386.zip",
+          "download_url": "https://github.com/akamai/terraform-provider-akamai/releases/download/v10.0.0/terraform-provider-akamai_10.0.0_linux_386.zip",
+          "shasum": "75775d8364d82380c52bc1f2bec98be3c03372f6563ae8d511e5bdb741e2d682",
+          "h1": "h1:/MjjmTxZPtvnSK4OG6JQZ7qw3MTP1oPAglK5b6/yBm0="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-akamai_10.0.0_linux_amd64.zip",
+          "download_url": "https://github.com/akamai/terraform-provider-akamai/releases/download/v10.0.0/terraform-provider-akamai_10.0.0_linux_amd64.zip",
+          "shasum": "f20ca6e8898e6d6384dfe0a0a51b603b48db4d08ea1bff78bb219b4fdaa2c1e5",
+          "h1": "h1:8jQA1xgGqVYr0DXZ0njNP0zQSkOeamwZ6Xhn3SF46h4="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-akamai_10.0.0_linux_arm.zip",
+          "download_url": "https://github.com/akamai/terraform-provider-akamai/releases/download/v10.0.0/terraform-provider-akamai_10.0.0_linux_arm.zip",
+          "shasum": "f6965e92fcb289699ba024d9fdec80efb28bf110b6d73edadacf7a23fd7213cd",
+          "h1": "h1:VtadB7B68Jj96wdsXypCZZqGwXl2sZzvWPx9WzB7ON8="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-akamai_10.0.0_linux_arm64.zip",
+          "download_url": "https://github.com/akamai/terraform-provider-akamai/releases/download/v10.0.0/terraform-provider-akamai_10.0.0_linux_arm64.zip",
+          "shasum": "9e2d6eb58b528eae5f175a71492fbd9e79e549f377123ec9813edbabe02e1d1e",
+          "h1": "h1:C+4KKZ3mflwRi7aHajoxUwB1d5dqw2I7RoiIdBTZVBY="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-akamai_10.0.0_windows_386.zip",
+          "download_url": "https://github.com/akamai/terraform-provider-akamai/releases/download/v10.0.0/terraform-provider-akamai_10.0.0_windows_386.zip",
+          "shasum": "09666aa3ec7049cb1f740157c7eab8597b04b289776e021946aff97c9f49cea5",
+          "h1": "h1:3QE2ejB5JZdDQnqvELh2gIwdRxmWr7D319QPGgHT9II="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-akamai_10.0.0_windows_amd64.zip",
+          "download_url": "https://github.com/akamai/terraform-provider-akamai/releases/download/v10.0.0/terraform-provider-akamai_10.0.0_windows_amd64.zip",
+          "shasum": "ca05e43f003dfe788180b84eb49bd084275fac02eb2dd58d0df4218a7ab50d77",
+          "h1": "h1:JIH1oxcYZqeDftoUg/T9z21C89nXq6vJYqgceEbj9HY="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-akamai_10.0.0_windows_arm.zip",
+          "download_url": "https://github.com/akamai/terraform-provider-akamai/releases/download/v10.0.0/terraform-provider-akamai_10.0.0_windows_arm.zip",
+          "shasum": "c475ae5a9faf086e1157128f8f0e1c082d98f94628892b2d0a3254d710df6d82",
+          "h1": "h1:w1iNKbDD3vGi3qqofxMBPmW8HNa15Ac4PyIqiq4rHFY="
+        }
+      ]
+    },
+    {
       "version": "9.3.0",
       "protocols": [
         "6.0"
