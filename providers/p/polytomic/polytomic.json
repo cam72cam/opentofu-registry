@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.3.2",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/polytomic/terraform-provider-polytomic/releases/download/v1.3.2/terraform-provider-polytomic_1.3.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/polytomic/terraform-provider-polytomic/releases/download/v1.3.2/terraform-provider-polytomic_1.3.2_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-polytomic_1.3.2_darwin_amd64.zip",
+          "download_url": "https://github.com/polytomic/terraform-provider-polytomic/releases/download/v1.3.2/terraform-provider-polytomic_1.3.2_darwin_amd64.zip",
+          "shasum": "6e9d46b2361d74094b2f754f804a52e2259405d777dc92baca939ce739eafdf6",
+          "h1": "h1:CgDAn+NJACwXXUbmNQEQzqZd8jWkQ/jBpzift+bOm8Q="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-polytomic_1.3.2_darwin_arm64.zip",
+          "download_url": "https://github.com/polytomic/terraform-provider-polytomic/releases/download/v1.3.2/terraform-provider-polytomic_1.3.2_darwin_arm64.zip",
+          "shasum": "8b841bac8d15d594439ef3ae911fe8c39f0fb98b9c19305906f102402a2c1d47",
+          "h1": "h1:S+4ltvbqgSUYRS7vf/x8/P0hY9cuxbR6yYxy3RdS1Dc="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-polytomic_1.3.2_freebsd_386.zip",
+          "download_url": "https://github.com/polytomic/terraform-provider-polytomic/releases/download/v1.3.2/terraform-provider-polytomic_1.3.2_freebsd_386.zip",
+          "shasum": "ada2da30376ac755cac1d64c130c20dbd13b1b7727d542f998544ed146428229",
+          "h1": "h1:n1PsWZx4n89mkQc85XnrLjZ9PCjZRIea/JoXItk4iZE="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-polytomic_1.3.2_freebsd_amd64.zip",
+          "download_url": "https://github.com/polytomic/terraform-provider-polytomic/releases/download/v1.3.2/terraform-provider-polytomic_1.3.2_freebsd_amd64.zip",
+          "shasum": "d6e6aa3cf22271b6b50efd0cbfb5975d78cd28859450b0043bbf67c309c7a959",
+          "h1": "h1:c6ckRFMjVnEbWztD0ZOiRC9EgDQUuruNa4ypcO6l5hw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-polytomic_1.3.2_freebsd_arm.zip",
+          "download_url": "https://github.com/polytomic/terraform-provider-polytomic/releases/download/v1.3.2/terraform-provider-polytomic_1.3.2_freebsd_arm.zip",
+          "shasum": "39e2c6927a09aa88947576087657019fdfb56756f7e5d15369963cce991fb08d",
+          "h1": "h1:YJJ0LJb+0CUDuzRDIG4OF5wmKZNFMG9HMcbz4OT6KIQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-polytomic_1.3.2_freebsd_arm64.zip",
+          "download_url": "https://github.com/polytomic/terraform-provider-polytomic/releases/download/v1.3.2/terraform-provider-polytomic_1.3.2_freebsd_arm64.zip",
+          "shasum": "3e52e028f0ebe2faddb0e6f05f3b9e7376fd85c3126f45c080e8459123ae3bd3",
+          "h1": "h1:f1eDpc7wp5ArKZCQQZzV0h41zit8YLwIMTnqAQqywdk="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-polytomic_1.3.2_linux_386.zip",
+          "download_url": "https://github.com/polytomic/terraform-provider-polytomic/releases/download/v1.3.2/terraform-provider-polytomic_1.3.2_linux_386.zip",
+          "shasum": "2333cd81ffba60cbce2bba5b88ec5b992412c9d0a628e93a24ef262c5cc4fa00",
+          "h1": "h1:TXguwil6Uzt1nYQTocMGR9t11bYMQ5b7EGmF5ssDVGA="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-polytomic_1.3.2_linux_amd64.zip",
+          "download_url": "https://github.com/polytomic/terraform-provider-polytomic/releases/download/v1.3.2/terraform-provider-polytomic_1.3.2_linux_amd64.zip",
+          "shasum": "887d268cffb8fe800e50f9aa63d4f64d2c1e6a1c708e2540ef4b096df1ddf206",
+          "h1": "h1:lY7rV+8H0dEkqgjnn5T/q0wFkN4u5wxdgCcTSh5GTWA="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-polytomic_1.3.2_linux_arm.zip",
+          "download_url": "https://github.com/polytomic/terraform-provider-polytomic/releases/download/v1.3.2/terraform-provider-polytomic_1.3.2_linux_arm.zip",
+          "shasum": "d3c721aa02c4690b83d626d0e8e751ccb64fbb97c3471d59ce4e3ad1d323468d",
+          "h1": "h1:dZkjVxFFJil8fMgxgsfxHS2/QMl2xBhzwqoifdNtYEA="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-polytomic_1.3.2_linux_arm64.zip",
+          "download_url": "https://github.com/polytomic/terraform-provider-polytomic/releases/download/v1.3.2/terraform-provider-polytomic_1.3.2_linux_arm64.zip",
+          "shasum": "7d8830ca806c64fd5f6520cf654b43276377c25185f8d0400560557c62552696",
+          "h1": "h1:ezK9fIAdYaM2SYKfpTxV71jQzbkwdpJJq/SKO5F+f/4="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-polytomic_1.3.2_windows_386.zip",
+          "download_url": "https://github.com/polytomic/terraform-provider-polytomic/releases/download/v1.3.2/terraform-provider-polytomic_1.3.2_windows_386.zip",
+          "shasum": "96be54a223fb0871d63b7b49fa4465594c0b08f9869323f3271ebdc8f5883ac8",
+          "h1": "h1:LFgVLwYIW9hlahOZN/C3EneLzraZdnRr+VOT2+3BBV8="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-polytomic_1.3.2_windows_amd64.zip",
+          "download_url": "https://github.com/polytomic/terraform-provider-polytomic/releases/download/v1.3.2/terraform-provider-polytomic_1.3.2_windows_amd64.zip",
+          "shasum": "2e956afe36e66edc8957c9b55056b71efb04b0e965151b231e1c30700c7d1a5c",
+          "h1": "h1:REg6RxKprz9VHuiAndeYd0iSVRQBhi2xwmBqrSPulsU="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-polytomic_1.3.2_windows_arm.zip",
+          "download_url": "https://github.com/polytomic/terraform-provider-polytomic/releases/download/v1.3.2/terraform-provider-polytomic_1.3.2_windows_arm.zip",
+          "shasum": "ba8fe41a69186a415d7efc451b85d9c942bdb65994b5c1b290a654bf61e3c7a3",
+          "h1": "h1:QwoD12BG5MUotc8slPjnvpjEmlED6sHd6uHcgogdBL0="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-polytomic_1.3.2_windows_arm64.zip",
+          "download_url": "https://github.com/polytomic/terraform-provider-polytomic/releases/download/v1.3.2/terraform-provider-polytomic_1.3.2_windows_arm64.zip",
+          "shasum": "01b04d238751b4db0886e513dbca2c0eed348ad19c8eecb3fb2abf235073e3ab",
+          "h1": "h1:jtmTnUiQwdoj4K++Y+eH0CRSUjGtn6BNnebTbqdHbPs="
+        }
+      ]
+    },
+    {
       "version": "1.3.1",
       "protocols": [
         "6.0"
