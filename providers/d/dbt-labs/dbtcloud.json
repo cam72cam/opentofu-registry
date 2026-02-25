@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.8.2",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/dbt-labs/terraform-provider-dbtcloud/releases/download/v1.8.2/terraform-provider-dbtcloud_1.8.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/dbt-labs/terraform-provider-dbtcloud/releases/download/v1.8.2/terraform-provider-dbtcloud_1.8.2_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-dbtcloud_1.8.2_darwin_amd64.zip",
+          "download_url": "https://github.com/dbt-labs/terraform-provider-dbtcloud/releases/download/v1.8.2/terraform-provider-dbtcloud_1.8.2_darwin_amd64.zip",
+          "shasum": "926cca7812b272ab976ce49c0858de78bd5c4c6fcffe16cb2d33cdce63522bc2",
+          "h1": "h1:ASwPE1I3U7cufOLFvGV+yHmV4/24y2Jrmt8V3Pn9lEY="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-dbtcloud_1.8.2_darwin_arm64.zip",
+          "download_url": "https://github.com/dbt-labs/terraform-provider-dbtcloud/releases/download/v1.8.2/terraform-provider-dbtcloud_1.8.2_darwin_arm64.zip",
+          "shasum": "ae927fc0b059c800b0342b6c6f7217dd191349334a6d6ed1cad578f13f64722c",
+          "h1": "h1:BIVjUC8FxluKSvwm2jvySD0AvSkFPKwGn/SHez082Oc="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-dbtcloud_1.8.2_freebsd_386.zip",
+          "download_url": "https://github.com/dbt-labs/terraform-provider-dbtcloud/releases/download/v1.8.2/terraform-provider-dbtcloud_1.8.2_freebsd_386.zip",
+          "shasum": "24b8175f22a97844000facea8742bd2f0ca5eedb214c900e6b50153308874e86",
+          "h1": "h1:HvTqwTIFZ8yrkDqO509svU8Mdwl5fkCC+BUkIS/71mk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-dbtcloud_1.8.2_freebsd_amd64.zip",
+          "download_url": "https://github.com/dbt-labs/terraform-provider-dbtcloud/releases/download/v1.8.2/terraform-provider-dbtcloud_1.8.2_freebsd_amd64.zip",
+          "shasum": "b0e484d5c2dc79b1f573aa3bdac4150a2b4094b6fd9c92033b855e7b8f07045c",
+          "h1": "h1:mVr7tgbvIbF8m6Y5bJ0H9Zlj/KdFJzemSsmXZMPp6m8="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-dbtcloud_1.8.2_freebsd_arm.zip",
+          "download_url": "https://github.com/dbt-labs/terraform-provider-dbtcloud/releases/download/v1.8.2/terraform-provider-dbtcloud_1.8.2_freebsd_arm.zip",
+          "shasum": "8df586c709b83ca62056fd3d9ff5e9d73833acdcb3194d7e5bbc0cde98f87ed9",
+          "h1": "h1:rFKX09X9BgoNeVnrDHXk78Jh9acJunyyWMIA3yl2jQI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-dbtcloud_1.8.2_freebsd_arm64.zip",
+          "download_url": "https://github.com/dbt-labs/terraform-provider-dbtcloud/releases/download/v1.8.2/terraform-provider-dbtcloud_1.8.2_freebsd_arm64.zip",
+          "shasum": "26ef5f40358401f7fadae72b16782d0a8a8761af325aac17b5507234148c19f9",
+          "h1": "h1:gyiO4zX/bkIqinS6T18t/E4fdbIRVb8o72tkaBcjaDI="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-dbtcloud_1.8.2_linux_386.zip",
+          "download_url": "https://github.com/dbt-labs/terraform-provider-dbtcloud/releases/download/v1.8.2/terraform-provider-dbtcloud_1.8.2_linux_386.zip",
+          "shasum": "192bc343bfe193d79b4f2e5d5340a44230e169670d190c7034c7db67fd97b3e7",
+          "h1": "h1:JazoqDeZGqOwPSP9sHNuEvIC4Y/kbq9k/vT3hnH8J8U="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-dbtcloud_1.8.2_linux_amd64.zip",
+          "download_url": "https://github.com/dbt-labs/terraform-provider-dbtcloud/releases/download/v1.8.2/terraform-provider-dbtcloud_1.8.2_linux_amd64.zip",
+          "shasum": "f96b0ce96fe679653e5dd3820f15e7916855ce8deb832f6b92befedc2387f1f6",
+          "h1": "h1:IpC3g4srpeI3iJ5GL3GcxSMO/+XHBktS/zumEm/8xbc="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-dbtcloud_1.8.2_linux_arm.zip",
+          "download_url": "https://github.com/dbt-labs/terraform-provider-dbtcloud/releases/download/v1.8.2/terraform-provider-dbtcloud_1.8.2_linux_arm.zip",
+          "shasum": "0c30dd1d7ac516efe921362143c0372b2dedab59950662c08513c8c1e0430ee4",
+          "h1": "h1:n7CbezXT7z054tn+EKsLiqk13K9OLOEWAVX2YuelbvE="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-dbtcloud_1.8.2_linux_arm64.zip",
+          "download_url": "https://github.com/dbt-labs/terraform-provider-dbtcloud/releases/download/v1.8.2/terraform-provider-dbtcloud_1.8.2_linux_arm64.zip",
+          "shasum": "9071202c4b459dd28fa792a62e229815bae41d637428fa66dca5eb7fa0fc5801",
+          "h1": "h1:3Hw1in/qcHdAp2BRhEaFRr/ez9lFjBv3V5WIUxHXcSs="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-dbtcloud_1.8.2_windows_386.zip",
+          "download_url": "https://github.com/dbt-labs/terraform-provider-dbtcloud/releases/download/v1.8.2/terraform-provider-dbtcloud_1.8.2_windows_386.zip",
+          "shasum": "020e8c80eb8973ac0571b8cb2c990d76c82d2032f590ffaec418fc6728a48594",
+          "h1": "h1:VSJujXB+mFEISCfhZjECt4M13BacCT0e82aQ9mfIO+E="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-dbtcloud_1.8.2_windows_amd64.zip",
+          "download_url": "https://github.com/dbt-labs/terraform-provider-dbtcloud/releases/download/v1.8.2/terraform-provider-dbtcloud_1.8.2_windows_amd64.zip",
+          "shasum": "7b9cd9637bf607854dfdeceab06dd361686f54864050cfb770d4214a2d0265db",
+          "h1": "h1:WdIX94cFWzBKK3R3BMhziaimJ3flyZlOgcQmkBCGuls="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-dbtcloud_1.8.2_windows_arm.zip",
+          "download_url": "https://github.com/dbt-labs/terraform-provider-dbtcloud/releases/download/v1.8.2/terraform-provider-dbtcloud_1.8.2_windows_arm.zip",
+          "shasum": "01df4a2592c7d66152aa18bae2fb6abcca205f2c0d75486a67e3c8307ea70af2",
+          "h1": "h1:5TGHpfi+/7K9gC84RMJyqr3JGSqLXd4hgJeRd8vSNFI="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-dbtcloud_1.8.2_windows_arm64.zip",
+          "download_url": "https://github.com/dbt-labs/terraform-provider-dbtcloud/releases/download/v1.8.2/terraform-provider-dbtcloud_1.8.2_windows_arm64.zip",
+          "shasum": "8e561719c50ae83caefa0dd8ebf3cf4907a512d1be90ecb80eb5db6593f9e9b2",
+          "h1": "h1:TTd1QcE5b1uBMVF3jT3BlDVPjN10/vov/AyJ70G35Tw="
+        }
+      ]
+    },
+    {
       "version": "1.8.1",
       "protocols": [
         "5.0"
