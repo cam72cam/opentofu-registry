@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.10.7",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/myklst/terraform-provider-st-cdnetworks/releases/download/v0.10.7/terraform-provider-st-cdnetworks_0.10.7_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/myklst/terraform-provider-st-cdnetworks/releases/download/v0.10.7/terraform-provider-st-cdnetworks_0.10.7_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-st-cdnetworks_0.10.7_darwin_amd64.zip",
+          "download_url": "https://github.com/myklst/terraform-provider-st-cdnetworks/releases/download/v0.10.7/terraform-provider-st-cdnetworks_0.10.7_darwin_amd64.zip",
+          "shasum": "f98a9373227c9a9429853419f7a9ab2d34fb50978d96b2cef657f152671a53d1",
+          "h1": "h1:W+c86LR+TupucSDa99RnMJ+NxUOqWdPZlDau6Pv7iac="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-st-cdnetworks_0.10.7_darwin_arm64.zip",
+          "download_url": "https://github.com/myklst/terraform-provider-st-cdnetworks/releases/download/v0.10.7/terraform-provider-st-cdnetworks_0.10.7_darwin_arm64.zip",
+          "shasum": "6609ab56798d6d4cf33106ebd07c93713bf8baeefc7067332311c3c3b8b7cc01",
+          "h1": "h1:vmUfS31xdDnahVRcjUjf4P8b6LoDgSSfkqWdl4Ao/+0="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-st-cdnetworks_0.10.7_freebsd_386.zip",
+          "download_url": "https://github.com/myklst/terraform-provider-st-cdnetworks/releases/download/v0.10.7/terraform-provider-st-cdnetworks_0.10.7_freebsd_386.zip",
+          "shasum": "4760a473d514ef61f9dd2b34334174c124fa094f597d8a17b45672cda0a537d8",
+          "h1": "h1:RRFZVXoUlTszC8R2vQhAV+EE2iTBucKJ+3pq3movqWA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-st-cdnetworks_0.10.7_freebsd_amd64.zip",
+          "download_url": "https://github.com/myklst/terraform-provider-st-cdnetworks/releases/download/v0.10.7/terraform-provider-st-cdnetworks_0.10.7_freebsd_amd64.zip",
+          "shasum": "7f55af367fb0c3326d7e393f44fbc4824495eb038e1d85f4b656fca9c2d52e7b",
+          "h1": "h1:ZxDoFBxC3fBYAw1Xs16Ecas3D10U+6AfQtgukU8hHVw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-st-cdnetworks_0.10.7_freebsd_arm.zip",
+          "download_url": "https://github.com/myklst/terraform-provider-st-cdnetworks/releases/download/v0.10.7/terraform-provider-st-cdnetworks_0.10.7_freebsd_arm.zip",
+          "shasum": "9161e8ab9c86e9535980b1ff5895e0dea5f5136f8d929dcf4e58c862ae7b4f7e",
+          "h1": "h1:ZeSEvqNN/yJ6e7uk/eQF1eevYYPHBbj3p41biYoTlS8="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-st-cdnetworks_0.10.7_freebsd_arm64.zip",
+          "download_url": "https://github.com/myklst/terraform-provider-st-cdnetworks/releases/download/v0.10.7/terraform-provider-st-cdnetworks_0.10.7_freebsd_arm64.zip",
+          "shasum": "d32c42dd4830926755c4c8c8453b0572ae310a88792e1442ff0dc02a762b7b52",
+          "h1": "h1:XR3LHlNBG+H2Ng3HNZhQCn90BGAGAAJxXxcE/NNFIEQ="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-st-cdnetworks_0.10.7_linux_386.zip",
+          "download_url": "https://github.com/myklst/terraform-provider-st-cdnetworks/releases/download/v0.10.7/terraform-provider-st-cdnetworks_0.10.7_linux_386.zip",
+          "shasum": "fd19f3d55d0f361540c4ce91017cff6c22ba8b55c7299a7a8c63b5b5b8e0087b",
+          "h1": "h1:ak9Fi8xw7wb3rRQba0SgJwWUHPt57ZM2PiafQL925fc="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-st-cdnetworks_0.10.7_linux_amd64.zip",
+          "download_url": "https://github.com/myklst/terraform-provider-st-cdnetworks/releases/download/v0.10.7/terraform-provider-st-cdnetworks_0.10.7_linux_amd64.zip",
+          "shasum": "bdbd334ede2fc4ecd3a6617d782c56aa49d6dae12d65c62802b8cf30463af523",
+          "h1": "h1:mcJx+GNdWwqmGZoY/kitN1TEeKfS/ptWf88gxq8BhXg="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-st-cdnetworks_0.10.7_linux_arm.zip",
+          "download_url": "https://github.com/myklst/terraform-provider-st-cdnetworks/releases/download/v0.10.7/terraform-provider-st-cdnetworks_0.10.7_linux_arm.zip",
+          "shasum": "594ed7c9e70dbf3ccda38186a175bf76d7034d053689abfd8ff9316174f6f902",
+          "h1": "h1:UK8D3nGsAUUWVn7j71bIrFmFikxr1MKQ6jR4Novm1V0="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-st-cdnetworks_0.10.7_linux_arm64.zip",
+          "download_url": "https://github.com/myklst/terraform-provider-st-cdnetworks/releases/download/v0.10.7/terraform-provider-st-cdnetworks_0.10.7_linux_arm64.zip",
+          "shasum": "527f3d79bf9e4716fac80c29971b7d7fdcae6d123c125ad5fa965916c224feca",
+          "h1": "h1:+mOy0c1tL4p0yd/maCV+tAUQsGsJjc/eDlSbbZDyDQM="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-st-cdnetworks_0.10.7_windows_386.zip",
+          "download_url": "https://github.com/myklst/terraform-provider-st-cdnetworks/releases/download/v0.10.7/terraform-provider-st-cdnetworks_0.10.7_windows_386.zip",
+          "shasum": "3ccff9896694e6f41237ee31868e37511575c17556d67098fc883c5895dded4a",
+          "h1": "h1:5kUle4iWwyUTlTjOQp+uW/gjyF/IKd0vDFCgw4Mhhqk="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-st-cdnetworks_0.10.7_windows_amd64.zip",
+          "download_url": "https://github.com/myklst/terraform-provider-st-cdnetworks/releases/download/v0.10.7/terraform-provider-st-cdnetworks_0.10.7_windows_amd64.zip",
+          "shasum": "cad5a7aa9b1dae3b97634852b114038b98128db47ff9fb53599b8bb4f1a2ddfa",
+          "h1": "h1:3duZg/Jb7shWclIVz8BZhuaxPYR9TTVb9WQmiEnF1sQ="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-st-cdnetworks_0.10.7_windows_arm.zip",
+          "download_url": "https://github.com/myklst/terraform-provider-st-cdnetworks/releases/download/v0.10.7/terraform-provider-st-cdnetworks_0.10.7_windows_arm.zip",
+          "shasum": "00b7d1857db41b1e167c58c88aadcf1696a885ba9ac700090800a0bbd078daf1",
+          "h1": "h1:tHe3fMvyqffroAcdbLbTsxNTMBMhqm34uaKpPOmDNmI="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-st-cdnetworks_0.10.7_windows_arm64.zip",
+          "download_url": "https://github.com/myklst/terraform-provider-st-cdnetworks/releases/download/v0.10.7/terraform-provider-st-cdnetworks_0.10.7_windows_arm64.zip",
+          "shasum": "9e3f8a7f1718836fa4ffda3ca6c415b1205a950b7822d0b54a775afff9ae47a1",
+          "h1": "h1:xeGIPCFqy9ejHcKCdrln14dbXt4ayDPqLN5l3d+Z6D8="
+        }
+      ]
+    },
+    {
       "version": "0.10.6",
       "protocols": [
         "6.0"
