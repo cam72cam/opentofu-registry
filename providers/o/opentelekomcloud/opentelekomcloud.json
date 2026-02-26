@@ -1,6 +1,96 @@
 {
   "versions": [
     {
+      "version": "1.36.60",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud/releases/download/v1.36.60/terraform-provider-opentelekomcloud_1.36.60_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud/releases/download/v1.36.60/terraform-provider-opentelekomcloud_1.36.60_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-opentelekomcloud_1.36.60_darwin_amd64.zip",
+          "download_url": "https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud/releases/download/v1.36.60/terraform-provider-opentelekomcloud_1.36.60_darwin_amd64.zip",
+          "shasum": "6ecb55b247354cf9138b3166abb060afff21325aa3978198534a66985111f55b",
+          "h1": "h1:EdkvGCfjBVJoTBZrGI+z0UfsnLqpqfWtOAFHut4zSrs="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-opentelekomcloud_1.36.60_darwin_arm64.zip",
+          "download_url": "https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud/releases/download/v1.36.60/terraform-provider-opentelekomcloud_1.36.60_darwin_arm64.zip",
+          "shasum": "1867efb2193fa096bf30f739ea3ee03d06f09dcaf4569a353bb66cc53f11af8c",
+          "h1": "h1:mTQlotEX/vOrzitsQ+ZX9qoSX9nnQKGFuWBAXeatZtI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-opentelekomcloud_1.36.60_freebsd_386.zip",
+          "download_url": "https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud/releases/download/v1.36.60/terraform-provider-opentelekomcloud_1.36.60_freebsd_386.zip",
+          "shasum": "a966e8a6e826ca038500725ce73280c5f106920b7dc755cf26e96ccef44802b6",
+          "h1": "h1:GVT2a2SGmgcb3w7LIq3s8E/8Mom6pE1ihR6waLAZo2s="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-opentelekomcloud_1.36.60_freebsd_amd64.zip",
+          "download_url": "https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud/releases/download/v1.36.60/terraform-provider-opentelekomcloud_1.36.60_freebsd_amd64.zip",
+          "shasum": "9782325ef5cede5a26b281cdca232fa6ca27efbdf121e0720359d29cf6696ded",
+          "h1": "h1:GIfdjPQ1c2fOm1Y+YR/s+pDWVMsn3p0QtMx3BEwNJNc="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-opentelekomcloud_1.36.60_linux_386.zip",
+          "download_url": "https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud/releases/download/v1.36.60/terraform-provider-opentelekomcloud_1.36.60_linux_386.zip",
+          "shasum": "9e30c5fb281208f7bd4fbb2d9d1a8bc78791dfcacf7b67c29f62ed75352523aa",
+          "h1": "h1:fT94ACNt7pDEQpEO1ASEU22kWXQYwclkJtIFu9VkFYU="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-opentelekomcloud_1.36.60_linux_amd64.zip",
+          "download_url": "https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud/releases/download/v1.36.60/terraform-provider-opentelekomcloud_1.36.60_linux_amd64.zip",
+          "shasum": "f4dfffb4d3fea3c4f928e4432221f8377cdc05a4143234c04bde3cd0c0018ac6",
+          "h1": "h1:0foOMIgtmpBk4ywJNI0mKQi+kLuwlXX8Iohv24M3Luw="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-opentelekomcloud_1.36.60_linux_arm.zip",
+          "download_url": "https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud/releases/download/v1.36.60/terraform-provider-opentelekomcloud_1.36.60_linux_arm.zip",
+          "shasum": "8e2977860a8597681aaef51db9e239ca20b75aefdc89fcb46f01ef5808c48d40",
+          "h1": "h1:GN611r3/rZANjrWtcLg5tDa6vqu1AY0h0iR2u1OueEI="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-opentelekomcloud_1.36.60_linux_arm64.zip",
+          "download_url": "https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud/releases/download/v1.36.60/terraform-provider-opentelekomcloud_1.36.60_linux_arm64.zip",
+          "shasum": "9050040aeb2372aabcff2edf9161551e868a603a657c69ecbe0c46922fd53fb7",
+          "h1": "h1:F2PCgxDgmHxwE6yV2H0v2IZqNOe6i3voLItnrn7DX1A="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-opentelekomcloud_1.36.60_windows_386.zip",
+          "download_url": "https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud/releases/download/v1.36.60/terraform-provider-opentelekomcloud_1.36.60_windows_386.zip",
+          "shasum": "71f05a70fafd20b54aaac59ecc6262ae8a8bd487b047b971c71c3f081774c32e",
+          "h1": "h1:T7UZ9F8dt25hnHaYvU9PGkZ0gyIstyFLIyhhd5V2B8s="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-opentelekomcloud_1.36.60_windows_amd64.zip",
+          "download_url": "https://github.com/opentelekomcloud/terraform-provider-opentelekomcloud/releases/download/v1.36.60/terraform-provider-opentelekomcloud_1.36.60_windows_amd64.zip",
+          "shasum": "99314e49e71ae014eaf54198480d13813d832777f5cae9dcb2a61ce3aebbc6fe",
+          "h1": "h1:Ui9ihZRiclNpDXj8NWxCFWfw8RZi7JNnqYX6Mfov26E="
+        }
+      ]
+    },
+    {
       "version": "1.36.59",
       "protocols": [
         "5.0"
