@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.46.1",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.46.1/terraform-provider-nobl9_0.46.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.46.1/terraform-provider-nobl9_0.46.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-nobl9_0.46.1_darwin_amd64.zip",
+          "download_url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.46.1/terraform-provider-nobl9_0.46.1_darwin_amd64.zip",
+          "shasum": "48ed8a59eabea6b03e78125efaa8024165978971d5c456be433388506450989d",
+          "h1": "h1:Jpeh/PmQ4HYxePSbmDnrHlKHTwvmK+vwrYck51uU7G0="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-nobl9_0.46.1_darwin_arm64.zip",
+          "download_url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.46.1/terraform-provider-nobl9_0.46.1_darwin_arm64.zip",
+          "shasum": "9900c8f24a38a51f49594b1d6a3fe88b7e92e2ae13e0f0354f847805767d0ea7",
+          "h1": "h1:SkK2MKJFOSoq5UcM8kei7WnHDJmE9ABpdW2Fim8khg0="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-nobl9_0.46.1_freebsd_386.zip",
+          "download_url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.46.1/terraform-provider-nobl9_0.46.1_freebsd_386.zip",
+          "shasum": "4d77eaac0e640ac06925746dcf145ef49b58de0793d6e264039576d683139d05",
+          "h1": "h1:siHv7/YEUjVd6CkCteRbOF52p3V9lOEbQni5BNMHiYU="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-nobl9_0.46.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.46.1/terraform-provider-nobl9_0.46.1_freebsd_amd64.zip",
+          "shasum": "b74ff72db959125dbbcb59e1ef85b462b16e35027555efc866cbe4afd3371d5e",
+          "h1": "h1:lXRoCCX8UaHKZ9wAzVEVhCSR6/+QY16O77mtyYIhNOE="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-nobl9_0.46.1_freebsd_arm.zip",
+          "download_url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.46.1/terraform-provider-nobl9_0.46.1_freebsd_arm.zip",
+          "shasum": "4daaac2f6e0c35efa5c6d7c122704907515da169e452792603810f9cbdbb7dfd",
+          "h1": "h1:YsGET6UNDJLIfAWQJIsTP1XPq7uXJ5LT321yhFb+yN0="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-nobl9_0.46.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.46.1/terraform-provider-nobl9_0.46.1_freebsd_arm64.zip",
+          "shasum": "d9646fee08666c9261500ec85d6676060b7077f811f183badab2e4d7536a86a9",
+          "h1": "h1:qqWhlDkcYA+OEJVWiDnF6HwBsLdOS7M2/f2fkFQCqQY="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-nobl9_0.46.1_linux_386.zip",
+          "download_url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.46.1/terraform-provider-nobl9_0.46.1_linux_386.zip",
+          "shasum": "dbc1c0fefc58268baa6211b44b0f883b791f2b291a9ae7aa148322ca338e5f60",
+          "h1": "h1:CYqrOJtN/b77l/1JP15A9e3dl0gE+O3tS70muJiNyBk="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-nobl9_0.46.1_linux_amd64.zip",
+          "download_url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.46.1/terraform-provider-nobl9_0.46.1_linux_amd64.zip",
+          "shasum": "14a0c966c8faf97774936b67dc8261ca975a5afeba82b2196025b5358fc2d5db",
+          "h1": "h1:/9w3+hyEAIQShnSitUHnYGtYiAI8aDkAe5g2RqUizS0="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-nobl9_0.46.1_linux_arm.zip",
+          "download_url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.46.1/terraform-provider-nobl9_0.46.1_linux_arm.zip",
+          "shasum": "290e0553c046a236621026b1e5af0d9ef228d55583be1acd0d0c0e849688e809",
+          "h1": "h1:vOtzUIwVLfonvc4mJ4Aq9k1K6SmXiy/015uJkkwLUNg="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-nobl9_0.46.1_linux_arm64.zip",
+          "download_url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.46.1/terraform-provider-nobl9_0.46.1_linux_arm64.zip",
+          "shasum": "268d1d3b388be1ed1a1ca0f39a27952af60868be1d37cb272eb90ebf2335fa92",
+          "h1": "h1:9PJxZigUbyf4wH6Kv6OlOeBodY8it+V9LUsNK0RAPBk="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-nobl9_0.46.1_windows_386.zip",
+          "download_url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.46.1/terraform-provider-nobl9_0.46.1_windows_386.zip",
+          "shasum": "122b26bb905899fb78d919ef702161ab55cdfd3ab9106ff483b379699c53d96c",
+          "h1": "h1:OPMTi9xjYdpxX/M/lOI9IGKoVQ+2FpHth2HiYjdhUKI="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-nobl9_0.46.1_windows_amd64.zip",
+          "download_url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.46.1/terraform-provider-nobl9_0.46.1_windows_amd64.zip",
+          "shasum": "cefdd3f4e14d7023705528e0b9bf3727ab63eabb0cfd92f903805f03d484b704",
+          "h1": "h1:jJvdrABPQ9YTGisiZmJ4/T3bjxnyHZGxiMgHAQJFnUQ="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-nobl9_0.46.1_windows_arm.zip",
+          "download_url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.46.1/terraform-provider-nobl9_0.46.1_windows_arm.zip",
+          "shasum": "610f6de362e9bacc65a04460ab13f88d501fa26bd87bbaac845bd24e8fd36f90",
+          "h1": "h1:tiDoRZ/geIX6hWTwC9RCEtkawGxxe7vB8a9kdYwvoeM="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-nobl9_0.46.1_windows_arm64.zip",
+          "download_url": "https://github.com/nobl9/terraform-provider-nobl9/releases/download/v0.46.1/terraform-provider-nobl9_0.46.1_windows_arm64.zip",
+          "shasum": "07eb863f69f77175b164e04b74b8197d923fe32fc0445aa1271745d53034bc07",
+          "h1": "h1:3dVZviAi9s+2jf7qUNgBK/1cmL+lytE9erBkWh6mlHk="
+        }
+      ]
+    },
+    {
       "version": "0.46.0",
       "protocols": [
         "6.0"
