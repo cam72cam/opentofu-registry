@@ -1,6 +1,112 @@
 {
   "versions": [
     {
+      "version": "0.9.20",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.20/terraform-provider-aptible_0.9.20_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.20/terraform-provider-aptible_0.9.20_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-aptible_0.9.20_darwin_amd64.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.20/terraform-provider-aptible_0.9.20_darwin_amd64.zip",
+          "shasum": "801e6d4b58e5685ad7a7115d7cf6ded3fd0bf48b18c832bfcc468afe83927ff6",
+          "h1": "h1:6+UvdVPIw5mgQC5Y+TCBP14cOTRi3Uf/mWsq2NDCe48="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-aptible_0.9.20_darwin_arm64.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.20/terraform-provider-aptible_0.9.20_darwin_arm64.zip",
+          "shasum": "6de3d2ccae823951c1daa047240bd889d4ea9c0c92fb9d104bf9148c8efe74db",
+          "h1": "h1:cKC8SIGryqSCjIbbzd1EPJl8y7QKq9/925tlEZHSm9E="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-aptible_0.9.20_freebsd_386.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.20/terraform-provider-aptible_0.9.20_freebsd_386.zip",
+          "shasum": "b7740a10e80cf0263de738ee87b4cd5748d7ea348bbd02dad423e0c730ca2fcb",
+          "h1": "h1:ZtOzkykYR4jKBkksHwBEdzKxvAPMwEeDtGPrHGogJSY="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-aptible_0.9.20_freebsd_amd64.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.20/terraform-provider-aptible_0.9.20_freebsd_amd64.zip",
+          "shasum": "aa1709924aab7acaf68584642192e55655cdb473c6903273de9b08ec3d7b9009",
+          "h1": "h1:tSNiqmk6RnL21JBcbSslN5Hu8HI1RFKVq+RbsUMplAg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-aptible_0.9.20_freebsd_arm.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.20/terraform-provider-aptible_0.9.20_freebsd_arm.zip",
+          "shasum": "c81710beee7b221c48734e7a4447abb1de65326c358c1deaeee7d8b36d2e6ac1",
+          "h1": "h1:lh7A3WTnTLm9VzL6yu/xhXIouqdALSDEi/xsPy1xbRQ="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-aptible_0.9.20_linux_386.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.20/terraform-provider-aptible_0.9.20_linux_386.zip",
+          "shasum": "ea065f0a3d4df7cfe51fa1681eafa96139d4561dab99c03e78d87d94561ff90f",
+          "h1": "h1:gwBc6foHUjpHk1+MntV4Lo/W0+UdwNiSeNubYuNTutY="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-aptible_0.9.20_linux_amd64.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.20/terraform-provider-aptible_0.9.20_linux_amd64.zip",
+          "shasum": "240d546f0fdc135f6c3b42eed9b04144d074427c0e4162cd8b9ed4e99f9511a0",
+          "h1": "h1:jk8NX9k+7r5D8LATfzLn945WFoRCEAOOE+jyOAqJibE="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-aptible_0.9.20_linux_arm.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.20/terraform-provider-aptible_0.9.20_linux_arm.zip",
+          "shasum": "8154287e1498f292f28237f0c150408f755ff255251f756a922457be27e3dfef",
+          "h1": "h1:A+GaYFZqBzOhDF+fhxbOvpxz/p+AxEjvldZnOUcsQZ4="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-aptible_0.9.20_linux_arm64.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.20/terraform-provider-aptible_0.9.20_linux_arm64.zip",
+          "shasum": "19d72a9da8985c227917358e43b3ec7e8c45af22bb80c57c285d342d1164d7b2",
+          "h1": "h1:qPF1pxTWTIsYG3eUkqRlp+U3MOpM0Zw0LDzw8wHG5iU="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-aptible_0.9.20_windows_386.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.20/terraform-provider-aptible_0.9.20_windows_386.zip",
+          "shasum": "ff472c6fadddf91286f6d2306b4dfac4858cadd1cace5b9190948a625c964d94",
+          "h1": "h1:+Rtc/HmNsq1QEq92iYhKBtiW4TzLWCivdvl+S5tpY20="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-aptible_0.9.20_windows_amd64.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.20/terraform-provider-aptible_0.9.20_windows_amd64.zip",
+          "shasum": "a57cf1ba26ffcefd3dee4ca1a0f1f779db7e4b850a99e66ff92a562ac2f97b23",
+          "h1": "h1:Dht9pOCHc7FTh8eygc3ElAsJmGof00m6s2xGsnzXpOk="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-aptible_0.9.20_windows_arm.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.20/terraform-provider-aptible_0.9.20_windows_arm.zip",
+          "shasum": "fd96250a4e8c604b6268d798a5416666ec36b0045770f9a4d68e702755608a34",
+          "h1": "h1:Veuk96apehYYe5KjhypJWeg1pmxQEeBC0SjEq4UAFmg="
+        }
+      ]
+    },
+    {
       "version": "0.9.19",
       "protocols": [
         "5.0"
