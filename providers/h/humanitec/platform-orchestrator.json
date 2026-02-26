@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "2.14.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/humanitec/terraform-provider-platform-orchestrator/releases/download/v2.14.0/terraform-provider-platform-orchestrator_2.14.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/humanitec/terraform-provider-platform-orchestrator/releases/download/v2.14.0/terraform-provider-platform-orchestrator_2.14.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-platform-orchestrator_2.14.0_darwin_amd64.zip",
+          "download_url": "https://github.com/humanitec/terraform-provider-platform-orchestrator/releases/download/v2.14.0/terraform-provider-platform-orchestrator_2.14.0_darwin_amd64.zip",
+          "shasum": "db2223be07aba83e9179b133e549de80a891ab0598038c75cec1dde406fe0175",
+          "h1": "h1:Agkagh14uYNSr+HGqtne6CRT0hVsi/X9rtYoG5Li9pM="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-platform-orchestrator_2.14.0_darwin_arm64.zip",
+          "download_url": "https://github.com/humanitec/terraform-provider-platform-orchestrator/releases/download/v2.14.0/terraform-provider-platform-orchestrator_2.14.0_darwin_arm64.zip",
+          "shasum": "c90e26fdd694255ed468f7f956bb1c6c120622db7c7d2fdd505d0d4f954f4ed9",
+          "h1": "h1:L2uq/yeLmGkzseLEd2neU8OHOc6x0csbzxlm5zdjClA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-platform-orchestrator_2.14.0_freebsd_386.zip",
+          "download_url": "https://github.com/humanitec/terraform-provider-platform-orchestrator/releases/download/v2.14.0/terraform-provider-platform-orchestrator_2.14.0_freebsd_386.zip",
+          "shasum": "f34cdcdc3c73184be3f95a556df2154c94d9f0c2257e80a4583d008823780869",
+          "h1": "h1:YpEK2nw0MFWTJwFb0eyWIoaDqAfTWvAzVbDr8PKdmMc="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-platform-orchestrator_2.14.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/humanitec/terraform-provider-platform-orchestrator/releases/download/v2.14.0/terraform-provider-platform-orchestrator_2.14.0_freebsd_amd64.zip",
+          "shasum": "0196212a8a17d42406243b5b6776e83226cb30f01c3c08b89a49164315698fce",
+          "h1": "h1:6SNTG8dkUgCqddFnWyA9LljpjOCy119pdRMfz+apMcQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-platform-orchestrator_2.14.0_freebsd_arm.zip",
+          "download_url": "https://github.com/humanitec/terraform-provider-platform-orchestrator/releases/download/v2.14.0/terraform-provider-platform-orchestrator_2.14.0_freebsd_arm.zip",
+          "shasum": "23de3efce23c238ac0b5d2474fe9fe43ecf12ba713db6d8bc95fc2d79ccbcaaf",
+          "h1": "h1:FkHJKfZ8yJqLmqCc4cQcUQzHru3uW3HUmhPz50fkTDs="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-platform-orchestrator_2.14.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/humanitec/terraform-provider-platform-orchestrator/releases/download/v2.14.0/terraform-provider-platform-orchestrator_2.14.0_freebsd_arm64.zip",
+          "shasum": "7f3e48ae41e0d78ad8d97b3004a8e2cbf2d3dc22ebf9df9ee9a468e76ac739c1",
+          "h1": "h1:iNLhjAaAfEUGddmGhoLtxpQao7mpddP2mnSPkQpr6Tg="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-platform-orchestrator_2.14.0_linux_386.zip",
+          "download_url": "https://github.com/humanitec/terraform-provider-platform-orchestrator/releases/download/v2.14.0/terraform-provider-platform-orchestrator_2.14.0_linux_386.zip",
+          "shasum": "f24b5e4bc4f25e26a34aa0539047ca91d783368e0337dd9f817720353ea32750",
+          "h1": "h1:AdY03+OXeIuz7LWwbHURTZqS3Ijdy+9/1n2THXOMe4Y="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-platform-orchestrator_2.14.0_linux_amd64.zip",
+          "download_url": "https://github.com/humanitec/terraform-provider-platform-orchestrator/releases/download/v2.14.0/terraform-provider-platform-orchestrator_2.14.0_linux_amd64.zip",
+          "shasum": "0e5f3f0aa35533c5908742c82aa3e8235a776fb44aa24cb76885fa4975ffb3cc",
+          "h1": "h1:hB1ZW0W0gWXpKcFUWPCdmOcAaRYWxsW+LnPkwyWTtJ8="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-platform-orchestrator_2.14.0_linux_arm.zip",
+          "download_url": "https://github.com/humanitec/terraform-provider-platform-orchestrator/releases/download/v2.14.0/terraform-provider-platform-orchestrator_2.14.0_linux_arm.zip",
+          "shasum": "5ce00aa4e719ba6013e09971e797247368dfce385133d73ace12e6f75528d3aa",
+          "h1": "h1:4eLgdqmOsMwWhpxsaNTntM9YkTxp04PPAMEjCo30ZPg="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-platform-orchestrator_2.14.0_linux_arm64.zip",
+          "download_url": "https://github.com/humanitec/terraform-provider-platform-orchestrator/releases/download/v2.14.0/terraform-provider-platform-orchestrator_2.14.0_linux_arm64.zip",
+          "shasum": "ec0be4c25ecfabe142eb8b75d34e8f5a7ba20473f03ef8e7b9c5fa0d70d16236",
+          "h1": "h1:jkM/hNakPgVkrlbL2g1cixUwAq+zV9khjLoiI+jZrWc="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-platform-orchestrator_2.14.0_windows_386.zip",
+          "download_url": "https://github.com/humanitec/terraform-provider-platform-orchestrator/releases/download/v2.14.0/terraform-provider-platform-orchestrator_2.14.0_windows_386.zip",
+          "shasum": "ac15ce1478356617f54a43ca64461b157e0f04dc2b9af2cec927e417ae664d4a",
+          "h1": "h1:gTSqK+fWouYXkXKVtGJzuuiU5k9lqHueYhBzI2JweJg="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-platform-orchestrator_2.14.0_windows_amd64.zip",
+          "download_url": "https://github.com/humanitec/terraform-provider-platform-orchestrator/releases/download/v2.14.0/terraform-provider-platform-orchestrator_2.14.0_windows_amd64.zip",
+          "shasum": "608bd1941af4e69f08f3ad259ece072dfb7a176ea5030db5cb505c9f43021aef",
+          "h1": "h1:tt0aG893U8AwosCWiRHxbGiTtCcN6UrIsXDBfjVxf6M="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-platform-orchestrator_2.14.0_windows_arm.zip",
+          "download_url": "https://github.com/humanitec/terraform-provider-platform-orchestrator/releases/download/v2.14.0/terraform-provider-platform-orchestrator_2.14.0_windows_arm.zip",
+          "shasum": "92dccea4a468880568c9fcb8c1e1f0408a9878a68623a0cd46b6a959e16390ee",
+          "h1": "h1:1Sy8X+/V+++wNBmmhzvVH0uJ25vNAAXeDifzvLMPJI0="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-platform-orchestrator_2.14.0_windows_arm64.zip",
+          "download_url": "https://github.com/humanitec/terraform-provider-platform-orchestrator/releases/download/v2.14.0/terraform-provider-platform-orchestrator_2.14.0_windows_arm64.zip",
+          "shasum": "521be0f2521b213edadc63246fb8355a647e4bf8406104da94d18d24a5142614",
+          "h1": "h1:jqf0Ydbqdk1HHpvp4k+52jhL+lZCR+Rfwvl5KJLLeF0="
+        }
+      ]
+    },
+    {
       "version": "2.13.0",
       "protocols": [
         "6.0"
