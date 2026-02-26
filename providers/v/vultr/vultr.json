@@ -1,6 +1,144 @@
 {
   "versions": [
     {
+      "version": "2.30.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.30.0/terraform-provider-vultr_2.30.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.30.0/terraform-provider-vultr_2.30.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-vultr_2.30.0_darwin_amd64.zip",
+          "download_url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.30.0/terraform-provider-vultr_2.30.0_darwin_amd64.zip",
+          "shasum": "c75aad07299841206a1f3bab20c867a7196f5e715fd0249a8f868154633a7785",
+          "h1": "h1:u0bskwJJ2MRtW3SO4bLTdAc4rxJigY7oThQ5+i73XIM="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-vultr_2.30.0_darwin_arm64.zip",
+          "download_url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.30.0/terraform-provider-vultr_2.30.0_darwin_arm64.zip",
+          "shasum": "616c9ff2d08f5c1f523f4311788c5997c6a7db780fa053e748968b0753006a72",
+          "h1": "h1:MO3OutYD2ZXiLqqOLooMjK6Jxq7auXh012cebHOZWUE="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-vultr_2.30.0_freebsd_386.zip",
+          "download_url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.30.0/terraform-provider-vultr_2.30.0_freebsd_386.zip",
+          "shasum": "0891541fed97067f135cc4a0eb1995a070b15b9b06f88dab1c2e0eaa6c74374d",
+          "h1": "h1:Yw+dY1oG1d1Cw/nlD90nDykcg9W6A0LMEg045zzWIXM="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-vultr_2.30.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.30.0/terraform-provider-vultr_2.30.0_freebsd_amd64.zip",
+          "shasum": "d587accd5611addcce9d1c81d59b371d3142b7fe30a5c1134e22ffc043e8845d",
+          "h1": "h1:aLahhR9TJrbi0Gn7S0honb/MhzUJDMXwlCoGdbKf4Ts="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-vultr_2.30.0_freebsd_arm.zip",
+          "download_url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.30.0/terraform-provider-vultr_2.30.0_freebsd_arm.zip",
+          "shasum": "670cf51235750483b97436294b050d8ef90f73d6ff328645ef51f8cfcb31d216",
+          "h1": "h1:QqON4NBeFpiYO3fXnWw4smQuzzCSMa6r81yMsoa2OCM="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-vultr_2.30.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.30.0/terraform-provider-vultr_2.30.0_freebsd_arm64.zip",
+          "shasum": "9710e7f74b9343a3790951a6a9d6f426d60ced00d32da525fbd4e0d102ff44b4",
+          "h1": "h1:JHaSDcrK4Mcdjuj9WvriujqiumjJfW6iLXhDPMPKftE="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-vultr_2.30.0_linux_386.zip",
+          "download_url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.30.0/terraform-provider-vultr_2.30.0_linux_386.zip",
+          "shasum": "6dc7a85bbfd1ca67b2700f4f6f064dd3ea58ae5236057fdb2e8f8cd265f1520d",
+          "h1": "h1:yYbPRPEHc6I765/tVW127RcR2ondtpgPIWxM/k2DqgQ="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-vultr_2.30.0_linux_amd64.zip",
+          "download_url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.30.0/terraform-provider-vultr_2.30.0_linux_amd64.zip",
+          "shasum": "8c5c5570c79ac51eb0a97af4d06b4ccfd608838930dc28f6e0bc202f64c537bc",
+          "h1": "h1:/AY5EAZcmZkxjGNYByV7T/n2On6Y89LK8s7/VsGoGeU="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-vultr_2.30.0_linux_arm.zip",
+          "download_url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.30.0/terraform-provider-vultr_2.30.0_linux_arm.zip",
+          "shasum": "15d03668b35a2f4e29a99622efbe3eaa9b9782e6d1032d32ab87996a4079b68e",
+          "h1": "h1:+fUcpyZnZCVGSbYA2f/oIhBl1h7IJipfJw2l5QRKWOQ="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-vultr_2.30.0_linux_arm64.zip",
+          "download_url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.30.0/terraform-provider-vultr_2.30.0_linux_arm64.zip",
+          "shasum": "effbe794be59e3331a9faac8d3f39e5c6a97021dac2f297d951f65bb8dfe5579",
+          "h1": "h1:nuOAuV3E4AgkNQFHqca52fjdkikc9+MTjYPZhw2WBTc="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-vultr_2.30.0_windows_386.zip",
+          "download_url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.30.0/terraform-provider-vultr_2.30.0_windows_386.zip",
+          "shasum": "ce2ad5b4d6b6f8dc1315ee30659c269400847ed2e82c104897c3941e975e5adc",
+          "h1": "h1:eBzF+gty/uH41yOzJZMY3mTTOXaJ9/tgaziwhQevrV0="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-vultr_2.30.0_windows_amd64.zip",
+          "download_url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.30.0/terraform-provider-vultr_2.30.0_windows_amd64.zip",
+          "shasum": "3862a72bc202f67fbfa166df00e6e99d4a22e22ab106ee65f1b38fe07b78e3ad",
+          "h1": "h1:A5l9AfYCMK2NwNxR4io7SnKZroqf1ZDw0aCdEjbN/EU="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-vultr_2.30.0_windows_arm.zip",
+          "download_url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.30.0/terraform-provider-vultr_2.30.0_windows_arm.zip",
+          "shasum": "3c4c3d88f4c31af8dcb51352c987eddd55b631615e44a8e58c68e43f702f7482",
+          "h1": "h1:pGJPGgmPaYDxzi5WUDbHJ7wCdW+/l4vyk5jf5GJYdus="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-vultr_2.30.0_windows_arm64.zip",
+          "download_url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.30.0/terraform-provider-vultr_2.30.0_windows_arm64.zip",
+          "shasum": "bc15ac62296d43db2dfb5a6199af9a1a07157c5ed9e7e6daae5ac1a71a04822d",
+          "h1": "h1:FaVGmbUYNy6CvcJjiePb497hoQNtppEN1PhsMc20TBQ="
+        },
+        {
+          "os": "openbsd",
+          "arch": "386",
+          "filename": "terraform-provider-vultr_2.30.0_openbsd_386.zip",
+          "download_url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.30.0/terraform-provider-vultr_2.30.0_openbsd_386.zip",
+          "shasum": "81b85377525d543bb0c76f0e20c881c23df73181a5d27af21ae529a2a2882091",
+          "h1": "h1:zo6ey71AvemaT+BZu08n368hMljeExDxyeFrq8zovZw="
+        },
+        {
+          "os": "openbsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-vultr_2.30.0_openbsd_amd64.zip",
+          "download_url": "https://github.com/vultr/terraform-provider-vultr/releases/download/v2.30.0/terraform-provider-vultr_2.30.0_openbsd_amd64.zip",
+          "shasum": "c63f0b4ba50f943439ffd936a4542d5bdbf9a4b52bcfb48e213a1d53347c687e",
+          "h1": "h1:u1a+B4GI+abOkpECa4ERqoZpCugdFAA4dDo3OYdWgh4="
+        }
+      ]
+    },
+    {
       "version": "2.29.1",
       "protocols": [
         "5.0"
