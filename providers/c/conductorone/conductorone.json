@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.0.37",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/conductorone/terraform-provider-conductorone/releases/download/v1.0.37/terraform-provider-conductorone_1.0.37_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/conductorone/terraform-provider-conductorone/releases/download/v1.0.37/terraform-provider-conductorone_1.0.37_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-conductorone_1.0.37_darwin_amd64.zip",
+          "download_url": "https://github.com/conductorone/terraform-provider-conductorone/releases/download/v1.0.37/terraform-provider-conductorone_1.0.37_darwin_amd64.zip",
+          "shasum": "fae10282dfd7cd9322d91cbafd7a2769632390cc0edd14149c4a7a1651767a33",
+          "h1": "h1:1Ct6LNttZMx/DO9xiydfODaS30IzyJ7BbkN80lWHDOU="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-conductorone_1.0.37_darwin_arm64.zip",
+          "download_url": "https://github.com/conductorone/terraform-provider-conductorone/releases/download/v1.0.37/terraform-provider-conductorone_1.0.37_darwin_arm64.zip",
+          "shasum": "247ebe03fb84c1507c3ea24085c1088242cca3efb1dd033b2b8ed2dc80a01c6f",
+          "h1": "h1:7iwkTzpzkzSdyW6m0HBGxEaYeRA9PYxBKAlz14t6wKA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-conductorone_1.0.37_freebsd_386.zip",
+          "download_url": "https://github.com/conductorone/terraform-provider-conductorone/releases/download/v1.0.37/terraform-provider-conductorone_1.0.37_freebsd_386.zip",
+          "shasum": "d04647a1887c970fab52efcb83048a59f41dcdbca43b90c4160f95d38c614f7f",
+          "h1": "h1:6gQkdJ5Nc+jg+xXSGL7JBxqCcpvDYyZNC2Qxh2179hg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-conductorone_1.0.37_freebsd_amd64.zip",
+          "download_url": "https://github.com/conductorone/terraform-provider-conductorone/releases/download/v1.0.37/terraform-provider-conductorone_1.0.37_freebsd_amd64.zip",
+          "shasum": "5f1db61e7072b424cdfdd5dfb1399fd1d71e6c9252017ded14f07b30e75a424e",
+          "h1": "h1:4PIGxnbXeE1+UJvEvnKl5Yu5PNBC1dnWEtCUCiYtKkc="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-conductorone_1.0.37_freebsd_arm.zip",
+          "download_url": "https://github.com/conductorone/terraform-provider-conductorone/releases/download/v1.0.37/terraform-provider-conductorone_1.0.37_freebsd_arm.zip",
+          "shasum": "9c278ea035d82100d1b7387185391063ef01149f66caf8ec2cd3e221f04b4af8",
+          "h1": "h1:Uo5Q+StLlmahrC3+KRRiHjbTasj7IUz8IeWZSiH7mZQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-conductorone_1.0.37_freebsd_arm64.zip",
+          "download_url": "https://github.com/conductorone/terraform-provider-conductorone/releases/download/v1.0.37/terraform-provider-conductorone_1.0.37_freebsd_arm64.zip",
+          "shasum": "e99589e0668687dedfeca810d8511f8e57c20cb3410deec801d18aa37b6b4f4a",
+          "h1": "h1:Ycr00tfZEcdHld2oKVcTayvmv0ZaQWK2uJPUDNZZLvI="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-conductorone_1.0.37_linux_386.zip",
+          "download_url": "https://github.com/conductorone/terraform-provider-conductorone/releases/download/v1.0.37/terraform-provider-conductorone_1.0.37_linux_386.zip",
+          "shasum": "84c5625a648249a86d59df67310685f71619b55c0fee03927be80afd4225218b",
+          "h1": "h1:3r1o1qa48Bbl4duvreAKgOOqXTLgPzVlq0rJ9vxHd1k="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-conductorone_1.0.37_linux_amd64.zip",
+          "download_url": "https://github.com/conductorone/terraform-provider-conductorone/releases/download/v1.0.37/terraform-provider-conductorone_1.0.37_linux_amd64.zip",
+          "shasum": "c0342ccf3d083201bceab3ebeba88147940d2f960086f6fb640db0574f44c677",
+          "h1": "h1:2fX6bOm0VNrVFXB4Vo2s3RJgsDR6kMklGhKX2u18j4o="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-conductorone_1.0.37_linux_arm.zip",
+          "download_url": "https://github.com/conductorone/terraform-provider-conductorone/releases/download/v1.0.37/terraform-provider-conductorone_1.0.37_linux_arm.zip",
+          "shasum": "1a7dcd39cad284abbc64c8bffecab044fd1d500bb5477db1faf4ae27233cfb93",
+          "h1": "h1:dkQW2LIZ/KNPKjCV2RPwnv7NKNR8pNp7of274G/Ki+4="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-conductorone_1.0.37_linux_arm64.zip",
+          "download_url": "https://github.com/conductorone/terraform-provider-conductorone/releases/download/v1.0.37/terraform-provider-conductorone_1.0.37_linux_arm64.zip",
+          "shasum": "c9b523bb8bfd0cb81426a33f3f36727d8ad8aa03c92eb47cb31bf410cbae23f3",
+          "h1": "h1:+FCtinrF4/EE0rZYTmt5gY3N22MsLPL6P/nrcLCjUpo="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-conductorone_1.0.37_windows_386.zip",
+          "download_url": "https://github.com/conductorone/terraform-provider-conductorone/releases/download/v1.0.37/terraform-provider-conductorone_1.0.37_windows_386.zip",
+          "shasum": "cac6320ab9d18b6f268e0cc33f564e94c7fd436d865aeef38a0072e811a6c641",
+          "h1": "h1:Fc4Hjwdvdaoc3/mQ9Gh0060syVBcqyXwg/eJnmayL9U="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-conductorone_1.0.37_windows_amd64.zip",
+          "download_url": "https://github.com/conductorone/terraform-provider-conductorone/releases/download/v1.0.37/terraform-provider-conductorone_1.0.37_windows_amd64.zip",
+          "shasum": "6b80375f34ab2f16b22a0577967b472beb1768678514712beece023ca728b77b",
+          "h1": "h1:34+yjAyAPJ+59EAzLkUOfxNqkWpQsIcOnhuJ0SjIoh0="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-conductorone_1.0.37_windows_arm.zip",
+          "download_url": "https://github.com/conductorone/terraform-provider-conductorone/releases/download/v1.0.37/terraform-provider-conductorone_1.0.37_windows_arm.zip",
+          "shasum": "5325ca4884938a2e09230988c2eb9d1af95dff5e18e2a184443c7ab4deb4695d",
+          "h1": "h1:CyPUJch/1Z56cQ7YFm7M3EnVT1ACCMgnvd+U6g02LiA="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-conductorone_1.0.37_windows_arm64.zip",
+          "download_url": "https://github.com/conductorone/terraform-provider-conductorone/releases/download/v1.0.37/terraform-provider-conductorone_1.0.37_windows_arm64.zip",
+          "shasum": "0ad7e345fd794af377227ca7e3a821dfcfbaa2aa95c784bf595815e66c1af1a7",
+          "h1": "h1:6ueZ5uCCyF88gPCLORNzDJ8oX8Rnbo82Bt2+igtmS1k="
+        }
+      ]
+    },
+    {
       "version": "1.0.36",
       "protocols": [
         "6.0"
