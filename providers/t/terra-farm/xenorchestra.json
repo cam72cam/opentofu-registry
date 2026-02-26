@@ -1,6 +1,80 @@
 {
   "versions": [
     {
+      "version": "0.37.3",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/terra-farm/terraform-provider-xenorchestra/releases/download/v0.37.3/terraform-provider-xenorchestra_0.37.3_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/terra-farm/terraform-provider-xenorchestra/releases/download/v0.37.3/terraform-provider-xenorchestra_0.37.3_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-xenorchestra_0.37.3_darwin_amd64.zip",
+          "download_url": "https://github.com/terra-farm/terraform-provider-xenorchestra/releases/download/v0.37.3/terraform-provider-xenorchestra_0.37.3_darwin_amd64.zip",
+          "shasum": "2442b13de6ee4eba28530e88105c49fe5f513576f51da1ba3d433b7be7e68039",
+          "h1": "h1:zE2i/Gacpg8r2cEhwq2ZRyEsC5ZOsvPDzM9tjXgYh/Q="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-xenorchestra_0.37.3_darwin_arm64.zip",
+          "download_url": "https://github.com/terra-farm/terraform-provider-xenorchestra/releases/download/v0.37.3/terraform-provider-xenorchestra_0.37.3_darwin_arm64.zip",
+          "shasum": "07f2d282608a58feba1be6647e83100ee6b4babf42c1e4263d36bc43628fe002",
+          "h1": "h1:sZXGAXK2uXNZjJiMxOZdYR22sffA1Qlhup2Tk54qvJ0="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-xenorchestra_0.37.3_freebsd_amd64.zip",
+          "download_url": "https://github.com/terra-farm/terraform-provider-xenorchestra/releases/download/v0.37.3/terraform-provider-xenorchestra_0.37.3_freebsd_amd64.zip",
+          "shasum": "8524abdc1ee1539c06f98c9773ccfde61f0356fbc4690d858b01f57a50380094",
+          "h1": "h1:XU8Y2QR7Y8iEKoShhJW2oEDrr5Uum/LtefASPvQfOM0="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-xenorchestra_0.37.3_freebsd_arm64.zip",
+          "download_url": "https://github.com/terra-farm/terraform-provider-xenorchestra/releases/download/v0.37.3/terraform-provider-xenorchestra_0.37.3_freebsd_arm64.zip",
+          "shasum": "d666165e70eadc2bebf55b63973289a55978a8b3f82a183e580c3a9baaf97769",
+          "h1": "h1:WZmuHu/CO6fbQOyRVitJTQ+HJbOLZJ2DSaPupk1qLrY="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-xenorchestra_0.37.3_linux_amd64.zip",
+          "download_url": "https://github.com/terra-farm/terraform-provider-xenorchestra/releases/download/v0.37.3/terraform-provider-xenorchestra_0.37.3_linux_amd64.zip",
+          "shasum": "087387c64aadad873badef6ee0ba033dc14b68c180eb64c5771d17e2f58a0329",
+          "h1": "h1:A+2o0bRL56X4aqlykCe0mzA0weaUILAJoBgZhmmVWLM="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-xenorchestra_0.37.3_linux_arm64.zip",
+          "download_url": "https://github.com/terra-farm/terraform-provider-xenorchestra/releases/download/v0.37.3/terraform-provider-xenorchestra_0.37.3_linux_arm64.zip",
+          "shasum": "f676d6a719eac68462be5324c2a4c48c5acdb323af71d489f3680115d0cb5685",
+          "h1": "h1:kjCQYrQqVBfyh2t2T7sIshdW8bRlBhqWlo29oj4DpUk="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-xenorchestra_0.37.3_windows_amd64.zip",
+          "download_url": "https://github.com/terra-farm/terraform-provider-xenorchestra/releases/download/v0.37.3/terraform-provider-xenorchestra_0.37.3_windows_amd64.zip",
+          "shasum": "17116a864ea08da042ab771de7ae445e96373804d2adffee0974702658deb577",
+          "h1": "h1:rZC9zSifkFx4IKbobDI5sWrG9rMTQ6HIoR+pCE4UlhE="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-xenorchestra_0.37.3_windows_arm64.zip",
+          "download_url": "https://github.com/terra-farm/terraform-provider-xenorchestra/releases/download/v0.37.3/terraform-provider-xenorchestra_0.37.3_windows_arm64.zip",
+          "shasum": "17e47c1ba94c2808a84438b43ff1b759132e6592b0c14df425a150e0b80706eb",
+          "h1": "h1:KHyovsC6YgM6PglpRv2v3op9F1kRekiZVFmunlLYCyo="
+        }
+      ]
+    },
+    {
       "version": "0.37.2",
       "protocols": [
         "5.0"
