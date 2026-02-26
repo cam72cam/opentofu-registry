@@ -1,6 +1,104 @@
 {
   "versions": [
     {
+      "version": "0.41.17",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/ubiquiti-community/terraform-provider-unifi/releases/download/v0.41.17/terraform-provider-unifi_0.41.17_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/ubiquiti-community/terraform-provider-unifi/releases/download/v0.41.17/terraform-provider-unifi_0.41.17_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-unifi_0.41.17_darwin_amd64.zip",
+          "download_url": "https://github.com/ubiquiti-community/terraform-provider-unifi/releases/download/v0.41.17/terraform-provider-unifi_0.41.17_darwin_amd64.zip",
+          "shasum": "8dfc92fa8489d34933f8787bef18d208a64c5998954226f400773bf0140fa2fd",
+          "h1": "h1:wxKMWw/NV0SYZUa0lwKizvObS1RMQQ9ukn+bkdcIIT8="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-unifi_0.41.17_darwin_arm64.zip",
+          "download_url": "https://github.com/ubiquiti-community/terraform-provider-unifi/releases/download/v0.41.17/terraform-provider-unifi_0.41.17_darwin_arm64.zip",
+          "shasum": "72b2affd447b12ced80f8d39a67b30f21e8259aee324158fc028b9ae43a17f36",
+          "h1": "h1:gkR70YebRXCVH4cNC6K9wucy3qrgwIrALK1h8tFNl2A="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-unifi_0.41.17_freebsd_386.zip",
+          "download_url": "https://github.com/ubiquiti-community/terraform-provider-unifi/releases/download/v0.41.17/terraform-provider-unifi_0.41.17_freebsd_386.zip",
+          "shasum": "6bb7b40b32bae6d4066043d8ceb43c2b2c9a72912ffa9abaafb913f367976006",
+          "h1": "h1:M/IuHbTaboqwtPbfDv4g9zcmEQTtml4bzfrdhoFj3lI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-unifi_0.41.17_freebsd_amd64.zip",
+          "download_url": "https://github.com/ubiquiti-community/terraform-provider-unifi/releases/download/v0.41.17/terraform-provider-unifi_0.41.17_freebsd_amd64.zip",
+          "shasum": "8135fd4b81aff794c0339d57d4e42c5057804d91b6f9cf3cfdd80f248292ecdc",
+          "h1": "h1:CYH10XTXpWwZ3ENDhYIsMyGIkC7Ru4tSZQVIZg/SUbU="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-unifi_0.41.17_freebsd_arm64.zip",
+          "download_url": "https://github.com/ubiquiti-community/terraform-provider-unifi/releases/download/v0.41.17/terraform-provider-unifi_0.41.17_freebsd_arm64.zip",
+          "shasum": "f18c3cc7fd3cba92f6cec522c769b0d45ce612935fd0e48e19d1c3cb65bce5b1",
+          "h1": "h1:3aCgwVr5ombh5qZJ36sqA/DLBsekbmNrOIWWErHFIxQ="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-unifi_0.41.17_linux_386.zip",
+          "download_url": "https://github.com/ubiquiti-community/terraform-provider-unifi/releases/download/v0.41.17/terraform-provider-unifi_0.41.17_linux_386.zip",
+          "shasum": "e3ae29133c7c89014602f963339724f5eb182869aded27c84ad6d8cd1d983dfe",
+          "h1": "h1:S1AoxdehAj171wnSuIaaT02fNl+Tln2i/3gx3uzCqMc="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-unifi_0.41.17_linux_amd64.zip",
+          "download_url": "https://github.com/ubiquiti-community/terraform-provider-unifi/releases/download/v0.41.17/terraform-provider-unifi_0.41.17_linux_amd64.zip",
+          "shasum": "52b4fd2e81f8d3bc41a08509af97518e53b80fc34b80faf9e8338b9e893ecf36",
+          "h1": "h1:73VcC2otOFRCxVJSs9BE9ffomNSf/DQgJ8DwNJ5R/GE="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-unifi_0.41.17_linux_arm64.zip",
+          "download_url": "https://github.com/ubiquiti-community/terraform-provider-unifi/releases/download/v0.41.17/terraform-provider-unifi_0.41.17_linux_arm64.zip",
+          "shasum": "dc6c7aae74acfcb455934bbb893c0f6d71a0db21b7039ff97274388683018981",
+          "h1": "h1:RYa+uDHt4LFy8XmvdOH15Qt9puMoeHi41kLAlYA7mfc="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-unifi_0.41.17_windows_386.zip",
+          "download_url": "https://github.com/ubiquiti-community/terraform-provider-unifi/releases/download/v0.41.17/terraform-provider-unifi_0.41.17_windows_386.zip",
+          "shasum": "44011f01039972cedea7a9923c4e1798a9108b6f8b470ed9b4807fa3bf245e9b",
+          "h1": "h1:uGbpJKVvoZG46p8OYa5EaLkTkY2Xgmgm60aOZe0saI8="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-unifi_0.41.17_windows_amd64.zip",
+          "download_url": "https://github.com/ubiquiti-community/terraform-provider-unifi/releases/download/v0.41.17/terraform-provider-unifi_0.41.17_windows_amd64.zip",
+          "shasum": "5af53bf642533dfa0fe09c8343defd77f642c2ce3d0536330100fb7aad385fd4",
+          "h1": "h1:ZKtL3sM7Dz/C5VcPs32e4yRhT0i/I3hFRRF5oz9+mh0="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-unifi_0.41.17_windows_arm64.zip",
+          "download_url": "https://github.com/ubiquiti-community/terraform-provider-unifi/releases/download/v0.41.17/terraform-provider-unifi_0.41.17_windows_arm64.zip",
+          "shasum": "cf79dfd85bd6574d268b3640fe6f1036f3414bf0ba5001e95b0733923693ae56",
+          "h1": "h1:KfQM1ruOgb9LPsjpcZFkwJ/at5pllihldoqZ6DGTtxY="
+        }
+      ]
+    },
+    {
       "version": "0.41.16",
       "protocols": [
         "6.0"
