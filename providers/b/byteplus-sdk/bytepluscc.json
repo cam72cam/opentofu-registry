@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.0.17",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/byteplus-sdk/terraform-provider-bytepluscc/releases/download/v0.0.17/terraform-provider-bytepluscc_0.0.17_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/byteplus-sdk/terraform-provider-bytepluscc/releases/download/v0.0.17/terraform-provider-bytepluscc_0.0.17_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-bytepluscc_0.0.17_darwin_amd64.zip",
+          "download_url": "https://github.com/byteplus-sdk/terraform-provider-bytepluscc/releases/download/v0.0.17/terraform-provider-bytepluscc_0.0.17_darwin_amd64.zip",
+          "shasum": "497e7e8c6f1829b6a91446c9d86041e4dbb143095b10c53d48c1f31b859fe829",
+          "h1": "h1:MJYoINfNXwTgE/2w2/1Mfi1oE2ngVfD3XL/jRjbal4s="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-bytepluscc_0.0.17_darwin_arm64.zip",
+          "download_url": "https://github.com/byteplus-sdk/terraform-provider-bytepluscc/releases/download/v0.0.17/terraform-provider-bytepluscc_0.0.17_darwin_arm64.zip",
+          "shasum": "110b78692e292c94feca9646e88f4de87798d357a1f8de5102828d824cc2e256",
+          "h1": "h1:99WFJ9FpGJfdXyljdjwq7SoE8sr/D32CFraAoy7RnVg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-bytepluscc_0.0.17_freebsd_386.zip",
+          "download_url": "https://github.com/byteplus-sdk/terraform-provider-bytepluscc/releases/download/v0.0.17/terraform-provider-bytepluscc_0.0.17_freebsd_386.zip",
+          "shasum": "21d252a00698b887d1fc8309e7606ce49b9352eb9eb0a4e4166901cb0d4a995f",
+          "h1": "h1:yxuwNyBFJFnGlg+P/6Y9HLmxjPquGALMGyNYOKkBfc0="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-bytepluscc_0.0.17_freebsd_amd64.zip",
+          "download_url": "https://github.com/byteplus-sdk/terraform-provider-bytepluscc/releases/download/v0.0.17/terraform-provider-bytepluscc_0.0.17_freebsd_amd64.zip",
+          "shasum": "7e0716b2816ed75080a0bfce922196141fdcc3f221a6422c0c0f55ad797e61ef",
+          "h1": "h1:HE8V56dAOh0jxmw6+Vuuh/ldrLEDfWxEm4FGpBRNYSs="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-bytepluscc_0.0.17_freebsd_arm.zip",
+          "download_url": "https://github.com/byteplus-sdk/terraform-provider-bytepluscc/releases/download/v0.0.17/terraform-provider-bytepluscc_0.0.17_freebsd_arm.zip",
+          "shasum": "32c0d94f56074f3e69f1ecd5bfb44c602c61e00819046f00b53272ba87ff2d56",
+          "h1": "h1:hu+bK11Sd3L6puLZ1GjtaPwjmsLABh7n27SLhvb5sKk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-bytepluscc_0.0.17_freebsd_arm64.zip",
+          "download_url": "https://github.com/byteplus-sdk/terraform-provider-bytepluscc/releases/download/v0.0.17/terraform-provider-bytepluscc_0.0.17_freebsd_arm64.zip",
+          "shasum": "8d0a07807f644731d0e313b19fa9928d0e88f1962e9369f33dba6c8e9d09c356",
+          "h1": "h1:dxSdCzPqJ8fnTlnc+PPvXFKBFQU9pbitTvvdQPLep2Q="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-bytepluscc_0.0.17_linux_386.zip",
+          "download_url": "https://github.com/byteplus-sdk/terraform-provider-bytepluscc/releases/download/v0.0.17/terraform-provider-bytepluscc_0.0.17_linux_386.zip",
+          "shasum": "41d93bc89c26f35b709fa7ca6a0aa456ed0366b198a1742d8f01dd221e29527d",
+          "h1": "h1:0wZcfMFUu5UOM7JGMSaJml97oWtdMC1D33ACz8i0L1E="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-bytepluscc_0.0.17_linux_amd64.zip",
+          "download_url": "https://github.com/byteplus-sdk/terraform-provider-bytepluscc/releases/download/v0.0.17/terraform-provider-bytepluscc_0.0.17_linux_amd64.zip",
+          "shasum": "e29237a3db04214f52c229a26e335c6aa0f7607327528b23b8e6df6a688219c8",
+          "h1": "h1:nvZPlwXa4eV2G+aaqY6X9pIJbPr2W6Atpndh3U4Wiwk="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-bytepluscc_0.0.17_linux_arm.zip",
+          "download_url": "https://github.com/byteplus-sdk/terraform-provider-bytepluscc/releases/download/v0.0.17/terraform-provider-bytepluscc_0.0.17_linux_arm.zip",
+          "shasum": "3d603016f6440e37adf5502178dbac9bf197886c1fc2cc4257c4ef0f63bbbb08",
+          "h1": "h1:IMcw0uDWUmObTJQP9YZSW7vvi5nhXmHqF0UrGH0vKKg="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-bytepluscc_0.0.17_linux_arm64.zip",
+          "download_url": "https://github.com/byteplus-sdk/terraform-provider-bytepluscc/releases/download/v0.0.17/terraform-provider-bytepluscc_0.0.17_linux_arm64.zip",
+          "shasum": "6dae79175fb9f64950296d665a9bd51d33cb642a31b8d09315b3ce29d3237404",
+          "h1": "h1:v51GhmRvhF81T9oCgiXmDN+A4qAk1WSP5oshtnr7+Ow="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-bytepluscc_0.0.17_windows_386.zip",
+          "download_url": "https://github.com/byteplus-sdk/terraform-provider-bytepluscc/releases/download/v0.0.17/terraform-provider-bytepluscc_0.0.17_windows_386.zip",
+          "shasum": "114ff8207c2ca6f5c0b08a97102272b1e84bfa3976778a83a54381f2997488df",
+          "h1": "h1:xEMITIQvxDNTp7115l6AWbE1nq3vRXj8SljFVSaG0U8="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-bytepluscc_0.0.17_windows_amd64.zip",
+          "download_url": "https://github.com/byteplus-sdk/terraform-provider-bytepluscc/releases/download/v0.0.17/terraform-provider-bytepluscc_0.0.17_windows_amd64.zip",
+          "shasum": "eb5f35fcb9046c1e738184cf319a9a752e6ff8d08dc5c2d151aa2f00d4a8d868",
+          "h1": "h1:NPBAr/IPzHTnRIQHmX+RE/sXzPuLA3WA2MbHscC3hbY="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-bytepluscc_0.0.17_windows_arm.zip",
+          "download_url": "https://github.com/byteplus-sdk/terraform-provider-bytepluscc/releases/download/v0.0.17/terraform-provider-bytepluscc_0.0.17_windows_arm.zip",
+          "shasum": "bf23d801716f15d2efe2e507e520b4985353b2ea689d8cd561a27942075316e5",
+          "h1": "h1:ckG+37sp4MvttOHUfmu11SFKI2JgKn7ti3dWQQfx3wM="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-bytepluscc_0.0.17_windows_arm64.zip",
+          "download_url": "https://github.com/byteplus-sdk/terraform-provider-bytepluscc/releases/download/v0.0.17/terraform-provider-bytepluscc_0.0.17_windows_arm64.zip",
+          "shasum": "899d1f10fcef492e2a6db0208be80d5f931c188ce8bf33128c23aaf6fc9d4594",
+          "h1": "h1:r834thmG7OADHBBOUXTlMAE9K3L/sJ/3NwCLUVYEW+M="
+        }
+      ]
+    },
+    {
       "version": "0.0.16",
       "protocols": [
         "6.0"
