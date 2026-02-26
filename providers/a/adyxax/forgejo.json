@@ -1,6 +1,80 @@
 {
   "versions": [
     {
+      "version": "1.5.1",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/adyxax/terraform-provider-forgejo/releases/download/v1.5.1/terraform-provider-forgejo_1.5.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/adyxax/terraform-provider-forgejo/releases/download/v1.5.1/terraform-provider-forgejo_1.5.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-forgejo_1.5.1_darwin_amd64.zip",
+          "download_url": "https://github.com/adyxax/terraform-provider-forgejo/releases/download/v1.5.1/terraform-provider-forgejo_1.5.1_darwin_amd64.zip",
+          "shasum": "6e2aa7f5089f90564b5d645b40f5a4ca85b64e69f9175917e599137c7aea8a1b",
+          "h1": "h1:D+qIvk9oGSrKZESGCbq7rEmC5HcUeHpMqIs0mMIH9TU="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-forgejo_1.5.1_darwin_arm64.zip",
+          "download_url": "https://github.com/adyxax/terraform-provider-forgejo/releases/download/v1.5.1/terraform-provider-forgejo_1.5.1_darwin_arm64.zip",
+          "shasum": "36e8782d71bfb07648a1f4003dac274b23d1111e79011f2f638ec32b53b42f66",
+          "h1": "h1:j9a9Yg/wO2/depM36oKNr/S9li5XO1rZgbWwnKx2BBk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-forgejo_1.5.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/adyxax/terraform-provider-forgejo/releases/download/v1.5.1/terraform-provider-forgejo_1.5.1_freebsd_amd64.zip",
+          "shasum": "5a7634475cce37f55bea57cd3b5e3083520ef10f4f6b96fb116d6f04b166445d",
+          "h1": "h1:k9stXfdUPz9sxSTFuLgQ3YYeapaYUvLJfZSEPvbhHac="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-forgejo_1.5.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/adyxax/terraform-provider-forgejo/releases/download/v1.5.1/terraform-provider-forgejo_1.5.1_freebsd_arm64.zip",
+          "shasum": "ba027691586d1d2a6bad966cd2feca40db82714f53ab50b74520462656d1afb6",
+          "h1": "h1:7UhVrZLZodPt1IcqIQGumOxCoNgM4gcopIhTtqQ7uLU="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-forgejo_1.5.1_linux_amd64.zip",
+          "download_url": "https://github.com/adyxax/terraform-provider-forgejo/releases/download/v1.5.1/terraform-provider-forgejo_1.5.1_linux_amd64.zip",
+          "shasum": "97624c3d0333355a577e1c83573ee5a3a783b8d2cb42463fe7ee091158ef8e3c",
+          "h1": "h1:ho/vOmI/zSKh2T8ZnwMcQGTkuupAa48APtXNHATEtQU="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-forgejo_1.5.1_linux_arm64.zip",
+          "download_url": "https://github.com/adyxax/terraform-provider-forgejo/releases/download/v1.5.1/terraform-provider-forgejo_1.5.1_linux_arm64.zip",
+          "shasum": "a2ae40fb0c9c2007e1f5bc606605c71750d3746554e4d25c1e4befca27f9521e",
+          "h1": "h1:pths046FFW9GWCwKHHM56je6VcT8Jj6L2c1GOshuXMc="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-forgejo_1.5.1_windows_amd64.zip",
+          "download_url": "https://github.com/adyxax/terraform-provider-forgejo/releases/download/v1.5.1/terraform-provider-forgejo_1.5.1_windows_amd64.zip",
+          "shasum": "983144162a3938c400a24f348d80ef7e0ca3f308cd34456709c1d4c7e83a3712",
+          "h1": "h1:vpbXnq9wu8UAWIFKuzQp4REKCxsUjDBn59RwTtjtGQk="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-forgejo_1.5.1_windows_arm64.zip",
+          "download_url": "https://github.com/adyxax/terraform-provider-forgejo/releases/download/v1.5.1/terraform-provider-forgejo_1.5.1_windows_arm64.zip",
+          "shasum": "95ab3e57138cba85626f6b474aff0cbf9395661cda6553f2a625f28c52c810ba",
+          "h1": "h1:Rix/JZkh1RcQ237Lhl+aMpJu6RBE9U0kDBOzcpuJbEI="
+        }
+      ]
+    },
+    {
       "version": "1.5.0",
       "protocols": [
         "6.0"
