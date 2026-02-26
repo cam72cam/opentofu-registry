@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.2.10",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/germanbrew/terraform-provider-dotenv/releases/download/v1.2.10/terraform-provider-dotenv_1.2.10_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/germanbrew/terraform-provider-dotenv/releases/download/v1.2.10/terraform-provider-dotenv_1.2.10_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-dotenv_1.2.10_darwin_amd64.zip",
+          "download_url": "https://github.com/germanbrew/terraform-provider-dotenv/releases/download/v1.2.10/terraform-provider-dotenv_1.2.10_darwin_amd64.zip",
+          "shasum": "4fb051055727ddbd899f04c8976ff78172728b438244126c45297f3b689668f9",
+          "h1": "h1:WMmBFdQ5yUsGcYMEAYzDDkh1LeM9p+IsH7/5ag9db1k="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-dotenv_1.2.10_darwin_arm64.zip",
+          "download_url": "https://github.com/germanbrew/terraform-provider-dotenv/releases/download/v1.2.10/terraform-provider-dotenv_1.2.10_darwin_arm64.zip",
+          "shasum": "dbc67b7d4b8fc63ff11435b1d1daa5e6644d68dbd77e14e43dca1b759c3fd7e6",
+          "h1": "h1:GB9GOlK7VGwY2KXVOZA0DxjktMu+Z2VD6RESr+RkZBA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-dotenv_1.2.10_freebsd_386.zip",
+          "download_url": "https://github.com/germanbrew/terraform-provider-dotenv/releases/download/v1.2.10/terraform-provider-dotenv_1.2.10_freebsd_386.zip",
+          "shasum": "f21f14f2ff4efa4db69ca902d3d4b2081686a1acc37434f5ae6ed4de503df8af",
+          "h1": "h1:gxppPoYAlVfLf9dLq9Dk0kdV9FSVRKBCiNIJ9Z1t4Xg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-dotenv_1.2.10_freebsd_amd64.zip",
+          "download_url": "https://github.com/germanbrew/terraform-provider-dotenv/releases/download/v1.2.10/terraform-provider-dotenv_1.2.10_freebsd_amd64.zip",
+          "shasum": "60fd25e11cf84444a8ee833973757c885adc5258daf0fba2e579ae98d64332dc",
+          "h1": "h1:WOIqOl9YeNe2k3neVYu4JQBesuEi2cVCBzg+c8+2b84="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-dotenv_1.2.10_freebsd_arm.zip",
+          "download_url": "https://github.com/germanbrew/terraform-provider-dotenv/releases/download/v1.2.10/terraform-provider-dotenv_1.2.10_freebsd_arm.zip",
+          "shasum": "2466d5dd41820a36e352854ad2244587579f6a514ad78fcb0f2f63de4cdc4222",
+          "h1": "h1:TPMokT/N/dkINQRLIPaEK2g6kMk3Go/TFapINDFhGys="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-dotenv_1.2.10_freebsd_arm64.zip",
+          "download_url": "https://github.com/germanbrew/terraform-provider-dotenv/releases/download/v1.2.10/terraform-provider-dotenv_1.2.10_freebsd_arm64.zip",
+          "shasum": "dd62ccdbeed1d49cb30b5087daa79b68dcde879bb20d7865d69490386117abcc",
+          "h1": "h1:d3ziCeLBDd2N++LWWa0mojHpngsP3aMn1JN7ktRb5Gk="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-dotenv_1.2.10_linux_386.zip",
+          "download_url": "https://github.com/germanbrew/terraform-provider-dotenv/releases/download/v1.2.10/terraform-provider-dotenv_1.2.10_linux_386.zip",
+          "shasum": "e8ade3ad1dd0b4a34b13ce22db73cb314563781f5810f20593e3228d448ce652",
+          "h1": "h1:i0Xm8WMgrMyRH45HOlgRQKO5fn4Z3TLft94TTfNKIeI="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-dotenv_1.2.10_linux_amd64.zip",
+          "download_url": "https://github.com/germanbrew/terraform-provider-dotenv/releases/download/v1.2.10/terraform-provider-dotenv_1.2.10_linux_amd64.zip",
+          "shasum": "2c2a61cc4d91300c4b6a1fea4d5b6878d7bb1df884b4eb8d3694bf328f0765d5",
+          "h1": "h1:YwXFW9E0c0HwecWqIaqU3sNRTimMWqxsJnObyyJZMtE="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-dotenv_1.2.10_linux_arm.zip",
+          "download_url": "https://github.com/germanbrew/terraform-provider-dotenv/releases/download/v1.2.10/terraform-provider-dotenv_1.2.10_linux_arm.zip",
+          "shasum": "de15fd248d9c67a0c769037728a66b95642250cf19dbc328a42d308eb799b184",
+          "h1": "h1:W21lj6ZYW7wSs6Ld2CMNkkbSumzBQSaRXnAd+bvunls="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-dotenv_1.2.10_linux_arm64.zip",
+          "download_url": "https://github.com/germanbrew/terraform-provider-dotenv/releases/download/v1.2.10/terraform-provider-dotenv_1.2.10_linux_arm64.zip",
+          "shasum": "afd7635877a6b957e2a195e5d820f9408b8b4375b5b13e4429bf64faa46acada",
+          "h1": "h1:YovICdPeXwnLvFal7gxqxuk4txD0i5JiRQ+SiQII1tA="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-dotenv_1.2.10_windows_386.zip",
+          "download_url": "https://github.com/germanbrew/terraform-provider-dotenv/releases/download/v1.2.10/terraform-provider-dotenv_1.2.10_windows_386.zip",
+          "shasum": "15e05363f26a63b18f4eebfc56a63d9aae4588bc429100eb6a8a0b0f43964ec1",
+          "h1": "h1:9+M/AR8P4d0LGdXrnqY01Q188UBR8/pwOxMtxxjucnE="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-dotenv_1.2.10_windows_amd64.zip",
+          "download_url": "https://github.com/germanbrew/terraform-provider-dotenv/releases/download/v1.2.10/terraform-provider-dotenv_1.2.10_windows_amd64.zip",
+          "shasum": "664bf329a168c00aebb159f5eec9fcac12e0188f780a776f07a0d77a89ae203a",
+          "h1": "h1:eRTX2BHAeu01k7e1Qj9P1JpY9+GTOxj5S/kFfkTpY5s="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-dotenv_1.2.10_windows_arm.zip",
+          "download_url": "https://github.com/germanbrew/terraform-provider-dotenv/releases/download/v1.2.10/terraform-provider-dotenv_1.2.10_windows_arm.zip",
+          "shasum": "82a180a7fe5a008312d17fc04d0c1e371fa7a6173bec62315e1c84d9eb9decfb",
+          "h1": "h1:3/GeihOXDmoH4YuYNopAww2hEuRRF6A25yKfY3IqOCc="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-dotenv_1.2.10_windows_arm64.zip",
+          "download_url": "https://github.com/germanbrew/terraform-provider-dotenv/releases/download/v1.2.10/terraform-provider-dotenv_1.2.10_windows_arm64.zip",
+          "shasum": "79b6d6f3b5ff3edb8bf929cda57429eddee0eebc6fefa648a79a6ad02dfa1fa8",
+          "h1": "h1:2bmt4rtTHzkFTNZFffuTJqNwlcA7MTDzFHc6HE+BAVM="
+        }
+      ]
+    },
+    {
       "version": "1.2.9",
       "protocols": [
         "6.0"
