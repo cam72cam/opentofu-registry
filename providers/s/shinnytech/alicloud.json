@@ -37,6 +37,24 @@
       ]
     },
     {
+      "version": "1.201.26",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/shinnytech/terraform-provider-alicloud/releases/download/1.201.26/terraform-provider-alicloud_1.201.26_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/shinnytech/terraform-provider-alicloud/releases/download/1.201.26/terraform-provider-alicloud_1.201.26_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-alicloud_1.201.26_linux_amd64.zip",
+          "download_url": "https://github.com/shinnytech/terraform-provider-alicloud/releases/download/1.201.26/terraform-provider-alicloud_1.201.26_linux_amd64.zip",
+          "shasum": "de3e6b920620554010167c4e8399efa7e1c6894a9e261342d464e9f0d3696489",
+          "h1": "h1:LeBdSrwkichIMQPAvDkhuf2WRSwiQnWkCl7CCrBYrqg="
+        }
+      ]
+    },
+    {
       "version": "1.201.25",
       "protocols": [
         "5.0"
