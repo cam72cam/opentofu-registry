@@ -1,6 +1,120 @@
 {
   "versions": [
     {
+      "version": "8.17.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/castai/terraform-provider-castai/releases/download/v8.17.0/terraform-provider-castai_8.17.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/castai/terraform-provider-castai/releases/download/v8.17.0/terraform-provider-castai_8.17.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-castai_8.17.0_darwin_amd64.zip",
+          "download_url": "https://github.com/castai/terraform-provider-castai/releases/download/v8.17.0/terraform-provider-castai_8.17.0_darwin_amd64.zip",
+          "shasum": "688e338fc0778af927ee702192145c3e78086beee709a96c767a531ead041155",
+          "h1": "h1:ZvvXyrp/qe1Hq+x6zOP6qvft2LHgfLXVXKLkqr2sGvg="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-castai_8.17.0_darwin_arm64.zip",
+          "download_url": "https://github.com/castai/terraform-provider-castai/releases/download/v8.17.0/terraform-provider-castai_8.17.0_darwin_arm64.zip",
+          "shasum": "4c379967772f7d29d145f419537ad94d2ab970ba0df572006a9afe7753bf8e7a",
+          "h1": "h1:bMHAMd0Nzu8Yq0oKEg0tMwSdOmQ63KBtLgo57knsouw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-castai_8.17.0_freebsd_386.zip",
+          "download_url": "https://github.com/castai/terraform-provider-castai/releases/download/v8.17.0/terraform-provider-castai_8.17.0_freebsd_386.zip",
+          "shasum": "eab17bc3c15e2a46e8f18a8753efe938b0d13a559ff4343da8b183aab72fb86b",
+          "h1": "h1:vjqQ66saEXwMPQ1WT20Z6Mn+sFHDPZISfuPtlgIkPB4="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-castai_8.17.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/castai/terraform-provider-castai/releases/download/v8.17.0/terraform-provider-castai_8.17.0_freebsd_amd64.zip",
+          "shasum": "ec4189254fa3c452071b8bb4ffea404285b708414be26e981d0afe28f4144024",
+          "h1": "h1:QvWB1/qQofrUqupUDa4c8QAFNz9OidvV//914arIXZk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-castai_8.17.0_freebsd_arm.zip",
+          "download_url": "https://github.com/castai/terraform-provider-castai/releases/download/v8.17.0/terraform-provider-castai_8.17.0_freebsd_arm.zip",
+          "shasum": "e9d62ae8bdf67f9b005fe3bc63b4423457b553c0d02398eed151f58566df36ec",
+          "h1": "h1:m8/I7scS/YOKiEBAKNUKsA5TvUd5gMj+9plBMyyZWM8="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-castai_8.17.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/castai/terraform-provider-castai/releases/download/v8.17.0/terraform-provider-castai_8.17.0_freebsd_arm64.zip",
+          "shasum": "14dea59020f9fb0cae1ab679b9a0f912edc1a0b17019b61a828836882cfabb57",
+          "h1": "h1:G0w2msytzmic54YAnw6SHmwb9einA5B0amVRIxFZ6Y0="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-castai_8.17.0_linux_386.zip",
+          "download_url": "https://github.com/castai/terraform-provider-castai/releases/download/v8.17.0/terraform-provider-castai_8.17.0_linux_386.zip",
+          "shasum": "470589b4b0fe75b651c80bbafddd933307ba2646fa0be6cc7bcaef7282460112",
+          "h1": "h1:dcWfC8WId17gLtapl3q8lPxWy9dkcupZQhPDtq7HeKo="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-castai_8.17.0_linux_amd64.zip",
+          "download_url": "https://github.com/castai/terraform-provider-castai/releases/download/v8.17.0/terraform-provider-castai_8.17.0_linux_amd64.zip",
+          "shasum": "d148287d8f1a1118f2efcbfa6b0ae515d68b7b2a54ea5e5d97bc5e3ff5c7e608",
+          "h1": "h1:R8mhLy0gmzsrChs/7HGRBiZRqJKoxncu5sbo+j3/Szg="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-castai_8.17.0_linux_arm.zip",
+          "download_url": "https://github.com/castai/terraform-provider-castai/releases/download/v8.17.0/terraform-provider-castai_8.17.0_linux_arm.zip",
+          "shasum": "7e0b47188cf6098cd652535182db81ea7f7227efc88f05aac863e385ce00c062",
+          "h1": "h1:eymMMJQ699XPQhrQ5bCMam5UUEFj+mO83HOy4xIQgOo="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-castai_8.17.0_linux_arm64.zip",
+          "download_url": "https://github.com/castai/terraform-provider-castai/releases/download/v8.17.0/terraform-provider-castai_8.17.0_linux_arm64.zip",
+          "shasum": "89dd194dede5573124dc0e92f2e6a5d9b725576589ae2afc6c0ed2bc87559131",
+          "h1": "h1:igLOsVWttvx7XiKKAww2NPi5V/Nv1ozxFvCjfPGnvtI="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-castai_8.17.0_windows_386.zip",
+          "download_url": "https://github.com/castai/terraform-provider-castai/releases/download/v8.17.0/terraform-provider-castai_8.17.0_windows_386.zip",
+          "shasum": "8af1e1c32525e5043ce5fa744ae4564a85ae9dce689722a8954659955d9b7e09",
+          "h1": "h1:oALtDkldIJFIBiHnmvTJR3PIAAJZhvT9DKjOxwbqLX4="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-castai_8.17.0_windows_amd64.zip",
+          "download_url": "https://github.com/castai/terraform-provider-castai/releases/download/v8.17.0/terraform-provider-castai_8.17.0_windows_amd64.zip",
+          "shasum": "ef5d7ecb4a65304d310005ad1ad7f99dccef7405f6fb70eb733d984c2407a90e",
+          "h1": "h1:9WsOu92l48ZlUvW0A0ykmWAiwryJ99o6v9q3GzmZ5Go="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-castai_8.17.0_windows_arm.zip",
+          "download_url": "https://github.com/castai/terraform-provider-castai/releases/download/v8.17.0/terraform-provider-castai_8.17.0_windows_arm.zip",
+          "shasum": "71bd46fee48ffdc540603bba5140e0ca31cd5e84390ffc0d4f660e366ba56ad1",
+          "h1": "h1:zPl3N1L6mnqfHHm0CeF+0kI321+MXwU6AawsUW/LyHg="
+        }
+      ]
+    },
+    {
       "version": "8.16.0",
       "protocols": [
         "5.0"
