@@ -1,6 +1,48 @@
 {
   "versions": [
     {
+      "version": "0.2.5",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/chainguard-dev/terraform-provider-cosign/releases/download/v0.2.5/terraform-provider-cosign_0.2.5_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/chainguard-dev/terraform-provider-cosign/releases/download/v0.2.5/terraform-provider-cosign_0.2.5_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-cosign_0.2.5_darwin_amd64.zip",
+          "download_url": "https://github.com/chainguard-dev/terraform-provider-cosign/releases/download/v0.2.5/terraform-provider-cosign_0.2.5_darwin_amd64.zip",
+          "shasum": "99846c1307cea45dbcd334c7897e76e50412a9aed33691dbf1a430b0fa269318",
+          "h1": "h1:jNp2ZAT12sIinvLaImY+1rzaik0p35HZAJ5SCVs5Z94="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-cosign_0.2.5_darwin_arm64.zip",
+          "download_url": "https://github.com/chainguard-dev/terraform-provider-cosign/releases/download/v0.2.5/terraform-provider-cosign_0.2.5_darwin_arm64.zip",
+          "shasum": "80842b5a4b93b59f37accd5a64d3d99dea61f1d91c8fc5c28c5bea525086e866",
+          "h1": "h1:XB8IijmhQ10S7BtKddMR8a9tJiSKGbw6j3K2Q+GFJPc="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-cosign_0.2.5_linux_amd64.zip",
+          "download_url": "https://github.com/chainguard-dev/terraform-provider-cosign/releases/download/v0.2.5/terraform-provider-cosign_0.2.5_linux_amd64.zip",
+          "shasum": "c0e44b34f3e719ffc5c1ce37949a18fcfdc6b837d7866d67a72044f306e643a4",
+          "h1": "h1:PRCSyqPJ9D97VzxTj0w+AsVYMIWZOdRfYvRwuJLut38="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-cosign_0.2.5_linux_arm64.zip",
+          "download_url": "https://github.com/chainguard-dev/terraform-provider-cosign/releases/download/v0.2.5/terraform-provider-cosign_0.2.5_linux_arm64.zip",
+          "shasum": "a3ad247c57169208d07b6d8585e24428d22cd28f28dcb2edbb905cc5e9886262",
+          "h1": "h1:zLUN4IsLFti+62xFBUfRhx5MySmdhZvLaKJAvBZHk88="
+        }
+      ]
+    },
+    {
       "version": "0.2.4",
       "protocols": [
         "6.0"
