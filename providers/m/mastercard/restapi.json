@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "3.0.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/mastercard/terraform-provider-restapi/releases/download/v3.0.0/terraform-provider-restapi_3.0.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/mastercard/terraform-provider-restapi/releases/download/v3.0.0/terraform-provider-restapi_3.0.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-restapi_3.0.0_darwin_amd64.zip",
+          "download_url": "https://github.com/mastercard/terraform-provider-restapi/releases/download/v3.0.0/terraform-provider-restapi_3.0.0_darwin_amd64.zip",
+          "shasum": "d1f0b981089ad709b73c4f989a9cd9118c4e3cb8fc0a2b303aa4d77cc5102a53",
+          "h1": "h1:T4ds64vD15cOVjtW5CB7mJDo1dE6hb37Aj+udSFLPNQ="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-restapi_3.0.0_darwin_arm64.zip",
+          "download_url": "https://github.com/mastercard/terraform-provider-restapi/releases/download/v3.0.0/terraform-provider-restapi_3.0.0_darwin_arm64.zip",
+          "shasum": "bfc20b5fd03cb3243917e8cf360e5208284e757ab82f83c992da471ef16a0eab",
+          "h1": "h1:y1I3azDHOqRySTyDHsb3Xh1waP/99KfykZRagbRx1qI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-restapi_3.0.0_freebsd_386.zip",
+          "download_url": "https://github.com/mastercard/terraform-provider-restapi/releases/download/v3.0.0/terraform-provider-restapi_3.0.0_freebsd_386.zip",
+          "shasum": "49636b072b9a30d15916468857bce91d39bc87bbba1c99fb3894fafa9409b8b4",
+          "h1": "h1:n1cQCpg8zMuAHzkwY85YixZTAJgK000i3+MPagqJGZ8="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-restapi_3.0.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/mastercard/terraform-provider-restapi/releases/download/v3.0.0/terraform-provider-restapi_3.0.0_freebsd_amd64.zip",
+          "shasum": "dbfddb2f407481a4e88fdc17739c805d9d9fff2451efcb9226572d59ed2e9128",
+          "h1": "h1:CON1RkPvwHtAhwkWG/e02iRNUgrMqRBu8D/IN8x/FrE="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-restapi_3.0.0_freebsd_arm.zip",
+          "download_url": "https://github.com/mastercard/terraform-provider-restapi/releases/download/v3.0.0/terraform-provider-restapi_3.0.0_freebsd_arm.zip",
+          "shasum": "76129b89e2b56d8d2af8f6e10cc748bea4ee6ec1105e916f1254cd124f4dcf9c",
+          "h1": "h1:hnYbVN70YEzle4JK8bQbXFeR+L+Y/1wgzoQuc8ILOcw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-restapi_3.0.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/mastercard/terraform-provider-restapi/releases/download/v3.0.0/terraform-provider-restapi_3.0.0_freebsd_arm64.zip",
+          "shasum": "f894e7e9913347e25e67d5d3bf91659c06877dd5fa11acf75820fa03fa34b8bd",
+          "h1": "h1:SlMcO8K5YykzjQ1gdEfjv1DHv+O3ypq3ukGtL5gIg7o="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-restapi_3.0.0_linux_386.zip",
+          "download_url": "https://github.com/mastercard/terraform-provider-restapi/releases/download/v3.0.0/terraform-provider-restapi_3.0.0_linux_386.zip",
+          "shasum": "5566605a8e16478bc66c1fec8dea0890586c084221161dc82b73d162d44c08a7",
+          "h1": "h1:8dAl2oZR4HveWTPtAjeYZzK9rxJHJzPKCg0sDMvnPDk="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-restapi_3.0.0_linux_amd64.zip",
+          "download_url": "https://github.com/mastercard/terraform-provider-restapi/releases/download/v3.0.0/terraform-provider-restapi_3.0.0_linux_amd64.zip",
+          "shasum": "e68b450c66efe55d1132585477fa71207680806edafb3792ca44d9695d0a1d75",
+          "h1": "h1:Fqxoc6bsydl6iWGx6ZvyqUDdGt7Cb4sW/BSHhBeHGgw="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-restapi_3.0.0_linux_arm.zip",
+          "download_url": "https://github.com/mastercard/terraform-provider-restapi/releases/download/v3.0.0/terraform-provider-restapi_3.0.0_linux_arm.zip",
+          "shasum": "47dd97e3f43bb89ae4254bba90ffbc6d521338554a1f94961e21214dd801b81b",
+          "h1": "h1:nDX596bUMaX2OijmkWX5Hba7R8HrYmOqQhahd1EmTQ4="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-restapi_3.0.0_linux_arm64.zip",
+          "download_url": "https://github.com/mastercard/terraform-provider-restapi/releases/download/v3.0.0/terraform-provider-restapi_3.0.0_linux_arm64.zip",
+          "shasum": "2d31f322454d271eb328c2d3b3d41f426df98503982788be347799ddf68bf9bf",
+          "h1": "h1:/R05GM27Lq73Xii6hWsPMIUqfJBV/TB8Bg3ZaI50F8A="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-restapi_3.0.0_windows_386.zip",
+          "download_url": "https://github.com/mastercard/terraform-provider-restapi/releases/download/v3.0.0/terraform-provider-restapi_3.0.0_windows_386.zip",
+          "shasum": "5859e0ad05aa6b3b108f0b718986e237a18d5176efea62d1ac1ef352561b4713",
+          "h1": "h1:oAsWuzvw6ONMJeQeeiwRJ62/TV8o7bZVkmOfUPFPH3E="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-restapi_3.0.0_windows_amd64.zip",
+          "download_url": "https://github.com/mastercard/terraform-provider-restapi/releases/download/v3.0.0/terraform-provider-restapi_3.0.0_windows_amd64.zip",
+          "shasum": "d1d2363009253cdfe5795a48b6412bff11104fe6a52fb0a57e5a95fc765a161e",
+          "h1": "h1:ZVdNsQ/oJHuGxFma/EBlYfsae/e/JbcTcyNAbQhhubA="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-restapi_3.0.0_windows_arm.zip",
+          "download_url": "https://github.com/mastercard/terraform-provider-restapi/releases/download/v3.0.0/terraform-provider-restapi_3.0.0_windows_arm.zip",
+          "shasum": "0b63bd3c25a31f090a41933f90b7dd6e984add1c4261d8f5caa73f4d5aa065a4",
+          "h1": "h1:5tDi2HBOf8xp/GwqayqneymeyT3z2MmZnaXRlkAVPWg="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-restapi_3.0.0_windows_arm64.zip",
+          "download_url": "https://github.com/mastercard/terraform-provider-restapi/releases/download/v3.0.0/terraform-provider-restapi_3.0.0_windows_arm64.zip",
+          "shasum": "df04a8c777d05896684171807b27c41befbf5f217f50b0e9b2b27164d4aacca5",
+          "h1": "h1:6n8sSjwrz1b4IPyCwQxP2TwnBkl+mvv0/aX9dxC1rgY="
+        }
+      ]
+    },
+    {
       "version": "3.0.0-rc2",
       "protocols": [
         "5.0"
