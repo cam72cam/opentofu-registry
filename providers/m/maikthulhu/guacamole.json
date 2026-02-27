@@ -1,6 +1,120 @@
 {
   "versions": [
     {
+      "version": "1.6.1",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/maikthulhu/terraform-provider-guacamole/releases/download/v1.6.1/terraform-provider-guacamole_1.6.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/maikthulhu/terraform-provider-guacamole/releases/download/v1.6.1/terraform-provider-guacamole_1.6.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-guacamole_1.6.1_darwin_amd64.zip",
+          "download_url": "https://github.com/maikthulhu/terraform-provider-guacamole/releases/download/v1.6.1/terraform-provider-guacamole_1.6.1_darwin_amd64.zip",
+          "shasum": "90575cc96ab939ccad3cf98e8105337858e4d114fd2cdbdf4b48401277a54efe",
+          "h1": "h1:dfU8u6qhD1Y36KzUfQzvvIZrRcUPj7/vwtamC3MFEcU="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-guacamole_1.6.1_darwin_arm64.zip",
+          "download_url": "https://github.com/maikthulhu/terraform-provider-guacamole/releases/download/v1.6.1/terraform-provider-guacamole_1.6.1_darwin_arm64.zip",
+          "shasum": "73d29c80dd02838df3b2225bfc11ac045cbdbd865e8dcc5027cea4d66a8cb6d5",
+          "h1": "h1:pd+V0BZ6zrq5uiZ3AakBqdyfGj8Gy3B+LIS2JZ+aXOk="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-guacamole_1.6.1_freebsd_386.zip",
+          "download_url": "https://github.com/maikthulhu/terraform-provider-guacamole/releases/download/v1.6.1/terraform-provider-guacamole_1.6.1_freebsd_386.zip",
+          "shasum": "4a3f66ba1a04408d8eb9177f8ea5399c81776a753522e36f19072d3f73e0c461",
+          "h1": "h1:mYtv+THduP/AjF8hEi9aJ9HA+m7VI6C+Vy5bfDNXX6Y="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-guacamole_1.6.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/maikthulhu/terraform-provider-guacamole/releases/download/v1.6.1/terraform-provider-guacamole_1.6.1_freebsd_amd64.zip",
+          "shasum": "c74cfd1b5755444c2346e3b247c7be98782c8279913a8be81835f75f7c15e334",
+          "h1": "h1:3wJW+BzjSJsDWI8ra6EUK/FGNb1E3TZHhl68511LTcQ="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-guacamole_1.6.1_freebsd_arm.zip",
+          "download_url": "https://github.com/maikthulhu/terraform-provider-guacamole/releases/download/v1.6.1/terraform-provider-guacamole_1.6.1_freebsd_arm.zip",
+          "shasum": "2659b1f8ffa047cffbac44b36033a8e5a9f05ceeb85843267fc0f4e32084eb1b",
+          "h1": "h1:q6v+Nn92oxUaiwEBxuGN8oJnrN/jANu0GGFIjMYYzBI="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-guacamole_1.6.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/maikthulhu/terraform-provider-guacamole/releases/download/v1.6.1/terraform-provider-guacamole_1.6.1_freebsd_arm64.zip",
+          "shasum": "41d16fb2ae316c5c28d2b85086091081f2309fc173e46959fd13b75a7aeaa4f2",
+          "h1": "h1:3CEFjEAHgAn0sBjNbmlSUdppcBugZSbGwvuy9HfuKz0="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-guacamole_1.6.1_linux_386.zip",
+          "download_url": "https://github.com/maikthulhu/terraform-provider-guacamole/releases/download/v1.6.1/terraform-provider-guacamole_1.6.1_linux_386.zip",
+          "shasum": "c874be017f05ac120e16f688f0be5a6e582e94bc1550ad580e8f0174809e23a4",
+          "h1": "h1:HptWCGe5JhZhTwJ4mt4YZ6BO5hYf9oYe2EA3sIJQGOg="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-guacamole_1.6.1_linux_amd64.zip",
+          "download_url": "https://github.com/maikthulhu/terraform-provider-guacamole/releases/download/v1.6.1/terraform-provider-guacamole_1.6.1_linux_amd64.zip",
+          "shasum": "78ffe02664f375dac62a9b1dbb3dfdaa8f09a2acbd8e8961a37ada74ef91dd69",
+          "h1": "h1:1U55H8+Zhip8v1CCu9mDvMqvTaM2tItMnu9ixMXAXuI="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-guacamole_1.6.1_linux_arm.zip",
+          "download_url": "https://github.com/maikthulhu/terraform-provider-guacamole/releases/download/v1.6.1/terraform-provider-guacamole_1.6.1_linux_arm.zip",
+          "shasum": "e7eef93f14ca4abf193ddd6ba30046baa98ed0661f42c66ce973ec1e99a1fcc8",
+          "h1": "h1:ukFk+y6TffC0CAPFDRlRvUA9hFpfcug2M4FqQ+jxWbk="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-guacamole_1.6.1_linux_arm64.zip",
+          "download_url": "https://github.com/maikthulhu/terraform-provider-guacamole/releases/download/v1.6.1/terraform-provider-guacamole_1.6.1_linux_arm64.zip",
+          "shasum": "3c7be2f837a764e4bf709144d9fe8d467c3531fe55cc1f006072e52edd2ded27",
+          "h1": "h1:xHWBdAkR9PzI8ucVfwq8ZhViMR8c9x5PS2S9pQsa6Ho="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-guacamole_1.6.1_windows_386.zip",
+          "download_url": "https://github.com/maikthulhu/terraform-provider-guacamole/releases/download/v1.6.1/terraform-provider-guacamole_1.6.1_windows_386.zip",
+          "shasum": "39387fa1019b8ac29e9c51571e201e2a669ef423dbb2c68fa7ad455e08408ff3",
+          "h1": "h1:VacmDr+QK2wvBvo0QoCjxyJ/vJNg8+VFIa4mIT1gajw="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-guacamole_1.6.1_windows_amd64.zip",
+          "download_url": "https://github.com/maikthulhu/terraform-provider-guacamole/releases/download/v1.6.1/terraform-provider-guacamole_1.6.1_windows_amd64.zip",
+          "shasum": "4eab2ac233ead5da203a3c3e1d37feaf0aa9b6189880d53fe6474b2deb73fc7b",
+          "h1": "h1:jHc2aCF3rhhENbze0JC/YT8Lw9kKJ2jD+VN59dGLKdQ="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-guacamole_1.6.1_windows_arm64.zip",
+          "download_url": "https://github.com/maikthulhu/terraform-provider-guacamole/releases/download/v1.6.1/terraform-provider-guacamole_1.6.1_windows_arm64.zip",
+          "shasum": "f42bcd0ecfb0eeda95b47c5a23848f4662e1ec44e23130d91642ea451d6f1961",
+          "h1": "h1:vP9EyMGrkmWcTCMxFvvKZyoG3dITNugjTtsWi3xzoCo="
+        }
+      ]
+    },
+    {
       "version": "1.5.4",
       "protocols": [
         "5.0"
