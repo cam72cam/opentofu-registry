@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "1.3.1",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/fusionauth/terraform-provider-fusionauth/releases/download/v1.3.1/terraform-provider-fusionauth_1.3.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/fusionauth/terraform-provider-fusionauth/releases/download/v1.3.1/terraform-provider-fusionauth_1.3.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-fusionauth_1.3.1_darwin_amd64.zip",
+          "download_url": "https://github.com/fusionauth/terraform-provider-fusionauth/releases/download/v1.3.1/terraform-provider-fusionauth_1.3.1_darwin_amd64.zip",
+          "shasum": "7bad2c69fd13116654f9ef1e753eca81ac6479c9dee8c482134237baf7fda2a8",
+          "h1": "h1:WGn1a92GjGhS/6RF5wfQOdxdwQWeO2NFXjh1wlDRfCc="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-fusionauth_1.3.1_darwin_arm64.zip",
+          "download_url": "https://github.com/fusionauth/terraform-provider-fusionauth/releases/download/v1.3.1/terraform-provider-fusionauth_1.3.1_darwin_arm64.zip",
+          "shasum": "a1de54ac6c32736c87ee662f49baeb94c94fbefaa6059fc0391f38edfc87bdd7",
+          "h1": "h1:dlsoBKzAuz6oWAzfR9+T32XAym4NMe61qHP7QoQ+8kg="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-fusionauth_1.3.1_freebsd_386.zip",
+          "download_url": "https://github.com/fusionauth/terraform-provider-fusionauth/releases/download/v1.3.1/terraform-provider-fusionauth_1.3.1_freebsd_386.zip",
+          "shasum": "d143485ec75e6dc0ee7da59708a51dd37dc012ec2bcb8dadf45828ff6377f0b3",
+          "h1": "h1:Ptm8E5Dy5rzX+ghTQG50oxxF3WbeVc3dztb5CKlGU24="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-fusionauth_1.3.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/fusionauth/terraform-provider-fusionauth/releases/download/v1.3.1/terraform-provider-fusionauth_1.3.1_freebsd_amd64.zip",
+          "shasum": "cb19b4aba23bb4daced5d37b63d9694f0b985fc3f325d7c3d7655077775e0cc8",
+          "h1": "h1:P0ztu45JhxuplUyxKjufSiFZrq1VkRbIOFNTrJ9BFeo="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-fusionauth_1.3.1_freebsd_arm.zip",
+          "download_url": "https://github.com/fusionauth/terraform-provider-fusionauth/releases/download/v1.3.1/terraform-provider-fusionauth_1.3.1_freebsd_arm.zip",
+          "shasum": "279b930d277da629b793f6d8f1e599d26c5ece0d1d40705c7bbb0fcb3b6b6c1f",
+          "h1": "h1:wNIpyBOYICA+u1WHx9YYfK+ARTusmoI3EUHbueEE/44="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-fusionauth_1.3.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/fusionauth/terraform-provider-fusionauth/releases/download/v1.3.1/terraform-provider-fusionauth_1.3.1_freebsd_arm64.zip",
+          "shasum": "48382b1d0214894753f42acad38c3a7820e536e8c52094badfd9749115848c15",
+          "h1": "h1:Q0oYQjm3W09gLq5Rh/o2NSybWYmOrEpWwsYT1cOU++0="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-fusionauth_1.3.1_linux_386.zip",
+          "download_url": "https://github.com/fusionauth/terraform-provider-fusionauth/releases/download/v1.3.1/terraform-provider-fusionauth_1.3.1_linux_386.zip",
+          "shasum": "b4536d64adb195099c53c64760e606f17920f2852dc403d5e877cd05849db301",
+          "h1": "h1:QcWK9UM1+Smusst0XPTZMA6Oamk8GDp0A7nwZpNow/U="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-fusionauth_1.3.1_linux_amd64.zip",
+          "download_url": "https://github.com/fusionauth/terraform-provider-fusionauth/releases/download/v1.3.1/terraform-provider-fusionauth_1.3.1_linux_amd64.zip",
+          "shasum": "cf456dfa37b899c014c23be24e66d01579789f661571bcc57aca39f660a2603d",
+          "h1": "h1:jGMkUWZGbmLEfLpE3WnH4f9dyZqE2t3+PvOob2T11WI="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-fusionauth_1.3.1_linux_arm.zip",
+          "download_url": "https://github.com/fusionauth/terraform-provider-fusionauth/releases/download/v1.3.1/terraform-provider-fusionauth_1.3.1_linux_arm.zip",
+          "shasum": "5798705a947716c3b372cf2900a7680c181cd81881d754a46d48fae6a4f3990b",
+          "h1": "h1:u7s0VUuWREIxsUtOhoyIDapkHSoJJIaJ3y6LTYDf9x0="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-fusionauth_1.3.1_linux_arm64.zip",
+          "download_url": "https://github.com/fusionauth/terraform-provider-fusionauth/releases/download/v1.3.1/terraform-provider-fusionauth_1.3.1_linux_arm64.zip",
+          "shasum": "cd2c41db7f6c99b3addc3b2f7c4c30fa179edcd555e3d11d9122d89a0928418c",
+          "h1": "h1:drCJyIJ+KcvtMBLxEZLy6dYa8ocPe7UFfr9kDS0TG5E="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-fusionauth_1.3.1_windows_386.zip",
+          "download_url": "https://github.com/fusionauth/terraform-provider-fusionauth/releases/download/v1.3.1/terraform-provider-fusionauth_1.3.1_windows_386.zip",
+          "shasum": "5752f56e60931c4b0e7466bc254c6b4cf09924219199e618b87f4ce097f12d39",
+          "h1": "h1:woS208R6VzYErTXzymbdDjHdUMyFfGjxFwnUrruUYiI="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-fusionauth_1.3.1_windows_amd64.zip",
+          "download_url": "https://github.com/fusionauth/terraform-provider-fusionauth/releases/download/v1.3.1/terraform-provider-fusionauth_1.3.1_windows_amd64.zip",
+          "shasum": "67d55a4ef40de75e7484390b3535c0711e2050dc2b6e74f57a6ea5c58cc8d1ee",
+          "h1": "h1:IZrVt0kIk37tofWCf7GNpx65QIs8sND/ALS9WMg0Ovw="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-fusionauth_1.3.1_windows_arm.zip",
+          "download_url": "https://github.com/fusionauth/terraform-provider-fusionauth/releases/download/v1.3.1/terraform-provider-fusionauth_1.3.1_windows_arm.zip",
+          "shasum": "8ee5779d8f4b956103bb9a58e79b576260263d5a541e5aeaa2ddcacf9287ed2a",
+          "h1": "h1:GsY9Hn7y5wFgkJEx2L63iiBBT9Qd5W0X8VagksA+UqU="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-fusionauth_1.3.1_windows_arm64.zip",
+          "download_url": "https://github.com/fusionauth/terraform-provider-fusionauth/releases/download/v1.3.1/terraform-provider-fusionauth_1.3.1_windows_arm64.zip",
+          "shasum": "bccd37157c1e6e97832ad4ac3c3025bfd202e277b62557108613cef5908dc10a",
+          "h1": "h1:nm+M/wfeBYYXrz0rXsYY593vLxk3YqrT+xi0S3abQso="
+        }
+      ]
+    },
+    {
       "version": "1.3.0",
       "protocols": [
         "5.0"
