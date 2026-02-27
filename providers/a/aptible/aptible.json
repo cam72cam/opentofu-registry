@@ -1,6 +1,218 @@
 {
   "versions": [
     {
+      "version": "0.9.22",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.22/terraform-provider-aptible_0.9.22_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.22/terraform-provider-aptible_0.9.22_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-aptible_0.9.22_darwin_amd64.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.22/terraform-provider-aptible_0.9.22_darwin_amd64.zip",
+          "shasum": "e3d7232d93a1b275ba7961e204b4ceffccbe4918d564e919af7e38ac1023ecac",
+          "h1": "h1:fzQXyeaRTpUCIoMqxwEknnlEiglfRLsLxXtEu8Ms63g="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-aptible_0.9.22_darwin_arm64.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.22/terraform-provider-aptible_0.9.22_darwin_arm64.zip",
+          "shasum": "c09296fba71fc02bcd26d3252d913c09d21389440e3c2da27b41df5b6b5a5588",
+          "h1": "h1:12AfndVX2GVlOUodaOcSbMM4LY8tlw3KORX4YGMFgI8="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-aptible_0.9.22_freebsd_386.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.22/terraform-provider-aptible_0.9.22_freebsd_386.zip",
+          "shasum": "be46cc19d7c493d5bd1f40db1c4c19cf4de6469ddcb00d6106157194ec84a963",
+          "h1": "h1:j4RfEiirW6vYzYmuYZ1hMFv8+mN7f0Kl/NwGfHtOMeA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-aptible_0.9.22_freebsd_amd64.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.22/terraform-provider-aptible_0.9.22_freebsd_amd64.zip",
+          "shasum": "8c30b9b297982af8781cee9e518b4302b5083d00df0da2adbf2a5df79446b437",
+          "h1": "h1:AIS/o3vhCv/M1WdxM/YJhNO4Z7cpqhdLRnOdp2pZ7r0="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-aptible_0.9.22_freebsd_arm.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.22/terraform-provider-aptible_0.9.22_freebsd_arm.zip",
+          "shasum": "6f8b9bd38396e183bf22aaf2cfa6db695667f245d6d519ac71f444a13cc4e011",
+          "h1": "h1:oK+bxC63Uu2NAGyVBpSOTxHvL2+Lp4WmH8tWSw5bf+Y="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-aptible_0.9.22_linux_386.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.22/terraform-provider-aptible_0.9.22_linux_386.zip",
+          "shasum": "a5e656f5d2039e8b52fcbafed1da54b91b10186d9fdc4fe614dd0d7ce773ec3e",
+          "h1": "h1:uQBouV8oHhc/Kh+WxS8E1Xjx1eACX53r/ZQOmJH1rb0="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-aptible_0.9.22_linux_amd64.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.22/terraform-provider-aptible_0.9.22_linux_amd64.zip",
+          "shasum": "af28b944e1c0898e08c46e4610205ea1a60ba4fcef71050a7402ecb8bc0da29b",
+          "h1": "h1:4jitaSHpa+L6l7DW7co2jzvL0z6Rw7ACbDoVBKRBRto="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-aptible_0.9.22_linux_arm.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.22/terraform-provider-aptible_0.9.22_linux_arm.zip",
+          "shasum": "661fe4e79b5fc3984a38a0480cbcad44d91bef8ffa0c4c3c2efa06f9f564fed5",
+          "h1": "h1:KuJj+l2pE27RFjLHbkkAnvJol8uSV60+RNdRqgd4X4c="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-aptible_0.9.22_linux_arm64.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.22/terraform-provider-aptible_0.9.22_linux_arm64.zip",
+          "shasum": "4a6aadbcd739de884c6b037016678012df9972dcab3be9d67678586e6db48811",
+          "h1": "h1:ALuwy+9Cqe00zGTi1PnoTaNI89udOYg2M75eYS2vg2s="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-aptible_0.9.22_windows_386.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.22/terraform-provider-aptible_0.9.22_windows_386.zip",
+          "shasum": "ee9b21dd6d187efdd9bcda624b7a095488ea144ad576c893cbec68bac98c6635",
+          "h1": "h1:XNuvE5weQ+b5HTQgxuLyelRuP+A0teZhs7cXcT1kMz0="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-aptible_0.9.22_windows_amd64.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.22/terraform-provider-aptible_0.9.22_windows_amd64.zip",
+          "shasum": "241a72bf5f89fd89e6cf59398b2fc2d40cbab2dcba781ed6e16a4b395bc236f2",
+          "h1": "h1:a+wqzbZHu4doeDLgfbrq5IXSsi4izkwDHBIyYe0C32s="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-aptible_0.9.22_windows_arm.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.22/terraform-provider-aptible_0.9.22_windows_arm.zip",
+          "shasum": "e8ae38af7a4428c761716d7c03e7d79f137718c7948f5fea9bec3e99b144e996",
+          "h1": "h1:5zoq07ap9DGqhA6IsyKINiUFw/2oObLnyVQs/qpQwdU="
+        }
+      ]
+    },
+    {
+      "version": "0.9.21",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.21/terraform-provider-aptible_0.9.21_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.21/terraform-provider-aptible_0.9.21_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-aptible_0.9.21_darwin_amd64.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.21/terraform-provider-aptible_0.9.21_darwin_amd64.zip",
+          "shasum": "f397d5065b12c0f57327468772083229c1401abe312531f27d8f1dc203258b6d",
+          "h1": "h1:VNNeZOkYPVxGkeVACzGOWAS4kh2ocv7YQYbVCb6pzxo="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-aptible_0.9.21_darwin_arm64.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.21/terraform-provider-aptible_0.9.21_darwin_arm64.zip",
+          "shasum": "bd5986dd0f0096f4a73988cb25e76f451a44c850e008663b56ab68cf715da17e",
+          "h1": "h1:QOiRSmZaKg0b/qCSLh7O++bKuK2sOzN6TzPsXZsr6sY="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-aptible_0.9.21_freebsd_386.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.21/terraform-provider-aptible_0.9.21_freebsd_386.zip",
+          "shasum": "7a319685425bba317084431ac45992bf8a77291c5b83e767aa675cb074187ab8",
+          "h1": "h1:ROODe28KjHxWyCEfQp10wBOwUJH+5fzPn+wdoL9eGyA="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-aptible_0.9.21_freebsd_amd64.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.21/terraform-provider-aptible_0.9.21_freebsd_amd64.zip",
+          "shasum": "b47304f164a5d60170e0f7b7e5a775105700174831e7c82e3c1f7073fb0886a2",
+          "h1": "h1:7USKa7H8CInMgFoQ1qeIRW4KOJQjcjGdaTIuJixQVDs="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-aptible_0.9.21_freebsd_arm.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.21/terraform-provider-aptible_0.9.21_freebsd_arm.zip",
+          "shasum": "d017a009fc4ed2baa14b6133e10c0c2724cabd6c2e77b5ea5d4c51de5b8a74e4",
+          "h1": "h1:LF41brnFAvAAh7WEzrpbua03Yru2f+vUzJX/h0K/loY="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-aptible_0.9.21_linux_386.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.21/terraform-provider-aptible_0.9.21_linux_386.zip",
+          "shasum": "f00056df085e142b29109c64c0a138d961bf0652507313b549f43301ebd8d29f",
+          "h1": "h1:NgbdhI+SY/dFLxo+PWN9VJBL4T7p34+x6DO+ah9iUQI="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-aptible_0.9.21_linux_amd64.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.21/terraform-provider-aptible_0.9.21_linux_amd64.zip",
+          "shasum": "a59e9ed4210dbd31c43d018aa2b9e61235e84407f726ddc9e9e58281d3946574",
+          "h1": "h1:eIJoQTnvBFDyvvjq/fEq97IzpEIKy52HFSqxnu7R5P8="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-aptible_0.9.21_linux_arm.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.21/terraform-provider-aptible_0.9.21_linux_arm.zip",
+          "shasum": "d95cf5395a7243a583b3755ff02dfab01e6067b3ca0619c796f32bfafe931a1c",
+          "h1": "h1:6JSOWWktyG0JRT5L979688/mMFRZqzNtVxOw0+eBZUI="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-aptible_0.9.21_linux_arm64.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.21/terraform-provider-aptible_0.9.21_linux_arm64.zip",
+          "shasum": "c0dc740816bc0fb1d153639844ee1633b93c009ee379178757d1bce9045725a8",
+          "h1": "h1:GC0zSVRZY2EVW6vCBqyY9Fawu7JVDF6zCqF7a+t6Tok="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-aptible_0.9.21_windows_386.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.21/terraform-provider-aptible_0.9.21_windows_386.zip",
+          "shasum": "f5560e8ec6b91b2f881dbe13871eff219409d3f639bf87c57dc7611c7134eff4",
+          "h1": "h1:hAOhlMSAK86DPaIXnQujr3q6mNk6UtdSOMr8InF8aeM="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-aptible_0.9.21_windows_amd64.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.21/terraform-provider-aptible_0.9.21_windows_amd64.zip",
+          "shasum": "18bab2cf5efb1f2c7d8ff0429e66464e77afaaaf1d7720bae014824237e8d531",
+          "h1": "h1:q1AxgiGLvix1MFzDCZ9F58nLFPZ73I7ALqPsMXmrwPM="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-aptible_0.9.21_windows_arm.zip",
+          "download_url": "https://github.com/aptible/terraform-provider-aptible/releases/download/v0.9.21/terraform-provider-aptible_0.9.21_windows_arm.zip",
+          "shasum": "833a8a78ca7340289b19680e40ad3d19ed4e9c47f9f2984872230acc9c3bcbd3",
+          "h1": "h1:yaMz0K4uMLDor1SV7LZwTTF9pzq+2OVdxGuMZcf+P3I="
+        }
+      ]
+    },
+    {
       "version": "0.9.20",
       "protocols": [
         "5.0"
