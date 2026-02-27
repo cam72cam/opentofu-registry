@@ -1,6 +1,80 @@
 {
   "versions": [
     {
+      "version": "0.96.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.96.0/terraform-provider-apstra_0.96.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.96.0/terraform-provider-apstra_0.96.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-apstra_0.96.0_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.96.0/terraform-provider-apstra_0.96.0_darwin_amd64.zip",
+          "shasum": "47d5a9d46f37f04850317c9b5d2b4037cb7170da45ec49d7f0a6703b175cde18",
+          "h1": "h1:Wxz58vf+cgjURZH8QlUV7UZ7yLGMZ9lET/9uEh7maPA="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-apstra_0.96.0_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.96.0/terraform-provider-apstra_0.96.0_darwin_arm64.zip",
+          "shasum": "a7622ed56d3f9db3e5e8cd9110ff2836ea596590905f7c0fa5b8219c6029a398",
+          "h1": "h1:E1HRwnDmzLnl4IIPyMkp4hN6pk4OourZKK+8IU0wbvw="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-apstra_0.96.0_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.96.0/terraform-provider-apstra_0.96.0_linux_386.zip",
+          "shasum": "c9399c31d714d4de0c89c044b2b33a4653dbd35f6717c80c0d7cf7118f98d0c2",
+          "h1": "h1:8JPu+liHMXBRR84WHxqGiSPQGjgN6eFCATIXVXW73q8="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-apstra_0.96.0_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.96.0/terraform-provider-apstra_0.96.0_linux_amd64.zip",
+          "shasum": "d659342ee794f7fa38da3d68895276f76849c7d32c76b5852c3da21e6edddeac",
+          "h1": "h1:SbtdT41g717buKfkwfWr+4DS+GYikmblBf4WcMTcbJY="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-apstra_0.96.0_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.96.0/terraform-provider-apstra_0.96.0_linux_arm64.zip",
+          "shasum": "a02a823ee0cdc076063c3853a065a8c4153df25b14c6948c74bfca43e550e158",
+          "h1": "h1:u/wkdkTfurjpCNwiCH156Avik6O6eo9eGDf2KokiuxY="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-apstra_0.96.0_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.96.0/terraform-provider-apstra_0.96.0_windows_386.zip",
+          "shasum": "9b16fa6fb3b42f2ae3bd9142c085de1de59721af90ee21498a86a26da65e61c1",
+          "h1": "h1:1HYIlqOMwZwlJZZ9LNXVbrYETdtn0uR1CcVHjxbFx3M="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-apstra_0.96.0_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.96.0/terraform-provider-apstra_0.96.0_windows_amd64.zip",
+          "shasum": "692a421d5a787cc429ab2ebd7ca098239ea4648bc080ad62d128663082781c6e",
+          "h1": "h1:pYlxOzxhED3nywCxGFLmVvkpar4K6iWr7bXYIOQZJLg="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-apstra_0.96.0_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.96.0/terraform-provider-apstra_0.96.0_windows_arm64.zip",
+          "shasum": "54cda6118ab122ebbbe77d3fd590dda1837d9a15d4ad05a62a801c151697f4b2",
+          "h1": "h1:85uz+Y6cOb5PbWJzM19ukBu2MIv36/yO/TZjU9L9X8I="
+        }
+      ]
+    },
+    {
       "version": "0.95.1",
       "protocols": [
         "6.0"
