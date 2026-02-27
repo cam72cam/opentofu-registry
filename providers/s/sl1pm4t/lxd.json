@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "2.7.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/sl1pm4t/terraform-provider-lxd/releases/download/v2.7.0/terraform-provider-lxd_2.7.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/sl1pm4t/terraform-provider-lxd/releases/download/v2.7.0/terraform-provider-lxd_2.7.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-lxd_2.7.0_darwin_amd64.zip",
+          "download_url": "https://github.com/sl1pm4t/terraform-provider-lxd/releases/download/v2.7.0/terraform-provider-lxd_2.7.0_darwin_amd64.zip",
+          "shasum": "126af7a18633440db355968e1630211d7e968483ccdff9a3e6ddd876df878ef2",
+          "h1": "h1:NDkNLQ4TPgOdjgFRHkEjqBcE8dicsccxnCROmEKu5RY="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-lxd_2.7.0_darwin_arm64.zip",
+          "download_url": "https://github.com/sl1pm4t/terraform-provider-lxd/releases/download/v2.7.0/terraform-provider-lxd_2.7.0_darwin_arm64.zip",
+          "shasum": "2498a1b6b075dc67c95b064004dca9755df4d88687674d3c117a6c3dd1b2913e",
+          "h1": "h1:I+j+dyxtBTze+O2TOHQhflxHUoqm1Ox34mYFxEDJkWw="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-lxd_2.7.0_freebsd_386.zip",
+          "download_url": "https://github.com/sl1pm4t/terraform-provider-lxd/releases/download/v2.7.0/terraform-provider-lxd_2.7.0_freebsd_386.zip",
+          "shasum": "6b63ef0b038d158e5bd486b9edbd5886289b0649d651e538bfbffcb9d3dec121",
+          "h1": "h1:h/SYjleJc8DULa5oF6A7M5Ck/jGZenwp1lfdA15QQAE="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-lxd_2.7.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/sl1pm4t/terraform-provider-lxd/releases/download/v2.7.0/terraform-provider-lxd_2.7.0_freebsd_amd64.zip",
+          "shasum": "5802e4edaa61174224dc65a528aef437e44c584c126b41d01199e3d28a73ea16",
+          "h1": "h1:YQp2m6ZGfJY0cFs3V7lNjNX4Jw7/mj9sbwPiM8xtwrY="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-lxd_2.7.0_freebsd_arm.zip",
+          "download_url": "https://github.com/sl1pm4t/terraform-provider-lxd/releases/download/v2.7.0/terraform-provider-lxd_2.7.0_freebsd_arm.zip",
+          "shasum": "f3b2e54a7730d4fcade0be2119beeeb057fea7f4a2b6ccb66bed98848e50d61a",
+          "h1": "h1:mgNi1JWor0gfJgsxoHUchZilbdHlf65p+9bZi/Xxn1U="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-lxd_2.7.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/sl1pm4t/terraform-provider-lxd/releases/download/v2.7.0/terraform-provider-lxd_2.7.0_freebsd_arm64.zip",
+          "shasum": "2c78bc16e68fc811f61183b88dc01d3479fa63180f2cd43e33ec8c2c4b414b56",
+          "h1": "h1:3G4e5+G2XIyATsFQZ3+RYMEwAsyTsoRIyOwOWRXuGfo="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-lxd_2.7.0_linux_386.zip",
+          "download_url": "https://github.com/sl1pm4t/terraform-provider-lxd/releases/download/v2.7.0/terraform-provider-lxd_2.7.0_linux_386.zip",
+          "shasum": "9210cd8a57825b5e23507a9950dc977787cf40d31dff3df8c01bea7a00269dd8",
+          "h1": "h1:Uji9p4rXtFtcDJi+lgyo1wPAdXmS42J8fe3f63gsA/I="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-lxd_2.7.0_linux_amd64.zip",
+          "download_url": "https://github.com/sl1pm4t/terraform-provider-lxd/releases/download/v2.7.0/terraform-provider-lxd_2.7.0_linux_amd64.zip",
+          "shasum": "bdd694a4ccb4345ff32c8f35fda519a2c2ae4f30175ca8ec1688828f473b7cfc",
+          "h1": "h1:psji5qfjnG4xUBTfEYRUOiiB4NqnAJtf3FEyINKPyig="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-lxd_2.7.0_linux_arm.zip",
+          "download_url": "https://github.com/sl1pm4t/terraform-provider-lxd/releases/download/v2.7.0/terraform-provider-lxd_2.7.0_linux_arm.zip",
+          "shasum": "7aa5995ae3054fa4af12c08eb06b258f35893a5731c2aad176deae7c0e9bd4f3",
+          "h1": "h1:3PdKFx0y9o2F6+aMvzUJUrzQ4Q9NZU8o/pWcRJI8bms="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-lxd_2.7.0_linux_arm64.zip",
+          "download_url": "https://github.com/sl1pm4t/terraform-provider-lxd/releases/download/v2.7.0/terraform-provider-lxd_2.7.0_linux_arm64.zip",
+          "shasum": "cc9cb02a6f0f4acce9fadbcdf7e103810dc8fadebdbaf4868a4fd1caae8fb28a",
+          "h1": "h1:EAlmJ7Pcywt0Ax9SoJAMbAB1fiTPkCE91dcnpuYIiYA="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-lxd_2.7.0_windows_386.zip",
+          "download_url": "https://github.com/sl1pm4t/terraform-provider-lxd/releases/download/v2.7.0/terraform-provider-lxd_2.7.0_windows_386.zip",
+          "shasum": "2b5511faefda0f13a53b7c12d6b0d7b11cec22fce5a7fe8953b70edea613ea8d",
+          "h1": "h1:grsz6OpLIeuDmQqgWMjyCxKNrpHK8TRBLvIJTxK9bZQ="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-lxd_2.7.0_windows_amd64.zip",
+          "download_url": "https://github.com/sl1pm4t/terraform-provider-lxd/releases/download/v2.7.0/terraform-provider-lxd_2.7.0_windows_amd64.zip",
+          "shasum": "2f56ec738e2aca4d7af0672b43b5bd5e430c8a82181600a207b4064c5ff9ceb3",
+          "h1": "h1:r3HwVJzXP6NxKkHm9eYjOKnrj+FpbtuhDROIN8daEzs="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-lxd_2.7.0_windows_arm.zip",
+          "download_url": "https://github.com/sl1pm4t/terraform-provider-lxd/releases/download/v2.7.0/terraform-provider-lxd_2.7.0_windows_arm.zip",
+          "shasum": "aac42a3987ac0e1af85173a33eb7a059feb5606b23c9aa2475cc6697740dcfff",
+          "h1": "h1:LozUpCbOY9xma2C+FL4NgpKmAQ2THlMozo5Vds21vnY="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-lxd_2.7.0_windows_arm64.zip",
+          "download_url": "https://github.com/sl1pm4t/terraform-provider-lxd/releases/download/v2.7.0/terraform-provider-lxd_2.7.0_windows_arm64.zip",
+          "shasum": "9f1f5e81bb78939ce93de298fa03530d7713f689ffc1f8c6f7f434084d790345",
+          "h1": "h1:iuQX7HXeK0lqQ5eUQ2+hIotAqkyHqtcBvrPiqeUMdOc="
+        }
+      ]
+    },
+    {
       "version": "2.6.2",
       "protocols": [
         "5.0"
