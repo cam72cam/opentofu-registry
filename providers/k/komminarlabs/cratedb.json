@@ -1,6 +1,128 @@
 {
   "versions": [
     {
+      "version": "0.4.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/komminarlabs/terraform-provider-cratedb/releases/download/v0.4.0/terraform-provider-cratedb_0.4.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/komminarlabs/terraform-provider-cratedb/releases/download/v0.4.0/terraform-provider-cratedb_0.4.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-cratedb_0.4.0_darwin_amd64.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-cratedb/releases/download/v0.4.0/terraform-provider-cratedb_0.4.0_darwin_amd64.zip",
+          "shasum": "23a395578a344300ffc3677821ca5fe39922791ef9a301eaca3c991b162a617f",
+          "h1": "h1:igJ7pzT26h8W9KyuuCaLFFa44i7/96SD1YViag0gRyI="
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-cratedb_0.4.0_darwin_arm64.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-cratedb/releases/download/v0.4.0/terraform-provider-cratedb_0.4.0_darwin_arm64.zip",
+          "shasum": "13fed435459287b3834c4106d129c17b2ebc6d56522a14acd5c0b23807e552ad",
+          "h1": "h1:iw+DKKzqtbVLAgkmofXC2M+mILBaurqiSbtGRWxx8to="
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-cratedb_0.4.0_freebsd_386.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-cratedb/releases/download/v0.4.0/terraform-provider-cratedb_0.4.0_freebsd_386.zip",
+          "shasum": "feef07c3fe98b916ff23388826e1ffbef43bd59e5c6a0b05de27a4d902696b6a",
+          "h1": "h1:p9E3eDilTa5c0VCQjTWY6dvYnEi2EC73aBLzFsnvALc="
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-cratedb_0.4.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-cratedb/releases/download/v0.4.0/terraform-provider-cratedb_0.4.0_freebsd_amd64.zip",
+          "shasum": "abae70e48118ad095e7c875dce7573747a1a2e0b602ef6da6937538914cd55f4",
+          "h1": "h1:YvQyO84wTu/ipOiwhJpT74jC37noRSX/QbV38B5y5E8="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-cratedb_0.4.0_freebsd_arm.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-cratedb/releases/download/v0.4.0/terraform-provider-cratedb_0.4.0_freebsd_arm.zip",
+          "shasum": "01886dc9851bfc9cc5075bd481e1de7677543e1f3cc79ae662f7ad00f13923a4",
+          "h1": "h1:vtDB75l+4O04TO6LiEXJ6DcrhFap+ff6qFADz1xUZms="
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-cratedb_0.4.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-cratedb/releases/download/v0.4.0/terraform-provider-cratedb_0.4.0_freebsd_arm64.zip",
+          "shasum": "f1870f6f4ba80fa53347e25dbbcd17eff9c884a311d9f6a0d60cb21090037b97",
+          "h1": "h1:yEBchcUniccX53mKhJPKJdpwAOz8ZfKJ4ul21OOX6a4="
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-cratedb_0.4.0_linux_386.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-cratedb/releases/download/v0.4.0/terraform-provider-cratedb_0.4.0_linux_386.zip",
+          "shasum": "13040f2cfc372cd7c47567e40ef7821a963cde785abc7f0ec62879122aa3f76d",
+          "h1": "h1:08VKQHoCHdDNOtdA6GYNED+VtFEAoDjNZ0MBmt6bPtg="
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-cratedb_0.4.0_linux_amd64.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-cratedb/releases/download/v0.4.0/terraform-provider-cratedb_0.4.0_linux_amd64.zip",
+          "shasum": "9ccebe0a9334b60bc0d9d72b47371411f81d13b07e989594cb0b5938fbdbafc8",
+          "h1": "h1:XVN052M3xNM1lAfcICsD5CBVmthv+6oDyJQs1AzONQA="
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-cratedb_0.4.0_linux_arm.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-cratedb/releases/download/v0.4.0/terraform-provider-cratedb_0.4.0_linux_arm.zip",
+          "shasum": "3e6d4d40ffd4fae2496686e62c989e612c8403585e95bc0721651f5aed39f1c3",
+          "h1": "h1:DOkIwuFL7thiBtEbEkv5c3TrM0+iZVPxEwsPVO+YuO8="
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-cratedb_0.4.0_linux_arm64.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-cratedb/releases/download/v0.4.0/terraform-provider-cratedb_0.4.0_linux_arm64.zip",
+          "shasum": "4f9532c3d4b3b59d9f1ed17ebabfb96d9d56529364eadd4448d955ab86ba088b",
+          "h1": "h1:frMU8PD2hgSUfDtBCkdrj9DZzQTswWBWi+jXF0KYAp8="
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-cratedb_0.4.0_windows_386.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-cratedb/releases/download/v0.4.0/terraform-provider-cratedb_0.4.0_windows_386.zip",
+          "shasum": "ef9a5e635843e39799c57f90359af4429cd4487adea9757d9c9da617089ab8bd",
+          "h1": "h1:TXHluw28oGehRaWp1d+bYvN3J6nN6YnFykHzpkW+uog="
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-cratedb_0.4.0_windows_amd64.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-cratedb/releases/download/v0.4.0/terraform-provider-cratedb_0.4.0_windows_amd64.zip",
+          "shasum": "bb9f6227b4317acc3d9d616b001869145b934a24fae33b8b7e5e01c58bb218a4",
+          "h1": "h1:zOitdotX6XkWF0TiPxZEHWV22Gl5AoiTlattTfvIJgY="
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-cratedb_0.4.0_windows_arm.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-cratedb/releases/download/v0.4.0/terraform-provider-cratedb_0.4.0_windows_arm.zip",
+          "shasum": "a9c02c7e7ad05190be30ebfe55dd265ca7b33a68789899dadf908892f6b0b71b",
+          "h1": "h1:o2A3sPKqTYlyRs7XuMbIH1l3K0BDX+nkrb87DMcy/v4="
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-cratedb_0.4.0_windows_arm64.zip",
+          "download_url": "https://github.com/komminarlabs/terraform-provider-cratedb/releases/download/v0.4.0/terraform-provider-cratedb_0.4.0_windows_arm64.zip",
+          "shasum": "bbdba460b74b69ecdcffdec7a4b3ceb9e3ebf0258ecf0c7694d87d55f6280224",
+          "h1": "h1:zoZ/7oj01Ay7xcAVYixYC89WlYxN4Zz+0yD7EgAtUAg="
+        }
+      ]
+    },
+    {
       "version": "0.3.0",
       "protocols": [
         "6.0"
