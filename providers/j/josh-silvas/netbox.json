@@ -75,6 +75,44 @@
           "shasum": "54833e33e16d1136154130d72038ea9719f687d4c3d0f9fc7c1140baefd4ca2b"
         }
       ]
+    },
+    {
+      "version": "0.1.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/josh-silvas/terraform-provider-netbox/releases/download/v0.1.0/terraform-provider-netbox_v0.1.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/josh-silvas/terraform-provider-netbox/releases/download/v0.1.0/terraform-provider-netbox_v0.1.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-netbox_v0.1.0_darwin_amd64.zip",
+          "download_url": "https://github.com/josh-silvas/terraform-provider-netbox/releases/download/v0.1.0/terraform-provider-netbox_v0.1.0_darwin_amd64.zip",
+          "shasum": "848186382922cc5e60349f4b70a5a22fbe45cbf742d6fa11cd68f98456a8c3b6"
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-netbox_v0.1.0_darwin_arm64.zip",
+          "download_url": "https://github.com/josh-silvas/terraform-provider-netbox/releases/download/v0.1.0/terraform-provider-netbox_v0.1.0_darwin_arm64.zip",
+          "shasum": "ca22bb217432d42967c1a18236def4e18f9eeb4bb7cdb689e7f909652bab6930"
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-netbox_v0.1.0_linux_amd64.zip",
+          "download_url": "https://github.com/josh-silvas/terraform-provider-netbox/releases/download/v0.1.0/terraform-provider-netbox_v0.1.0_linux_amd64.zip",
+          "shasum": "5a3667866370845b4d43ac364cb6e993a8696fc471e068c79ba89c2f3f7c966e"
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-netbox_v0.1.0_linux_arm64.zip",
+          "download_url": "https://github.com/josh-silvas/terraform-provider-netbox/releases/download/v0.1.0/terraform-provider-netbox_v0.1.0_linux_arm64.zip",
+          "shasum": "0767bf83686e2a217160261c8238b0052ff4fe1e671162aaa24532315b33a9e0"
+        }
+      ]
     }
   ]
 }
