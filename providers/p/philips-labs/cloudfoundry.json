@@ -116,6 +116,121 @@
       ]
     },
     {
+      "version": "0.5100.3",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/philips-labs/terraform-provider-cloudfoundry/releases/download/v0.5100.3/terraform-provider-cloudfoundry_0.5100.3_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/philips-labs/terraform-provider-cloudfoundry/releases/download/v0.5100.3/terraform-provider-cloudfoundry_0.5100.3_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-cloudfoundry_0.5100.3_darwin_amd64.zip",
+          "download_url": "https://github.com/philips-labs/terraform-provider-cloudfoundry/releases/download/v0.5100.3/terraform-provider-cloudfoundry_0.5100.3_darwin_amd64.zip",
+          "shasum": "c90b0d503f29f3c003e605434d014efe8dc07d948bc9f1ec1c49a2ae4740ce83"
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-cloudfoundry_0.5100.3_darwin_arm64.zip",
+          "download_url": "https://github.com/philips-labs/terraform-provider-cloudfoundry/releases/download/v0.5100.3/terraform-provider-cloudfoundry_0.5100.3_darwin_arm64.zip",
+          "shasum": "281c69eda0bdb5538179eabc299baa7bc614b03916e7cc06f7433e1f2b896f29"
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-cloudfoundry_0.5100.3_freebsd_386.zip",
+          "download_url": "https://github.com/philips-labs/terraform-provider-cloudfoundry/releases/download/v0.5100.3/terraform-provider-cloudfoundry_0.5100.3_freebsd_386.zip",
+          "shasum": "661a977a65abdd310016b8c3a6ed280053bf05ce1ef0fb361d6044b67c026b73"
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-cloudfoundry_0.5100.3_freebsd_amd64.zip",
+          "download_url": "https://github.com/philips-labs/terraform-provider-cloudfoundry/releases/download/v0.5100.3/terraform-provider-cloudfoundry_0.5100.3_freebsd_amd64.zip",
+          "shasum": "d66b66c860ae18ce0b91474c15742b5f9519372633e96c5ed678e2389605e1ba"
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-cloudfoundry_0.5100.3_freebsd_arm.zip",
+          "download_url": "https://github.com/philips-labs/terraform-provider-cloudfoundry/releases/download/v0.5100.3/terraform-provider-cloudfoundry_0.5100.3_freebsd_arm.zip",
+          "shasum": "fe98229171c3c6c50d2744a1d1fa72a769a9f0111dfb42c01bd2a42629e2642a"
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-cloudfoundry_0.5100.3_freebsd_arm64.zip",
+          "download_url": "https://github.com/philips-labs/terraform-provider-cloudfoundry/releases/download/v0.5100.3/terraform-provider-cloudfoundry_0.5100.3_freebsd_arm64.zip",
+          "shasum": "83a13c0649aef3d60485b80b8f32c90b500165bbccaf16b2c0a2b60a60d33277"
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-cloudfoundry_0.5100.3_linux_386.zip",
+          "download_url": "https://github.com/philips-labs/terraform-provider-cloudfoundry/releases/download/v0.5100.3/terraform-provider-cloudfoundry_0.5100.3_linux_386.zip",
+          "shasum": "4dd30b11c21a2494b10a57d047db2a37d8897fd2d269a0d1e07ae5200bad1753"
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-cloudfoundry_0.5100.3_linux_amd64.zip",
+          "download_url": "https://github.com/philips-labs/terraform-provider-cloudfoundry/releases/download/v0.5100.3/terraform-provider-cloudfoundry_0.5100.3_linux_amd64.zip",
+          "shasum": "adc064fa3b8ef04921647ee979097ac3d17dc21414b1ccd6ec31a6a2ccdd13a6"
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-cloudfoundry_0.5100.3_linux_arm.zip",
+          "download_url": "https://github.com/philips-labs/terraform-provider-cloudfoundry/releases/download/v0.5100.3/terraform-provider-cloudfoundry_0.5100.3_linux_arm.zip",
+          "shasum": "402b9d58c38fae04a2e5c4559c4b205c480fc77189857ce33d2b58369d993359"
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-cloudfoundry_0.5100.3_linux_arm64.zip",
+          "download_url": "https://github.com/philips-labs/terraform-provider-cloudfoundry/releases/download/v0.5100.3/terraform-provider-cloudfoundry_0.5100.3_linux_arm64.zip",
+          "shasum": "083d159877ff15fbfb74d1b65ea95d1c6dbcfcd46b0fbc1acd782878bbaac50a"
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-cloudfoundry_0.5100.3_windows_386.zip",
+          "download_url": "https://github.com/philips-labs/terraform-provider-cloudfoundry/releases/download/v0.5100.3/terraform-provider-cloudfoundry_0.5100.3_windows_386.zip",
+          "shasum": "ca6307c7f409a6f58517c262ad71295bf2ca0953098915e9e3c069eb7ab7f12e"
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-cloudfoundry_0.5100.3_windows_amd64.zip",
+          "download_url": "https://github.com/philips-labs/terraform-provider-cloudfoundry/releases/download/v0.5100.3/terraform-provider-cloudfoundry_0.5100.3_windows_amd64.zip",
+          "shasum": "c3d10641c937c013e9b882e60cf9cbe2589c23b688830df5020cce793673f4fd"
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-cloudfoundry_0.5100.3_windows_arm.zip",
+          "download_url": "https://github.com/philips-labs/terraform-provider-cloudfoundry/releases/download/v0.5100.3/terraform-provider-cloudfoundry_0.5100.3_windows_arm.zip",
+          "shasum": "0a5be547f37c9d82c821132d0406c983ad8cdbdeec42ad1cc642479ab37e4477"
+        },
+        {
+          "os": "openbsd",
+          "arch": "386",
+          "filename": "terraform-provider-cloudfoundry_0.5100.3_openbsd_386.zip",
+          "download_url": "https://github.com/philips-labs/terraform-provider-cloudfoundry/releases/download/v0.5100.3/terraform-provider-cloudfoundry_0.5100.3_openbsd_386.zip",
+          "shasum": "22645e187bb9989f936114ab5c67766606da0d03609d0e2a41c8fcade1e6ed47"
+        },
+        {
+          "os": "openbsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-cloudfoundry_0.5100.3_openbsd_amd64.zip",
+          "download_url": "https://github.com/philips-labs/terraform-provider-cloudfoundry/releases/download/v0.5100.3/terraform-provider-cloudfoundry_0.5100.3_openbsd_amd64.zip",
+          "shasum": "fbb90bdcba889ee7e3ea8cbd1bc0ded80cae727a6a35c3793ffb5715b1e023d4"
+        }
+      ]
+    },
+    {
       "version": "0.1500.2",
       "protocols": [
         "5.0"
@@ -1828,6 +1943,313 @@
           "shasum": "c4c7d3f3f7a62cc389d9288a98ffbb55096cfddc53e517adb7bd51c0e4f8cbe6"
         }
       ]
+    }
+  ],
+  "versions_errors": [
+    {
+      "version": "0.53.1",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:41.836649238Z"
+    },
+    {
+      "version": "0.53.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:45.269509393Z"
+    },
+    {
+      "version": "0.52.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:45.346855285Z"
+    },
+    {
+      "version": "0.51.3",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:45.258370774Z"
+    },
+    {
+      "version": "0.51.2",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:45.206217022Z"
+    },
+    {
+      "version": "0.51.1",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:45.225846115Z"
+    },
+    {
+      "version": "0.51.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:45.225984591Z"
+    },
+    {
+      "version": "0.50.8",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:45.128283218Z"
+    },
+    {
+      "version": "0.50.7",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:45.16728585Z"
+    },
+    {
+      "version": "0.50.6",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:45.172243967Z"
+    },
+    {
+      "version": "0.50.5",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:45.181885193Z"
+    },
+    {
+      "version": "0.50.4",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:45.119862232Z"
+    },
+    {
+      "version": "0.50.3",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:45.094157355Z"
+    },
+    {
+      "version": "0.50.2",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:45.065321066Z"
+    },
+    {
+      "version": "0.50.1",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:45.077138656Z"
+    },
+    {
+      "version": "0.50.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:45.035553541Z"
+    },
+    {
+      "version": "0.15.5",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:45.058996362Z"
+    },
+    {
+      "version": "0.15.4",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:45.027990084Z"
+    },
+    {
+      "version": "0.15.3",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:45.030852682Z"
+    },
+    {
+      "version": "0.15.2",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:44.996171524Z"
+    },
+    {
+      "version": "0.15.1",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:44.969752367Z"
+    },
+    {
+      "version": "0.15.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:44.919395922Z"
+    },
+    {
+      "version": "0.14.2",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:44.923421137Z"
+    },
+    {
+      "version": "0.14.1",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:46.280908952Z"
+    },
+    {
+      "version": "0.14.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:46.285625831Z"
+    },
+    {
+      "version": "0.13.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:46.260062839Z"
+    },
+    {
+      "version": "0.12.202011112311",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:46.154787637Z"
+    },
+    {
+      "version": "0.12.202011051229",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:46.737698718Z"
+    },
+    {
+      "version": "0.12.202011051134",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:44.95443114Z"
+    },
+    {
+      "version": "0.12.202011051114",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:44.893793137Z"
+    },
+    {
+      "version": "0.12.202011051034",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:44.883774309Z"
+    },
+    {
+      "version": "0.12.202011051007",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:44.825482824Z"
+    },
+    {
+      "version": "0.12.202011050905",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:44.849459745Z"
+    },
+    {
+      "version": "0.12.202011050859",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:44.953087462Z"
+    },
+    {
+      "version": "0.12.202011050848",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:44.819754346Z"
+    },
+    {
+      "version": "0.12.202011050741",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:44.768489527Z"
+    },
+    {
+      "version": "0.12.202011042040",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:44.753838704Z"
+    },
+    {
+      "version": "0.12.202011041745",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:44.760712771Z"
+    },
+    {
+      "version": "0.12.202011041731",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:44.716777242Z"
+    },
+    {
+      "version": "0.12.202011041631",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:44.775732746Z"
+    },
+    {
+      "version": "0.12.202011041441",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:44.66361574Z"
+    },
+    {
+      "version": "0.12.202011041228",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:44.71062507Z"
+    },
+    {
+      "version": "0.12.6",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:46.198832593Z"
+    },
+    {
+      "version": "0.12.5",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:46.308787747Z"
+    },
+    {
+      "version": "0.12.4",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:46.187596617Z"
+    },
+    {
+      "version": "0.12.3",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:46.204417804Z"
+    },
+    {
+      "version": "0.12.2",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:44.73694588Z"
+    },
+    {
+      "version": "0.12.1",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:44.678259858Z"
+    },
+    {
+      "version": "0.12.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:44.64154424Z"
+    },
+    {
+      "version": "0.11.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:46.56353518Z"
+    },
+    {
+      "version": "0.10.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:46.518861964Z"
+    },
+    {
+      "version": "0.9.9",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:46.456049278Z"
+    },
+    {
+      "version": "0.9.8",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:46.474399283Z"
+    },
+    {
+      "version": "0.9.7",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:46.422205929Z"
+    },
+    {
+      "version": "0.9.6",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:46.476184462Z"
+    },
+    {
+      "version": "0.9.5",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:46.352280054Z"
+    },
+    {
+      "version": "0.9.4",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:46.42231771Z"
+    },
+    {
+      "version": "0.9.3",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:46.414255504Z"
+    },
+    {
+      "version": "0.9.2",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:46.371629017Z"
+    },
+    {
+      "version": "0.9.1",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:46.365104134Z"
+    },
+    {
+      "version": "0.9.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:28:46.337590117Z"
     }
   ]
 }
