@@ -347,6 +347,54 @@
           "shasum": "94cb76f92b8e7d8f1c188f7290d410a609a2e09bb7e341e0a019e55dae823a52"
         }
       ]
+    },
+    {
+      "version": "1.11.2",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/fpluchorg/terraform-provider-panos/releases/download/v1.11.2/terraform-provider-panos_v1.11.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/fpluchorg/terraform-provider-panos/releases/download/v1.11.2/terraform-provider-panos_v1.11.2_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-panos_v1.11.2_darwin_amd64.zip",
+          "download_url": "https://github.com/fpluchorg/terraform-provider-panos/releases/download/v1.11.2/terraform-provider-panos_v1.11.2_darwin_amd64.zip",
+          "shasum": "1f468ae63b2cfe4793dee9ab72f62f50f3c08bb4a80b30d9fd953af79efacace"
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-panos_v1.11.2_linux_amd64.zip",
+          "download_url": "https://github.com/fpluchorg/terraform-provider-panos/releases/download/v1.11.2/terraform-provider-panos_v1.11.2_linux_amd64.zip",
+          "shasum": "09d7ec12957b0ea9186f6d4a25be28db4cecbbd866e4af1bc4fd596dbcefdb83"
+        }
+      ]
+    },
+    {
+      "version": "1.11.1",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/fpluchorg/terraform-provider-panos/releases/download/v1.11.1/terraform-provider-panos_v1.11.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/fpluchorg/terraform-provider-panos/releases/download/v1.11.1/terraform-provider-panos_v1.11.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-panos_v1.11.1_darwin_amd64.zip",
+          "download_url": "https://github.com/fpluchorg/terraform-provider-panos/releases/download/v1.11.1/terraform-provider-panos_v1.11.1_darwin_amd64.zip",
+          "shasum": "3e13ade405538dbee13a0cbe833a92ab41c2022700a8f9ff84d771de8befdc7b"
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-panos_v1.11.1_linux_amd64.zip",
+          "download_url": "https://github.com/fpluchorg/terraform-provider-panos/releases/download/v1.11.1/terraform-provider-panos_v1.11.1_linux_amd64.zip",
+          "shasum": "6b1e3e6238cc2a9f871431753125a2634a43105e42ba6ef222983568d55b71a9"
+        }
+      ]
     }
   ]
 }
