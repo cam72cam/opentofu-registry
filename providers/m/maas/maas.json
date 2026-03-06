@@ -1513,6 +1513,23 @@
       ]
     }
   ],
+  "versions_errors": [
+    {
+      "version": "1.0.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:27:40.636614273Z"
+    },
+    {
+      "version": "1.0.0-rc1",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:27:40.702732385Z"
+    },
+    {
+      "version": "0.1.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-06T17:27:40.794300565Z"
+    }
+  ],
   "warnings": [
     "This provider has moved to canonical/maas. Please update your source in required_providers."
   ]
