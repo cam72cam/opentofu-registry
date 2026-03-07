@@ -1,6 +1,222 @@
 {
   "versions": [
     {
+      "version": "1.1.1",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.1/terraform-provider-tigris_1.1.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.1/terraform-provider-tigris_1.1.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-tigris_1.1.1_darwin_amd64.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.1/terraform-provider-tigris_1.1.1_darwin_amd64.zip",
+          "shasum": "83e8a02933c3b213b1ce7d73d55094604b34f78364f726448629dd8a4976d441"
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-tigris_1.1.1_darwin_arm64.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.1/terraform-provider-tigris_1.1.1_darwin_arm64.zip",
+          "shasum": "4833a2b4b7fa0174b9f8860ce0f92ba5ca414d392242cbf9c7094b0d06804c8a"
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-tigris_1.1.1_freebsd_386.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.1/terraform-provider-tigris_1.1.1_freebsd_386.zip",
+          "shasum": "b43a3a56375edab1a5e6f1e82c5f8c43d8363c0cedbc8d729f1882eda4bb86bf"
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-tigris_1.1.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.1/terraform-provider-tigris_1.1.1_freebsd_amd64.zip",
+          "shasum": "50388041f0e048118cabf735929253dcd2b832049459a165e59695a15f61f22c"
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-tigris_1.1.1_freebsd_arm.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.1/terraform-provider-tigris_1.1.1_freebsd_arm.zip",
+          "shasum": "1f6285b6afe0407a8a3de36d73ea53cae720dd39581e9ec0e795f7925911207c"
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-tigris_1.1.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.1/terraform-provider-tigris_1.1.1_freebsd_arm64.zip",
+          "shasum": "23ceba96738732e28035e63d6cafb8f2ed7fcd08138fec1af89c96807b6d137c"
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-tigris_1.1.1_linux_386.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.1/terraform-provider-tigris_1.1.1_linux_386.zip",
+          "shasum": "736c715ed7e41a9b3ad78da8402ab3ccaffe494da16eae0235a9ffce4bdd7165"
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-tigris_1.1.1_linux_amd64.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.1/terraform-provider-tigris_1.1.1_linux_amd64.zip",
+          "shasum": "0bf2207086f5d5658a6ede30ddf2c7e448f4a2237877c12d80a5df0616638c00"
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-tigris_1.1.1_linux_arm.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.1/terraform-provider-tigris_1.1.1_linux_arm.zip",
+          "shasum": "524521aef8b386919751eb85e5e17eecfbab981da50572206b5cff9e58499fb0"
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-tigris_1.1.1_linux_arm64.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.1/terraform-provider-tigris_1.1.1_linux_arm64.zip",
+          "shasum": "91945f056160a7a6bd19959a88802998402d9233ed8bf8c4e57810f4c6151766"
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-tigris_1.1.1_windows_386.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.1/terraform-provider-tigris_1.1.1_windows_386.zip",
+          "shasum": "2f4fd0e05413b55bf370ed26f7dbeebd4508256dffd06a6ce340cd272159d98f"
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-tigris_1.1.1_windows_amd64.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.1/terraform-provider-tigris_1.1.1_windows_amd64.zip",
+          "shasum": "fee9623d1ba22b7a9c64416d56e26c368ec9b4629a8b82e16214230ff518ed79"
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-tigris_1.1.1_windows_arm.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.1/terraform-provider-tigris_1.1.1_windows_arm.zip",
+          "shasum": "5b8b3b43fc511a8cd775eb373e8ec103411247e6038b89a5577272650edaeea2"
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-tigris_1.1.1_windows_arm64.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.1/terraform-provider-tigris_1.1.1_windows_arm64.zip",
+          "shasum": "6640aa7804a40c28946321328c1d314f912a5b798208c60e4968a0dea879c681"
+        }
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "protocols": [
+        "6.0"
+      ],
+      "shasums_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.0/terraform-provider-tigris_1.1.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.0/terraform-provider-tigris_1.1.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-tigris_1.1.0_darwin_amd64.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.0/terraform-provider-tigris_1.1.0_darwin_amd64.zip",
+          "shasum": "7a2b69f8b3630c2195b5960dead4264d49faa94cdbf37a178682f81223e0c83b"
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-tigris_1.1.0_darwin_arm64.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.0/terraform-provider-tigris_1.1.0_darwin_arm64.zip",
+          "shasum": "d73110534f0b1364d63674f18e0209f5580514b1452dc41141c1c2221a503c90"
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-tigris_1.1.0_freebsd_386.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.0/terraform-provider-tigris_1.1.0_freebsd_386.zip",
+          "shasum": "c65e42d52b9cc494fbb3d647be08a4c1793b05bd36b4da0f3c4e99f7fc216531"
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-tigris_1.1.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.0/terraform-provider-tigris_1.1.0_freebsd_amd64.zip",
+          "shasum": "d31752dfa582e5364f1830830b0b95e9c68aca9514020abde8a18681dd79cc66"
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-tigris_1.1.0_freebsd_arm.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.0/terraform-provider-tigris_1.1.0_freebsd_arm.zip",
+          "shasum": "c24cfe0de1718f17868caf0776f5977ade194b1d7f5725a1f8f8b344c429f720"
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-tigris_1.1.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.0/terraform-provider-tigris_1.1.0_freebsd_arm64.zip",
+          "shasum": "710e8768e6b867b708680d1808fcfc013f8efcba5259e910840e4812da75cbd3"
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-tigris_1.1.0_linux_386.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.0/terraform-provider-tigris_1.1.0_linux_386.zip",
+          "shasum": "f4ad604aa059603f5356b82f4adcf0c1802246f1c81813ad430a759b7a7517fa"
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-tigris_1.1.0_linux_amd64.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.0/terraform-provider-tigris_1.1.0_linux_amd64.zip",
+          "shasum": "9f598ce5b4c71917c7e14428060d61fa0edfc86c707d52d6261dd2ea2ec10a60"
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-tigris_1.1.0_linux_arm.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.0/terraform-provider-tigris_1.1.0_linux_arm.zip",
+          "shasum": "9d874908ceaec34dd12fc8c140011a9ac73516b2515412dbf80795e753f2ff21"
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-tigris_1.1.0_linux_arm64.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.0/terraform-provider-tigris_1.1.0_linux_arm64.zip",
+          "shasum": "208976ee9180ac82fec03544702e26882a39af9273674e39dbb21550b84ee04e"
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-tigris_1.1.0_windows_386.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.0/terraform-provider-tigris_1.1.0_windows_386.zip",
+          "shasum": "71cc810202eecbed078bb55d13206e6dd2f24e133240196e49c8b7ebd9ea41fb"
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-tigris_1.1.0_windows_amd64.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.0/terraform-provider-tigris_1.1.0_windows_amd64.zip",
+          "shasum": "594cbebc134351a2545839b6d2e566516183af395597d01347bbed05d85b9b25"
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-tigris_1.1.0_windows_arm.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.0/terraform-provider-tigris_1.1.0_windows_arm.zip",
+          "shasum": "6c02243d3402a239b9d8ee892ce1e23832ae42607b1c94f76cde7980ff2e3e8c"
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-tigris_1.1.0_windows_arm64.zip",
+          "download_url": "https://github.com/tigrisdata/terraform-provider-tigris/releases/download/v1.1.0/terraform-provider-tigris_1.1.0_windows_arm64.zip",
+          "shasum": "f08c3180a685c710acc4ea28c8aba22bf7885383da96da189101610ccef6b468"
+        }
+      ]
+    },
+    {
       "version": "1.0.4",
       "protocols": [
         "6.0"
