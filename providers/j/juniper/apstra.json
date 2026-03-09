@@ -4761,80 +4761,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.58.1/terraform-provider-apstra_0.58.1_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.58.1/terraform-provider-apstra_0.58.1_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.58.1/terraform-provider-apstra_0.58.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.58.1/terraform-provider-apstra_0.58.1_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.58.1_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.58.1/terraform-provider-apstra_0.58.1_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.58.1/terraform-provider-apstra_0.58.1_darwin_amd64.zip",
           "shasum": "9a7735a0b5d78211fdc514834ed9135680c6a0951b812aa6e0651531c474e20f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:yU3QRJzJx0JI3mY9moF0MboXRgDU7MoodsK7R3B1I7Q=",
+          "size": 7402894
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.58.1_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.58.1/terraform-provider-apstra_0.58.1_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.58.1/terraform-provider-apstra_0.58.1_darwin_arm64.zip",
           "shasum": "7d2b2f3553a41c94553aed341d5e035f63526c3d79602b2a6ca45625650678d9",
-          "h1": "",
-          "size": 0
+          "h1": "h1:u07Dte3ohQzh66jdSsS+dBfVAgTlEd4LjscyQCiEHok=",
+          "size": 6997878
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.58.1_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.58.1/terraform-provider-apstra_0.58.1_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.58.1/terraform-provider-apstra_0.58.1_linux_386.zip",
           "shasum": "e868fac6723d4a89a039812c17cc2f521fa08ba14708a3c23bf2e80a2f2da45f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:o6N9C+Q7EzPPBMK2ROVxNg31WCUbjY24fvLwoWyKlik=",
+          "size": 6698910
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.58.1_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.58.1/terraform-provider-apstra_0.58.1_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.58.1/terraform-provider-apstra_0.58.1_linux_amd64.zip",
           "shasum": "38d1447112a8556160f244244812ae585f5c2933ede03b889a95e4e8e07f58f4",
-          "h1": "",
-          "size": 0
+          "h1": "h1:os1lYBCLP+d39Sxo1S8bBtmB466HxYyh+DJs+Ob4kgg=",
+          "size": 7218144
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.58.1_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.58.1/terraform-provider-apstra_0.58.1_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.58.1/terraform-provider-apstra_0.58.1_linux_arm64.zip",
           "shasum": "68cf6bec1d80bb5d701c879c6af4be4128ee13c67891c9bd183d38c5eb350ab1",
-          "h1": "",
-          "size": 0
+          "h1": "h1:bAPJ2/CfUqiXfzCMYJN9H3a5kkbpkk4FOetUXKD6i/o=",
+          "size": 6656816
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.58.1_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.58.1/terraform-provider-apstra_0.58.1_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.58.1/terraform-provider-apstra_0.58.1_windows_386.zip",
           "shasum": "a803c273ef6afe70a9bb5fd75dbad295468d24fb8d8e7f7c87290863e8f83f8c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:6Jy7GIKygQ7EC4qxVO8COsJxXdmRwMpgelIn0ZRLXXw=",
+          "size": 6992768
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.58.1_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.58.1/terraform-provider-apstra_0.58.1_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.58.1/terraform-provider-apstra_0.58.1_windows_amd64.zip",
           "shasum": "916af7eaf0e5be5361b26d447601ea1b8bec84ceca429e577b62eb1018ae20e4",
-          "h1": "",
-          "size": 0
+          "h1": "h1:XYgWcpCD1m8SU1pu8RTqDUTSJJGr6hwkOksFRu2qJi8=",
+          "size": 7393196
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.58.1_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.58.1/terraform-provider-apstra_0.58.1_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.58.1/terraform-provider-apstra_0.58.1_windows_arm64.zip",
           "shasum": "74fa93ff7ed517879a7b7206f0bed4b5abc49756663b73707b676d0a6130ba2d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:rsnb9mLKSzp5EpZSIcclC8PR/1oUh2iHRBNOgSFG84s=",
+          "size": 6707746
         }
       ]
     },
@@ -4843,80 +4843,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.58.0/terraform-provider-apstra_0.58.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.58.0/terraform-provider-apstra_0.58.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.58.0/terraform-provider-apstra_0.58.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.58.0/terraform-provider-apstra_0.58.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.58.0_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.58.0/terraform-provider-apstra_0.58.0_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.58.0/terraform-provider-apstra_0.58.0_darwin_amd64.zip",
           "shasum": "63de5ef8636694e53b7122ba1bcf659f533fccf5fad1529334daaa8ba3bd3f01",
-          "h1": "",
-          "size": 0
+          "h1": "h1:yPxcsDknUhaXDHHKvei0gPvD4cXIRgDb9Lf/XYYOEKw=",
+          "size": 7402995
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.58.0_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.58.0/terraform-provider-apstra_0.58.0_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.58.0/terraform-provider-apstra_0.58.0_darwin_arm64.zip",
           "shasum": "931d423d147ab210efd3afe76f2a2134baaa293c8fad56b9ffdb18702175f711",
-          "h1": "",
-          "size": 0
+          "h1": "h1:IrVtLqWdUWfVDpTES4hs9rviKs3eCn8V8lg5Log3Pso=",
+          "size": 6997562
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.58.0_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.58.0/terraform-provider-apstra_0.58.0_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.58.0/terraform-provider-apstra_0.58.0_linux_386.zip",
           "shasum": "33e3d952ba6c068f21651750ae5575322a06f9f9bba82b2bb5d8e354dc8ecf97",
-          "h1": "",
-          "size": 0
+          "h1": "h1:M0B+hIUN8g7hIuHIczqqYI5BorJgbOHWIi1Kw3OkJQw=",
+          "size": 6698776
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.58.0_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.58.0/terraform-provider-apstra_0.58.0_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.58.0/terraform-provider-apstra_0.58.0_linux_amd64.zip",
           "shasum": "9945009b87e371eae231b28221e3bd71abb3a06600f4e55c0ec988e7289cae41",
-          "h1": "",
-          "size": 0
+          "h1": "h1:r50fbEnNRRLTqm9ZVj6amfKY6jHud+61wPjQzw3PcWU=",
+          "size": 7217898
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.58.0_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.58.0/terraform-provider-apstra_0.58.0_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.58.0/terraform-provider-apstra_0.58.0_linux_arm64.zip",
           "shasum": "362f681ef00edd0c18f6d525dd7c819dc6e4bad39f68f26d7dacd1f8d8858553",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ECJmC03k6snAwGPBIuQo6GEx++VNDlTC8OCxXAbpx7Q=",
+          "size": 6656796
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.58.0_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.58.0/terraform-provider-apstra_0.58.0_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.58.0/terraform-provider-apstra_0.58.0_windows_386.zip",
           "shasum": "cfeff978aadb8df9563dad97ab6d86419c8ade950538dc3efb844bea41586aae",
-          "h1": "",
-          "size": 0
+          "h1": "h1:fv20WFqCp5yVtmlIxP3K3UbRZkq+2XpKki69Xky7e3Y=",
+          "size": 6992269
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.58.0_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.58.0/terraform-provider-apstra_0.58.0_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.58.0/terraform-provider-apstra_0.58.0_windows_amd64.zip",
           "shasum": "b4bba8994fd891c15f1bfc32fcf0c1edc426ee57b2abd6b27fca429ea3eb3f53",
-          "h1": "",
-          "size": 0
+          "h1": "h1:fsBpbagZcPLUqNBKV4d1KcZNV3pqXJ8IcFQynw0E+Ok=",
+          "size": 7393313
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.58.0_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.58.0/terraform-provider-apstra_0.58.0_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.58.0/terraform-provider-apstra_0.58.0_windows_arm64.zip",
           "shasum": "45c1e2c9df7a23275144aa9500be3980d3204c3161f64e675df44143d4b4c886",
-          "h1": "",
-          "size": 0
+          "h1": "h1:N8h0KhVXCdM3eMslXFTu8B6sF9+f9kepY+DiakuYwvg=",
+          "size": 6708138
         }
       ]
     },
@@ -4925,80 +4925,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.2/terraform-provider-apstra_0.57.2_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.2/terraform-provider-apstra_0.57.2_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.2/terraform-provider-apstra_0.57.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.2/terraform-provider-apstra_0.57.2_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.57.2_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.2/terraform-provider-apstra_0.57.2_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.2/terraform-provider-apstra_0.57.2_darwin_amd64.zip",
           "shasum": "fb098d5f8e321e75d31cbb9e3584b4dfe602b4569305bbed92c5928d89dc8dcb",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ypSm+mhXpdsTWVeujUakxPd1kFZbPer7bPBazbZdbu8=",
+          "size": 7394345
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.57.2_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.2/terraform-provider-apstra_0.57.2_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.2/terraform-provider-apstra_0.57.2_darwin_arm64.zip",
           "shasum": "06753fc4059813f4cf2945b11d0da83c447586df1eb66c50a2c3afc3c04c903a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:7Hijk6gWpsWc5HpfynE1dNGehqbjAxuv9XtTTgUklPs=",
+          "size": 6987504
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.57.2_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.2/terraform-provider-apstra_0.57.2_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.2/terraform-provider-apstra_0.57.2_linux_386.zip",
           "shasum": "d9ab82801ac45c1d17d40c70067dc8de5476a1ea437684d65fc3c2d8f2761bf6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:DtdgrZiju1JxdrjkdpM43JoZfttKg+OxLqCAXKNAY2M=",
+          "size": 6692404
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.57.2_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.2/terraform-provider-apstra_0.57.2_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.2/terraform-provider-apstra_0.57.2_linux_amd64.zip",
           "shasum": "1cba806cbd629a6a020ef2836256ea1b8da0fef13ec58bfe26479ee9e4846981",
-          "h1": "",
-          "size": 0
+          "h1": "h1:VxCGnKyebuBqGQpPTDLspmXGBf5grYctesPCk6OQ6JI=",
+          "size": 7209260
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.57.2_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.2/terraform-provider-apstra_0.57.2_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.2/terraform-provider-apstra_0.57.2_linux_arm64.zip",
           "shasum": "971573776362264ab77dd564f5d1c7ebd0bef001e4808c667f64f263ddaa724e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:utu0gz2ccHT73kVeHyQ8WfVV95PLBF04IAcCamTmAr0=",
+          "size": 6648396
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.57.2_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.2/terraform-provider-apstra_0.57.2_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.2/terraform-provider-apstra_0.57.2_windows_386.zip",
           "shasum": "d89fd19459c70e6fe876077c2e3078245f5081f6aa62c2b5a7c2f08c77677289",
-          "h1": "",
-          "size": 0
+          "h1": "h1:hqivajZp1d6fcLHKRRZpnQivKqrj6ciGCNLgJRO5ILo=",
+          "size": 6983036
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.57.2_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.2/terraform-provider-apstra_0.57.2_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.2/terraform-provider-apstra_0.57.2_windows_amd64.zip",
           "shasum": "7d057c6ceacc29eb90366b24bd43f153d05c102aa0e33d9defe1f9af22eb2dea",
-          "h1": "",
-          "size": 0
+          "h1": "h1:T3jbRflvOq3od7KQzs2BNfn3vQz+IV7JjukP54BEUkw=",
+          "size": 7383470
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.57.2_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.2/terraform-provider-apstra_0.57.2_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.2/terraform-provider-apstra_0.57.2_windows_arm64.zip",
           "shasum": "bea05ed6e955525d0efe5c2dd2826978dfbe707c5b50d78cb987f78be9afc07b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:y4vfnYPGaXzXUoQxw/OKZJNRhirzcCr9TFu6+MHJG5U=",
+          "size": 6697819
         }
       ]
     },
@@ -5007,80 +5007,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.1/terraform-provider-apstra_0.57.1_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.1/terraform-provider-apstra_0.57.1_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.1/terraform-provider-apstra_0.57.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.1/terraform-provider-apstra_0.57.1_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.57.1_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.1/terraform-provider-apstra_0.57.1_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.1/terraform-provider-apstra_0.57.1_darwin_amd64.zip",
           "shasum": "7472e657842a6eb07ff597c6b5f6e91418a7213785e94ec463f38bcc5a6649ca",
-          "h1": "",
-          "size": 0
+          "h1": "h1:l6yaTg5/gQT90dD5l5qJCXcZrfnorgcgWbjm4rZ9c3Y=",
+          "size": 7394521
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.57.1_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.1/terraform-provider-apstra_0.57.1_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.1/terraform-provider-apstra_0.57.1_darwin_arm64.zip",
           "shasum": "01bb32acb5bd34da91fdafd28b1eb0c93b53b97edd5f5c629d94eb130c0ee1a7",
-          "h1": "",
-          "size": 0
+          "h1": "h1:VK9vgsVpjFX0qMtySZ03eXhT0dLSwbhwTjnKNi5ID9E=",
+          "size": 6987516
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.57.1_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.1/terraform-provider-apstra_0.57.1_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.1/terraform-provider-apstra_0.57.1_linux_386.zip",
           "shasum": "6991cf4cb98c43b903ecd076d10d37815c64be5b01aa54d015478a76fafda5e4",
-          "h1": "",
-          "size": 0
+          "h1": "h1:s6PKksyR47XEYSDBD1kE9/f+yOFwSFAFGqGzCZ79iis=",
+          "size": 6692282
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.57.1_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.1/terraform-provider-apstra_0.57.1_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.1/terraform-provider-apstra_0.57.1_linux_amd64.zip",
           "shasum": "e3fc9d3ce3f700b4061415709284dd22d3ba08f2884c49b57d4f482eb086e7ac",
-          "h1": "",
-          "size": 0
+          "h1": "h1:1DBlxjRQdn/ZzRMeBU9ilvjAbWWxka8Q0iqPd7flf+M=",
+          "size": 7209212
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.57.1_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.1/terraform-provider-apstra_0.57.1_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.1/terraform-provider-apstra_0.57.1_linux_arm64.zip",
           "shasum": "d997dd88fa735a64b48331940c6fbf52225bcc5281973489a2958b78f5eede96",
-          "h1": "",
-          "size": 0
+          "h1": "h1:pcMDq+7E0cfyNJqANrvtCpPTwldoiUSO9NUnEIZCK7I=",
+          "size": 6647918
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.57.1_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.1/terraform-provider-apstra_0.57.1_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.1/terraform-provider-apstra_0.57.1_windows_386.zip",
           "shasum": "c4b4c312e25e04d07260c9cb19c40346854e9ac8bfa7e001ee7ecc8fa8dcf9b0",
-          "h1": "",
-          "size": 0
+          "h1": "h1:HyNQTr9TikF1U7H4t4WSsNVwCPg5AHJdCPDHTeYKfyc=",
+          "size": 6982945
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.57.1_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.1/terraform-provider-apstra_0.57.1_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.1/terraform-provider-apstra_0.57.1_windows_amd64.zip",
           "shasum": "1f64b01105d602b4c553f36242fce347ab7ba3bb94b71a5903706956641c1a63",
-          "h1": "",
-          "size": 0
+          "h1": "h1:dsvFSvGxcniUfQYyoDhujvXeOLIp0+pZBZqn+cGmj9k=",
+          "size": 7383552
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.57.1_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.1/terraform-provider-apstra_0.57.1_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.1/terraform-provider-apstra_0.57.1_windows_arm64.zip",
           "shasum": "1b9daec274e37abacf7dbfc881a8b55d37eaa66306d716f2d661e1c133b44bb5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ZH1nRoRqF2Ek7NzHg3A4edr8SSgmSB6x9haBb3e6Oks=",
+          "size": 6697812
         }
       ]
     },
@@ -5089,80 +5089,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.0/terraform-provider-apstra_0.57.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.0/terraform-provider-apstra_0.57.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.0/terraform-provider-apstra_0.57.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.0/terraform-provider-apstra_0.57.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.57.0_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.0/terraform-provider-apstra_0.57.0_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.0/terraform-provider-apstra_0.57.0_darwin_amd64.zip",
           "shasum": "b0754c12c11dc85fa8d8daf6f25c64974a34ae51fe969ae10cc8ee77144ea489",
-          "h1": "",
-          "size": 0
+          "h1": "h1:YJMcpx5YcddMtYPdKyqBhsTc8i/oy80jkZxUg6G1ITc=",
+          "size": 7394637
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.57.0_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.0/terraform-provider-apstra_0.57.0_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.0/terraform-provider-apstra_0.57.0_darwin_arm64.zip",
           "shasum": "5d22566fd2b61bc8f399cbbbad9059b9ac6ef9ef972b6cf1fb5c87fcadc44e8e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:i2XjqKNpy8ve8wxWXa7J1Oa6lmaYjUKxA9BUfdKsMPg=",
+          "size": 6987615
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.57.0_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.0/terraform-provider-apstra_0.57.0_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.0/terraform-provider-apstra_0.57.0_linux_386.zip",
           "shasum": "0a69360b73c7abc4b904c1a0959cef611fac9b7810ae1632733f029c3a1135b2",
-          "h1": "",
-          "size": 0
+          "h1": "h1:cvvkRG3Sb5TwmT2xTtrUJKB0xqr57jwTf2ZiC/lg37k=",
+          "size": 6692779
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.57.0_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.0/terraform-provider-apstra_0.57.0_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.0/terraform-provider-apstra_0.57.0_linux_amd64.zip",
           "shasum": "e467a41f5e8bced7a659fffee66e6edf2bb1a1ad7af663d259badf69ff26f727",
-          "h1": "",
-          "size": 0
+          "h1": "h1:3dRd6dG4El6xQRn+srUwkcFzfA98sn0DbnF634x940c=",
+          "size": 7208968
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.57.0_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.0/terraform-provider-apstra_0.57.0_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.0/terraform-provider-apstra_0.57.0_linux_arm64.zip",
           "shasum": "eec2a2235d84a12e94b1c31b3d73f0afd8dcd570c406c2b2ef456fc0cc9944ea",
-          "h1": "",
-          "size": 0
+          "h1": "h1:z92+bkEW70vSv3KYL02a9fc6xotEa97O0ZFVFtNxsIk=",
+          "size": 6647718
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.57.0_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.0/terraform-provider-apstra_0.57.0_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.0/terraform-provider-apstra_0.57.0_windows_386.zip",
           "shasum": "d28dc46c95c5fee90d496f6c4718b418df14de91dbb5f3136dfd9b8e1946d490",
-          "h1": "",
-          "size": 0
+          "h1": "h1:o4JkDOJjnm3FaZ/tOsNYruV585HtQBumbyamM74TuUo=",
+          "size": 6983048
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.57.0_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.0/terraform-provider-apstra_0.57.0_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.0/terraform-provider-apstra_0.57.0_windows_amd64.zip",
           "shasum": "1c9a02591400d1d6c299543bc75bb55bb7a1d73a1926b3ef4cd23ea7740f7ce8",
-          "h1": "",
-          "size": 0
+          "h1": "h1:uaEJx7wgzC0U04SVap32v6SJBP5tUK9sBaTvN6n6XLk=",
+          "size": 7383367
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.57.0_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.57.0/terraform-provider-apstra_0.57.0_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.57.0/terraform-provider-apstra_0.57.0_windows_arm64.zip",
           "shasum": "af4545d570d178c0566aa56a5fdeac53e21908b00b179d8bed5e008ae1970c63",
-          "h1": "",
-          "size": 0
+          "h1": "h1:mA/X02Hos3d/fdVDYflkr18Vpvx6I5yjXE3MwuLX05o=",
+          "size": 6697840
         }
       ]
     },
@@ -5171,80 +5171,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.56.0/terraform-provider-apstra_0.56.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.56.0/terraform-provider-apstra_0.56.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.56.0/terraform-provider-apstra_0.56.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.56.0/terraform-provider-apstra_0.56.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.56.0_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.56.0/terraform-provider-apstra_0.56.0_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.56.0/terraform-provider-apstra_0.56.0_darwin_amd64.zip",
           "shasum": "f2bb25160128162afae7a0d7767ccdee2d28ef919c9750f2fbd2988dd2a32a6a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:YgnTkQb1v5vSdCNyp80N8yOlsE8skCQQPt7omN39FMM=",
+          "size": 7384642
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.56.0_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.56.0/terraform-provider-apstra_0.56.0_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.56.0/terraform-provider-apstra_0.56.0_darwin_arm64.zip",
           "shasum": "3a068debb2a0e3225ad71bb98a5b06c6317bcb0e635f6ce3ac86dba73c4f22ea",
-          "h1": "",
-          "size": 0
+          "h1": "h1:qcMg4WqY60eyngYboCUDC1RpKmvlsEVwzXgIqvku71g=",
+          "size": 6980146
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.56.0_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.56.0/terraform-provider-apstra_0.56.0_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.56.0/terraform-provider-apstra_0.56.0_linux_386.zip",
           "shasum": "df001150d8ac369f97ab196932a8ab10c84ea584c8ff770871adfe9396fc03d5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:MM/iEJL6gx5vFdKEO/RDrkVX7jMUc0pb0c6XdCck/Uw=",
+          "size": 6686272
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.56.0_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.56.0/terraform-provider-apstra_0.56.0_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.56.0/terraform-provider-apstra_0.56.0_linux_amd64.zip",
           "shasum": "ff4087ba15eae8d958a159c0fde199c9415584d274cc848fc7b56e78db7fe5aa",
-          "h1": "",
-          "size": 0
+          "h1": "h1:O/52JTBDnhkBDITt3VjDAYqiCeC6My35bMsE66EJg3s=",
+          "size": 7200590
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.56.0_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.56.0/terraform-provider-apstra_0.56.0_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.56.0/terraform-provider-apstra_0.56.0_linux_arm64.zip",
           "shasum": "3dda180d44ecb32a0c55bca02858986a5575a38f411c6cb558e36d5aeb91acb4",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Qa4P/KMPFIVWfZmzvINsVzGD1/rjx+iw2AsllbzwQ1Q=",
+          "size": 6639532
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.56.0_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.56.0/terraform-provider-apstra_0.56.0_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.56.0/terraform-provider-apstra_0.56.0_windows_386.zip",
           "shasum": "cdd43c560f23318bf5036b4981e83ca58941958f8e636380d4815a322b6bbe2d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:lX6udUrcrJ0K2oQtTbVV7PiRVOACAIbkwdTMjYWsa5s=",
+          "size": 6975041
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.56.0_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.56.0/terraform-provider-apstra_0.56.0_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.56.0/terraform-provider-apstra_0.56.0_windows_amd64.zip",
           "shasum": "a82992f2a80e1ab4592b886b2505a5a29deb470db986c8ee5cde0f70a3e68cfc",
-          "h1": "",
-          "size": 0
+          "h1": "h1:YFYS7ztj30mgf871YW24/6/dAiUlYUS3CQWh5C8e2KU=",
+          "size": 7373913
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.56.0_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.56.0/terraform-provider-apstra_0.56.0_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.56.0/terraform-provider-apstra_0.56.0_windows_arm64.zip",
           "shasum": "0c73a31abb928efae025cac889db1442aea905c20a72f1ce1db2b3e63e43c09e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:OjMcgpnEyaMtgeiRYn7nXnRbSpLcg43oQwh8RnFPUn0=",
+          "size": 6690779
         }
       ]
     },
@@ -5253,80 +5253,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.55.0/terraform-provider-apstra_0.55.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.55.0/terraform-provider-apstra_0.55.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.55.0/terraform-provider-apstra_0.55.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.55.0/terraform-provider-apstra_0.55.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.55.0_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.55.0/terraform-provider-apstra_0.55.0_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.55.0/terraform-provider-apstra_0.55.0_darwin_amd64.zip",
           "shasum": "ca5f2c221cb22a48c42a9ad702ca33b71812afd777288a3c16543aa71ee528dd",
-          "h1": "",
-          "size": 0
+          "h1": "h1:xTzLMR+1LQYxu7AgRmLG3pqHtuSSQvLm6vyyS4BAfB8=",
+          "size": 7378696
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.55.0_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.55.0/terraform-provider-apstra_0.55.0_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.55.0/terraform-provider-apstra_0.55.0_darwin_arm64.zip",
           "shasum": "e0f39e58f601fb2c1365def0b412222a6e5471f4a2520b1848948fa0021def6d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:aqkZG+mv1T06oTTHb691SpDsShkvCprRv0D0sBsxQz0=",
+          "size": 6978553
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.55.0_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.55.0/terraform-provider-apstra_0.55.0_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.55.0/terraform-provider-apstra_0.55.0_linux_386.zip",
           "shasum": "f0d02741cb19e35a2dda9d5a99d9a090f7eeb9d790a0a0fdb5f7bc44578fa6be",
-          "h1": "",
-          "size": 0
+          "h1": "h1:aZIulkOzKhHjp58yTKJvlFigRe8rMbbMNQd9eppvHQQ=",
+          "size": 6682717
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.55.0_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.55.0/terraform-provider-apstra_0.55.0_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.55.0/terraform-provider-apstra_0.55.0_linux_amd64.zip",
           "shasum": "e1d769facaf373cb9dae68753c8bcd486d8bad766d91d5e405dd5c9b57fa7131",
-          "h1": "",
-          "size": 0
+          "h1": "h1:T1PtzKj2J/upSl7doM++XnXIh71Gw4oCELvW74REy7M=",
+          "size": 7196574
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.55.0_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.55.0/terraform-provider-apstra_0.55.0_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.55.0/terraform-provider-apstra_0.55.0_linux_arm64.zip",
           "shasum": "271b10fc83f89c5c6a521bbbac23dd4bc65b4463abce451d0b3089eb645dd0e3",
-          "h1": "",
-          "size": 0
+          "h1": "h1:fsX49KD9qrS/6yyMPNQ8U2adXBKnL4sq25RebKskagY=",
+          "size": 6636316
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.55.0_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.55.0/terraform-provider-apstra_0.55.0_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.55.0/terraform-provider-apstra_0.55.0_windows_386.zip",
           "shasum": "ddac39b137f20b7690594f8c3b387acbc31aacb2284dc626e2a6b458ccba7cbd",
-          "h1": "",
-          "size": 0
+          "h1": "h1:1uoeH9FuWiPdcsUn3pEA7Kp0o1hd24ncFAYS3pBTsTA=",
+          "size": 6972017
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.55.0_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.55.0/terraform-provider-apstra_0.55.0_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.55.0/terraform-provider-apstra_0.55.0_windows_amd64.zip",
           "shasum": "063264ebc627870011c0a2565f481e9a14efa3e271fdca2e150821fc670f3731",
-          "h1": "",
-          "size": 0
+          "h1": "h1:qIM58t3Orl4uZJnUaQpXjZzpAOukoo04CpMQCIwj3Ig=",
+          "size": 7371514
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.55.0_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.55.0/terraform-provider-apstra_0.55.0_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.55.0/terraform-provider-apstra_0.55.0_windows_arm64.zip",
           "shasum": "7818886edd65d74806bd669f987b7a578b1e10c1439e91c645f56fa26d6a5446",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Pv3oLo6NKhFmmVfQCO/YQ+3MJ/YRg6quaE6DcbqD+XE=",
+          "size": 6688329
         }
       ]
     },
@@ -5335,80 +5335,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.54.1/terraform-provider-apstra_0.54.1_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.54.1/terraform-provider-apstra_0.54.1_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.54.1/terraform-provider-apstra_0.54.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.54.1/terraform-provider-apstra_0.54.1_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.54.1_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.54.1/terraform-provider-apstra_0.54.1_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.54.1/terraform-provider-apstra_0.54.1_darwin_amd64.zip",
           "shasum": "77150d9968daadbda924bf19cc3689b4f292e5b3019c8612cf8168cb00f263fe",
-          "h1": "",
-          "size": 0
+          "h1": "h1:uFuscg1+RU7gUEhhZdyi4XAI6T7pcqTSUE+sner1oZs=",
+          "size": 7361861
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.54.1_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.54.1/terraform-provider-apstra_0.54.1_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.54.1/terraform-provider-apstra_0.54.1_darwin_arm64.zip",
           "shasum": "68374ae27f6d839de9ec798720361a2fa8cd587f8b267a0e9c66bc10c8cf9e88",
-          "h1": "",
-          "size": 0
+          "h1": "h1:3dsWGzIm3Q56lc2JE3r38I9SJfsENndBHXTcKvB38HE=",
+          "size": 6953348
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.54.1_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.54.1/terraform-provider-apstra_0.54.1_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.54.1/terraform-provider-apstra_0.54.1_linux_386.zip",
           "shasum": "363c0fe31b35db1d48d8aef54a0008f6e3d45a1d5dbd2de10cc84cc05e8f3252",
-          "h1": "",
-          "size": 0
+          "h1": "h1:iR81s4XudkYGBsLwceHz6wAW0Ot7UkIodSbvlDow8TA=",
+          "size": 6662518
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.54.1_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.54.1/terraform-provider-apstra_0.54.1_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.54.1/terraform-provider-apstra_0.54.1_linux_amd64.zip",
           "shasum": "6d7f5072351a9655afc95ae9c2c4e2540f0712fa073f9660a6c71a7bc9803c64",
-          "h1": "",
-          "size": 0
+          "h1": "h1:pud5tdjSg5CNm2DuqoWMGtisNzHWMODIXNfBIX/1u/Q=",
+          "size": 7176535
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.54.1_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.54.1/terraform-provider-apstra_0.54.1_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.54.1/terraform-provider-apstra_0.54.1_linux_arm64.zip",
           "shasum": "2fc4a2a1098017f723b07f200f96676f51787f50572c72cd22c162c42af5a3c0",
-          "h1": "",
-          "size": 0
+          "h1": "h1:eWY6xB8N6cDKHi1B5GPqAMZI762FAsJjI7D2mmskm7s=",
+          "size": 6618660
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.54.1_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.54.1/terraform-provider-apstra_0.54.1_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.54.1/terraform-provider-apstra_0.54.1_windows_386.zip",
           "shasum": "07ca19c026208dd59542dce58b8991e71acb02184fb5d0e8cb334aea1ceb8335",
-          "h1": "",
-          "size": 0
+          "h1": "h1:TRARndk8nVNIQ3YEp7KZNHuEevxzr97qZpkagoGKULw=",
+          "size": 6950942
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.54.1_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.54.1/terraform-provider-apstra_0.54.1_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.54.1/terraform-provider-apstra_0.54.1_windows_amd64.zip",
           "shasum": "9a3b4497ab46521dc298fb61bf63c8873fb8d8f33944a94ebf3c58ceaa0adf3a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:qdEu5tBMSqRi3CIJ+9ydaW1Ro8rRusg/RQ/0VQuOeBE=",
+          "size": 7348551
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.54.1_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.54.1/terraform-provider-apstra_0.54.1_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.54.1/terraform-provider-apstra_0.54.1_windows_arm64.zip",
           "shasum": "cb702e9f96a4a9842bfb2fa2caa46308ff7853b183ce3c78cd5432f469d1a626",
-          "h1": "",
-          "size": 0
+          "h1": "h1:2WdabpnLOEEBrp0DvVFCuTqJYemQSESYCJ5OWU8TcDI=",
+          "size": 6666300
         }
       ]
     },
@@ -5417,80 +5417,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.54.0/terraform-provider-apstra_0.54.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.54.0/terraform-provider-apstra_0.54.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.54.0/terraform-provider-apstra_0.54.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.54.0/terraform-provider-apstra_0.54.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.54.0_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.54.0/terraform-provider-apstra_0.54.0_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.54.0/terraform-provider-apstra_0.54.0_darwin_amd64.zip",
           "shasum": "37b40f525ddcb16971634c2d8556aa338ad046ff926b74097bdfe9490e95f955",
-          "h1": "",
-          "size": 0
+          "h1": "h1:YBlM9AfWvin0aem9MXwJb2Q8/iIzBj3+/lVGHTlBUwU=",
+          "size": 7360017
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.54.0_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.54.0/terraform-provider-apstra_0.54.0_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.54.0/terraform-provider-apstra_0.54.0_darwin_arm64.zip",
           "shasum": "36ed3bf11ddaf9b094d03b270ab048d703499e64aaad77aa036a74b6f62000f1",
-          "h1": "",
-          "size": 0
+          "h1": "h1:82R0S8AUMO2K8h9HvfbCDyYW5XuCHIUSZEuCmisxmFU=",
+          "size": 6953233
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.54.0_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.54.0/terraform-provider-apstra_0.54.0_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.54.0/terraform-provider-apstra_0.54.0_linux_386.zip",
           "shasum": "77e818a771394d31cec61df45bbfa0ad51eebcf0430757f4b13fc69b3b2341a6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:wMhcR6m1JqgRLVzM5J0YPTwO/lhs0LjTS/IlsLFD4YQ=",
+          "size": 6659765
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.54.0_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.54.0/terraform-provider-apstra_0.54.0_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.54.0/terraform-provider-apstra_0.54.0_linux_amd64.zip",
           "shasum": "228ff3ae833a5c7cea589ffd5e02e2cd0562d7e4ab1df211d434d96dbb799f86",
-          "h1": "",
-          "size": 0
+          "h1": "h1:eXUlfTff4DiQRZ570AyDdGYu88co9VXtfE8vFQrLA64=",
+          "size": 7174519
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.54.0_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.54.0/terraform-provider-apstra_0.54.0_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.54.0/terraform-provider-apstra_0.54.0_linux_arm64.zip",
           "shasum": "616a5acedafcaf9dcd25376efb2d5f8aa159853e3d0bf485a6e52a4d99b509d5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:VK2zUuEaFhKHmB0r2dd7664BXvsZb//KauVsZFMpnCI=",
+          "size": 6615767
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.54.0_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.54.0/terraform-provider-apstra_0.54.0_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.54.0/terraform-provider-apstra_0.54.0_windows_386.zip",
           "shasum": "8fa57423530d5ce61dbf124af12208cb1fa120fa97ecad1a8f6d8a9d9d3b8a13",
-          "h1": "",
-          "size": 0
+          "h1": "h1:2Jd7WeBoUWdXQ3UDtTKFx1fiGlZMWQN9lUb/QJWkgGE=",
+          "size": 6949164
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.54.0_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.54.0/terraform-provider-apstra_0.54.0_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.54.0/terraform-provider-apstra_0.54.0_windows_amd64.zip",
           "shasum": "cd0e86456243ff6b11c0d36a816c6aa2f6868c613e75f3050af8e1d368c3b536",
-          "h1": "",
-          "size": 0
+          "h1": "h1:RMkmgEw79syGYbsy43+LmDyPXpOs/D7PoD3tUntylpc=",
+          "size": 7346794
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.54.0_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.54.0/terraform-provider-apstra_0.54.0_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.54.0/terraform-provider-apstra_0.54.0_windows_arm64.zip",
           "shasum": "d73f2bdb91bfd234ae3b03007dc10b2446fe88c959f055f72c39880c679be6df",
-          "h1": "",
-          "size": 0
+          "h1": "h1:i8Kii/eSLVTBkEFlrUFbNXELsz7QerS3Bb+J/m9/3ZU=",
+          "size": 6663809
         }
       ]
     },
@@ -5499,80 +5499,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.2/terraform-provider-apstra_0.53.2_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.2/terraform-provider-apstra_0.53.2_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.2/terraform-provider-apstra_0.53.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.2/terraform-provider-apstra_0.53.2_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.53.2_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.2/terraform-provider-apstra_0.53.2_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.2/terraform-provider-apstra_0.53.2_darwin_amd64.zip",
           "shasum": "a9dd7240ba4764996ae18b001a26037716c80bb402f7d3d329a50f53ece6aff8",
-          "h1": "",
-          "size": 0
+          "h1": "h1:MVFJY/N6XsXzZ3z/QfOL6ivLCBVv71txhefAZgMA+Ug=",
+          "size": 7471751
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.53.2_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.2/terraform-provider-apstra_0.53.2_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.2/terraform-provider-apstra_0.53.2_darwin_arm64.zip",
           "shasum": "1157eeda04f77798f647921a7c680cf0985276fd98fc1033be312c32d78d1323",
-          "h1": "",
-          "size": 0
+          "h1": "h1:f8BdZAIPBi2YpqqIb7QEK1epqUqOKO1rdcy8dS8EkPs=",
+          "size": 7061537
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.53.2_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.2/terraform-provider-apstra_0.53.2_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.2/terraform-provider-apstra_0.53.2_linux_386.zip",
           "shasum": "ad7999c3731c173e7c289674096561961e4791de03fde5d7e703a6d13e07c180",
-          "h1": "",
-          "size": 0
+          "h1": "h1:l4fLApYJjNcK3rlXcd1nb8TiE/yIGoJ7hk4yHZWEq4g=",
+          "size": 6766120
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.53.2_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.2/terraform-provider-apstra_0.53.2_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.2/terraform-provider-apstra_0.53.2_linux_amd64.zip",
           "shasum": "21e45bd887df9e664a979f4b25c8a9d493f7c9c495efe36be12d89988ad10620",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ARVsffsQjep+NT/I5QgdPzBpud6PlCEfamMg/F8X6r0=",
+          "size": 7285312
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.53.2_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.2/terraform-provider-apstra_0.53.2_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.2/terraform-provider-apstra_0.53.2_linux_arm64.zip",
           "shasum": "5cde5d64ca1f26951b68f63a737f508968ff3a9a6c79f459d67def1fa0c31e1c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:w/GKreDYhu1kmJXzifqCjrjJqQCHGDMYfIhLcX1eFjw=",
+          "size": 6723971
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.53.2_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.2/terraform-provider-apstra_0.53.2_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.2/terraform-provider-apstra_0.53.2_windows_386.zip",
           "shasum": "a7a9af98b32058be11b7c81652718fe22d19958d68c750ca241d004ad4dab92e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:cKYzVeGycBDbw4NGvUjSxvPO/zVb19eSayzvtWb8w/I=",
+          "size": 7057538
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.53.2_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.2/terraform-provider-apstra_0.53.2_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.2/terraform-provider-apstra_0.53.2_windows_amd64.zip",
           "shasum": "065d12bb54278ba3e210a0e0cd6ad4198b0176de15f51b045b729bbca54fd192",
-          "h1": "",
-          "size": 0
+          "h1": "h1:y0g8LLCpf9+jJXuo9oCGb0bYuyskYQRXiigWDkVoQTc=",
+          "size": 7462123
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.53.2_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.2/terraform-provider-apstra_0.53.2_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.2/terraform-provider-apstra_0.53.2_windows_arm64.zip",
           "shasum": "cd7cac36ff52066f2c3f3adad3529c70058ef5c762d5984633049ede5fb357bf",
-          "h1": "",
-          "size": 0
+          "h1": "h1:OZiGqNsFIjQrVs9ZgEQS9rnpJTfn6LlkECRL+L4YH/c=",
+          "size": 6775773
         }
       ]
     },
@@ -5581,80 +5581,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.1/terraform-provider-apstra_0.53.1_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.1/terraform-provider-apstra_0.53.1_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.1/terraform-provider-apstra_0.53.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.1/terraform-provider-apstra_0.53.1_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.53.1_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.1/terraform-provider-apstra_0.53.1_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.1/terraform-provider-apstra_0.53.1_darwin_amd64.zip",
           "shasum": "525ee9ebf6ae1ba132be60204b7cdbf4337a7079cd9b1938f639ecaf47ff45de",
-          "h1": "",
-          "size": 0
+          "h1": "h1:YNwmd5EtWa88yXf4dSSdhz6wDpqUSy6W/zWFHEdDtPo=",
+          "size": 7471555
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.53.1_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.1/terraform-provider-apstra_0.53.1_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.1/terraform-provider-apstra_0.53.1_darwin_arm64.zip",
           "shasum": "ac8b59bb071b1a688c3db51f25101964c5e7fb6aa70941c9c2123eb27a6c7d3b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:3EmQAU2Sm7kw/9neCuKBUIVd5LjVvq0RNwS4vN952J0=",
+          "size": 7061535
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.53.1_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.1/terraform-provider-apstra_0.53.1_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.1/terraform-provider-apstra_0.53.1_linux_386.zip",
           "shasum": "38ed6b5410e6a9dac34257fb58a49c46786f095d6ce12a795e92af97a233204d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:KnnvjMYSB3IaTudhkpSWj8AT+JP+Pgf9FSQ+S1ElsLs=",
+          "size": 6766019
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.53.1_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.1/terraform-provider-apstra_0.53.1_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.1/terraform-provider-apstra_0.53.1_linux_amd64.zip",
           "shasum": "bd6afb170ab938fa39af0d3ff49aa78b59254d5bb3ea59438716e9e3e1e3a23d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:/0Jv0DZ8EM6nlrh8fdSsgxldPRtndB1LDh9ut4jnDvg=",
+          "size": 7284985
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.53.1_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.1/terraform-provider-apstra_0.53.1_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.1/terraform-provider-apstra_0.53.1_linux_arm64.zip",
           "shasum": "23c1f370923294666ffbb57f1462a13156a8c41a8deffb10e547817027f434f5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:XM5p8Vl3IuH/fWl1nGoO9jbotLpuS2dI70taSKvVRG0=",
+          "size": 6724031
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.53.1_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.1/terraform-provider-apstra_0.53.1_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.1/terraform-provider-apstra_0.53.1_windows_386.zip",
           "shasum": "1acb408a775eaa57a9adf9a9ba3fc8483b3a713bd84da1d16eff94999a993f71",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Jsi//DnbnwjnoLUYh62dPCtlbUWdqbRVex7A/57l4yU=",
+          "size": 7057418
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.53.1_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.1/terraform-provider-apstra_0.53.1_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.1/terraform-provider-apstra_0.53.1_windows_amd64.zip",
           "shasum": "a54abd57ba1288e1181b389cbdbf3839cf14174770e357c96db11ed9060a7242",
-          "h1": "",
-          "size": 0
+          "h1": "h1:DBMZo7DuVWMtnxVzgv5dSKSdRzEkLNjLcEiNiLplZ5k=",
+          "size": 7462135
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.53.1_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.1/terraform-provider-apstra_0.53.1_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.1/terraform-provider-apstra_0.53.1_windows_arm64.zip",
           "shasum": "623c1580919c45eb55a9f3071960ead237dc3ff791ce1b52fe3ea3245ee08cf0",
-          "h1": "",
-          "size": 0
+          "h1": "h1:cXdmrTw0lrH8YOeDa+JrwaBsfL8tnViBfRoEua4Nqzg=",
+          "size": 6775311
         }
       ]
     },
@@ -5663,80 +5663,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.0/terraform-provider-apstra_0.53.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.0/terraform-provider-apstra_0.53.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.0/terraform-provider-apstra_0.53.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.0/terraform-provider-apstra_0.53.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.53.0_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.0/terraform-provider-apstra_0.53.0_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.0/terraform-provider-apstra_0.53.0_darwin_amd64.zip",
           "shasum": "29f83cd928d78aba85da07a738d4ca7293bb6668a2704780de8a7626d18172ed",
-          "h1": "",
-          "size": 0
+          "h1": "h1:WTIdq28vVufkVfF5sU1uijJyoC4XH/nb8K0fPkc4UfM=",
+          "size": 7471664
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.53.0_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.0/terraform-provider-apstra_0.53.0_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.0/terraform-provider-apstra_0.53.0_darwin_arm64.zip",
           "shasum": "2cba52ad7e98a2bdc3cecd8e27a349c4520f2e0ad6c6d0b5e285e7d8e55245b2",
-          "h1": "",
-          "size": 0
+          "h1": "h1:kSSiyt1PG7I5Cg9zsiZwOoONftm08/AknNuzMxepmHs=",
+          "size": 7061865
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.53.0_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.0/terraform-provider-apstra_0.53.0_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.0/terraform-provider-apstra_0.53.0_linux_386.zip",
           "shasum": "34296b89e4527a4827b12bac4fa4138d3fb055823fbe2f5ab666396698f5323f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:+zrPOEHPyTmHpunl7xJPI7LrSGm227/DHooBGxIg8vs=",
+          "size": 6765635
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.53.0_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.0/terraform-provider-apstra_0.53.0_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.0/terraform-provider-apstra_0.53.0_linux_amd64.zip",
           "shasum": "18f9197c478398872f8d16d3b5bff39b2374d22b2ecba96e88b90e77b0314221",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Ap0KPNYgaW6rMpMJp2bij+gKuagQxVcq/PNyLO8/Ync=",
+          "size": 7284986
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.53.0_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.0/terraform-provider-apstra_0.53.0_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.0/terraform-provider-apstra_0.53.0_linux_arm64.zip",
           "shasum": "4d368736b3e6c50c577570edc70f410312ca9aa83293fd612ebdd77ea02eefdf",
-          "h1": "",
-          "size": 0
+          "h1": "h1:O0Uywdxt7j/dMakrvCaJxAJ0A+uzRMI2sIY5H8W1xgI=",
+          "size": 6724030
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.53.0_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.0/terraform-provider-apstra_0.53.0_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.0/terraform-provider-apstra_0.53.0_windows_386.zip",
           "shasum": "8fe2927e4e5be7b6ea3f152ddaaf01ecb440e1970533944ff69adb866a15b4f4",
-          "h1": "",
-          "size": 0
+          "h1": "h1:znmaUhgcoB2xOHCWblBhLZdFIOKsd4QlxOEqAzjQdno=",
+          "size": 7056983
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.53.0_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.0/terraform-provider-apstra_0.53.0_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.0/terraform-provider-apstra_0.53.0_windows_amd64.zip",
           "shasum": "d90f39061fc5219756b0b494273d44e82f70b535c4e044060ec9498a094b4ab8",
-          "h1": "",
-          "size": 0
+          "h1": "h1:WjU8qAsXZyjGiPnfNT9xL7V1ZFqK6JsMPJpXdzbkc8Q=",
+          "size": 7462008
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.53.0_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.53.0/terraform-provider-apstra_0.53.0_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.53.0/terraform-provider-apstra_0.53.0_windows_arm64.zip",
           "shasum": "90ef9837f3c861a66cf8a48959366693768535cdac86b60fc855c6fb280eb8a0",
-          "h1": "",
-          "size": 0
+          "h1": "h1:UZd9/mdt1JSUezDaAGCqitVwjGeO7/QPYBF9gHz8kgk=",
+          "size": 6775845
         }
       ]
     },
@@ -5745,80 +5745,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.6/terraform-provider-apstra_0.52.6_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.6/terraform-provider-apstra_0.52.6_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.6/terraform-provider-apstra_0.52.6_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.6/terraform-provider-apstra_0.52.6_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.52.6_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.6/terraform-provider-apstra_0.52.6_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.6/terraform-provider-apstra_0.52.6_darwin_amd64.zip",
           "shasum": "1c6685e4bee2506a848f052f173336906fe23241d24fe6288258afe5326fd5d9",
-          "h1": "",
-          "size": 0
+          "h1": "h1:SAF62dKZ7BObVR14g3PW6vxOxRVECB8Hq4nLt/iVSuQ=",
+          "size": 7452525
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.52.6_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.6/terraform-provider-apstra_0.52.6_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.6/terraform-provider-apstra_0.52.6_darwin_arm64.zip",
           "shasum": "a49507eb70450da2e229b27c55d41c808c412a8962fe84ae316ac57681b574c8",
-          "h1": "",
-          "size": 0
+          "h1": "h1:srhPQYC6hRl0aORX1lB3fKDSepv5gLtfNYbDzfK7tRo=",
+          "size": 7053177
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.52.6_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.6/terraform-provider-apstra_0.52.6_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.6/terraform-provider-apstra_0.52.6_linux_386.zip",
           "shasum": "48595942ff9a0fb6843ec7f0e6bd406f5b30b430225dbc08aacf87b73597c5a5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:QFkYwq8jPTzf1HWiM8uGSmFtClrR4CsUO3NRIYWW7p0=",
+          "size": 6750693
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.52.6_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.6/terraform-provider-apstra_0.52.6_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.6/terraform-provider-apstra_0.52.6_linux_amd64.zip",
           "shasum": "b7122aedd2bde912300006e3375de031aa036493cae9161279b3ad43201e9a1f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:FwbODXYf7mHR3O5/9wz/b1e1f+Ksf0jNJIPWphLAomA=",
+          "size": 7269209
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.52.6_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.6/terraform-provider-apstra_0.52.6_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.6/terraform-provider-apstra_0.52.6_linux_arm64.zip",
           "shasum": "fa851c6342a4b1600fe8ae51691fb80972afe9e31eb3feecdeb959f0e421ab92",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ohgDuWriGnxRv7P5ws7lniA11bzNHIh/WdvVbJ9LFpw=",
+          "size": 6708814
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.52.6_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.6/terraform-provider-apstra_0.52.6_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.6/terraform-provider-apstra_0.52.6_windows_386.zip",
           "shasum": "eacf9c08d036b223d98d4d6a02bdde917d03319a8676733535ab844fa1442fe0",
-          "h1": "",
-          "size": 0
+          "h1": "h1:P6Ir6QrB6uTbmdH9p9/DRkbxbbmzf+yWDnrXjTC0+/0=",
+          "size": 7044166
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.52.6_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.6/terraform-provider-apstra_0.52.6_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.6/terraform-provider-apstra_0.52.6_windows_amd64.zip",
           "shasum": "0b0f9248109f3a377027e4936ebab5c6c74509fb9e8bc12eae8e552d606fa7b0",
-          "h1": "",
-          "size": 0
+          "h1": "h1:knGLr8cdmkIczyovpZzuPlXqXKowodYVtR4R2Zm7/WE=",
+          "size": 7445421
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.52.6_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.6/terraform-provider-apstra_0.52.6_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.6/terraform-provider-apstra_0.52.6_windows_arm64.zip",
           "shasum": "e42debf6495730abd3692ead7215c6b788437c9b98ecc5fd76fe813a4182af81",
-          "h1": "",
-          "size": 0
+          "h1": "h1:csF4tpsh84vI+47HAef70BUgpL7kpvfxm2QeEJV7me0=",
+          "size": 6760044
         }
       ]
     },
@@ -5827,80 +5827,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.5/terraform-provider-apstra_0.52.5_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.5/terraform-provider-apstra_0.52.5_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.5/terraform-provider-apstra_0.52.5_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.5/terraform-provider-apstra_0.52.5_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.52.5_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.5/terraform-provider-apstra_0.52.5_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.5/terraform-provider-apstra_0.52.5_darwin_amd64.zip",
           "shasum": "7ade8426c9f3abe937cbefc797f77e800be36bda54ceb805c1e903eecbf9af07",
-          "h1": "",
-          "size": 0
+          "h1": "h1:0DEzZ2RZVdAVL9/etDRzkO/W68BCdF591O2v2XaajtQ=",
+          "size": 7480894
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.52.5_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.5/terraform-provider-apstra_0.52.5_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.5/terraform-provider-apstra_0.52.5_darwin_arm64.zip",
           "shasum": "9bb3dc996b69d3be5c937220da66d7095ab8fc3f90c2d7d9396961caea54f06c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:yh6awULVXo1TalS9cuxFyTGXRrLTAth/yEitktEwgKM=",
+          "size": 7244424
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.52.5_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.5/terraform-provider-apstra_0.52.5_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.5/terraform-provider-apstra_0.52.5_linux_386.zip",
           "shasum": "7683ed245f47c8c73242da4dc8947caabd76e1090d78b3774b1df379ca41958f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:0q093E+208dCV/ePe+Ny8kX1RDnjxyNAi5js1S6TxD0=",
+          "size": 6695524
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.52.5_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.5/terraform-provider-apstra_0.52.5_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.5/terraform-provider-apstra_0.52.5_linux_amd64.zip",
           "shasum": "380a859b23150af7f377ec0c412d17c7bca0366c60d7c417cc088ee7031cad16",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Jmm0u5GAixtEO9EO92EfqNcR89XMdlEy9v41kGM1DrY=",
+          "size": 7149862
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.52.5_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.5/terraform-provider-apstra_0.52.5_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.5/terraform-provider-apstra_0.52.5_linux_arm64.zip",
           "shasum": "00ae4f9511c453acc90fc207c42f73f84cdf904fc9159babbd867212f2ff99db",
-          "h1": "",
-          "size": 0
+          "h1": "h1:xB0lRqqU1mwKnnHwdbOY4l6jOtdCRBMI+pDaqH/NQY8=",
+          "size": 6591047
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.52.5_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.5/terraform-provider-apstra_0.52.5_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.5/terraform-provider-apstra_0.52.5_windows_386.zip",
           "shasum": "2ff2d2fd9b275308184ca6008cf22913ad227e5bdd1fa3863946916cdd7e5bdb",
-          "h1": "",
-          "size": 0
+          "h1": "h1:PJ4+/18BotfLB3wJa49Jt3EqAbVhoc2LdyvYmqpLvBk=",
+          "size": 6982806
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.52.5_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.5/terraform-provider-apstra_0.52.5_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.5/terraform-provider-apstra_0.52.5_windows_amd64.zip",
           "shasum": "1394b047d60fdfeb84535ca88334ceba8e1aeccaaff9f22e86d5babf7a34dc71",
-          "h1": "",
-          "size": 0
+          "h1": "h1:W8Z2O1oJCo8fUN59JBUdPilxKckmwdbWbQ/+JaJx4CQ=",
+          "size": 7320933
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.52.5_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.5/terraform-provider-apstra_0.52.5_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.5/terraform-provider-apstra_0.52.5_windows_arm64.zip",
           "shasum": "1bb396d26e2fd5bab51b2573b1e696886718db6b4f901cfb6dfadb9aa7ba99fb",
-          "h1": "",
-          "size": 0
+          "h1": "h1:unm4IwWC9Wx56kyxI13mzUYgSsFLIBsQB3mautgBbaQ=",
+          "size": 6639657
         }
       ]
     },
@@ -5909,80 +5909,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.4/terraform-provider-apstra_0.52.4_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.4/terraform-provider-apstra_0.52.4_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.4/terraform-provider-apstra_0.52.4_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.4/terraform-provider-apstra_0.52.4_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.52.4_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.4/terraform-provider-apstra_0.52.4_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.4/terraform-provider-apstra_0.52.4_darwin_amd64.zip",
           "shasum": "186d7008747ebcdd0abb38ae678c24ffedfe3bda42a69e6875483841a9c6229b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:strmHxz1Rrpx1rNYewOHAp0p08GDjMF9n4e6ZxT0HHQ=",
+          "size": 7480980
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.52.4_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.4/terraform-provider-apstra_0.52.4_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.4/terraform-provider-apstra_0.52.4_darwin_arm64.zip",
           "shasum": "b4d148467d28328d85f78152a605e1d8cfeeb9372e1367991761f87979626269",
-          "h1": "",
-          "size": 0
+          "h1": "h1:MtGMcHVhLs91YoEwFJ/SVEEGyxxtoSqfMzIk0XpjyvI=",
+          "size": 7244149
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.52.4_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.4/terraform-provider-apstra_0.52.4_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.4/terraform-provider-apstra_0.52.4_linux_386.zip",
           "shasum": "f4fd944111628a8c728a79eff4da7b6109bf484fb7fa4b8a5d369c1166dc282b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:bgOedFV/bKTNwAInlIf3lDesq7wEcaOis7dqc6F5Yh4=",
+          "size": 6695164
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.52.4_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.4/terraform-provider-apstra_0.52.4_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.4/terraform-provider-apstra_0.52.4_linux_amd64.zip",
           "shasum": "b4a72fd589fe8140642f38c939c82dfff83f1bf5d3a99393452515c14296d3b1",
-          "h1": "",
-          "size": 0
+          "h1": "h1:jzwET86R8pGirzW0jMBLRdHrs5m/SKZEa9AZnRDklcw=",
+          "size": 7149785
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.52.4_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.4/terraform-provider-apstra_0.52.4_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.4/terraform-provider-apstra_0.52.4_linux_arm64.zip",
           "shasum": "cee344e55d5e09c4107038d27f23d667e331c1d7e3fd40c4d1c334acd362c01d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:uXwkARJBOoLW+oFO1qr5KB5IPkSAqLhVHh07xG3UCUE=",
+          "size": 6590905
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.52.4_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.4/terraform-provider-apstra_0.52.4_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.4/terraform-provider-apstra_0.52.4_windows_386.zip",
           "shasum": "3355f29b9e3063463b363033a6de04d275e489c950f4e89fc5fa51748095b368",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Ku3e1wBcAcH1QZmtMvKZI55Z7Y89G1dMjnVoWjwOTgg=",
+          "size": 6982727
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.52.4_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.4/terraform-provider-apstra_0.52.4_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.4/terraform-provider-apstra_0.52.4_windows_amd64.zip",
           "shasum": "c6d56188065be75d52e71c9fffd4d515b8d14d1c5dbe3b5287ba93d619294701",
-          "h1": "",
-          "size": 0
+          "h1": "h1:b/U3yPDmvE3jKrV3UNnncrMcYpzROymVxXNDD5BqmVE=",
+          "size": 7320592
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.52.4_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.4/terraform-provider-apstra_0.52.4_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.4/terraform-provider-apstra_0.52.4_windows_arm64.zip",
           "shasum": "885b963902727e33a08e9a5cd6334a9a4be31239ea824cf5b6d0253f63460805",
-          "h1": "",
-          "size": 0
+          "h1": "h1:EmuwRrPEbZnoeqqIpeEBvL0vZc4QxXnkWsgg0gO1vhU=",
+          "size": 6638916
         }
       ]
     },
@@ -5991,80 +5991,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.3/terraform-provider-apstra_0.52.3_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.3/terraform-provider-apstra_0.52.3_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.3/terraform-provider-apstra_0.52.3_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.3/terraform-provider-apstra_0.52.3_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.52.3_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.3/terraform-provider-apstra_0.52.3_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.3/terraform-provider-apstra_0.52.3_darwin_amd64.zip",
           "shasum": "8d8fa50ed029f806438916a2b5a92be670fa7b92517bd4be87958ab99da0d5b2",
-          "h1": "",
-          "size": 0
+          "h1": "h1:RckL5c8sJ5lXC7rUC2qGCN8NQEqepBeWKHUALoNCAig=",
+          "size": 7477919
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.52.3_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.3/terraform-provider-apstra_0.52.3_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.3/terraform-provider-apstra_0.52.3_darwin_arm64.zip",
           "shasum": "d5214cf8ff96222e50a5bfd902e2a1ceecba36e009db2c83435ca7ea0162fee6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:zII3DTml8PY5Ny/fEz5vHTqvRyQVe+2UwovwiBwzH/g=",
+          "size": 7234686
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.52.3_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.3/terraform-provider-apstra_0.52.3_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.3/terraform-provider-apstra_0.52.3_linux_386.zip",
           "shasum": "28ee2fcf99ccd7e11b6758559aaeb838d8e451a36ab4303ab8c0b5b72e8b6c71",
-          "h1": "",
-          "size": 0
+          "h1": "h1:TIXd0NQG0geWB40PV+Dj0GXa6HxIdxsxI+7GwpRt/IQ=",
+          "size": 6691884
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.52.3_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.3/terraform-provider-apstra_0.52.3_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.3/terraform-provider-apstra_0.52.3_linux_amd64.zip",
           "shasum": "93cb024712272cfb9369568225088e27963a71202a833eedd447f390ea6b7ce3",
-          "h1": "",
-          "size": 0
+          "h1": "h1:XjoIHlfccsOLnPLiatDUOyUl5fW01R6rZyQKfMsOCvQ=",
+          "size": 7144917
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.52.3_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.3/terraform-provider-apstra_0.52.3_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.3/terraform-provider-apstra_0.52.3_linux_arm64.zip",
           "shasum": "ab81f2908416c51fba40d522910aed50c4b681adadd9eb4c49d67471e6632bc1",
-          "h1": "",
-          "size": 0
+          "h1": "h1:KP44e0RWQYQ65DPL9+y1QLKqA490Ra/yVwy6jvRTP2k=",
+          "size": 6586045
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.52.3_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.3/terraform-provider-apstra_0.52.3_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.3/terraform-provider-apstra_0.52.3_windows_386.zip",
           "shasum": "5ef55c3183c3db15e2f6263bb5954f009853972f06e6263c0c6ec134fc52efa4",
-          "h1": "",
-          "size": 0
+          "h1": "h1:/bYzN9ar0NplFxQhVGIZeEQ434fWWj7LebRQSlTdfT4=",
+          "size": 6978665
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.52.3_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.3/terraform-provider-apstra_0.52.3_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.3/terraform-provider-apstra_0.52.3_windows_amd64.zip",
           "shasum": "ae13288b4b86dbc76ca779123f9e9d91d9cf9709d4aa8eb8362e06fed7778675",
-          "h1": "",
-          "size": 0
+          "h1": "h1:KwbIs9rMrk7TSnmeSB9AawGYXj17q+l1UsjQExlFlfc=",
+          "size": 7314624
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.52.3_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.3/terraform-provider-apstra_0.52.3_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.3/terraform-provider-apstra_0.52.3_windows_arm64.zip",
           "shasum": "baaa6ed28ddb9ecebdc1dd7dd88507def61a52ea457747611607208388d406ed",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ziPefYKuhI1LZQKaPrECs22m7Oh9T+YhRRZV90qmH44=",
+          "size": 6636286
         }
       ]
     },
@@ -6073,80 +6073,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.2/terraform-provider-apstra_0.52.2_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.2/terraform-provider-apstra_0.52.2_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.2/terraform-provider-apstra_0.52.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.2/terraform-provider-apstra_0.52.2_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.52.2_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.2/terraform-provider-apstra_0.52.2_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.2/terraform-provider-apstra_0.52.2_darwin_amd64.zip",
           "shasum": "1ee3e10a989a6acc0318cfcbc6d53c833ad19e695309232db552b2b0c3982db2",
-          "h1": "",
-          "size": 0
+          "h1": "h1:oSS8IeOQfmKKBweWYjLE1CobZjxhoeAL4ET8UIdo56A=",
+          "size": 7478127
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.52.2_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.2/terraform-provider-apstra_0.52.2_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.2/terraform-provider-apstra_0.52.2_darwin_arm64.zip",
           "shasum": "186195cb0b39e721a77b75e38037da367b7916a70ae03c29c8951584a7ceddd5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:OAhUtIUsKPaifIc3/TgmApLvsAgpKXhbHbkJPvv2aw8=",
+          "size": 7234736
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.52.2_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.2/terraform-provider-apstra_0.52.2_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.2/terraform-provider-apstra_0.52.2_linux_386.zip",
           "shasum": "52a5c2fc81a64f5d01f921b9c31cec2659a8d21ebf56b5f6d6c2c5f6f4d5b77d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:lh6qHVeup8f2Ak367D2l6jotliMOBVsM593yaF/F+2o=",
+          "size": 6691819
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.52.2_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.2/terraform-provider-apstra_0.52.2_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.2/terraform-provider-apstra_0.52.2_linux_amd64.zip",
           "shasum": "58753be8bdb63edfb39e232a1f2eb5ff105def7f04e2572e8c56761162ff5e87",
-          "h1": "",
-          "size": 0
+          "h1": "h1:fvPcyqqg+/9X6ffg0O2q3P03IGyFsChS1dl7Hbcnf8g=",
+          "size": 7145013
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.52.2_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.2/terraform-provider-apstra_0.52.2_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.2/terraform-provider-apstra_0.52.2_linux_arm64.zip",
           "shasum": "0b12aa136883ab3f70ad26e383564e2a9e29dd9fadf8722ec2096ebd99ee1f03",
-          "h1": "",
-          "size": 0
+          "h1": "h1:LUpXBZiJvgBrNoh7ZRKrk8oUPFZXhMsvOpyBCVo8fOY=",
+          "size": 6586266
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.52.2_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.2/terraform-provider-apstra_0.52.2_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.2/terraform-provider-apstra_0.52.2_windows_386.zip",
           "shasum": "fcee4d13869fba536dc363cefe9eda01dfd246a76232182575f5979d202d3239",
-          "h1": "",
-          "size": 0
+          "h1": "h1:zFgb8fu7kcDxN0ytY4VdgMga2GVnm6vSfWfkPg3DI9s=",
+          "size": 6978571
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.52.2_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.2/terraform-provider-apstra_0.52.2_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.2/terraform-provider-apstra_0.52.2_windows_amd64.zip",
           "shasum": "919a7807009dccbec052955eb29298f2b917ee98e537266ddc42657173311e89",
-          "h1": "",
-          "size": 0
+          "h1": "h1:WIcANzSaYYexcsISgB2kqBEFxPDBOEyn8/81FaoHA+4=",
+          "size": 7315229
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.52.2_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.2/terraform-provider-apstra_0.52.2_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.2/terraform-provider-apstra_0.52.2_windows_arm64.zip",
           "shasum": "d68f46f504e906606f99b6bf4aece98661c6abf405a72ead84c14665a2d76adc",
-          "h1": "",
-          "size": 0
+          "h1": "h1:zFEaeoLfuhePAH7SKm55XfCInh3Ba4+XLwYl7RdnUhs=",
+          "size": 6636453
         }
       ]
     },
@@ -6155,80 +6155,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.1/terraform-provider-apstra_0.52.1_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.1/terraform-provider-apstra_0.52.1_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.1/terraform-provider-apstra_0.52.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.1/terraform-provider-apstra_0.52.1_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.52.1_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.1/terraform-provider-apstra_0.52.1_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.1/terraform-provider-apstra_0.52.1_darwin_amd64.zip",
           "shasum": "61dee6c927effb61e9110b0732599eef21d98998da0a216aac8a4d45650e33ff",
-          "h1": "",
-          "size": 0
+          "h1": "h1:oXJwAWRIDQd10MkfeXXS6GHzz0G64z7P2UVevs+jil8=",
+          "size": 7474011
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.52.1_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.1/terraform-provider-apstra_0.52.1_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.1/terraform-provider-apstra_0.52.1_darwin_arm64.zip",
           "shasum": "291842fa99aa82f5989053d5531d44bbfd8982b46403031f2c11802832d0fcab",
-          "h1": "",
-          "size": 0
+          "h1": "h1:TevVgZ2wC7CP5xnb/gcN3Hqvdiba8ZuEZFh5LJXHQBA=",
+          "size": 7233464
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.52.1_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.1/terraform-provider-apstra_0.52.1_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.1/terraform-provider-apstra_0.52.1_linux_386.zip",
           "shasum": "7d9c4281c4d29aa6115a0f0dfdd916911e45ad58d47b55ffc1742529a03ef07b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:woIA3anW9QV59oRzADz8k/mUIrIm4NKkNu2wiXApJcE=",
+          "size": 6688806
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.52.1_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.1/terraform-provider-apstra_0.52.1_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.1/terraform-provider-apstra_0.52.1_linux_amd64.zip",
           "shasum": "6a6bd18b3755aaf4dd89f12e5b55af55f13cfc270bdf3ccaf1939e9a25907e2e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:lQKL53hpJ66OQeYaVlIdhDsdPILnr/+MIxTV+0nqbSQ=",
+          "size": 7139705
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.52.1_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.1/terraform-provider-apstra_0.52.1_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.1/terraform-provider-apstra_0.52.1_linux_arm64.zip",
           "shasum": "c55256725e7e61f9de2d20089117380da70e0d836f0b57c818322749fa9e6960",
-          "h1": "",
-          "size": 0
+          "h1": "h1:LCkbkXojhpygtBoXUZP0xfevxOBzvfua++HdEKdijWE=",
+          "size": 6580970
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.52.1_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.1/terraform-provider-apstra_0.52.1_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.1/terraform-provider-apstra_0.52.1_windows_386.zip",
           "shasum": "fcd5e3c6ef1591177fc5b292d39f4a98103182ad9c5a02c7a20a90e6ef315832",
-          "h1": "",
-          "size": 0
+          "h1": "h1:tmDgzpfpU/gK0SUWMtVOoRe4gGzxPugUp1wfBOeUPpI=",
+          "size": 6972862
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.52.1_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.1/terraform-provider-apstra_0.52.1_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.1/terraform-provider-apstra_0.52.1_windows_amd64.zip",
           "shasum": "a3200ad64a163f7b0709f8282d7b533f2a4411483628a0622185ee00ea8a69ec",
-          "h1": "",
-          "size": 0
+          "h1": "h1:fLySxDh9I7/EltZwzHxnEchtmcXnPQX7BoVyV5t0VwQ=",
+          "size": 7311415
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.52.1_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.1/terraform-provider-apstra_0.52.1_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.1/terraform-provider-apstra_0.52.1_windows_arm64.zip",
           "shasum": "91dbaa38ae100e4d569e3a8803f4159cde0d1a52d49785d1f8ce41a78dc2b99e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:xy+MUsh9uoguoB9lVDkwT9LYnxhmCUiRBLQ20a6FbRk=",
+          "size": 6631990
         }
       ]
     },
@@ -6237,80 +6237,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.0/terraform-provider-apstra_0.52.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.0/terraform-provider-apstra_0.52.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.0/terraform-provider-apstra_0.52.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.0/terraform-provider-apstra_0.52.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.52.0_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.0/terraform-provider-apstra_0.52.0_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.0/terraform-provider-apstra_0.52.0_darwin_amd64.zip",
           "shasum": "8448d9d98d7c70ab167b211f5579fa22e8b1ec25e71269a1a03998a64e4f2194",
-          "h1": "",
-          "size": 0
+          "h1": "h1:/YApwZBOJ2irheNt2YNZTZYCLUd6qnbFxbu+POhDJyo=",
+          "size": 7474753
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.52.0_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.0/terraform-provider-apstra_0.52.0_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.0/terraform-provider-apstra_0.52.0_darwin_arm64.zip",
           "shasum": "a983e5398a3f5c9a7173a60eb78deda330293f312338291b587f49cdc71ebaa6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:5wp76dkm3/pFgSFSkusDZCqZWCEsyuZ0d6fXRPZVTm8=",
+          "size": 7233545
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.52.0_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.0/terraform-provider-apstra_0.52.0_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.0/terraform-provider-apstra_0.52.0_linux_386.zip",
           "shasum": "f90bf893b383f0cea38f183529c60b4fa67f2766888eb8cbcc0fc1750ed9187a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:i+X53wg0fsNkPE20BsYDVs52xmtypjam+Ux6JIBKp2g=",
+          "size": 6689638
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.52.0_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.0/terraform-provider-apstra_0.52.0_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.0/terraform-provider-apstra_0.52.0_linux_amd64.zip",
           "shasum": "e6223e3b0b47521a93589891db2ce812fe45f7f7e1089124ad2f3d36743a82c5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:3HxMkoOEwo27pnfsg9nF+28eK7NK0tYpodCZKcXImwY=",
+          "size": 7139410
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.52.0_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.0/terraform-provider-apstra_0.52.0_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.0/terraform-provider-apstra_0.52.0_linux_arm64.zip",
           "shasum": "b6f4973aa414d9de1fe3c58ec4719fe903ae82047b0377cd497e23c2bf0d105c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:PPDEbIUut765wpZMQGpks2gtQFJSdXaOGvefIIAeVws=",
+          "size": 6580345
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.52.0_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.0/terraform-provider-apstra_0.52.0_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.0/terraform-provider-apstra_0.52.0_windows_386.zip",
           "shasum": "c7225daabd5c8668a6cbbf46368f5e5b8fdf3b266e676cebae8bf767599b6f5a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:0xafWQZLAefb9tfP0HZ8r1lWn0kyY70upnk0A4oqfzY=",
+          "size": 6973206
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.52.0_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.0/terraform-provider-apstra_0.52.0_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.0/terraform-provider-apstra_0.52.0_windows_amd64.zip",
           "shasum": "c66c710cc7b979c97c2ef0fe124cde9181e67b9db04e93f30e35c6ca3dd8d47b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:dn5K6t86xs4X22uqwz2PcdZMWnECZ6Dh7ToznIRaGtY=",
+          "size": 7312026
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.52.0_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.52.0/terraform-provider-apstra_0.52.0_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.52.0/terraform-provider-apstra_0.52.0_windows_arm64.zip",
           "shasum": "99efef382b08f22bb9668ce9f11b87c62d6f8bc1553ea0d3723a221d4dadaaa3",
-          "h1": "",
-          "size": 0
+          "h1": "h1:E57apMkPaFFAcTGBaT2QRZm7jY+BuIpQ/3I0SOG944A=",
+          "size": 6630411
         }
       ]
     },
@@ -6319,80 +6319,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.51.0/terraform-provider-apstra_0.51.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.51.0/terraform-provider-apstra_0.51.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.51.0/terraform-provider-apstra_0.51.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.51.0/terraform-provider-apstra_0.51.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.51.0_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.51.0/terraform-provider-apstra_0.51.0_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.51.0/terraform-provider-apstra_0.51.0_darwin_amd64.zip",
           "shasum": "7d7b4f119bd9bb5724ef3dc70b670d8f9cae9a7afabb58da408991a5453c3974",
-          "h1": "",
-          "size": 0
+          "h1": "h1:mh7c/8qN0lS+MGOcrFZSkr9NOTzPfxmWn9KVClBuvFE=",
+          "size": 7460270
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.51.0_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.51.0/terraform-provider-apstra_0.51.0_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.51.0/terraform-provider-apstra_0.51.0_darwin_arm64.zip",
           "shasum": "2bf3a5895c5a89b15c8bde82c5bd319ec55de88d1a218ed6bbf72cbe1dab9e23",
-          "h1": "",
-          "size": 0
+          "h1": "h1:nP1MdKT7QcHo7EX+z3bVQvP32J2hj3nvneKFj825AWA=",
+          "size": 7224941
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.51.0_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.51.0/terraform-provider-apstra_0.51.0_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.51.0/terraform-provider-apstra_0.51.0_linux_386.zip",
           "shasum": "782995470962309d1de65d50594bcefc3150f21c3c529fecba2756b6836e58c1",
-          "h1": "",
-          "size": 0
+          "h1": "h1:WDULvr28ZcS5ibq6GWV0WqaAactLOpvB9g8Pn07ruhw=",
+          "size": 6672878
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.51.0_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.51.0/terraform-provider-apstra_0.51.0_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.51.0/terraform-provider-apstra_0.51.0_linux_amd64.zip",
           "shasum": "2289d2526d657eaea18755bc63147ce4fdc12a955ce11c131f0c4413587f6180",
-          "h1": "",
-          "size": 0
+          "h1": "h1:e07U6rnT/iJv2/BgA6DT84PaI1QhYtqZ9sD2VXsNh1U=",
+          "size": 7127488
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.51.0_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.51.0/terraform-provider-apstra_0.51.0_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.51.0/terraform-provider-apstra_0.51.0_linux_arm64.zip",
           "shasum": "1c8aa133f7bb9d42c94291007bc7883b8250be4b6748719dbc7bba911a556d95",
-          "h1": "",
-          "size": 0
+          "h1": "h1:4pv6LB4uq8+nlSnLV+EgJKlsrr4tzEs27LPjgIpLm6c=",
+          "size": 6566532
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.51.0_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.51.0/terraform-provider-apstra_0.51.0_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.51.0/terraform-provider-apstra_0.51.0_windows_386.zip",
           "shasum": "2c14ec984bb776d1e68a594b6c19ccfc4a204d497c3249f7e02a8116023ef992",
-          "h1": "",
-          "size": 0
+          "h1": "h1:NiTj5hW5GhKrDOB7Pq+LHObV47KUbkwbK+3cpjPbY7k=",
+          "size": 6961681
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.51.0_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.51.0/terraform-provider-apstra_0.51.0_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.51.0/terraform-provider-apstra_0.51.0_windows_amd64.zip",
           "shasum": "f2ef7e9848dd448ff4bebdbdb3b21ef1ed2baa3e4e9c2b46ab327ac89275aeb9",
-          "h1": "",
-          "size": 0
+          "h1": "h1:10S4Ietv30EcAuhDVEvuE/erA00e2YKCVe4BP7SYifM=",
+          "size": 7298437
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.51.0_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.51.0/terraform-provider-apstra_0.51.0_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.51.0/terraform-provider-apstra_0.51.0_windows_arm64.zip",
           "shasum": "9caf29f1673a89e9bed1af66b11e458b0335ef5d1eb578c5a6e52a505e882309",
-          "h1": "",
-          "size": 0
+          "h1": "h1:297LiyLdT7ocnGIIl/g0WrW6Yf+nezOitvLGYCUJC9M=",
+          "size": 6617242
         }
       ]
     },
@@ -6401,80 +6401,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.3/terraform-provider-apstra_0.50.3_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.3/terraform-provider-apstra_0.50.3_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.3/terraform-provider-apstra_0.50.3_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.3/terraform-provider-apstra_0.50.3_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.50.3_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.3/terraform-provider-apstra_0.50.3_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.3/terraform-provider-apstra_0.50.3_darwin_amd64.zip",
           "shasum": "fb62de93b49322871f7d5345346955435f61ae62bf8c495f3259811d58941076",
-          "h1": "",
-          "size": 0
+          "h1": "h1:OvyYy5AyYD292ruxChFBM7PwEYxNQ5obiTlHEzZ0VPs=",
+          "size": 7335274
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.50.3_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.3/terraform-provider-apstra_0.50.3_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.3/terraform-provider-apstra_0.50.3_darwin_arm64.zip",
           "shasum": "5aa9181421b0924c218bf38d2a356a74bc9ae70fd5f1655ed53e0b87aa72eeda",
-          "h1": "",
-          "size": 0
+          "h1": "h1:1PAt3fMGSMidUstXeY5InqjrplbmUgSK/V3SVPhZPic=",
+          "size": 7094233
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.50.3_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.3/terraform-provider-apstra_0.50.3_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.3/terraform-provider-apstra_0.50.3_linux_386.zip",
           "shasum": "e8fee17d06b7df3ed206d99d5d4b8d814ced8b95f582364d755764333959bcb7",
-          "h1": "",
-          "size": 0
+          "h1": "h1:oNqNaVDW5O5HZgg0YHUv8eHPCjCT0zvcMN21TWYhcXA=",
+          "size": 6561538
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.50.3_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.3/terraform-provider-apstra_0.50.3_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.3/terraform-provider-apstra_0.50.3_linux_amd64.zip",
           "shasum": "e464cb06d87c71e6ee56b7f18549969e09851f41a56bb40de8c423722318668c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:wNLWB4ohAsJzPh9WkOIUcPZv1QGadyCM17KNMNiYFgY=",
+          "size": 7007453
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.50.3_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.3/terraform-provider-apstra_0.50.3_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.3/terraform-provider-apstra_0.50.3_linux_arm64.zip",
           "shasum": "90f8c522c4ec780d1988031daa90b254e2338d19c5e2681a0e79638283b0a14b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:97HosQ74QnEsQS4NfvOGnS93+CD3ecX9aJuRFVenSOA=",
+          "size": 6456266
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.50.3_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.3/terraform-provider-apstra_0.50.3_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.3/terraform-provider-apstra_0.50.3_windows_386.zip",
           "shasum": "6f5897796d782735ed1ca112c32d3fc9418c70433556e3c92397c59de24fae51",
-          "h1": "",
-          "size": 0
+          "h1": "h1:+QTsRLgqfHxu/lqZ/xg4oWBEw+fY3AQ5vXrmZ0tt70E=",
+          "size": 6840844
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.50.3_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.3/terraform-provider-apstra_0.50.3_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.3/terraform-provider-apstra_0.50.3_windows_amd64.zip",
           "shasum": "231839e899a2493c73fdbef5a170684e2d980feb37e945469f16660a019954e7",
-          "h1": "",
-          "size": 0
+          "h1": "h1:jx5IWUD9M9XjEAlNEmTPH7Fq0Kx7+ycTjDxkdHGen6E=",
+          "size": 7176700
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.50.3_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.3/terraform-provider-apstra_0.50.3_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.3/terraform-provider-apstra_0.50.3_windows_arm64.zip",
           "shasum": "c85619caf689c77fbd59bcd438a2e4b3a370facbec21e3501507fa6bec1f967c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:skpLBfRGLzGLLHrV40eB7lLJIbLuKQcE66V5dEIzYaw=",
+          "size": 6502569
         }
       ]
     },
@@ -6483,80 +6483,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.2/terraform-provider-apstra_0.50.2_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.2/terraform-provider-apstra_0.50.2_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.2/terraform-provider-apstra_0.50.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.2/terraform-provider-apstra_0.50.2_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.50.2_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.2/terraform-provider-apstra_0.50.2_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.2/terraform-provider-apstra_0.50.2_darwin_amd64.zip",
           "shasum": "e12ade5278711714d0860725f7dfb7f65313bc2dfed5aa6677e5da5e267985cf",
-          "h1": "",
-          "size": 0
+          "h1": "h1:NCNcMdrpvvc3mgg4kJS8XGWUcj/unYyvR27ckhYy8oA=",
+          "size": 7335186
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.50.2_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.2/terraform-provider-apstra_0.50.2_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.2/terraform-provider-apstra_0.50.2_darwin_arm64.zip",
           "shasum": "07a6a4bf5859367273f61900e7e76cf888442061199bc46a67733d965c131a9e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:t0tt7RIFVVO4GKlKYx/8zifXEe9pQ7vHdNlVWktNNqM=",
+          "size": 7094150
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.50.2_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.2/terraform-provider-apstra_0.50.2_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.2/terraform-provider-apstra_0.50.2_linux_386.zip",
           "shasum": "64cfb684bbaae75dcc9d4791fba62b05430fc41f442567f29b61b8947fb8f267",
-          "h1": "",
-          "size": 0
+          "h1": "h1:mJiuCmUKpCBwJp0AGPAwAVzSLiT60+maPHOfToZ0Pf8=",
+          "size": 6561539
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.50.2_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.2/terraform-provider-apstra_0.50.2_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.2/terraform-provider-apstra_0.50.2_linux_amd64.zip",
           "shasum": "a131ec27141349dfbdacb9d03ee42b4ea36273eda26d292ec3001db1da047157",
-          "h1": "",
-          "size": 0
+          "h1": "h1:tp1wxotIMkEq+zruNv6R8c/XNOGzD8NO21fwWpmPWQ4=",
+          "size": 7007406
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.50.2_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.2/terraform-provider-apstra_0.50.2_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.2/terraform-provider-apstra_0.50.2_linux_arm64.zip",
           "shasum": "3c74aae26aed074c0f459bbf9006685181d10dbbadd1d52b7b27ab63a22a70da",
-          "h1": "",
-          "size": 0
+          "h1": "h1:5FQE1AqIWcq4AAkuMA7tmGxxAjX+gyUW93Kt3AXRXJ8=",
+          "size": 6456006
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.50.2_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.2/terraform-provider-apstra_0.50.2_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.2/terraform-provider-apstra_0.50.2_windows_386.zip",
           "shasum": "eb941391532c7b87f93d92a6e651a8e4948f679cf8f56cfdad74d3731ea32fea",
-          "h1": "",
-          "size": 0
+          "h1": "h1:oS4PJkyeuComZsJcoIW+7hyTG82vtj0ckXsgKHmXLUo=",
+          "size": 6840876
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.50.2_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.2/terraform-provider-apstra_0.50.2_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.2/terraform-provider-apstra_0.50.2_windows_amd64.zip",
           "shasum": "a40fd2ededd8181cc4a15df0c02d16f031b2b68279cdd3e5e8db4582aa4c6ade",
-          "h1": "",
-          "size": 0
+          "h1": "h1:gihMd7ybLlDsMB9sFCxLW5ACMcGMNCgF65yDAaqZRFg=",
+          "size": 7176687
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.50.2_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.2/terraform-provider-apstra_0.50.2_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.2/terraform-provider-apstra_0.50.2_windows_arm64.zip",
           "shasum": "c02da17895f8531daf49784ac383061d3b03ad8d134531dc953b653f1a7243f1",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Dlr2roE7wENRLHXqVbm2UqRwVXMIwcu66Eyc5cr7c3o=",
+          "size": 6502396
         }
       ]
     },
@@ -6565,80 +6565,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.1/terraform-provider-apstra_0.50.1_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.1/terraform-provider-apstra_0.50.1_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.1/terraform-provider-apstra_0.50.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.1/terraform-provider-apstra_0.50.1_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.50.1_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.1/terraform-provider-apstra_0.50.1_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.1/terraform-provider-apstra_0.50.1_darwin_amd64.zip",
           "shasum": "df1fe7dbd383f971d1cf0fce3dad0fc23d932f27dc3f433ec1b1b642084c8f39",
-          "h1": "",
-          "size": 0
+          "h1": "h1:v1eKEXJKe8bAEFc6FFzxHL9ErqKq5hffJJeCf7XIYwE=",
+          "size": 7325996
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.50.1_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.1/terraform-provider-apstra_0.50.1_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.1/terraform-provider-apstra_0.50.1_darwin_arm64.zip",
           "shasum": "0ad00aec145988d9bfd95e8979b519dbba7d06743e3a53a50876c9122b83e15b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:btHyoU+VHtVtThu24kGykYSmjVc5cE5EKVZFXYY6BmU=",
+          "size": 7084183
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.50.1_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.1/terraform-provider-apstra_0.50.1_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.1/terraform-provider-apstra_0.50.1_linux_386.zip",
           "shasum": "7aabd6d80e912ae23668e5d39aa8e826a5252953380b19768d7c3c2e1115807b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:3aJTGd2AgoIgVsRHDHQWndcVwejYKK8rB8zIhY6hRFo=",
+          "size": 6552955
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.50.1_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.1/terraform-provider-apstra_0.50.1_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.1/terraform-provider-apstra_0.50.1_linux_amd64.zip",
           "shasum": "32248961a520d582f5b13b0001eae0898a0e539c14507d657680ea7b6061c040",
-          "h1": "",
-          "size": 0
+          "h1": "h1:4Dy9Au5Loic8LwLpdeXp/7WKB7piFc0iNQBndMMx9sQ=",
+          "size": 7001629
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.50.1_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.1/terraform-provider-apstra_0.50.1_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.1/terraform-provider-apstra_0.50.1_linux_arm64.zip",
           "shasum": "62b2703c307cabb338a7e1b2735d755fa44ed668885f848e86849a80a497e6e2",
-          "h1": "",
-          "size": 0
+          "h1": "h1:yaKwv+uZzkQ/m3UbFbgSud+0pFfeMjoxe1LHJ3H0vls=",
+          "size": 6446847
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.50.1_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.1/terraform-provider-apstra_0.50.1_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.1/terraform-provider-apstra_0.50.1_windows_386.zip",
           "shasum": "116a7dcdded96dcf9420558d5eeb0ede2e73203e04136f3a66f126abf9a6cc03",
-          "h1": "",
-          "size": 0
+          "h1": "h1:c/dsGnufVsUJe3q9te2VTT2+35k6q6hpPwlEQXXcG/I=",
+          "size": 6831472
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.50.1_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.1/terraform-provider-apstra_0.50.1_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.1/terraform-provider-apstra_0.50.1_windows_amd64.zip",
           "shasum": "7e63877840c70855ed535e61ed704a70f1a93eab22e785b7881d1a3f443af88f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:SlqjXin2EM7a3EdzB1ITwR9G5N0JaO9MaTjCTN7Yu88=",
+          "size": 7166358
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.50.1_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.50.1/terraform-provider-apstra_0.50.1_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.50.1/terraform-provider-apstra_0.50.1_windows_arm64.zip",
           "shasum": "097449950568590a9732f67a9b943076fc173f2ed9af17f580ceb0aa75bd293c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:49JEnnOS/kB6NdhGRO7YCKR8PY9KGWgiqVl2VG3bQq0=",
+          "size": 6494232
         }
       ]
     },
@@ -6729,80 +6729,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.49.0/terraform-provider-apstra_0.49.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.49.0/terraform-provider-apstra_0.49.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.49.0/terraform-provider-apstra_0.49.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.49.0/terraform-provider-apstra_0.49.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.49.0_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.49.0/terraform-provider-apstra_0.49.0_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.49.0/terraform-provider-apstra_0.49.0_darwin_amd64.zip",
           "shasum": "f0f830885784202b8ec352199d93ed1d54b9f0aba052a53ebfd97565414ad998",
-          "h1": "",
-          "size": 0
+          "h1": "h1:cYt9vm7wW/kg+Gefeq54/bqgrF8IWt/JcF+jqFlZKp8=",
+          "size": 7319075
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.49.0_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.49.0/terraform-provider-apstra_0.49.0_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.49.0/terraform-provider-apstra_0.49.0_darwin_arm64.zip",
           "shasum": "95f1b41c5fa5f6bc1bd83d91f2191c9f1fbc0fdf916fbfe7965920a19bbdd140",
-          "h1": "",
-          "size": 0
+          "h1": "h1:tIpImnStWcgvxqjBPWYGREoSbOEOFqquRmNEHLm3T+0=",
+          "size": 7078000
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.49.0_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.49.0/terraform-provider-apstra_0.49.0_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.49.0/terraform-provider-apstra_0.49.0_linux_386.zip",
           "shasum": "7c300e22c6c42878c2a51f3891e3f6c138fe03ade8240ea70a7834a286eeb2fd",
-          "h1": "",
-          "size": 0
+          "h1": "h1:P8WMyTrPfcu04aewIxgK2qNkygXgEXXW/kGCzUJfyh8=",
+          "size": 6545622
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.49.0_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.49.0/terraform-provider-apstra_0.49.0_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.49.0/terraform-provider-apstra_0.49.0_linux_amd64.zip",
           "shasum": "6d8a6412d511a543a751fba61c5eb4ce591ee58d865270907bcfc22721a889b8",
-          "h1": "",
-          "size": 0
+          "h1": "h1:36K1DIiaBMxwai1oV+kChiEQEc5SgU8681clLyb3y+4=",
+          "size": 6994988
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.49.0_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.49.0/terraform-provider-apstra_0.49.0_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.49.0/terraform-provider-apstra_0.49.0_linux_arm64.zip",
           "shasum": "2e6a70569bda749ac4a873869a0231e05d138bf0a2e76f678a98dfcd25a596e8",
-          "h1": "",
-          "size": 0
+          "h1": "h1:c5y98ej0AUv8oioy37RM4s8TLYSHsuF/wCRJQ4BAyVE=",
+          "size": 6441434
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.49.0_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.49.0/terraform-provider-apstra_0.49.0_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.49.0/terraform-provider-apstra_0.49.0_windows_386.zip",
           "shasum": "9ca5593b68d75690c9f6fc08a640816466e18aa3710fa151b12fd28cecc62a51",
-          "h1": "",
-          "size": 0
+          "h1": "h1:M4aAdKk6Xd52YYjTuAnCsinOppYY8ufgrv5bafOQk3Q=",
+          "size": 6827386
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.49.0_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.49.0/terraform-provider-apstra_0.49.0_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.49.0/terraform-provider-apstra_0.49.0_windows_amd64.zip",
           "shasum": "2eb0a91074687bf1cf977b520375a4bd275c1f6ae269600c560dbeb655f3dff4",
-          "h1": "",
-          "size": 0
+          "h1": "h1:nFObUKbVna3YJRkXHVpYVvGBJz7yEj52ZyvvTBrzNKo=",
+          "size": 7159710
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.49.0_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.49.0/terraform-provider-apstra_0.49.0_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.49.0/terraform-provider-apstra_0.49.0_windows_arm64.zip",
           "shasum": "36f45120ad541432b21068f207fa8389a0010458e0710565431347b79b556ca0",
-          "h1": "",
-          "size": 0
+          "h1": "h1:YiCC6TZtW01w5C9PbFJesVKcnmiymFQ6KfSu/BPNJmo=",
+          "size": 6490407
         }
       ]
     },
@@ -6811,80 +6811,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.48.1/terraform-provider-apstra_0.48.1_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.48.1/terraform-provider-apstra_0.48.1_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.48.1/terraform-provider-apstra_0.48.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.48.1/terraform-provider-apstra_0.48.1_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.48.1_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.48.1/terraform-provider-apstra_0.48.1_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.48.1/terraform-provider-apstra_0.48.1_darwin_amd64.zip",
           "shasum": "ab491bb12cfd5ba087cd4a05ad5497bfca6b34e57efeffa4240c15af1cddf5c3",
-          "h1": "",
-          "size": 0
+          "h1": "h1:1QY+nTDCkC5NeQfobXGyEKTT3AskQ6dWiCmj5jOTSpo=",
+          "size": 7305383
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.48.1_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.48.1/terraform-provider-apstra_0.48.1_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.48.1/terraform-provider-apstra_0.48.1_darwin_arm64.zip",
           "shasum": "c51ba352239a7c51c26cf8ff18f5838c5b34c990c0c88f74d8bd4d44eec60009",
-          "h1": "",
-          "size": 0
+          "h1": "h1:R14IHim4ufDl0vECS+Iu/gP0PCPky2rc5EiKIdrwkk8=",
+          "size": 7069113
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.48.1_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.48.1/terraform-provider-apstra_0.48.1_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.48.1/terraform-provider-apstra_0.48.1_linux_386.zip",
           "shasum": "ea9d83d248cf396e128a3e07a7f2608663a3acb3cb55fc7e27ef751133be9dcf",
-          "h1": "",
-          "size": 0
+          "h1": "h1:GhTjGPmVNTpfzgFQyFtAuTK0ogyXjl2yYvJTYLwF1uM=",
+          "size": 6535860
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.48.1_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.48.1/terraform-provider-apstra_0.48.1_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.48.1/terraform-provider-apstra_0.48.1_linux_amd64.zip",
           "shasum": "a8c705821877de447b1ca7eaa193920abd7ebe74569e346edd6b0676dfd00b72",
-          "h1": "",
-          "size": 0
+          "h1": "h1:XCvLz1/YcK50rAmCxgELC7oPWRSLvpdMlZurFA9/Sq0=",
+          "size": 6981849
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.48.1_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.48.1/terraform-provider-apstra_0.48.1_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.48.1/terraform-provider-apstra_0.48.1_linux_arm64.zip",
           "shasum": "0b56ca4ff1979d74a506d8df1ca08b0027f6cea6dc6976e2f7c77629cca7fdbb",
-          "h1": "",
-          "size": 0
+          "h1": "h1:qo0i6ZG46/u09Co1A+mpt8m2BIODjv3vsc8B0LqRQhk=",
+          "size": 6431907
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.48.1_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.48.1/terraform-provider-apstra_0.48.1_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.48.1/terraform-provider-apstra_0.48.1_windows_386.zip",
           "shasum": "21217543ea04cbecfe492560531345e3ab948bba8759c31239f974d7828b58e6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:2lGjK9HQcNq8HrF+LE0kosjf0Ynu9l31U1T/PP6Lilg=",
+          "size": 6817789
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.48.1_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.48.1/terraform-provider-apstra_0.48.1_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.48.1/terraform-provider-apstra_0.48.1_windows_amd64.zip",
           "shasum": "c385a8ab742358c8df7120578a127e94821f9e85e0d48eb3773080411e823599",
-          "h1": "",
-          "size": 0
+          "h1": "h1:nyDiVs8Pblu4atZ8UbrZiuoKPzH6AG1bW9m9AvpNb1E=",
+          "size": 7149282
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.48.1_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.48.1/terraform-provider-apstra_0.48.1_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.48.1/terraform-provider-apstra_0.48.1_windows_arm64.zip",
           "shasum": "558eae3eb8168322556ced2d63d15916637c5f31b6f40ce302c4c5df9e7667c0",
-          "h1": "",
-          "size": 0
+          "h1": "h1:EyG7S/ki2pdaVv3n6dDROXOsEAUpYcD/X9/RFUwoi20=",
+          "size": 6480220
         }
       ]
     },
@@ -6893,80 +6893,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.48.0/terraform-provider-apstra_0.48.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.48.0/terraform-provider-apstra_0.48.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.48.0/terraform-provider-apstra_0.48.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.48.0/terraform-provider-apstra_0.48.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.48.0_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.48.0/terraform-provider-apstra_0.48.0_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.48.0/terraform-provider-apstra_0.48.0_darwin_amd64.zip",
           "shasum": "dbd9c4e2c9fc008042421081a3ba0ccf718dd7ba7860bb901f6e7abeb0318539",
-          "h1": "",
-          "size": 0
+          "h1": "h1:dgRBy2ZxazQ40HncNVHa4m9mWdVD2FK2Sg63WzECmA8=",
+          "size": 7305269
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.48.0_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.48.0/terraform-provider-apstra_0.48.0_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.48.0/terraform-provider-apstra_0.48.0_darwin_arm64.zip",
           "shasum": "ed411e45f18f80ace54f3d0fb5bc0fbf5cb70bd0ef4e1d6de03480a652b8ae58",
-          "h1": "",
-          "size": 0
+          "h1": "h1:VqTc155MEDRtxIzy72jk5PDRnTCX56T+J6Sykp9rgvc=",
+          "size": 7069108
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.48.0_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.48.0/terraform-provider-apstra_0.48.0_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.48.0/terraform-provider-apstra_0.48.0_linux_386.zip",
           "shasum": "34d8c482780ebb7105356a466594f1407c078c5d271976727b8f9cc29c03b45c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:3eJBYDnCIEY5Axmieh+2pMtlViSUD6xUTIIs6KjQjpM=",
+          "size": 6536319
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.48.0_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.48.0/terraform-provider-apstra_0.48.0_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.48.0/terraform-provider-apstra_0.48.0_linux_amd64.zip",
           "shasum": "ea37f9ff158f2af51666e7ea18ed880a89172d86aa43d2d894f1c74427f0d3b7",
-          "h1": "",
-          "size": 0
+          "h1": "h1:4prFXq1kq2SSpyLEE3O1MB1XdsA65+RDhpGakUrGvJc=",
+          "size": 6981883
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.48.0_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.48.0/terraform-provider-apstra_0.48.0_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.48.0/terraform-provider-apstra_0.48.0_linux_arm64.zip",
           "shasum": "964578ac908bf4daa379f0a084c21468daf4a288c2a84d3f8ead20c8a72e6ce7",
-          "h1": "",
-          "size": 0
+          "h1": "h1:c785xUQANjp3MUzVRcRH+Bze4bEbOIGO6H9Gaky/h4o=",
+          "size": 6431941
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.48.0_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.48.0/terraform-provider-apstra_0.48.0_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.48.0/terraform-provider-apstra_0.48.0_windows_386.zip",
           "shasum": "7a35e8d0e1b6f01bd0971abe303db6afd03ff51a5869bb9c692a4bad3ad62c27",
-          "h1": "",
-          "size": 0
+          "h1": "h1:EBQAkX9prQiZymNJfh1uKJktYHnCdp5mv7dnULsTo80=",
+          "size": 6817767
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.48.0_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.48.0/terraform-provider-apstra_0.48.0_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.48.0/terraform-provider-apstra_0.48.0_windows_amd64.zip",
           "shasum": "0caf16827a5fb882488a14f508bcb21a48666b1563de11fd72c96bc53799a7b6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:zKUkkHSETwxZXTsQFa3bbxgRw0src5fi00UByJr5U5A=",
+          "size": 7149185
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.48.0_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.48.0/terraform-provider-apstra_0.48.0_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.48.0/terraform-provider-apstra_0.48.0_windows_arm64.zip",
           "shasum": "c7dd9e6856687a76d514d591873bdd51a1cb4f2aa77d425beb2b0ed7dfc52e69",
-          "h1": "",
-          "size": 0
+          "h1": "h1:tQ62juczrHogPgK7iOncvMBwN4Qo0/8Q+puPIiL+VYk=",
+          "size": 6480327
         }
       ]
     },
@@ -6975,80 +6975,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.47.0/terraform-provider-apstra_0.47.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.47.0/terraform-provider-apstra_0.47.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.47.0/terraform-provider-apstra_0.47.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.47.0/terraform-provider-apstra_0.47.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.47.0_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.47.0/terraform-provider-apstra_0.47.0_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.47.0/terraform-provider-apstra_0.47.0_darwin_amd64.zip",
           "shasum": "49f6548614bafffa49f09395c102b0df8cc198259606bb274ddd3d490948ffae",
-          "h1": "",
-          "size": 0
+          "h1": "h1:nFcXkKbodeE9BYa3YRV7/F6CpHymZZknS93ilDap8l0=",
+          "size": 7121972
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.47.0_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.47.0/terraform-provider-apstra_0.47.0_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.47.0/terraform-provider-apstra_0.47.0_darwin_arm64.zip",
           "shasum": "0859d247ea08fd224292d3c75c28d8828624fcbd3daa2d75db8eb926f235b8a4",
-          "h1": "",
-          "size": 0
+          "h1": "h1:b+U9ODSPuyW/d5cZLJs3gaXpKTL/SDv1XYdMg3NwApg=",
+          "size": 6888714
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.47.0_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.47.0/terraform-provider-apstra_0.47.0_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.47.0/terraform-provider-apstra_0.47.0_linux_386.zip",
           "shasum": "c65941efb5912fd686dba0438834aafcfca8095ba8c2c32ceaf3ce0e5da58c60",
-          "h1": "",
-          "size": 0
+          "h1": "h1:NJ3Nz7LWKusLrg69NNNNQLVxrVu2biedJG7zRRKOKFc=",
+          "size": 6370466
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.47.0_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.47.0/terraform-provider-apstra_0.47.0_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.47.0/terraform-provider-apstra_0.47.0_linux_amd64.zip",
           "shasum": "a68be7a7c7dc965e62bdfbc03892473f6ca05d2f12db4d361eedfb3392e55794",
-          "h1": "",
-          "size": 0
+          "h1": "h1:3RfoLS/QvsRCN9Zr6D2EfN9w15Fk+PNuuK6Whc84Ox4=",
+          "size": 6803757
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.47.0_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.47.0/terraform-provider-apstra_0.47.0_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.47.0/terraform-provider-apstra_0.47.0_linux_arm64.zip",
           "shasum": "eb1f19b025e5880cd91fc0e421c0878fa7c0589d90ab1471f6f6460cedf51b44",
-          "h1": "",
-          "size": 0
+          "h1": "h1:NeMU7T2afg9Jl+64h1CtTWJrGPiZSEXbDAJ6Q+IaYjI=",
+          "size": 6266527
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.47.0_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.47.0/terraform-provider-apstra_0.47.0_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.47.0/terraform-provider-apstra_0.47.0_windows_386.zip",
           "shasum": "de2a93318c87e796349c060ba7b94566061d7055e5a520cc54a34cdf4bd0ab9a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:u6TPjursv97TRHEgG99zSLGAaSHrKFcVmLO5aAaFEjg=",
+          "size": 6626794
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.47.0_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.47.0/terraform-provider-apstra_0.47.0_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.47.0/terraform-provider-apstra_0.47.0_windows_amd64.zip",
           "shasum": "f0f75212c086cfdecb2a884de2d8cd9ab9da0695e04aa933d8658ade101f8914",
-          "h1": "",
-          "size": 0
+          "h1": "h1:dnrp9iXXm/abTTwTPoQVY5G8y8eOXhgwkyHYHo7UWYs=",
+          "size": 6951394
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.47.0_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.47.0/terraform-provider-apstra_0.47.0_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.47.0/terraform-provider-apstra_0.47.0_windows_arm64.zip",
           "shasum": "d4f5af7c1473f9445275b8c4838530158c979456ef3125dfc4c5abef01570bcf",
-          "h1": "",
-          "size": 0
+          "h1": "h1:zO27M9aIXyeBJtlD1MxcyX1Sv6E9ZZC1j4krY/qd9ho=",
+          "size": 6298512
         }
       ]
     },
@@ -7057,80 +7057,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.46.0/terraform-provider-apstra_0.46.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.46.0/terraform-provider-apstra_0.46.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.46.0/terraform-provider-apstra_0.46.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.46.0/terraform-provider-apstra_0.46.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.46.0_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.46.0/terraform-provider-apstra_0.46.0_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.46.0/terraform-provider-apstra_0.46.0_darwin_amd64.zip",
           "shasum": "1fcde05b511525b2765524f8b4970f895036d7d27a1b5d4ec21cf25ebb7b3f48",
-          "h1": "",
-          "size": 0
+          "h1": "h1:XzIiaGFtOnMsKT3ro0unxWCfVTZHP1ZJFqRM+0xSI48=",
+          "size": 7118027
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.46.0_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.46.0/terraform-provider-apstra_0.46.0_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.46.0/terraform-provider-apstra_0.46.0_darwin_arm64.zip",
           "shasum": "841bf648e22fed34c2094329afb9498204df324e5342f425a4bed31e1b14dbdc",
-          "h1": "",
-          "size": 0
+          "h1": "h1:KNsUBl1i8KQ2w7aLeEIZ1Q7jf8UGQRy5LSiPuB22mUM=",
+          "size": 6882038
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.46.0_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.46.0/terraform-provider-apstra_0.46.0_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.46.0/terraform-provider-apstra_0.46.0_linux_386.zip",
           "shasum": "2b38ea8218865f0c0fa191d25dc7d9e259c3a55e7632ba79cd2df41c3d532db2",
-          "h1": "",
-          "size": 0
+          "h1": "h1:4s2nZDjt1W8a8WCpYrRWIyck0wnMdeckHsYYk+vcGQY=",
+          "size": 6367223
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.46.0_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.46.0/terraform-provider-apstra_0.46.0_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.46.0/terraform-provider-apstra_0.46.0_linux_amd64.zip",
           "shasum": "f7393fc90a5b25e055e260d61e1bd6a93338c7c6f5b37d29d754c7dd7e510904",
-          "h1": "",
-          "size": 0
+          "h1": "h1:/fuHoXLfL6CmNfpAZ6LbhDlE8wgYJfZcLwMGMF468Dg=",
+          "size": 6800000
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.46.0_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.46.0/terraform-provider-apstra_0.46.0_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.46.0/terraform-provider-apstra_0.46.0_linux_arm64.zip",
           "shasum": "5c3dfb35783a3c0d45cfccaef5a11c254fd7c43a7c383335a4022d46b5c4a81d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:/mkYDIqFXU9gl36VX4UFSg0CtOs/ups2ritLcusKghE=",
+          "size": 6262907
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.46.0_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.46.0/terraform-provider-apstra_0.46.0_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.46.0/terraform-provider-apstra_0.46.0_windows_386.zip",
           "shasum": "d5568440de1caf4ebd66998cc1e7fd09f7dfd42f894e1d1909c9f2fd9d0aa024",
-          "h1": "",
-          "size": 0
+          "h1": "h1:rkSORmKKUC84osx6nAnOW698DM4YgLozs37YbM8mMJg=",
+          "size": 6623850
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.46.0_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.46.0/terraform-provider-apstra_0.46.0_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.46.0/terraform-provider-apstra_0.46.0_windows_amd64.zip",
           "shasum": "cea9b3c5c3e04c9de1b119f8ec77b86908c86f0898fd7325dc9159ecc3b4efd0",
-          "h1": "",
-          "size": 0
+          "h1": "h1:voM+2wMEurqFPQe3c9SmvE4Xd7vSIU0T/OqRnQPZyew=",
+          "size": 6946605
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.46.0_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.46.0/terraform-provider-apstra_0.46.0_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.46.0/terraform-provider-apstra_0.46.0_windows_arm64.zip",
           "shasum": "ffdeea08f3e58eca7e5ac473adf9e569fe79a371a712fb48691476ec268eaa9b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:K6cXAcmq2Km+Zs7di9cG6erZpE78ZKpCeQTizvTV8xM=",
+          "size": 6295230
         }
       ]
     },
@@ -7139,80 +7139,80 @@
       "protocols": [
         "6.0"
       ],
-      "shasums_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.45.0/terraform-provider-apstra_0.45.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.45.0/terraform-provider-apstra_0.45.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.45.0/terraform-provider-apstra_0.45.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.45.0/terraform-provider-apstra_0.45.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.45.0_darwin_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.45.0/terraform-provider-apstra_0.45.0_darwin_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.45.0/terraform-provider-apstra_0.45.0_darwin_amd64.zip",
           "shasum": "c3aa82ae4e5a5309be4622c8b10f77da93a1bc69faf3c6011a02232538783f99",
-          "h1": "",
-          "size": 0
+          "h1": "h1:fjkXaXsYXseu95V7xurbe+BkdwEhHR4DbLAt0lHDN14=",
+          "size": 7100024
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.45.0_darwin_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.45.0/terraform-provider-apstra_0.45.0_darwin_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.45.0/terraform-provider-apstra_0.45.0_darwin_arm64.zip",
           "shasum": "a437e835fe6c4d0036be54987c6931f8c0d113c251cd6c06085064ea0b506055",
-          "h1": "",
-          "size": 0
+          "h1": "h1:IFrbkBWVkLKn4YntAbs7euz3JtP0kFnCkXHo4I5MeUg=",
+          "size": 6866545
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.45.0_linux_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.45.0/terraform-provider-apstra_0.45.0_linux_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.45.0/terraform-provider-apstra_0.45.0_linux_386.zip",
           "shasum": "2f03c095da5a6a1b882affec3ebf98f730741f772a6c5b95fd6e7412bf06c1ea",
-          "h1": "",
-          "size": 0
+          "h1": "h1:eHMrKrbKVenB//n/1bAWpLeuumjU8Z6qb9bVVpTP4p4=",
+          "size": 6350278
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.45.0_linux_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.45.0/terraform-provider-apstra_0.45.0_linux_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.45.0/terraform-provider-apstra_0.45.0_linux_amd64.zip",
           "shasum": "b1fb8bafe5079dd0ee5908933af7c9252f9a8f2036b0eaeab61f3d502a20d7bb",
-          "h1": "",
-          "size": 0
+          "h1": "h1:LbKLFvOhUweSsw4quhFXLcsFEo/lcn/lhCR7QeHARaI=",
+          "size": 6783188
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.45.0_linux_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.45.0/terraform-provider-apstra_0.45.0_linux_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.45.0/terraform-provider-apstra_0.45.0_linux_arm64.zip",
           "shasum": "50b8f556e23cab0cf9ee3f50513323b4e06966a9d4c2305ee7f016a37f811fc6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:vtBzQ9N8Cas4gDLbBhoAaEZkC+nD/NLYXcE0qV+L2F8=",
+          "size": 6247303
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-apstra_0.45.0_windows_386.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.45.0/terraform-provider-apstra_0.45.0_windows_386.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.45.0/terraform-provider-apstra_0.45.0_windows_386.zip",
           "shasum": "6f624d69407d6b1b82f64e3d0d91b37ed74448a382f933efe457277f88525100",
-          "h1": "",
-          "size": 0
+          "h1": "h1:WMw9QUHPmzFHjzznJpTfoqlRj4GTTODFfJFtf0CgXtQ=",
+          "size": 6606559
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-apstra_0.45.0_windows_amd64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.45.0/terraform-provider-apstra_0.45.0_windows_amd64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.45.0/terraform-provider-apstra_0.45.0_windows_amd64.zip",
           "shasum": "2b6a6afe9e27bff79b61eab03cfe5d3bfa75a0497e4c11a54d2ae7ffcf561721",
-          "h1": "",
-          "size": 0
+          "h1": "h1:8qgdqMtayEzlg4PgFzZXuIHgxfVzN+7NENpoMZslMlk=",
+          "size": 6928203
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-apstra_0.45.0_windows_arm64.zip",
-          "download_url": "https://github.com/Juniper/terraform-provider-apstra/releases/download/v0.45.0/terraform-provider-apstra_0.45.0_windows_arm64.zip",
+          "download_url": "https://github.com/juniper/terraform-provider-apstra/releases/download/v0.45.0/terraform-provider-apstra_0.45.0_windows_arm64.zip",
           "shasum": "4e3beed726ad5e9f96ae8e63b26b1047022b846f730d56bc437cfa1b24f9fbce",
-          "h1": "",
-          "size": 0
+          "h1": "h1:O1W7MCyai1r7NDFx2Up3saifGiAU91p0PuS/2Wcn6Ww=",
+          "size": 6280777
         }
       ]
     },
