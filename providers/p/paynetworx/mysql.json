@@ -685,134 +685,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.12.1_darwin_amd64.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_darwin_amd64.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_darwin_amd64.zip",
           "shasum": "2b7cbf7915ce17f98655cb4931b6b33cfadf7128fdcb883622da2dfc820196ca",
-          "h1": "",
-          "size": 0
+          "h1": "h1:o//ZKCvsj/cyz4JYsKXgVajRK2BZvL0SvXxAflYJnkw=",
+          "size": 6507093
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.12.1_darwin_arm64.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_darwin_arm64.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_darwin_arm64.zip",
           "shasum": "7c186ef58389e720a3510af0303ecc7248e23256c8515c602f2c0335c93cd402",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Qo/dt3TG4z8Bf8uooBFWEUcTu5GJY+RXb4T9cURiwf8=",
+          "size": 6411973
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-mysql_1.12.1_freebsd_386.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_freebsd_386.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_freebsd_386.zip",
           "shasum": "b4a7a71f0b08547208853372e5577251e82cc4722d444928291dfc96ec6ecd19",
-          "h1": "",
-          "size": 0
+          "h1": "h1:oD6J+CG4sVW/tFNaVN0sBV9R5YY/iEkiNzbenL/K+Lg=",
+          "size": 5853017
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.12.1_freebsd_amd64.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_freebsd_amd64.zip",
           "shasum": "5dda46644d97c84d44283267a7239ffb15a0929c25c422574d67db1a5ea0e895",
-          "h1": "",
-          "size": 0
+          "h1": "h1:IbCodLo1HWV9tOKYnpdKWcgny4iGGxdm0SK2qZq3uTY=",
+          "size": 6367890
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-mysql_1.12.1_freebsd_arm.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_freebsd_arm.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_freebsd_arm.zip",
           "shasum": "e656899072640d4336febceeeec9cb133df3f00aaf4b55e2b68052b9f0f54558",
-          "h1": "",
-          "size": 0
+          "h1": "h1:TFGl9wkYk9YBurDUrylBX4eaWS1BIx/AeyQfZFDZUZA=",
+          "size": 5874275
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.12.1_freebsd_arm64.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_freebsd_arm64.zip",
           "shasum": "55b9d2bbca9bd791d627bc5e9e61d6b5d046d7864bd6c21c5afcdb30ccf7d123",
-          "h1": "",
-          "size": 0
+          "h1": "h1:a5MmqLZQiwP61yfH7r6isbMrsWdY0ijFP2q9+mHKGsw=",
+          "size": 5781766
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-mysql_1.12.1_linux_386.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_linux_386.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_linux_386.zip",
           "shasum": "75fd8f020d3ec7431cae9bc6201ec04bf29803db596bd63a1e00cc54e6d4538c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:IQSbMv4G9GpKtfJodXTcwkmW4/P/bugaCiR+zsRvr1Q=",
+          "size": 5858196
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.12.1_linux_amd64.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_linux_amd64.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_linux_amd64.zip",
           "shasum": "c3e0d9866c9bee73e2c8a72d19c6f08706096d0497a76f192459be86b99764c5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:XjOipxoE+/poTMN/taeQJXfCrs/d9VXoB9hqJQilZ14=",
+          "size": 6267702
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-mysql_1.12.1_linux_arm.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_linux_arm.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_linux_arm.zip",
           "shasum": "2719163c288e4dd1e7e856bcce1f7470e6d8dd64829b34e29a732b34139c7478",
-          "h1": "",
-          "size": 0
+          "h1": "h1:W7gYnEA/iqCZA20SiCzGImH4Qt0YSLGe39z195w5cK0=",
+          "size": 5873305
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.12.1_linux_arm64.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_linux_arm64.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_linux_arm64.zip",
           "shasum": "9a775e6f497b5fe6a1e6b5f823dbc3f74c833b56ef93163c269e0acce329df27",
-          "h1": "",
-          "size": 0
+          "h1": "h1:51TM3oc1ar5izvD+HGb+PyECPlDu1fMvgYlvO0cT2no=",
+          "size": 5782759
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-mysql_1.12.1_windows_386.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_windows_386.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_windows_386.zip",
           "shasum": "8b55c7e6320ef8a67a00ce8e5f7c46f3a07309c8ffa45eb2ee29ab65ea6ef2cb",
-          "h1": "",
-          "size": 0
+          "h1": "h1:EBpsS4DjyDDtba6pxmW9AorlFZHxxkhTd7MJkh3/E9k=",
+          "size": 6102109
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.12.1_windows_amd64.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_windows_amd64.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_windows_amd64.zip",
           "shasum": "7eb487f7145614eaa875a38469e0d483b1c0cc58bc894b63e1e47a36458a413c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:L7QG2grHsRCFfl9S7Qg3X5HSXELOkgEIomlnFyCit8g=",
+          "size": 6328999
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-mysql_1.12.1_windows_arm.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_windows_arm.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_windows_arm.zip",
           "shasum": "8891fee1fbabd8955afb6fe878fc122527c81ab39f548af38b9d5aeb8269b871",
-          "h1": "",
-          "size": 0
+          "h1": "h1:kqNnqQTaiw2KZEwM4jJ+xIKVOory/GWHZYh8e4yoRx4=",
+          "size": 6011809
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.12.1_windows_arm64.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_windows_arm64.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.12.1/terraform-provider-mysql_1.12.1_windows_arm64.zip",
           "shasum": "a4c255d89290c9ed45c828ff0c15618973e1a8dac20cbd1f16157341969d2f91",
-          "h1": "",
-          "size": 0
+          "h1": "h1:wPNMuqLiXF5jETfQgxC2sxMI9pg5M6fpo8hjYvQiLfA=",
+          "size": 5842713
         }
       ]
     },
@@ -821,134 +821,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.11.1_darwin_amd64.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_darwin_amd64.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_darwin_amd64.zip",
           "shasum": "ce68b8a40580e9ef94c80934458fcbad6073c3ce7561c4828d123f81bd12f177",
-          "h1": "",
-          "size": 0
+          "h1": "h1:dmHK0gOswpDxxvtAZS5YIRQ2dDpXxqMZOYNAnfimor4=",
+          "size": 6505908
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.11.1_darwin_arm64.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_darwin_arm64.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_darwin_arm64.zip",
           "shasum": "47e007ab37e567d8858da750180d31404bbcdf7013e515374bf68b476f4d5434",
-          "h1": "",
-          "size": 0
+          "h1": "h1:jbY2+arm7TBNExR/+HEpx+mga1myMO7OG5AR/kXhZlQ=",
+          "size": 6411442
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-mysql_1.11.1_freebsd_386.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_freebsd_386.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_freebsd_386.zip",
           "shasum": "a611d1749040acdee1014e0f44a222f3f952d4e9047e6843807151df1dd33891",
-          "h1": "",
-          "size": 0
+          "h1": "h1:KRT+L1aRVA3JQWKTJm5lJH8S7j4obtv/X0dNWLktprQ=",
+          "size": 5852057
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.11.1_freebsd_amd64.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_freebsd_amd64.zip",
           "shasum": "f0f61bed4ab65c181f2c65f08f8295347a91e74cce86c92b3bf8a88ad37281d1",
-          "h1": "",
-          "size": 0
+          "h1": "h1:tAuAYLL7bJwdjYyZS/PbcNbqAnwzYcp7C7kTArTsudc=",
+          "size": 6366933
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-mysql_1.11.1_freebsd_arm.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_freebsd_arm.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_freebsd_arm.zip",
           "shasum": "96c24be043cde867c0273e8ed33dc9e984a78db31cb60131aa0889e5c5796992",
-          "h1": "",
-          "size": 0
+          "h1": "h1:3ISuisqOT1SZm0z7AigLYDuocCdipR+URilMDCkbnCA=",
+          "size": 5873441
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.11.1_freebsd_arm64.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_freebsd_arm64.zip",
           "shasum": "3057303e0d7695eed94c08959c6812621059eeee2701ed1a38b0d4bdb4419641",
-          "h1": "",
-          "size": 0
+          "h1": "h1:atr0Fey48GTYJBm2DSgbic4N0bRdz112bwDVG4iYoTM=",
+          "size": 5780708
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-mysql_1.11.1_linux_386.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_linux_386.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_linux_386.zip",
           "shasum": "1e4203ffed991a13666a7b91933635207e69ae7dab211b75c38cd03fb277797c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:1aXdfIDe/geV20AzQejm6aYuxvawJDd4PfcvV2k5VC4=",
+          "size": 5857782
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.11.1_linux_amd64.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_linux_amd64.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_linux_amd64.zip",
           "shasum": "d47d77c9e7b1316cb51f6d384d3cfdea71cabeec4299dfc8a88d48b33cca8b9f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:5Tec29ffJNs0Yyq+RVQfzF+yyDSID1aF14GqpnAL10A=",
+          "size": 6266260
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-mysql_1.11.1_linux_arm.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_linux_arm.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_linux_arm.zip",
           "shasum": "f2c2ae3a677a54f4e1ab48e12b242bc9a0dde3f9e08ea73277a45f5b02d9b43d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:3LO9Gag0enl8TlSDd2QMhTdZdiO935Gd/QPmi8yRxgs=",
+          "size": 5872543
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.11.1_linux_arm64.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_linux_arm64.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_linux_arm64.zip",
           "shasum": "32a1a95fcaaf548465621e103ea7ef652cca7422b6be9ae75396886585a900f7",
-          "h1": "",
-          "size": 0
+          "h1": "h1:IHh6oOLeGYMcLRRXLlx1TWqevoHESEORO6cxIpRBnec=",
+          "size": 5782549
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-mysql_1.11.1_windows_386.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_windows_386.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_windows_386.zip",
           "shasum": "f23a6259cb11bc349c0a4871259828eddf43e3d1235f54daf5d318069d4cb542",
-          "h1": "",
-          "size": 0
+          "h1": "h1:XDc6BAXm6GUfKgF9silNNPlrbW3MlSuBMqJwka1hd7U=",
+          "size": 6101037
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.11.1_windows_amd64.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_windows_amd64.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_windows_amd64.zip",
           "shasum": "6bb46ab7d6d364d36af1d26869f31be740d81a54a31643f87699bf5f40f966d4",
-          "h1": "",
-          "size": 0
+          "h1": "h1:hYsYQOG+jTyKbeCGQog36je5B6lCyTBlFweA0mVP3iM=",
+          "size": 6328094
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-mysql_1.11.1_windows_arm.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_windows_arm.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_windows_arm.zip",
           "shasum": "0ce1b662f95d45e7ea5135c06d2e5cf6e1c200c11d2ad3fb84a60753f79cd86a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:JqtwRcfSvNuMQnuZBmRyZ1uXJd4pJ17BmtuPK2kWI1Q=",
+          "size": 6009884
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.11.1_windows_arm64.zip",
-          "download_url": "https://github.com/Paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_windows_arm64.zip",
+          "download_url": "https://github.com/paynetworx/terraform-provider-mysql/releases/download/v1.11.1/terraform-provider-mysql_1.11.1_windows_arm64.zip",
           "shasum": "31b5cb43bf9f5d951990f3a4ffe0c21aec8c4b95c2cb24f90c1563b9e356b12e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:fYK2tOgYtnaIRfRZjKAUqqLM6QaZQjl2plObYfyoxQI=",
+          "size": 5843306
         }
       ]
     }
