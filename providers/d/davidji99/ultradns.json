@@ -631,5 +631,27 @@
         }
       ]
     }
+  ],
+  "versions_errors": [
+    {
+      "version": "2.0.0-beta2",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:25.236272238Z"
+    },
+    {
+      "version": "2.0.0-beta",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:25.776444155Z"
+    },
+    {
+      "version": "0.1.1",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:25.873408588Z"
+    },
+    {
+      "version": "0.1.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:25.743272887Z"
+    }
   ]
 }
