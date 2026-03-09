@@ -877,107 +877,107 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-croccloud_4.14.0-CROC3_darwin_amd64.zip",
-          "download_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_darwin_amd64.zip",
+          "download_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_darwin_amd64.zip",
           "shasum": "602ed21f54fdde854da54e7a0bd38f86a7c25582263bce0c1eaf5bf57bdd6b83",
-          "h1": "",
-          "size": 0
+          "h1": "h1:wjZZb/KAqQHVF0+MmP8wCzb0JW7Sb7tHJHf2kaLv4Jc=",
+          "size": 52251859
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-croccloud_4.14.0-CROC3_darwin_arm64.zip",
-          "download_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_darwin_arm64.zip",
+          "download_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_darwin_arm64.zip",
           "shasum": "0f8243fb0ea79349d3648ce2c78c8eb2e4a1b657b394e72c4d2b9bbd6faca5ca",
-          "h1": "",
-          "size": 0
+          "h1": "h1:NMp+6FAQSeHrBVLpsBA73j3Ksfq6AmsySo/UkcvBs3E=",
+          "size": 52287368
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-croccloud_4.14.0-CROC3_freebsd_386.zip",
-          "download_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_freebsd_386.zip",
+          "download_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_freebsd_386.zip",
           "shasum": "afae439189114f97808933438370d13b72bce9c587941c0191d43eb17dde81f6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:SaPwq+Ex+BMEj7gQUfhPKfn+/M9YE5owipZ6PDsH/Cc=",
+          "size": 43010986
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-croccloud_4.14.0-CROC3_freebsd_amd64.zip",
-          "download_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_freebsd_amd64.zip",
+          "download_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_freebsd_amd64.zip",
           "shasum": "c01a526b1d00f7101c27b2fcdef6e59b530f1302f3a85cbd612c9bdd6b14fecf",
-          "h1": "",
-          "size": 0
+          "h1": "h1:SdXrrYobE8D/C4FR43p5Eh4SaqmU+1imEG0MbS7htiE=",
+          "size": 48299681
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-croccloud_4.14.0-CROC3_freebsd_arm.zip",
-          "download_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_freebsd_arm.zip",
+          "download_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_freebsd_arm.zip",
           "shasum": "04113354ffb2982b02cc48a09db14810b94f010d7e2df6fc83c53de7f5a6253c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:yEa2zddQt2HnKF6wEWg2xq59NEJKmrMprWTIdT0HVqI=",
+          "size": 44450151
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-croccloud_4.14.0-CROC3_linux_386.zip",
-          "download_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_linux_386.zip",
+          "download_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_linux_386.zip",
           "shasum": "5a26d756893782be76df9038ee94e17102ed24928527f8335b0ef74699b355db",
-          "h1": "",
-          "size": 0
+          "h1": "h1:b4JXaGRj/jeGVkxGcbnOVh7n4qqYgC4lICqEXiTZc9Y=",
+          "size": 43066242
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-croccloud_4.14.0-CROC3_linux_amd64.zip",
-          "download_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_linux_amd64.zip",
+          "download_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_linux_amd64.zip",
           "shasum": "83db2f176b9c99b17140001a5cf0bb9c3fe44fa47cb496e7c22c4028c94ef10c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:V8ltVvtcHUC++QVn3sPKSTNN8NLpAMd6crX00C83z7M=",
+          "size": 48295065
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-croccloud_4.14.0-CROC3_linux_arm.zip",
-          "download_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_linux_arm.zip",
+          "download_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_linux_arm.zip",
           "shasum": "2d0db9ef63fdc7da25645484566320659a7348f677a0208b852f4ef9a88bdbb0",
-          "h1": "",
-          "size": 0
+          "h1": "h1:yhkmViORNAy/mGk7piRfMAV8Tz5mACD/wtVFhcET/Z4=",
+          "size": 44449967
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-croccloud_4.14.0-CROC3_linux_arm64.zip",
-          "download_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_linux_arm64.zip",
+          "download_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_linux_arm64.zip",
           "shasum": "190ab75eac9ec8b23f71c52599d53e0b96a90ed699f74237f25b3b4954a2dbde",
-          "h1": "",
-          "size": 0
+          "h1": "h1:BrQ+uU3z7b2VPnfUK73rdkCJbDkhCSSTTUAcs8p91Q8=",
+          "size": 44701724
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-croccloud_4.14.0-CROC3_windows_386.zip",
-          "download_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_windows_386.zip",
+          "download_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_windows_386.zip",
           "shasum": "09c752f88e9568c06b4b88d59bfa5f700b16f8fa99f013e4150d67ce45f4b8a6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:HWpmfCTBgDpeyyv3I+voh/22oOrAFp9hbhISOl1VuKM=",
+          "size": 45181910
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-croccloud_4.14.0-CROC3_windows_amd64.zip",
-          "download_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_windows_amd64.zip",
+          "download_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC3/terraform-provider-croccloud_4.14.0-CROC3_windows_amd64.zip",
           "shasum": "ee54b0b0ae22f340b951fb3bdcde9bf9a3b3c69e417884f41928da16ada76df5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:d3WeMtmrBszDM/WP16EZg0ZDCgsDgBNK0nGxdlAkQdw=",
+          "size": 48411211
         }
       ]
     },
@@ -986,107 +986,107 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-croccloud_4.14.0-CROC2_darwin_amd64.zip",
-          "download_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_darwin_amd64.zip",
+          "download_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_darwin_amd64.zip",
           "shasum": "4642330de479e970b91465b3602b3701cd7337ebc989a94fce19f51d401245a6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:p4x95T1FWfpalUrJC7c8VgBW9zNJ9Rq8/9AfsXYc0Vc=",
+          "size": 52251860
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-croccloud_4.14.0-CROC2_darwin_arm64.zip",
-          "download_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_darwin_arm64.zip",
+          "download_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_darwin_arm64.zip",
           "shasum": "840f2447ff99dabb7f91a69dbcbfc6d9b6de4d262a93617f4fa3e3a6824e69a7",
-          "h1": "",
-          "size": 0
+          "h1": "h1:R4YdtHGiAzhe2yBPAnYA4IHK+97DA9FkXUEFmxsYKmI=",
+          "size": 52287367
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-croccloud_4.14.0-CROC2_freebsd_386.zip",
-          "download_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_freebsd_386.zip",
+          "download_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_freebsd_386.zip",
           "shasum": "18cb6ed38bf166bd8379c1cc07bc4e9a48870432196a39e8fdcbdfaa7daa162f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:7GNTFJ30AyFIAwsL8cygCpNZ645HyvOxGJatnbglPic=",
+          "size": 43010984
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-croccloud_4.14.0-CROC2_freebsd_amd64.zip",
-          "download_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_freebsd_amd64.zip",
+          "download_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_freebsd_amd64.zip",
           "shasum": "4b332e4e46ec76ffdd8d438d9d7fc1276220b458e1f329fe4b9c6c206d8a5872",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ngbOtFJIjErRrSxvM1Ah5UL/wIDLLCx7ljepWNK1Q40=",
+          "size": 48299677
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-croccloud_4.14.0-CROC2_freebsd_arm.zip",
-          "download_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_freebsd_arm.zip",
+          "download_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_freebsd_arm.zip",
           "shasum": "e4fc6fa7ec64b812c5aac466742b0492219d6311a63a3d85f1b1fcafd99743e2",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ME5FssLa55Z+u+HnccPhtopxTjL/kY3rQl3BtAqhWUw=",
+          "size": 44450153
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-croccloud_4.14.0-CROC2_linux_386.zip",
-          "download_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_linux_386.zip",
+          "download_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_linux_386.zip",
           "shasum": "88f5b80316181e5629da6138434614bc2e03104b1c9293fa1dbd55ecdf13ea96",
-          "h1": "",
-          "size": 0
+          "h1": "h1:hFL3Dp3J/URQxWbeBDoW/AaWwIV9bPTBRbKG2Ly+n7o=",
+          "size": 43066242
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-croccloud_4.14.0-CROC2_linux_amd64.zip",
-          "download_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_linux_amd64.zip",
+          "download_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_linux_amd64.zip",
           "shasum": "e483a5629c6b3b987a9c64150ce5a29673bccd62350ef4c1fd7e672e446a2f2d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:bA93Kd1uvduX6W4qqsrb2b+JLwl/JDQvikR+FcjHQ6A=",
+          "size": 48295066
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-croccloud_4.14.0-CROC2_linux_arm.zip",
-          "download_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_linux_arm.zip",
+          "download_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_linux_arm.zip",
           "shasum": "21e7871c6643998b767473bd14bdf42403ea967eff2bbd0040c26cd3e407a534",
-          "h1": "",
-          "size": 0
+          "h1": "h1:oOErQK+YezncXGEfSVbd4oa94BCF68dnQ84trIv3k1g=",
+          "size": 44449971
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-croccloud_4.14.0-CROC2_linux_arm64.zip",
-          "download_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_linux_arm64.zip",
+          "download_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_linux_arm64.zip",
           "shasum": "631ecbfd95c7372bfb3b2ea392437580a383689260b41ab490877234d4c14484",
-          "h1": "",
-          "size": 0
+          "h1": "h1:hAE+cl3OWIiIXAuGWY7BHN4QLoBoh/rNqstuHTyRaYc=",
+          "size": 44701725
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-croccloud_4.14.0-CROC2_windows_386.zip",
-          "download_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_windows_386.zip",
+          "download_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_windows_386.zip",
           "shasum": "1a8baabef2c53640b53d83ed4a61c0a9f47507735da0d3c348bcd61a35e8caf5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:V0wy3IH1tfMSqJexdLGp3EUnj+biK5araFwze4nInEs=",
+          "size": 45181910
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-croccloud_4.14.0-CROC2_windows_amd64.zip",
-          "download_url": "https://github.com/C2Devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_windows_amd64.zip",
+          "download_url": "https://github.com/c2devel/terraform-provider-croccloud/releases/download/v4.14.0-CROC2/terraform-provider-croccloud_4.14.0-CROC2_windows_amd64.zip",
           "shasum": "8fa3ba2d3e2e11e85fe4d72c18b6e9fae6b0645fe5182226184d1ef330f617b5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:6wyYRY/8B2jHnjWt++Qwwi7poxFBC+bBukPuXb54w9c=",
+          "size": 48411209
         }
       ]
     },
