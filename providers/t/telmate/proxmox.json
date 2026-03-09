@@ -2997,134 +2997,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-proxmox_2.9.9_darwin_amd64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_darwin_amd64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_darwin_amd64.zip",
           "shasum": "3d8c3d71cd89a8e1646d7f5be4b360dad15cfdf10e396425dde51aa01b556b5c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:wRNdqcGxRAREywoYvrTdS+SK07u2QQVIZ9Dk/8OX8c8=",
+          "size": 5595830
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-proxmox_2.9.9_darwin_arm64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_darwin_arm64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_darwin_arm64.zip",
           "shasum": "13a31f62729e08007439ab1b9fdfe74c761e213f0c3aab06bc451c89bdc01159",
-          "h1": "",
-          "size": 0
+          "h1": "h1:U407InU7qfvt5Q+9DqSmPgokTys3iRPnaFylR/jOOAc=",
+          "size": 5547853
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-proxmox_2.9.9_freebsd_386.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_freebsd_386.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_freebsd_386.zip",
           "shasum": "e1756079eda71d1ec38587a74e6bc820bfd46740b6aa57c4ae4568a6ba20cd12",
-          "h1": "",
-          "size": 0
+          "h1": "h1:P8RMRWMlphnMxhzV2nV92VKg2Po9QcrFIt731LoAvIA=",
+          "size": 5030264
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-proxmox_2.9.9_freebsd_amd64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_freebsd_amd64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_freebsd_amd64.zip",
           "shasum": "658ceec83f80b3c2f992535b6566a91f49bd980e0ebd1488e61aeb063466fa07",
-          "h1": "",
-          "size": 0
+          "h1": "h1:iLvFyyu66FJTXAW5rZzf01TOR1qzAeDxWybpHOEgtoY=",
+          "size": 5476717
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-proxmox_2.9.9_freebsd_arm.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_freebsd_arm.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_freebsd_arm.zip",
           "shasum": "e6efe3dfbd5c6f145bf4daa21e7d1e260440849b4b2bcbdcd79010d9d8964ffc",
-          "h1": "",
-          "size": 0
+          "h1": "h1:9i4KLfslnhksUk9isB1HVsgdTuatSljk8djTux2FpHg=",
+          "size": 5007328
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-proxmox_2.9.9_freebsd_arm64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_freebsd_arm64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_freebsd_arm64.zip",
           "shasum": "31662b4056c6856ea02e6f14bb6cbe3edb3097a90cd215c2c77f46aac401bcac",
-          "h1": "",
-          "size": 0
+          "h1": "h1:SczUH4+cnK+udjtMKzChxmM1Tp1K0XCZ2mi2ZOyHNg0=",
+          "size": 4961851
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-proxmox_2.9.9_linux_386.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_linux_386.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_linux_386.zip",
           "shasum": "aef9d52798198a13e14791bce7dec62b97387ce5ac782818aa251729d9207644",
-          "h1": "",
-          "size": 0
+          "h1": "h1:I0kATy/nLWED7s7DEh9lWSf8WomIz/T7prAuu/KQEBw=",
+          "size": 5031559
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-proxmox_2.9.9_linux_amd64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_linux_amd64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_linux_amd64.zip",
           "shasum": "01200b0a876f54768437a441918d18140bd35d8362537a6904303ccf4dcacc18",
-          "h1": "",
-          "size": 0
+          "h1": "h1:wYsx6S2JJhVAk2DKfEkKgchAwnG9tNOZ+37rpLd7XkM=",
+          "size": 5375588
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-proxmox_2.9.9_linux_arm.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_linux_arm.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_linux_arm.zip",
           "shasum": "a1c3679240ad8375501246651f10fe4265c45e118eabaa479e12feeeaa689fb8",
-          "h1": "",
-          "size": 0
+          "h1": "h1:idehhpJ5BDhvwns/uYQxrsErrlS8vb/0jO3OcHr7sFw=",
+          "size": 4998227
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-proxmox_2.9.9_linux_arm64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_linux_arm64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_linux_arm64.zip",
           "shasum": "029db13850dab46e16f00f8c9bb5d6dda3c4cd6484071e664b3c537494d95653",
-          "h1": "",
-          "size": 0
+          "h1": "h1:WXFuHbpIgPcARn03Tls7qCLQuqzobR1urcTeGuh24P0=",
+          "size": 4954558
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-proxmox_2.9.9_windows_386.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_windows_386.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_windows_386.zip",
           "shasum": "78d94953a2d880c6ea06449a8d679cc7e90f098fbb2e3e3ea1a8f43ed0797bc3",
-          "h1": "",
-          "size": 0
+          "h1": "h1:eicBhXAvxNPF3w0LOph4D96TJnKqYZQbldy1GZvWTkY=",
+          "size": 5235345
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-proxmox_2.9.9_windows_amd64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_windows_amd64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_windows_amd64.zip",
           "shasum": "0a199bdf2cedb17689b7891b33788a36bdaf902ce04f2996d18e8b2bb9961e6b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:th2hvNWzF11dMM1B7uHqsRAoPVJGdQF8hiVMF+3YdCU=",
+          "size": 5425060
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-proxmox_2.9.9_windows_arm.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_windows_arm.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_windows_arm.zip",
           "shasum": "04ac3514cd5c8a16beec6ef955063d59780bf10f86768b9cf5a4b2ecca916ffb",
-          "h1": "",
-          "size": 0
+          "h1": "h1:WCcmgbQ4O7lNumePEz7Y8hAFaDWPkbp1xcMmGc874jA=",
+          "size": 5115375
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-proxmox_2.9.9_windows_arm64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_windows_arm64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.9/terraform-provider-proxmox_2.9.9_windows_arm64.zip",
           "shasum": "599a475957a5b49720c344605f604c4c907d1798a3483f32f0daf634de19ebbf",
-          "h1": "",
-          "size": 0
+          "h1": "h1:50DjSntidFO8MGfqzRu/V164zBhEnKl3KCVPPoSILkY=",
+          "size": 5001936
         }
       ]
     },
@@ -3133,134 +3133,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-proxmox_2.9.8_darwin_amd64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_darwin_amd64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_darwin_amd64.zip",
           "shasum": "9763483bfd87a652b91a894fc898a2cd1ec9a3447e3e51c197f7928d90e411b5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:BzWY6mqvlINOdT6nPlDC4T8ScD/joaA18Ffql3vEAgI=",
+          "size": 5595967
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-proxmox_2.9.8_darwin_arm64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_darwin_arm64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_darwin_arm64.zip",
           "shasum": "a0f5b4c87f346f6c19372309eb28e0c4dee2efb74fa23f7213d5068a5b8b8886",
-          "h1": "",
-          "size": 0
+          "h1": "h1:GWP4i7HRiWi00tfGHLCn3d/qVKFOJZV48EqVOcNedDs=",
+          "size": 5547780
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-proxmox_2.9.8_freebsd_386.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_freebsd_386.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_freebsd_386.zip",
           "shasum": "f2d3cb56cb6dc596e49bd916fa424ad7ec6cdd9be613fb77d47831b3a84ffd06",
-          "h1": "",
-          "size": 0
+          "h1": "h1:iHMfF4eby1QoLGeKU5UAQVLOu++jgbXpJKX8SIan90Y=",
+          "size": 5030463
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-proxmox_2.9.8_freebsd_amd64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_freebsd_amd64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_freebsd_amd64.zip",
           "shasum": "6f8281ad30ef7c42a2879fb0507c01b1fcfdd71f9e970389fdac0e55846bb6e6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:vTYTcrM36DQWziogL7UD96wRCqFkLAN+kEsHN+sfCok=",
+          "size": 5476820
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-proxmox_2.9.8_freebsd_arm.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_freebsd_arm.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_freebsd_arm.zip",
           "shasum": "b0eadcc32bda8d12aadca4c3aa063e1cd900c7c0222ed26687fe2bda00ef5d16",
-          "h1": "",
-          "size": 0
+          "h1": "h1:7wDyflZVkYp2pBEANZI7P2GljHHYcVSfcO40Ch9cI+c=",
+          "size": 5007173
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-proxmox_2.9.8_freebsd_arm64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_freebsd_arm64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_freebsd_arm64.zip",
           "shasum": "dabd690f28d0e8102b52c7361dca53214111b27377b704a53215189a47190f63",
-          "h1": "",
-          "size": 0
+          "h1": "h1:XENjPUYIwBB28HuNxhhADf7pAltDoGkPPZxTE5B0i58=",
+          "size": 4961818
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-proxmox_2.9.8_linux_386.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_linux_386.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_linux_386.zip",
           "shasum": "ad85337a3933b7fbdcc228d73b395abe4834f33a29609d51a6725018daca1ebd",
-          "h1": "",
-          "size": 0
+          "h1": "h1:tITwSx61Q6FZYydUZzIliYoetmpIc5/3z69Du49mU9k=",
+          "size": 5031571
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-proxmox_2.9.8_linux_amd64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_linux_amd64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_linux_amd64.zip",
           "shasum": "4abe29402d4be31c7bc1fc16c777b6d4d4dd80acef1482aec7c70d26fc03b1ba",
-          "h1": "",
-          "size": 0
+          "h1": "h1:IDeh0NhGQ+U+cKXUMUM6iU/8VivZg/dqSAQqWM7eGII=",
+          "size": 5375814
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-proxmox_2.9.8_linux_arm.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_linux_arm.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_linux_arm.zip",
           "shasum": "70c8aee66e62b501bd7ef4258cbb268f01b1fd0c2eb639b8aac638eef9e88217",
-          "h1": "",
-          "size": 0
+          "h1": "h1:mXZCBNyDCXIA87UDBDXhaV4it+ogQtnu0Y21C3+1kP0=",
+          "size": 4998573
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-proxmox_2.9.8_linux_arm64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_linux_arm64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_linux_arm64.zip",
           "shasum": "0670791ffe46a1067387d8bc3801bc0db76f276cbe6374d6484956d1baa23336",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ZcQyi+lms8H0AxVfOUgEBUHhMLoqfmMYxlyTraHOZtw=",
+          "size": 4954942
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-proxmox_2.9.8_windows_386.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_windows_386.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_windows_386.zip",
           "shasum": "594454c9ceba968ca6f13a35e89c66f3299a3169177ea43b7f8f345e7a9aa767",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ADWrEjRYXOOMDEjBhDIu5tKR6pgxH5+QFnwNlxx1AIQ=",
+          "size": 5235267
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-proxmox_2.9.8_windows_amd64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_windows_amd64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_windows_amd64.zip",
           "shasum": "95ce78cc055c18cf6ab97466fba1db64ca3711dfc4e00640b97bca14d1d40a5e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:xfHOIE6LzUiF06kVCUOkFpc05q3BXuNn3k4EqctyK4w=",
+          "size": 5425282
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-proxmox_2.9.8_windows_arm.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_windows_arm.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_windows_arm.zip",
           "shasum": "aba25e60e012f42548f0e69e7e8ab2131d080861c98f8461ea52cd12db5717b4",
-          "h1": "",
-          "size": 0
+          "h1": "h1:y7B/Ox3NlClyYdTubPwagCPq+uZ1IkjLwe3NXs1a8qI=",
+          "size": 5115327
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-proxmox_2.9.8_windows_arm64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_windows_arm64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.8/terraform-provider-proxmox_2.9.8_windows_arm64.zip",
           "shasum": "8cbd38a9e2b7244ed4e91dc23d2d835d50a4a2fd3c9ab7d2cef646be104b1420",
-          "h1": "",
-          "size": 0
+          "h1": "h1:3GufPzZgQkJFtof7IqPi0BvIh5U2ZvZSqHDm6AaTrC4=",
+          "size": 5002109
         }
       ]
     },
@@ -3269,134 +3269,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-proxmox_2.9.7_darwin_amd64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_darwin_amd64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_darwin_amd64.zip",
           "shasum": "077848b747a778a22972e0b89e67f9657d8944537c0369b88506800bc4bf8a7e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:+zhuDAtaYB2inJAmobyQTHLZ0qco+tJaLiX88plcmvM=",
+          "size": 5594884
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-proxmox_2.9.7_darwin_arm64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_darwin_arm64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_darwin_arm64.zip",
           "shasum": "d2b968c44b16321723f106761d3c3eccf5991540b727b0b9da24d4a91e65532f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:YiCys050W+qbXRvRUdSj/esXGu5slJKy1WvvxrSoWAk=",
+          "size": 5546345
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-proxmox_2.9.7_freebsd_386.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_freebsd_386.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_freebsd_386.zip",
           "shasum": "2ce699610537831d92b55e9322825d53d99fdbd846685300836704afa3129c17",
-          "h1": "",
-          "size": 0
+          "h1": "h1:04GsmGVRGoWH2Mt/kZtDkm0Aqpy4NUh08u3iftHlep0=",
+          "size": 5029704
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-proxmox_2.9.7_freebsd_amd64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_freebsd_amd64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_freebsd_amd64.zip",
           "shasum": "67a1d5691010b703787b028616a40b5942f76acf9b598d24aa22c757926f47fa",
-          "h1": "",
-          "size": 0
+          "h1": "h1:3siKsFrbSijFl0MEcWq0ofSuQf1eBPx8l18dqa9yfYE=",
+          "size": 5475325
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-proxmox_2.9.7_freebsd_arm.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_freebsd_arm.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_freebsd_arm.zip",
           "shasum": "22e33bb7d8bea9f97ecb2b145c86995dcb2dd924ee88ed9ee5f27fef519f360f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:myJMMlPH72ULRhEfJmowt20WnguClNlrTkLf7/Eegeg=",
+          "size": 5004132
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-proxmox_2.9.7_freebsd_arm64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_freebsd_arm64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_freebsd_arm64.zip",
           "shasum": "43a91ff917f8a73510fe1a9928462b88723691886cfc32932a881e91114e3658",
-          "h1": "",
-          "size": 0
+          "h1": "h1:6IgyjOD/OOyYOdEhXowajHx2wrEIoW2z+kSH1SRlM5U=",
+          "size": 4957586
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-proxmox_2.9.7_linux_386.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_linux_386.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_linux_386.zip",
           "shasum": "afefafe24efb440cf76899a4ff4a2e32eda11d2cb8aaaee8a7c7e937d42ec0aa",
-          "h1": "",
-          "size": 0
+          "h1": "h1:cizG9xpJvcljMTZDkpuytUxKrOZAhyzuKcGrjuTOQmM=",
+          "size": 5029704
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-proxmox_2.9.7_linux_amd64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_linux_amd64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_linux_amd64.zip",
           "shasum": "690bbc5b49375a67ba2fa0f6ff4b1b4928665852107bd1540f1fe5692c431932",
-          "h1": "",
-          "size": 0
+          "h1": "h1:k9PE4Jkd9CBhyWf1cX7xli3uSf5+mZAu648DX/WShqI=",
+          "size": 5374693
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-proxmox_2.9.7_linux_arm.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_linux_arm.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_linux_arm.zip",
           "shasum": "8ba26638188ebb566610e41d89dc4e5452532d7aeb98a58347fc9633e0545109",
-          "h1": "",
-          "size": 0
+          "h1": "h1:XF61QomZOJ7I5C9yhzVd5XD77ihqJqt59Rhy47+5Ap8=",
+          "size": 4996052
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-proxmox_2.9.7_linux_arm64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_linux_arm64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_linux_arm64.zip",
           "shasum": "39b864d8793cfa91bbf44fc0826817b16854180c6eb7ea5e96d023d2a02081f7",
-          "h1": "",
-          "size": 0
+          "h1": "h1:jzqgNz4ZanQqPfLnX98YgA6F8Efcrb6tCI+mTm2WaEs=",
+          "size": 4953503
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-proxmox_2.9.7_windows_386.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_windows_386.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_windows_386.zip",
           "shasum": "cc501569f7bbc519298b548c76302e1e2d25eb61ac6659bb6d7ff58576e7cd6e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:wbmRpgv+GZJKEh9f68T7BlmLQjvZCAiU8tMeIHm+kuA=",
+          "size": 5232993
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-proxmox_2.9.7_windows_amd64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_windows_amd64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_windows_amd64.zip",
           "shasum": "5c76668c540289fbdb6253b692e6b0eb426f521c5d4b8b3232faab021c8b38a9",
-          "h1": "",
-          "size": 0
+          "h1": "h1:moQphlft2B5lBPaz+3xTJO0zDNK68w/pCtgoMOi7ld4=",
+          "size": 5421688
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-proxmox_2.9.7_windows_arm.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_windows_arm.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_windows_arm.zip",
           "shasum": "7665b36d0c0a24d5fafef1e0f9d359c03dc1eb61ce808756b54676e9babe9086",
-          "h1": "",
-          "size": 0
+          "h1": "h1:uBQd5/Bs74cyOof9BND2UzdnFsjQ0PHfRlu0bVA/h6c=",
+          "size": 5114117
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-proxmox_2.9.7_windows_arm64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_windows_arm64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.7/terraform-provider-proxmox_2.9.7_windows_arm64.zip",
           "shasum": "fc3716411345d706686a46b4c21540018438518bb839d639eb116954e7126837",
-          "h1": "",
-          "size": 0
+          "h1": "h1:4z+HOifRgE9E9/2NZvHYQ/FPr1+AY/Kzn2eefRMDNwM=",
+          "size": 4999606
         }
       ]
     },
@@ -3405,134 +3405,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-proxmox_2.9.6_darwin_amd64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_darwin_amd64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_darwin_amd64.zip",
           "shasum": "e82b28fb09e24fa82cb2374c3b7a0ecb884f0984cd8502201a0bc15a2347cefa",
-          "h1": "",
-          "size": 0
+          "h1": "h1:/+Tqd68cB+kxLeXcflpO1VA57prW2v0hXHcS97ckURQ=",
+          "size": 5501571
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-proxmox_2.9.6_darwin_arm64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_darwin_arm64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_darwin_arm64.zip",
           "shasum": "ba38f4877b86974cda2bd6e40bcc4bac5edcf0c7b3accfb63a0681b375fd6ea8",
-          "h1": "",
-          "size": 0
+          "h1": "h1:gSSC0EXeKEkw4Jnu5OksNKziuxBcHk91yq7Wsz692qM=",
+          "size": 5454407
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-proxmox_2.9.6_freebsd_386.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_freebsd_386.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_freebsd_386.zip",
           "shasum": "98599bbb30fdeda83cbaf654341d438a47c60c65c20f739c1b0f2d5edb4555f1",
-          "h1": "",
-          "size": 0
+          "h1": "h1:i+5JG1EZPaZxmn0xJuWVbPDFT17LI2BjLqIiIB1yHtg=",
+          "size": 4946109
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-proxmox_2.9.6_freebsd_amd64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_freebsd_amd64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_freebsd_amd64.zip",
           "shasum": "38c713bcbc3034632052627a474c11f41df39ca08995016631df3a7764ad37a3",
-          "h1": "",
-          "size": 0
+          "h1": "h1:WexGRPbtYDC4i5jHOdp/8pANmmh94RPwpgIIOApoNhc=",
+          "size": 5382623
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-proxmox_2.9.6_freebsd_arm.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_freebsd_arm.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_freebsd_arm.zip",
           "shasum": "155a4b68fb50956c4a61e51a833c2900a3fefef16bad8897a473e609d1d54969",
-          "h1": "",
-          "size": 0
+          "h1": "h1:KGxLX49//n/joyi0jxbMOcvdV7eAhd2myJTuq8GiS8A=",
+          "size": 4920395
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-proxmox_2.9.6_freebsd_arm64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_freebsd_arm64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_freebsd_arm64.zip",
           "shasum": "0e639f2e498b14f55103f42bef9055c00e2cc2d5b22188eca92089a16322a471",
-          "h1": "",
-          "size": 0
+          "h1": "h1:gVZ8VrX63Grm5yhQtEv1gMBXLzgnAUULd30CTt+elHs=",
+          "size": 4879643
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-proxmox_2.9.6_linux_386.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_linux_386.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_linux_386.zip",
           "shasum": "3ae67df652bdcdbe6f8995b223c779a25d4a7cab596969d9d9ca88c88cfc2928",
-          "h1": "",
-          "size": 0
+          "h1": "h1:KlY2LpfvlLA1oeUOPwSUGlyKLlKxNsvpvsAWVax+8Cs=",
+          "size": 4946160
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-proxmox_2.9.6_linux_amd64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_linux_amd64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_linux_amd64.zip",
           "shasum": "1e101c65604d4d16d7ecb402033f9354524bc935d9bc8d85bf737beb896a07c9",
-          "h1": "",
-          "size": 0
+          "h1": "h1:PLDNZwsKcdU5XJxaQIj86bSfDkcrViwTYcPZXOlesfQ=",
+          "size": 5285600
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-proxmox_2.9.6_linux_arm.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_linux_arm.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_linux_arm.zip",
           "shasum": "f59c44ac646d2f0d09e9392663146e273acf083a09e60b64163a64df036703f6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:A2+PZCu6B3G3u7yvDFxL3VbGnsZFQZfcOTR2kDA9B3Y=",
+          "size": 4915512
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-proxmox_2.9.6_linux_arm64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_linux_arm64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_linux_arm64.zip",
           "shasum": "760f47ce5137509e3ee6afe07e26b24a667a4dc058b10c22dfbe453fc1d4f7ec",
-          "h1": "",
-          "size": 0
+          "h1": "h1:zlDsQw7iyn5/iGmFB9upPsUsTdxFsCfBaDqXCjTRQ6I=",
+          "size": 4872253
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-proxmox_2.9.6_windows_386.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_windows_386.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_windows_386.zip",
           "shasum": "3fb2218a6682b4fd5d753e4a82ef5899884248de89cc9ab398432f74e5649037",
-          "h1": "",
-          "size": 0
+          "h1": "h1:yVhDJp1PvJ6ZZqcy45c+6oCZWSn1wwKxnjX+1QFakh4=",
+          "size": 5146594
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-proxmox_2.9.6_windows_amd64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_windows_amd64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_windows_amd64.zip",
           "shasum": "2d5497edd223802baae9830898a37f43c1b1e982979b96f3ac18d995cdb7e293",
-          "h1": "",
-          "size": 0
+          "h1": "h1:cKY2lgCErBOIzJTQSQOQIr4qxaQHeQTCuGQugOyhVXk=",
+          "size": 5333920
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-proxmox_2.9.6_windows_arm.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_windows_arm.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_windows_arm.zip",
           "shasum": "07d401a37a4efb752f6f61e330be57e43bbb1a2ae4fdd921ed523706cb24a978",
-          "h1": "",
-          "size": 0
+          "h1": "h1:4koE0lFl7o7FO0vN8TdwmVfDJGE4rYkNQNcwwWXo+O8=",
+          "size": 5024470
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-proxmox_2.9.6_windows_arm64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_windows_arm64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.6/terraform-provider-proxmox_2.9.6_windows_arm64.zip",
           "shasum": "02d8fbee87f3b183ec763b132df11786216bbda2c2630145181f67783850b73c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:AGfTw8f9LoKlujW8vHh3M3gS0ypAv5SOFP4uEG3HgNs=",
+          "size": 4917091
         }
       ]
     },
@@ -3541,134 +3541,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-proxmox_2.9.5_darwin_amd64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_darwin_amd64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_darwin_amd64.zip",
           "shasum": "5bbf16a1f42eb98dc1c25dc4878d39f5dd0c660be62bbf298887a5cdbd30e6ff",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Os/hDOu0hLYJojWpktnWd0PrBrbmjrIBkHxcxr0Q4aE=",
+          "size": 5501514
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-proxmox_2.9.5_darwin_arm64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_darwin_arm64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_darwin_arm64.zip",
           "shasum": "7e33617145f150d5f88a0d1d3fbb69579639505dac971a98f46b5abbd88b8b94",
-          "h1": "",
-          "size": 0
+          "h1": "h1:7CHXiX52C3YDsL7N3F183BqHYBg9a7E6YxPVpZsB15k=",
+          "size": 5454458
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-proxmox_2.9.5_freebsd_386.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_freebsd_386.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_freebsd_386.zip",
           "shasum": "318cb20c1f8fe6747f8661641986697646b68da62219a751c2f4f86e50345b50",
-          "h1": "",
-          "size": 0
+          "h1": "h1:xRfZJvJb7+3P+wnRUd0iIBKvr5aOAjvgmKv9gTST0WI=",
+          "size": 4946096
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-proxmox_2.9.5_freebsd_amd64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_freebsd_amd64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_freebsd_amd64.zip",
           "shasum": "0ccef98b2cdb15bc53fcb40d1ee49a47b3d46d396a4c495021b340a1b975b73e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:LXNlwouNcL7xwYB9mRBij7Y9eWVG+yUw7bsZUrRb/8s=",
+          "size": 5382487
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-proxmox_2.9.5_freebsd_arm.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_freebsd_arm.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_freebsd_arm.zip",
           "shasum": "ae344ec842f65d90ee70262539b451fd7574d99957c7501a2f935ba3f810ae13",
-          "h1": "",
-          "size": 0
+          "h1": "h1:XloQkL57l563FA+VEXc07l1M8Vkx0Pg0P5WNBSzejuY=",
+          "size": 4920307
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-proxmox_2.9.5_freebsd_arm64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_freebsd_arm64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_freebsd_arm64.zip",
           "shasum": "10db427ed7416eff83cf69da203426e543c3556e764dfe0669a08ec16663ad88",
-          "h1": "",
-          "size": 0
+          "h1": "h1:hPZb6EP6S6EAudJrcGB1r8++wmeW6S0ytWPO3qEJ51s=",
+          "size": 4879598
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-proxmox_2.9.5_linux_386.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_linux_386.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_linux_386.zip",
           "shasum": "4e8157b706b931a29097118e905a60905e7963319635932be718fd008ff7bafe",
-          "h1": "",
-          "size": 0
+          "h1": "h1:F8AXdgj80/ebxlPne+1Zgc77mpBmwodvVwZN8AKOlgA=",
+          "size": 4945871
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-proxmox_2.9.5_linux_amd64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_linux_amd64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_linux_amd64.zip",
           "shasum": "82132287b1a11ad72f2585a64feec59cfd838fc029beb08e55eaa450660a81e6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:z8znw1WxrdL/EiRIto4AGMCyAzWwuMY9gmSXnr0xQ4Q=",
+          "size": 5285700
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-proxmox_2.9.5_linux_arm.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_linux_arm.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_linux_arm.zip",
           "shasum": "2942208135d41be35d94a6b551e54498799db9636675d8867e9739e760d94301",
-          "h1": "",
-          "size": 0
+          "h1": "h1:X2x8KY3l2W7Ae66LukqrQLTujmJMTO7MjQH1RlCf/K4=",
+          "size": 4915501
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-proxmox_2.9.5_linux_arm64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_linux_arm64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_linux_arm64.zip",
           "shasum": "2e03455fb24c994cb78df691b09fd84a8fda0328c62a207b9d4c45fa9641303a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:7yXobkaX1tmLvD7q54EVjZdpGVdmDYzGHU3ldWyKt1E=",
+          "size": 4872776
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-proxmox_2.9.5_windows_386.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_windows_386.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_windows_386.zip",
           "shasum": "32daf65251e55e0e6cdc61f2e3cc8a3b155b3edeb4554925d31142f901bcf45d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:uCkSva0R193/zZAb42j+7CHj848D+VoRldDxSUwS7Bs=",
+          "size": 5146591
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-proxmox_2.9.5_windows_amd64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_windows_amd64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_windows_amd64.zip",
           "shasum": "37a3b208aed4ac0ba7b14e15f19c1b722a0931ca1eb2a3baadf959bdbb602ca5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:vj2frwkHmlCDapvMCXcCvQYpklhrcjNKQIK7pJxQ968=",
+          "size": 5334142
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-proxmox_2.9.5_windows_arm.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_windows_arm.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_windows_arm.zip",
           "shasum": "0f253f8346424c19db306b7a7c702b9ec1f8c9486b00eebc73c120a75a5d2d06",
-          "h1": "",
-          "size": 0
+          "h1": "h1:jNUW3PT7h8JSg8Ps/i5U396YIwcUeYIAAr378W09yHg=",
+          "size": 5024701
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-proxmox_2.9.5_windows_arm64.zip",
-          "download_url": "https://github.com/Telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_windows_arm64.zip",
+          "download_url": "https://github.com/telmate/terraform-provider-proxmox/releases/download/v2.9.5/terraform-provider-proxmox_2.9.5_windows_arm64.zip",
           "shasum": "d6c4060a264d82b56835308470d97b5cbb940582381ff73ab12b3a7db14baa0a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:lpbxEwdxlpYDyu7m2YBeDvn5W1yNvHNHq9w4BotJ2H4=",
+          "size": 4917159
         }
       ]
     },
