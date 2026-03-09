@@ -277,6 +277,149 @@
           "shasum": "95c0f3552938fd11e4c24fa46fb1ef7689e670a90e6b2782f659bea9d02ca1c1"
         }
       ]
+    },
+    {
+      "version": "1.3.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/camptocamp/terraform-provider-pass/releases/download/v1.3.0/terraform-provider-pass_v1.3.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/camptocamp/terraform-provider-pass/releases/download/v1.3.0/terraform-provider-pass_v1.3.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-pass_v1.3.0_darwin_amd64.zip",
+          "download_url": "https://github.com/camptocamp/terraform-provider-pass/releases/download/v1.3.0/terraform-provider-pass_v1.3.0_darwin_amd64.zip",
+          "shasum": "3675682411a1c24910216ebd97cba5b5f546b49c25a3ee768c16df1126be2ba1"
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-pass_v1.3.0_linux_amd64.zip",
+          "download_url": "https://github.com/camptocamp/terraform-provider-pass/releases/download/v1.3.0/terraform-provider-pass_v1.3.0_linux_amd64.zip",
+          "shasum": "8cb19ab8eebb4cb63a7b50bc471c5d1890a362f2a2823a865bd022ef59960cfd"
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-pass_v1.3.0_windows_amd64.zip",
+          "download_url": "https://github.com/camptocamp/terraform-provider-pass/releases/download/v1.3.0/terraform-provider-pass_v1.3.0_windows_amd64.zip",
+          "shasum": "26166b5a64d9bd9c2e433cae606896d230391c5667749a50c0aded655b39a940"
+        }
+      ]
+    }
+  ],
+  "versions_errors": [
+    {
+      "version": "1.2.1",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:05.338412636Z"
+    },
+    {
+      "version": "1.2.1",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:05.49410032Z"
+    },
+    {
+      "version": "1.2.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:05.241948977Z"
+    },
+    {
+      "version": "1.2.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:05.44450001Z"
+    },
+    {
+      "version": "1.1.1",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:05.264001459Z"
+    },
+    {
+      "version": "1.1.1",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:05.400586482Z"
+    },
+    {
+      "version": "1.1.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:05.222437536Z"
+    },
+    {
+      "version": "1.1.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:05.429232451Z"
+    },
+    {
+      "version": "1.0.1",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:05.174458776Z"
+    },
+    {
+      "version": "1.0.1",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:05.407159893Z"
+    },
+    {
+      "version": "1.0.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:05.264633482Z"
+    },
+    {
+      "version": "1.0.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:05.498716342Z"
+    },
+    {
+      "version": "0.1.4",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:05.191282241Z"
+    },
+    {
+      "version": "0.1.4",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:05.378963318Z"
+    },
+    {
+      "version": "0.1.3",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:05.191219052Z"
+    },
+    {
+      "version": "0.1.3",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:05.294033352Z"
+    },
+    {
+      "version": "0.1.2",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:05.147228843Z"
+    },
+    {
+      "version": "0.1.2",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:05.305608484Z"
+    },
+    {
+      "version": "0.1.1",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:05.122816328Z"
+    },
+    {
+      "version": "0.1.1",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:05.405298388Z"
+    },
+    {
+      "version": "0.1.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:05.106079493Z"
+    },
+    {
+      "version": "0.1.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:36:05.387886172Z"
     }
   ]
 }
