@@ -108,5 +108,17 @@
         }
       ]
     }
+  ],
+  "versions_errors": [
+    {
+      "version": "1.1.1",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:34:09.523164837Z"
+    },
+    {
+      "version": "1.1.1+serverless",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:34:09.530950501Z"
+    }
   ]
 }
