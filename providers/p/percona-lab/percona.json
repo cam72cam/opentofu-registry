@@ -957,134 +957,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-percona_0.9.3_darwin_amd64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_darwin_amd64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_darwin_amd64.zip",
           "shasum": "cf995d3927133c652461756cc99598e83c968c511f274fc5876b6f7a3ef0872a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:cXQrwOO1qTdQDfr5bd6BFktkrOOPMt7/a71g2fySBIw=",
+          "size": 11114534
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-percona_0.9.3_darwin_arm64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_darwin_arm64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_darwin_arm64.zip",
           "shasum": "f7473e6138780486cad1bd1aa4376a9199e17afd8018b27380ce96aff149355d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:VyNgjMG0K8IZIOacTf67XacvEhQbUHe5ts9rhaO5Za4=",
+          "size": 10952896
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-percona_0.9.3_freebsd_386.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_freebsd_386.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_freebsd_386.zip",
           "shasum": "023e432a2e76236e44b6f8ad38fcd6b81975fd2e1501206d24521464fe803d38",
-          "h1": "",
-          "size": 0
+          "h1": "h1:smg8wm1CAvk10+Uac+E5kwsbf+xFAuyMJDU+pEX4gvE=",
+          "size": 9891412
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-percona_0.9.3_freebsd_amd64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_freebsd_amd64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_freebsd_amd64.zip",
           "shasum": "b3ecdd289056b597b3151cb1055275a9f3b478ba4b1809390f80bc2a564f7e8b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:utNoxo4F6umB5u7ThXkReqxO6NFJUTB4N8WYotLX5Ho=",
+          "size": 10490137
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-percona_0.9.3_freebsd_arm.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_freebsd_arm.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_freebsd_arm.zip",
           "shasum": "6b027b82474787bb68bad41a01019eac418e89f27236c5f94b2aabaf3e2f3e9f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:VagQ1aYufqfAqu0b7dVEC52QSOEAA3xaQsF98L3zRMM=",
+          "size": 10004928
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-percona_0.9.3_freebsd_arm64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_freebsd_arm64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_freebsd_arm64.zip",
           "shasum": "b643bd837548ff75d1b0c29ccc39f72d463394af0de986fb1c8e40d251f220fb",
-          "h1": "",
-          "size": 0
+          "h1": "h1:gT+whNHzZoXJZ6k4p1tpg8tvdXvZs21YuR4BobgbBP8=",
+          "size": 9682451
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-percona_0.9.3_linux_386.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_linux_386.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_linux_386.zip",
           "shasum": "a9c61a87dc0ea245fb0601732d9b0b3bb84782230f161e7ae1835b8aced7af91",
-          "h1": "",
-          "size": 0
+          "h1": "h1:0FOVZdyYm4u+vaiGj1SGCEkSJ/JMBgvWLJ/bW4zr+wM=",
+          "size": 9907405
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-percona_0.9.3_linux_amd64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_linux_amd64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_linux_amd64.zip",
           "shasum": "b52c54eedf9440fb744dbec4c572651490526d66763c823051a919325a6fc376",
-          "h1": "",
-          "size": 0
+          "h1": "h1:dQWUct1tkfpefKwvM0Qfgax0KVKIdc5jHpZB1i5ZTpI=",
+          "size": 10491837
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-percona_0.9.3_linux_arm.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_linux_arm.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_linux_arm.zip",
           "shasum": "bf1d9785716ff4ee5ae8be0a53d404c40dfd7d5279d504daf000362ee59b6e42",
-          "h1": "",
-          "size": 0
+          "h1": "h1:QRSDGKVTE20yvxk3tmcomVH16zi72gDeJK/hvvVl/vI=",
+          "size": 10003321
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-percona_0.9.3_linux_arm64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_linux_arm64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_linux_arm64.zip",
           "shasum": "9fac25aab93cba8c2dffe0dc35403fbd6aacac1aad29b565c4058013b06d3de3",
-          "h1": "",
-          "size": 0
+          "h1": "h1:JooGHXisKYnOTvqdk1zAGoRcJL2UsDuENn4VWatGLAk=",
+          "size": 9684427
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-percona_0.9.3_windows_386.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_windows_386.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_windows_386.zip",
           "shasum": "00fc50088a572d2545d545019bdc14fe0cd2cd686f288d81e58ac2fbfe1298d1",
-          "h1": "",
-          "size": 0
+          "h1": "h1:vO4jjvNL529jPgPic6wFRiT4bdf5m20eGm6xDymZmjI=",
+          "size": 10336866
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-percona_0.9.3_windows_amd64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_windows_amd64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_windows_amd64.zip",
           "shasum": "59643eab56fb2a4058e715a7c44361783ed6d5f21cb29322eb803c29ef685cba",
-          "h1": "",
-          "size": 0
+          "h1": "h1:TJIRlCyDAPkHj5TpBFujRSSzxraMsBzQBwmuEYFRpt4=",
+          "size": 10601409
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-percona_0.9.3_windows_arm.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_windows_arm.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_windows_arm.zip",
           "shasum": "ef6db64447419697a2353bbf0a6b4224cd579afa6669172afa7862938e4fc6c8",
-          "h1": "",
-          "size": 0
+          "h1": "h1:IXZmZ8XnKdYaHy6+AKyE9rkXu3nFdf367s2Gqf95d4U=",
+          "size": 10248642
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-percona_0.9.3_windows_arm64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_windows_arm64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.3/terraform-provider-percona_0.9.3_windows_arm64.zip",
           "shasum": "40ccd1c8db7dcfab7f9c7f0421b4d3c38fb9edb8b15c7340296c33814c1be64e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:pP0kxiBmaHucTJ8wZ+qkifEpufsjfkmVpDWQn4v8hbY=",
+          "size": 9790108
         }
       ]
     },
@@ -1093,134 +1093,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-percona_0.9.2_darwin_amd64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_darwin_amd64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_darwin_amd64.zip",
           "shasum": "1e104a85fbfb57f2d9b8d30db99e8bccb7aaccd76e444d16e4810b32f292b241",
-          "h1": "",
-          "size": 0
+          "h1": "h1:v8KoYnRmNmNlEQg71xvAjZuFW8LmjGHANm7qTH26B38=",
+          "size": 10585546
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-percona_0.9.2_darwin_arm64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_darwin_arm64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_darwin_arm64.zip",
           "shasum": "94f3da0c5157e85c79809f7614d6647ae4b7c6d748e1b7ca4698a5883def2d16",
-          "h1": "",
-          "size": 0
+          "h1": "h1:IHNSpqPADvPm7O/nSkZpW9AEnoUPRU13fT3dMMKFS+k=",
+          "size": 10507291
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-percona_0.9.2_freebsd_386.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_freebsd_386.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_freebsd_386.zip",
           "shasum": "c107f534fad9b433108c58e63278cbe1e8ea7c46068ca212aafa0d4ece614bb2",
-          "h1": "",
-          "size": 0
+          "h1": "h1:aRZ7LcH2LJefJuGbvkPZ4LfqqxV1khNISq7FZEz02BU=",
+          "size": 9438912
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-percona_0.9.2_freebsd_amd64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_freebsd_amd64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_freebsd_amd64.zip",
           "shasum": "550c9929b4183b508289975830e54a92703f18415a804b974dd6e85ec69fcfbf",
-          "h1": "",
-          "size": 0
+          "h1": "h1:AoRjjRQT27dU+v+BNCDyBfC/rAaHpQQenpkAqoO6J5Y=",
+          "size": 9980896
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-percona_0.9.2_freebsd_arm.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_freebsd_arm.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_freebsd_arm.zip",
           "shasum": "b8041f849509f7080b58ac8b7ed671c6b3bcc1c494891bbc08d42c59335aa61b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:tJ+nvx5neGdUzHt+v9zbgM3y/UfSiHD31GV2qVd5/nc=",
+          "size": 9541232
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-percona_0.9.2_freebsd_arm64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_freebsd_arm64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_freebsd_arm64.zip",
           "shasum": "d94bfcc5474ec8c57737ada6d3b9f84ad1dcbb684b3710c36d6f4ccca6a77b9f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Ih2H0/59QUGocdPAQvHrPQeoMtxNZDalL0PJDoygSV8=",
+          "size": 9267310
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-percona_0.9.2_linux_386.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_linux_386.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_linux_386.zip",
           "shasum": "0ae72b9eaae2c2fa1b1a021864765183717d06880b58013570d397cec9d325bb",
-          "h1": "",
-          "size": 0
+          "h1": "h1:DiJlijOGrLNCBs+xFrdRvcVUYgBMDOJIdc1AaqlkSpk=",
+          "size": 9448307
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-percona_0.9.2_linux_amd64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_linux_amd64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_linux_amd64.zip",
           "shasum": "8a3c0d409681d988e0e9242bcb023d78c57d2a3a05e846d9f51aef1b414a1899",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Vq4/eUvxIWMBhCYRR1VgXKWFP/c0DJPXU9Zg55+Sr+c=",
+          "size": 9982236
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-percona_0.9.2_linux_arm.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_linux_arm.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_linux_arm.zip",
           "shasum": "26e1b5ad1712e262c039eb9a6b130df4abe3203e40e6af0e2138ee8cc1c6a3a7",
-          "h1": "",
-          "size": 0
+          "h1": "h1:JC79Y3LsF5aIwdfkbAIGz0xRAh6zLo15TihSAumcAbM=",
+          "size": 9537711
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-percona_0.9.2_linux_arm64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_linux_arm64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_linux_arm64.zip",
           "shasum": "79093f47ffab1c55b3843fb9d53d4f6bf2df5df95568e4b5afb4814484c6801b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:281DJV7Av9GBf9Ly7XCXSUhhoTe89onFJXT5NWGI2wc=",
+          "size": 9268818
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-percona_0.9.2_windows_386.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_windows_386.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_windows_386.zip",
           "shasum": "103c6a256cafafb7eba3619ff390f9f823d88327f3ed7b35df64d14a44e24712",
-          "h1": "",
-          "size": 0
+          "h1": "h1:iYgRkezHF2p4lr3vDcQPWrJyW3JEiyLs8S6edtNdZlQ=",
+          "size": 9792127
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-percona_0.9.2_windows_amd64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_windows_amd64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_windows_amd64.zip",
           "shasum": "46ed02f874087e2f94c923ecd16cb8f23b283b2031e09d1560c6025bdab9e91f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:MVYjfiFacOQRUD9Jmw7ecAX9uif7jMBOihM9fIRa9wo=",
+          "size": 10020419
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-percona_0.9.2_windows_arm.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_windows_arm.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_windows_arm.zip",
           "shasum": "7e8b15e17514d899ef081d78fc9bdf9b53032ef9eb8e113a2ced06db63e507e7",
-          "h1": "",
-          "size": 0
+          "h1": "h1:6TG62erkOt8Qmw/fhFlJ1Bef/Y/0tap7Bfh1eGuYzIc=",
+          "size": 9720896
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-percona_0.9.2_windows_arm64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_windows_arm64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.2/terraform-provider-percona_0.9.2_windows_arm64.zip",
           "shasum": "af6b1c4d137007b00d52b79e8fc3eaf0bf68d17e9eb0c4a7a8ccd7b373b44457",
-          "h1": "",
-          "size": 0
+          "h1": "h1:wDH8oxSjR1K/mqtB8G7hsIABNCrGP8RojWLZXu+0ScQ=",
+          "size": 9313733
         }
       ]
     },
@@ -1229,134 +1229,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-percona_0.9.1_darwin_amd64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_darwin_amd64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_darwin_amd64.zip",
           "shasum": "30548a9282cae9d3d26f5e0bbd95084b6b47d036d223c76dba416c6122c84f95",
-          "h1": "",
-          "size": 0
+          "h1": "h1:YKXCG2X5w9503aHa2gO5ouGJUrL5zZHdKMuQo7YHp6Q=",
+          "size": 10242916
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-percona_0.9.1_darwin_arm64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_darwin_arm64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_darwin_arm64.zip",
           "shasum": "d95d73fa470f349dc2aa08050f5e80c00100b62bd5e61502d8b9665b9b2f6602",
-          "h1": "",
-          "size": 0
+          "h1": "h1:FJXqoMxhGKeO/nmWVpmbQ7R6dj9OwZK9SFvI2fYgGKA=",
+          "size": 10137818
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-percona_0.9.1_freebsd_386.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_freebsd_386.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_freebsd_386.zip",
           "shasum": "f2bccfd21c2b18dd2bdfb4076dad0eaf620310a64a34b01ebd8c672ce7a00f7a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:NfAUEg7J/jFPdgDjU8v5GJbx9V00AS7dZ1P5Amm6V8k=",
+          "size": 9027353
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-percona_0.9.1_freebsd_amd64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_freebsd_amd64.zip",
           "shasum": "a2ee8cb179756109e4c29f5cb830e45aca43c47cb66cb384fdb42ef2afc1b397",
-          "h1": "",
-          "size": 0
+          "h1": "h1:WJ/ZXXx4tPOSqdrASg8Al3rWLonroVfaFJDyxP7Fd9Y=",
+          "size": 9740046
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-percona_0.9.1_freebsd_arm.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_freebsd_arm.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_freebsd_arm.zip",
           "shasum": "2d72061b4dddfb6cc7658f033ce6660aab45059d33355633ba55f3ff5d3ea7e9",
-          "h1": "",
-          "size": 0
+          "h1": "h1:t2adLEZvSK0dl/oPH/xhbA5vPrKjiU+FcikTDQY3utg=",
+          "size": 9158964
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-percona_0.9.1_freebsd_arm64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_freebsd_arm64.zip",
           "shasum": "7463ce4d7bde564b263c1e939b303eec05659a9c56d1a545382c4e615519ba62",
-          "h1": "",
-          "size": 0
+          "h1": "h1:yJMD7zkoWhz3g5Q/QKOGLMZdIgR1/AbxOYa8xsKn48Q=",
+          "size": 9004755
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-percona_0.9.1_linux_386.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_linux_386.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_linux_386.zip",
           "shasum": "8cf24d1f5b4a463b6ce7e58b6cd59e6d302a22d4f8e22e3900137757913257c4",
-          "h1": "",
-          "size": 0
+          "h1": "h1:4QvSO5cGIj/AT4ihAChpDqW8fbQnn9orTJOWNU7rRKA=",
+          "size": 9028847
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-percona_0.9.1_linux_amd64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_linux_amd64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_linux_amd64.zip",
           "shasum": "76b87cc53069cd36c748647f4e4bb7d817a1169b6e10e639b658aa74b25bef51",
-          "h1": "",
-          "size": 0
+          "h1": "h1:X0pG7Yc9Z4fV1uuSwKnoUhPe+Hy5ypo6H1pbs2aNcGw=",
+          "size": 9741820
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-percona_0.9.1_linux_arm.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_linux_arm.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_linux_arm.zip",
           "shasum": "e7598bb70cb248e49e191a6acd0fadc8be5892dd144a72723fc2d194d2799cf3",
-          "h1": "",
-          "size": 0
+          "h1": "h1:XrF9GwvKWRUGf3HwHCgtwNhCg4KNCybGaJK8i42A1EU=",
+          "size": 9161245
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-percona_0.9.1_linux_arm64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_linux_arm64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_linux_arm64.zip",
           "shasum": "9315afef3e664442a1447062ce89fdb260e6a114cdf0775768ca02978ef3efa5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:pifc3hBxd6FKE7zXDy1SFvnc3g+CYqupww2vkcHZsl8=",
+          "size": 9007769
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-percona_0.9.1_windows_386.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_windows_386.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_windows_386.zip",
           "shasum": "f7b4e726ff188d284de7f513721f1a529b3259200cbf7068b1dd5920b055ba9d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:KgQK45Khgm5wi6zgXFj2hKmulmbqoJEjzICgjXDlzc4=",
+          "size": 9404819
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-percona_0.9.1_windows_amd64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_windows_amd64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_windows_amd64.zip",
           "shasum": "43124f7feec1912795cafd87134e7f28de81048bd292c71b9611d91cd90ea117",
-          "h1": "",
-          "size": 0
+          "h1": "h1:22cbB5McYB3Hfhu978tVZJOxnf1LX2fKBTKcUSYS14s=",
+          "size": 9781624
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-percona_0.9.1_windows_arm.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_windows_arm.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_windows_arm.zip",
           "shasum": "4e593dc4c1e5a7ede5a7fb05ab95a60a49cdd05862a7ed8ff5dd6601d614f5b3",
-          "h1": "",
-          "size": 0
+          "h1": "h1:w6NDnIV4I4mSxjukVzAG58vXfPTlR865Mz44QZi5Lpk=",
+          "size": 9336811
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-percona_0.9.1_windows_arm64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_windows_arm64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.1/terraform-provider-percona_0.9.1_windows_arm64.zip",
           "shasum": "565d9f2fb27e822d709abdec9eee723c4d5879dd9eec68f58c24076a8c8bfb84",
-          "h1": "",
-          "size": 0
+          "h1": "h1:t3ftv4wIE1g3w5bJbxT7bn23ealgbXPH8YCkrEYjB50=",
+          "size": 9050469
         }
       ]
     },
@@ -1365,17 +1365,17 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.0/terraform-provider-percona_0.9.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.0/terraform-provider-percona_0.9.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.0/terraform-provider-percona_0.9.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.0/terraform-provider-percona_0.9.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-percona_0.9.0_linux_amd64.zip",
-          "download_url": "https://github.com/Percona-Lab/terraform-provider-percona/releases/download/v0.9.0/terraform-provider-percona_0.9.0_linux_amd64.zip",
+          "download_url": "https://github.com/percona-lab/terraform-provider-percona/releases/download/v0.9.0/terraform-provider-percona_0.9.0_linux_amd64.zip",
           "shasum": "b88e15565c92c447c9f53b053656dadfbceb4f26b8ca529848d4aa20884f4953",
-          "h1": "",
-          "size": 0
+          "h1": "h1:pofgYy+Gfhldl/I9s0O4fF9w6gLQuZZX3HEZupDrvjk=",
+          "size": 15518345
         }
       ]
     }
