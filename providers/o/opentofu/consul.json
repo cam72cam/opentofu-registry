@@ -2215,22 +2215,22 @@
       "shasums_signature_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v2.1.0/terraform-provider-consul_2.1.0_SHA256SUMS.sig",
       "targets": [
         {
-          "os": "linux",
-          "arch": "386",
-          "filename": "terraform-provider-consul_2.1.0_linux_386.zip",
-          "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v2.1.0/terraform-provider-consul_2.1.0_linux_386.zip",
-          "shasum": "3b5acf417c3d654cb6ad4b58e2d49e0088ce0a5d536ac6c982a0d333b9802a0b",
-          "h1": "",
-          "size": 0
-        },
-        {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-consul_2.1.0_darwin_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v2.1.0/terraform-provider-consul_2.1.0_darwin_amd64.zip",
           "shasum": "824890953f34019d75f523480076ed1870b33fa237b4de3aff99fd9c5116b97f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:vYGPSR62y/3I8SNYqsQUGajBdWCSRl7H15SveNyQYc4=",
+          "size": 5842672
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-consul_2.1.0_linux_386.zip",
+          "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v2.1.0/terraform-provider-consul_2.1.0_linux_386.zip",
+          "shasum": "3b5acf417c3d654cb6ad4b58e2d49e0088ce0a5d536ac6c982a0d333b9802a0b",
+          "h1": "h1:b8lJceD2lef5ud4te0cjnKnlqzr2+14fd6cBLABSR4c=",
+          "size": 5327966
         },
         {
           "os": "linux",
@@ -2238,8 +2238,8 @@
           "filename": "terraform-provider-consul_2.1.0_linux_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v2.1.0/terraform-provider-consul_2.1.0_linux_amd64.zip",
           "shasum": "bd9a6dbbe9b7e9b2a5b6d7ce8cd8477db6558dec77dca34cab0fb397ab14da8d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:XTaIFhpnYVh8rfHmblCcz/DafgZtFSor6cuROst/mH0=",
+          "size": 5565059
         },
         {
           "os": "windows",
@@ -2247,8 +2247,8 @@
           "filename": "terraform-provider-consul_2.1.0_windows_386.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v2.1.0/terraform-provider-consul_2.1.0_windows_386.zip",
           "shasum": "5f50c277499790e968f3540c6c11d282e785bf7d7f628065d4fe5fb6222a3611",
-          "h1": "",
-          "size": 0
+          "h1": "h1:KeVGKM+MMlMwPb/mbWRg8WYsoi0PGXTA2IlBWQMguaQ=",
+          "size": 5311098
         },
         {
           "os": "windows",
@@ -2256,8 +2256,8 @@
           "filename": "terraform-provider-consul_2.1.0_windows_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v2.1.0/terraform-provider-consul_2.1.0_windows_amd64.zip",
           "shasum": "80b49ce37bd8a21a717eefc9b4186046f5938b6bbd0a26c79fb62d3dca8021ff",
-          "h1": "",
-          "size": 0
+          "h1": "h1:nA76kjiNOHXbIiuCMrhYE3KjUZ07zYYZpN4ezVN7OXU=",
+          "size": 5575616
         }
       ]
     },
@@ -2270,22 +2270,22 @@
       "shasums_signature_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v2.0.0/terraform-provider-consul_2.0.0_SHA256SUMS.sig",
       "targets": [
         {
-          "os": "linux",
-          "arch": "386",
-          "filename": "terraform-provider-consul_2.0.0_linux_386.zip",
-          "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v2.0.0/terraform-provider-consul_2.0.0_linux_386.zip",
-          "shasum": "54315ba0dd0b985a3ca35410022bfe2b3710c57e8400b0cbdce06fbfa2ef938b",
-          "h1": "",
-          "size": 0
-        },
-        {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-consul_2.0.0_darwin_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v2.0.0/terraform-provider-consul_2.0.0_darwin_amd64.zip",
           "shasum": "8fc1d543a025c6af46bf861b16d63d2d13c82dd1ccd3ddd8033b49be18f80ab2",
-          "h1": "",
-          "size": 0
+          "h1": "h1:kOBbIFCLBJWLtM58ewQ+FCyUgi4FksbF8ybY8eyGDuw=",
+          "size": 5828368
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-consul_2.0.0_linux_386.zip",
+          "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v2.0.0/terraform-provider-consul_2.0.0_linux_386.zip",
+          "shasum": "54315ba0dd0b985a3ca35410022bfe2b3710c57e8400b0cbdce06fbfa2ef938b",
+          "h1": "h1:nWAesV3CesD0Bg4UhQ3Dv0o5Ur2Qu7fwotlIENyATLE=",
+          "size": 5314495
         },
         {
           "os": "linux",
@@ -2293,8 +2293,8 @@
           "filename": "terraform-provider-consul_2.0.0_linux_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v2.0.0/terraform-provider-consul_2.0.0_linux_amd64.zip",
           "shasum": "68c4731c307644ee59282fa5c45b5864ef92c53ca83fc6b333019ed3c4d8dba0",
-          "h1": "",
-          "size": 0
+          "h1": "h1:5bdLWe0o3zHXfd13OH3P3JR7p9yL3nmpn/l/k2tGNxo=",
+          "size": 5553137
         },
         {
           "os": "windows",
@@ -2302,8 +2302,8 @@
           "filename": "terraform-provider-consul_2.0.0_windows_386.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v2.0.0/terraform-provider-consul_2.0.0_windows_386.zip",
           "shasum": "b6c151ee4e850286445045e8c7d64c78dada71dd472488ce0c6bf67b06e3013f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:0StBApyDYslkaHFcu7vbGs9OThoMz74+UErNnT1Z1jo=",
+          "size": 5298379
         },
         {
           "os": "windows",
@@ -2311,8 +2311,8 @@
           "filename": "terraform-provider-consul_2.0.0_windows_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v2.0.0/terraform-provider-consul_2.0.0_windows_amd64.zip",
           "shasum": "a5272b6cc5fc31656e39769559ceb48cc78f42394ea18edf4b14c7c37a51ab62",
-          "h1": "",
-          "size": 0
+          "h1": "h1:LIjsgXKu5JPlok/zBFnNteH+U66RJKnmuELw2utMaqI=",
+          "size": 5559673
         }
       ]
     },
@@ -2330,8 +2330,8 @@
           "filename": "terraform-provider-consul_1.1.0_darwin_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v1.1.0/terraform-provider-consul_1.1.0_darwin_amd64.zip",
           "shasum": "8d26c7106aeacfb55960574030bc99faabc86df246bbccfad3613b83db98b5b3",
-          "h1": "",
-          "size": 0
+          "h1": "h1:yA22AdyLZm1R1zZqfEdlrbeO7kp+2KyjptPByZz0CNA=",
+          "size": 4139185
         },
         {
           "os": "linux",
@@ -2339,8 +2339,8 @@
           "filename": "terraform-provider-consul_1.1.0_linux_386.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v1.1.0/terraform-provider-consul_1.1.0_linux_386.zip",
           "shasum": "5d9db28f583503c55822de7ec4ec628676dfed411f559656195f894d07ff9592",
-          "h1": "",
-          "size": 0
+          "h1": "h1:xLfOUVDDeSPX3KYddjaJdpYVpmbNhrw6R0//PR79Q2Y=",
+          "size": 3667029
         },
         {
           "os": "linux",
@@ -2348,8 +2348,8 @@
           "filename": "terraform-provider-consul_1.1.0_linux_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v1.1.0/terraform-provider-consul_1.1.0_linux_amd64.zip",
           "shasum": "ca7c508a6b0715aec912a8425d0b0dc02f2e34efe60bf84e756ed59bbb4c056b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:T3vkdlwvvSpNV9HdNQxmX5pl1WmF44osAkSPwLWMA/4=",
+          "size": 3946257
         },
         {
           "os": "windows",
@@ -2357,8 +2357,8 @@
           "filename": "terraform-provider-consul_1.1.0_windows_386.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v1.1.0/terraform-provider-consul_1.1.0_windows_386.zip",
           "shasum": "35d755ebd5b1409c0cfa5ec894f257016b25a64a830f4d8b26307f4ad43eec20",
-          "h1": "",
-          "size": 0
+          "h1": "h1:/6YjlKpAqQfuPDsziVli8wnrZdW++AJx2yknqNvw9E4=",
+          "size": 3650865
         },
         {
           "os": "windows",
@@ -2366,8 +2366,8 @@
           "filename": "terraform-provider-consul_1.1.0_windows_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v1.1.0/terraform-provider-consul_1.1.0_windows_amd64.zip",
           "shasum": "4380f73fa79c5ced7a4925d45e5c3dd891b10b47ae0311735c9dd174b76dce97",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Jwnr9O7sK1iZcCH69LlLLz6//53+LqifCgHDt/GemBw=",
+          "size": 3944046
         }
       ]
     },
@@ -2385,17 +2385,8 @@
           "filename": "terraform-provider-consul_1.0.0_darwin_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v1.0.0/terraform-provider-consul_1.0.0_darwin_amd64.zip",
           "shasum": "59300d8d8dca1599d53894cf96de4ed3395a0cfe3fd15e42074a34100a293d2f",
-          "h1": "",
-          "size": 0
-        },
-        {
-          "os": "linux",
-          "arch": "amd64",
-          "filename": "terraform-provider-consul_1.0.0_linux_amd64.zip",
-          "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v1.0.0/terraform-provider-consul_1.0.0_linux_amd64.zip",
-          "shasum": "2a6b31a58f114ac3baf0993f8df974706978a58848a75660ad7e4eeeca34eed5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:D42z/eNjL9CwURHB3T9zuBljrbwm3fHZ0BU810ybcf4=",
+          "size": 4135318
         },
         {
           "os": "linux",
@@ -2403,8 +2394,17 @@
           "filename": "terraform-provider-consul_1.0.0_linux_386.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v1.0.0/terraform-provider-consul_1.0.0_linux_386.zip",
           "shasum": "54e3e8fa91879a692afe698e3dd294a92bb72ce6667214acfc7b4b7a079484f3",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Gf2xFomWUTl3sCp5TyniVKKOYSfBP/X15ouIAv5tzTs=",
+          "size": 3661292
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-consul_1.0.0_linux_amd64.zip",
+          "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v1.0.0/terraform-provider-consul_1.0.0_linux_amd64.zip",
+          "shasum": "2a6b31a58f114ac3baf0993f8df974706978a58848a75660ad7e4eeeca34eed5",
+          "h1": "h1:YZO30PS8HEI2PePikHZakjSLYK4iQ5tH/TILhG2Ilms=",
+          "size": 3941581
         },
         {
           "os": "windows",
@@ -2412,8 +2412,8 @@
           "filename": "terraform-provider-consul_1.0.0_windows_386.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v1.0.0/terraform-provider-consul_1.0.0_windows_386.zip",
           "shasum": "1d30736b5a32eda60f46a1c54d2e520747c404e84f18ed825f4dc109fe498621",
-          "h1": "",
-          "size": 0
+          "h1": "h1:E7q7fnRy7cdnixuCO0BttrDrr3ul+Ot0zeGH/iZ6LVc=",
+          "size": 3647386
         },
         {
           "os": "windows",
@@ -2421,8 +2421,8 @@
           "filename": "terraform-provider-consul_1.0.0_windows_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v1.0.0/terraform-provider-consul_1.0.0_windows_amd64.zip",
           "shasum": "d2be1872996f720286f950a8dfb386350d34f6f71b54c083d7029cf8c1c7808a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:mOKkCI7ne+RPvZhL99tVVKdF3pyt1SgEicViWN6Tswo=",
+          "size": 3939172
         }
       ]
     },
@@ -2435,22 +2435,22 @@
       "shasums_signature_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v0.1.0/terraform-provider-consul_0.1.0_SHA256SUMS.sig",
       "targets": [
         {
-          "os": "linux",
-          "arch": "386",
-          "filename": "terraform-provider-consul_0.1.0_linux_386.zip",
-          "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v0.1.0/terraform-provider-consul_0.1.0_linux_386.zip",
-          "shasum": "b2d582733836f2dcdd435d003bd80b6c8fbdc175c2767b30b136dd0d7b15a388",
-          "h1": "",
-          "size": 0
-        },
-        {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-consul_0.1.0_darwin_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v0.1.0/terraform-provider-consul_0.1.0_darwin_amd64.zip",
           "shasum": "9bb472ed15ffce5061e8813e561834fdbce1066357c1308676a6d3e34b0bac14",
-          "h1": "",
-          "size": 0
+          "h1": "h1:jyWBgUt+vUMm0ViUgAqOiYCjnjjzIsb+w8Omegqz9D4=",
+          "size": 3872335
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-consul_0.1.0_linux_386.zip",
+          "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v0.1.0/terraform-provider-consul_0.1.0_linux_386.zip",
+          "shasum": "b2d582733836f2dcdd435d003bd80b6c8fbdc175c2767b30b136dd0d7b15a388",
+          "h1": "h1:ofkJYwu2O/84bBOIylGGzN+Pw2m7x03iF6HhgvYpu6U=",
+          "size": 3436991
         },
         {
           "os": "linux",
@@ -2458,8 +2458,8 @@
           "filename": "terraform-provider-consul_0.1.0_linux_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v0.1.0/terraform-provider-consul_0.1.0_linux_amd64.zip",
           "shasum": "83e0bbb03f0e22aa02cf771a5a4caff5e5edec66ad16c012ef11bfca6f08d2c3",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Hby60s2K0Tngg/n18D5FBKv+KV+4qxmSEmx/YPY5aM8=",
+          "size": 3688390
         },
         {
           "os": "windows",
@@ -2467,8 +2467,8 @@
           "filename": "terraform-provider-consul_0.1.0_windows_386.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v0.1.0/terraform-provider-consul_0.1.0_windows_386.zip",
           "shasum": "c84786b75b9dadac65363b6124b988415d1b7b4bbc1d75e71131c7a9c2bb0e6b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:iuLT3//3GnwrPwNgQ+cJLiPRHYTfew2c2QQnA583ylc=",
+          "size": 3425114
         },
         {
           "os": "windows",
@@ -2476,8 +2476,8 @@
           "filename": "terraform-provider-consul_0.1.0_windows_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-consul/releases/download/v0.1.0/terraform-provider-consul_0.1.0_windows_amd64.zip",
           "shasum": "34eedc6d26f50326b31173a372352bb1cb397b2ace531ee146cdd88d3974ab65",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ITYfC3QXfavNi5tJq8p8eNJLwY7nHw/Pok21NF0gB0o=",
+          "size": 3688642
         }
       ]
     }
