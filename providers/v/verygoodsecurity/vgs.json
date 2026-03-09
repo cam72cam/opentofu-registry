@@ -447,6 +447,120 @@
           "shasum": "e80dcb69b0353001b10656224d0b5d881e86b277154da71667ec6a8aaec0f2f6"
         }
       ]
+    },
+    {
+      "version": "0.1.1",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/verygoodsecurity/terraform-provider-vgs/releases/download/v0.1.1/terraform-provider-vgs_v0.1.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/verygoodsecurity/terraform-provider-vgs/releases/download/v0.1.1/terraform-provider-vgs_v0.1.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-vgs_v0.1.1_darwin_amd64.zip",
+          "download_url": "https://github.com/verygoodsecurity/terraform-provider-vgs/releases/download/v0.1.1/terraform-provider-vgs_v0.1.1_darwin_amd64.zip",
+          "shasum": "353a50bac039dd2277a45a9702bcd454c47f2dbfc8ec39ec81ec711cc5fbe9c5"
+        },
+        {
+          "os": "darwin",
+          "arch": "arm",
+          "filename": "terraform-provider-vgs_v0.1.1_darwin_arm.zip",
+          "download_url": "https://github.com/verygoodsecurity/terraform-provider-vgs/releases/download/v0.1.1/terraform-provider-vgs_v0.1.1_darwin_arm.zip",
+          "shasum": "e477b24e172af073b0065753269fb5cab022c613efed6a7d30dfb3ec65117aad"
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-vgs_v0.1.1_freebsd_386.zip",
+          "download_url": "https://github.com/verygoodsecurity/terraform-provider-vgs/releases/download/v0.1.1/terraform-provider-vgs_v0.1.1_freebsd_386.zip",
+          "shasum": "d52367313e61977f507a9bbbfea39bdda73854799a46614342f213268348b2bc"
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-vgs_v0.1.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/verygoodsecurity/terraform-provider-vgs/releases/download/v0.1.1/terraform-provider-vgs_v0.1.1_freebsd_amd64.zip",
+          "shasum": "01f345cf1fc9a57c66eece3338a06197c874cec3b70daec12d1f3f8114600562"
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-vgs_v0.1.1_freebsd_arm.zip",
+          "download_url": "https://github.com/verygoodsecurity/terraform-provider-vgs/releases/download/v0.1.1/terraform-provider-vgs_v0.1.1_freebsd_arm.zip",
+          "shasum": "354016e3cc145cb78cea4c9efed0b4b9f7b40375b406dc4fdb62b946f74cc439"
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-vgs_v0.1.1_linux_386.zip",
+          "download_url": "https://github.com/verygoodsecurity/terraform-provider-vgs/releases/download/v0.1.1/terraform-provider-vgs_v0.1.1_linux_386.zip",
+          "shasum": "c0cfe2f381ec082125896f178c49d355a676736482b58ab918d204f220f438d8"
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-vgs_v0.1.1_linux_amd64.zip",
+          "download_url": "https://github.com/verygoodsecurity/terraform-provider-vgs/releases/download/v0.1.1/terraform-provider-vgs_v0.1.1_linux_amd64.zip",
+          "shasum": "b04035dcc3f3aa7c731bfb8bd46271db77450cb86676947e59ff5fee4113a20e"
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-vgs_v0.1.1_linux_arm.zip",
+          "download_url": "https://github.com/verygoodsecurity/terraform-provider-vgs/releases/download/v0.1.1/terraform-provider-vgs_v0.1.1_linux_arm.zip",
+          "shasum": "f03f81a5423ceab505e5872bc0de5c80fd0533488370c049345b67ae9725f40b"
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-vgs_v0.1.1_windows_386.zip",
+          "download_url": "https://github.com/verygoodsecurity/terraform-provider-vgs/releases/download/v0.1.1/terraform-provider-vgs_v0.1.1_windows_386.zip",
+          "shasum": "175d30bc1629552dfc50459972e5fa6d189bc6bcc8aef74a7923ba4ad2d56ee2"
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-vgs_v0.1.1_windows_amd64.zip",
+          "download_url": "https://github.com/verygoodsecurity/terraform-provider-vgs/releases/download/v0.1.1/terraform-provider-vgs_v0.1.1_windows_amd64.zip",
+          "shasum": "632bb2a7159d12316dd6184261425116c1ef4a1c4c5a42c2ca7b7b676aafc76e"
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-vgs_v0.1.1_windows_arm.zip",
+          "download_url": "https://github.com/verygoodsecurity/terraform-provider-vgs/releases/download/v0.1.1/terraform-provider-vgs_v0.1.1_windows_arm.zip",
+          "shasum": "da612b7dd9a34f1da156e65dfb4d140ed414ac221e2fbd70187477e3acb069a2"
+        }
+      ]
+    }
+  ],
+  "versions_errors": [
+    {
+      "version": "0.2.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:35:22.996300351Z"
+    },
+    {
+      "version": "0.1.5",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:35:23.01342804Z"
+    },
+    {
+      "version": "0.1.4",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:35:22.934649014Z"
+    },
+    {
+      "version": "0.1.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:35:22.912430289Z"
+    },
+    {
+      "version": "0.1.0",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:35:22.983825076Z"
     }
   ]
 }
