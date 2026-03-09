@@ -1,6 +1,142 @@
 {
   "versions": [
     {
+      "version": "1.0.12",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/globalfishingwatch/terraform-provider-gfw/releases/download/v1.0.12/terraform-provider-gfw_1.0.12_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/globalfishingwatch/terraform-provider-gfw/releases/download/v1.0.12/terraform-provider-gfw_1.0.12_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-gfw_1.0.12_darwin_amd64.zip",
+          "download_url": "https://github.com/globalfishingwatch/terraform-provider-gfw/releases/download/v1.0.12/terraform-provider-gfw_1.0.12_darwin_amd64.zip",
+          "shasum": "cf12cac5ce1f6a80b909649d4394e729849c5007f7b440180be9d24a2f78d977",
+          "h1": "h1:W8PPnJixfEAsuroLgatxef0j8Ym333xhXfXoJAN9HOE=",
+          "size": 5569926
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-gfw_1.0.12_darwin_arm64.zip",
+          "download_url": "https://github.com/globalfishingwatch/terraform-provider-gfw/releases/download/v1.0.12/terraform-provider-gfw_1.0.12_darwin_arm64.zip",
+          "shasum": "aa1d935758fa9d2e0a4cfea1da68148054531950d83b174d7ff035d0bdaafa87",
+          "h1": "h1:eRskFZlhU8vUC9WbIz8ptRtu+D/ecemEz2XTpS9f7UU=",
+          "size": 5360325
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-gfw_1.0.12_freebsd_386.zip",
+          "download_url": "https://github.com/globalfishingwatch/terraform-provider-gfw/releases/download/v1.0.12/terraform-provider-gfw_1.0.12_freebsd_386.zip",
+          "shasum": "eddc2756348439fcc6fdff682399aaf0055b0edcf2ec71b2f4190ba89c3927bc",
+          "h1": "h1:AYTPp4rWinjSR+IjebI29NtFc0lFmwJSVUpri3NK1lU=",
+          "size": 5105213
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-gfw_1.0.12_freebsd_amd64.zip",
+          "download_url": "https://github.com/globalfishingwatch/terraform-provider-gfw/releases/download/v1.0.12/terraform-provider-gfw_1.0.12_freebsd_amd64.zip",
+          "shasum": "de0f333d7318c8f3d0a2f7fbee64a1007b452c1950222b1bcef20f887cdfeedd",
+          "h1": "h1:wZr4vV5biLrU04Ptqmge1tUYaPSXVkbCaLdcVxS8zQ8=",
+          "size": 5363624
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-gfw_1.0.12_freebsd_arm.zip",
+          "download_url": "https://github.com/globalfishingwatch/terraform-provider-gfw/releases/download/v1.0.12/terraform-provider-gfw_1.0.12_freebsd_arm.zip",
+          "shasum": "a51db1824a10479d931dfc61476a9945092291b0b86f6aab65e1cecfb88db749",
+          "h1": "h1:dbhjIP54xYwDZ7XvSS4oIzWFLxSIdTqOSoYBRbuBRYo=",
+          "size": 5068245
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-gfw_1.0.12_freebsd_arm64.zip",
+          "download_url": "https://github.com/globalfishingwatch/terraform-provider-gfw/releases/download/v1.0.12/terraform-provider-gfw_1.0.12_freebsd_arm64.zip",
+          "shasum": "2f3ca1321a8b2ab7ba6bc1940c6baebd8241fbdb2e596f82d994b0826f7252a0",
+          "h1": "h1:WJONYoPA9EfCtYB7KPDvuw4zEf5H9xTOUvkhe69tBzc=",
+          "size": 4910934
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-gfw_1.0.12_linux_386.zip",
+          "download_url": "https://github.com/globalfishingwatch/terraform-provider-gfw/releases/download/v1.0.12/terraform-provider-gfw_1.0.12_linux_386.zip",
+          "shasum": "22e0245e3a2b50a61fa01ea5f6301fe933e243664848324b1f482d8c774193f3",
+          "h1": "h1:5Mte6k5k3eke9glrIVA80tGbdHnxRSi1TSYV/8PwE6Q=",
+          "size": 5106143
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-gfw_1.0.12_linux_amd64.zip",
+          "download_url": "https://github.com/globalfishingwatch/terraform-provider-gfw/releases/download/v1.0.12/terraform-provider-gfw_1.0.12_linux_amd64.zip",
+          "shasum": "0bf3639e734fa14bd4293defe7652fdd7d375a9a0c7613939c25a5d2fff31bd5",
+          "h1": "h1:gpqgZjjMKLZ9J/znICSkE44GwrZvd20xW5680kRVmwU=",
+          "size": 5360768
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-gfw_1.0.12_linux_arm.zip",
+          "download_url": "https://github.com/globalfishingwatch/terraform-provider-gfw/releases/download/v1.0.12/terraform-provider-gfw_1.0.12_linux_arm.zip",
+          "shasum": "31092a31727c9db034fe73ad0ee76cf6f577770a6b8b55cb81a48df22c946f1d",
+          "h1": "h1:C2uKcsG9YoTLlvAfWf/n4e08kbiUpC7Y5rBwp4FSrAw=",
+          "size": 5063180
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-gfw_1.0.12_linux_arm64.zip",
+          "download_url": "https://github.com/globalfishingwatch/terraform-provider-gfw/releases/download/v1.0.12/terraform-provider-gfw_1.0.12_linux_arm64.zip",
+          "shasum": "8bcec25f6f96a33451fd3d429de17c98a234e5fe4c1ba95ae297d1a1d674e0ec",
+          "h1": "h1:G/ax5bs96BPy5D96cpWQ5ISfnbbtkTDUq0V5Y1daKN8=",
+          "size": 4906619
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-gfw_1.0.12_windows_386.zip",
+          "download_url": "https://github.com/globalfishingwatch/terraform-provider-gfw/releases/download/v1.0.12/terraform-provider-gfw_1.0.12_windows_386.zip",
+          "shasum": "20f8920508d55670d19fde2d136be6a0b732b61a9ba223d6cfb0442a0f494bfa",
+          "h1": "h1:OBfG4IB++NOq9XxYWgcxou/PV9sOrWYcZpHIJA4NB60=",
+          "size": 5270743
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-gfw_1.0.12_windows_amd64.zip",
+          "download_url": "https://github.com/globalfishingwatch/terraform-provider-gfw/releases/download/v1.0.12/terraform-provider-gfw_1.0.12_windows_amd64.zip",
+          "shasum": "342255f15525fbe0bf759c6e5c6bfe6af81be16add1882b5255f62dada65ca87",
+          "h1": "h1:8Hh4mIoks/N7JxUCcY/b6k/t6HjypGTtlqJebvDLNrE=",
+          "size": 5371384
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-gfw_1.0.12_windows_arm.zip",
+          "download_url": "https://github.com/globalfishingwatch/terraform-provider-gfw/releases/download/v1.0.12/terraform-provider-gfw_1.0.12_windows_arm.zip",
+          "shasum": "78c0ab7204fba5957b3afb458d618d582f92cf33863bb33b334e8c5bf2652f30",
+          "h1": "h1:PysJhCNfTlSmB+O40e4xCiOcPetoRS21TETQnyD6Bpk=",
+          "size": 5128152
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-gfw_1.0.12_windows_arm64.zip",
+          "download_url": "https://github.com/globalfishingwatch/terraform-provider-gfw/releases/download/v1.0.12/terraform-provider-gfw_1.0.12_windows_arm64.zip",
+          "shasum": "cd1b6e7844efaaeebf335666948aede12af4046e84e70cc2b85d4c85b686f143",
+          "h1": "h1:CeclPDhf9GM89JHolYs+KxMYFZBofdi53hy7hUEm5ZM=",
+          "size": 4922003
+        }
+      ]
+    },
+    {
       "version": "1.0.11",
       "protocols": [
         "5.0"
@@ -10075,6 +10211,11 @@
       "version": "1.0.3",
       "message": "checksums not found in release",
       "utc_time": "2026-03-09T12:54:52.777629812Z"
+    },
+    {
+      "version": "1.0.3",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T16:14:52.403313618Z"
     }
   ]
 }
