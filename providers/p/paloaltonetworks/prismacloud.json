@@ -1501,134 +1501,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.5.2_darwin_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_darwin_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_darwin_amd64.zip",
           "shasum": "0304ab35403326bf1a72c9432de2f7355c789e469c856b8bae5101d95502b5cf",
-          "h1": "",
-          "size": 0
+          "h1": "h1:gCFW3a+jr/5FRvOWpcRVUcmcgCZRUgQNa7x1NulbP94=",
+          "size": 5564027
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.5.2_darwin_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_darwin_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_darwin_arm64.zip",
           "shasum": "4ef821d55841b48831a8a762a092694d635a1d2d4750dc7c7caf5702210e9b0b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:AaogZum5aoL2TtY2Rihx+v9ZWL/YwzoQlyML0XXmcPA=",
+          "size": 5488189
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.5.2_freebsd_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_freebsd_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_freebsd_386.zip",
           "shasum": "5ec57c703549f0fbc03160875c8658eba751bd54f9471dfec92af0ccc24c6b0e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:mZVg9h+W8sLxHtaBbICim7bqZRRusycEzmpGDhWj6tc=",
+          "size": 4954044
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.5.2_freebsd_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_freebsd_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_freebsd_amd64.zip",
           "shasum": "d45f773aeeead3c16ad4498db39cd0975c170913771c74e244d939afbba377f6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:8vlChcXAQUIg8bz6GmXx5dtYf26C+mcRbf8A8v6xaHs=",
+          "size": 5449277
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.5.2_freebsd_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_freebsd_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_freebsd_arm.zip",
           "shasum": "e1f12b88a9679d63fa31dbe03773182bf5847222b923bb45692d47de752c4d86",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Tl5egRD9bv4IrUWuZfslNOuxlO58aKJYauXwSbA2hpc=",
+          "size": 4980708
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.5.2_freebsd_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_freebsd_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_freebsd_arm64.zip",
           "shasum": "b73c88f8085bec21a9cb440705e736a47d5b115e3160537477a302fdfb2f39bd",
-          "h1": "",
-          "size": 0
+          "h1": "h1:0j/0BAoEcl2zbhtoZxcxEcmFZTtFeAKP4ms1pdgVNyI=",
+          "size": 4926092
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.5.2_linux_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_linux_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_linux_386.zip",
           "shasum": "63327beb8f4b3ab8fb90719598fbf65899e21655897d5ed600057b28bd181a07",
-          "h1": "",
-          "size": 0
+          "h1": "h1:akrQLbEXXQiP1RN6VwZ7wECyBCfPFgk5rigJjx31oyQ=",
+          "size": 4957444
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.5.2_linux_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_linux_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_linux_amd64.zip",
           "shasum": "2d5a119666780763a2ae4d7890a33fc8e959506a843821282249c56405b73f11",
-          "h1": "",
-          "size": 0
+          "h1": "h1:W2B+ygZzsbh7jLa/hxiDG9zZM0LE5fMJ6yEMw2UNEtA=",
+          "size": 5358839
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.5.2_linux_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_linux_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_linux_arm.zip",
           "shasum": "0e393f0319a0678aafc88c9046c469cda83899851aea5e0e3232601102de0775",
-          "h1": "",
-          "size": 0
+          "h1": "h1:DF1HWfXrj7gy7GyVTXZgJ1+7jAVu/W23I1Dn54X1pxI=",
+          "size": 4978629
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.5.2_linux_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_linux_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_linux_arm64.zip",
           "shasum": "dd5b7750032ec501cc362bcc8c1eb3518599ca50ac2361338344f0f2c33ad4cd",
-          "h1": "",
-          "size": 0
+          "h1": "h1:VMB5aLi3PPpTaW2vFkm33fuw828uL5g4Jmt10OFzDqw=",
+          "size": 4925213
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.5.2_windows_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_windows_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_windows_386.zip",
           "shasum": "8e461319233abe17ecea96535c860630d27c6764181a69cee920756adebde56a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:nbg7MH5cnq5hTdJt0eVrK4VVJfyBGYxZStD3fJLU59w=",
+          "size": 5185132
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.5.2_windows_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_windows_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_windows_amd64.zip",
           "shasum": "d29c20b1a17f316eaf8a64a4503d8b02000cf7e4f2c2d0b4e7edd22a75fe5712",
-          "h1": "",
-          "size": 0
+          "h1": "h1:kEy4Ors853JcvbjjJ83xNBMAOlrKMInniE6Bhsiqcd8=",
+          "size": 5413260
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.5.2_windows_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_windows_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_windows_arm.zip",
           "shasum": "b4e31ab2f808f21fa7fc8e30a7de5378f3b42c76753042a1a8b6f2c54dbc4dce",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Jr18ebDVb7Sdf9wthQ5XybuY/rTgCXib8V4AFKhTMrw=",
+          "size": 5096553
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.5.2_windows_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_windows_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.2/terraform-provider-prismacloud_1.5.2_windows_arm64.zip",
           "shasum": "d0243480197d937f3c3aa567a344685f625970b5b8dfcb0540a00be33a40c71d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:jUHoAQF/wF+LnQfCnhSbGm3JlwX5GuEQ8gouQtV4YJ8=",
+          "size": 4976028
         }
       ]
     },
@@ -1637,134 +1637,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.5.1_darwin_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_darwin_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_darwin_amd64.zip",
           "shasum": "7c780356bb8b6d4211c66631eedf711f308bb104eb73c26727e4245e48aa8e5f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:1ep7PjTiohKmjiDEwj19OILBu77JjfhUHBNMxKx1x+Y=",
+          "size": 5550013
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.5.1_darwin_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_darwin_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_darwin_arm64.zip",
           "shasum": "7fad10c010f34a3ee0ac433e6a36c76181a533290f4ca3f2fcfc99f4e5ae5c13",
-          "h1": "",
-          "size": 0
+          "h1": "h1:JX1aeLkehCpC1/umhNGBD1NDQJ98BNSlyVDvevRWr50=",
+          "size": 5478446
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.5.1_freebsd_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_freebsd_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_freebsd_386.zip",
           "shasum": "a7b8651e959d0ca3642449c1f1e97af80562000920f74a6832acbfbf825199d7",
-          "h1": "",
-          "size": 0
+          "h1": "h1:8NKVkzV5o8Xn32kemsT4iOTAXG07M0dQr/wbBLtj1uk=",
+          "size": 4948563
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.5.1_freebsd_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_freebsd_amd64.zip",
           "shasum": "68496a21088006101c538897cb7b8401acea9cb258fb61b93b66d9c2f525d06e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:9kFXbwnCZTtuo5zqt95rOLmYfdPF1iNa0eVYX093a+Q=",
+          "size": 5440400
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.5.1_freebsd_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_freebsd_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_freebsd_arm.zip",
           "shasum": "6b676b6d91587e9154be771f740e9e0bfdd2a8c2d7d46a1b0ae5b26921b449d9",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ZGB7Z0Kp5Oa11yDMiyAuIoFBmD2wgctEchUFO/jXYv4=",
+          "size": 4972947
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.5.1_freebsd_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_freebsd_arm64.zip",
           "shasum": "ea548514131f0e8705af50fdf44bff42d810f7d26ef519e24d0779c23cb35493",
-          "h1": "",
-          "size": 0
+          "h1": "h1:lgeAulfLFLGAP1IEnzynyC2uuDrZss6AF/QmkxzPoPA=",
+          "size": 4916954
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.5.1_linux_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_linux_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_linux_386.zip",
           "shasum": "0bc4e7ebd1a96db26b1beaefb43eeabc695fbf520c51896618b245ca261963fe",
-          "h1": "",
-          "size": 0
+          "h1": "h1:+GsGw6SqFKPTLGSUN7u9JBHKOU6MCcgCr0HpYvC+9mk=",
+          "size": 4950376
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.5.1_linux_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_linux_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_linux_amd64.zip",
           "shasum": "e0dcc63883cab85df4f4aae44e4a779511bc4572169b1d107b14a31545a7b741",
-          "h1": "",
-          "size": 0
+          "h1": "h1:vnOPzQ6xdI8x0v9phdLCb2UycNMrBNvwTKy3dWSVTmk=",
+          "size": 5347768
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.5.1_linux_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_linux_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_linux_arm.zip",
           "shasum": "f2d5ac0444a1de6ac2267b43b53bb2a34157084101ad7f1c715458224c2470d8",
-          "h1": "",
-          "size": 0
+          "h1": "h1:lMiC53e8fu3GQBbWJGQ4bPGgsSCaucKmpdB/gptUheQ=",
+          "size": 4971647
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.5.1_linux_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_linux_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_linux_arm64.zip",
           "shasum": "1484fb84d185df8278a2cd8c2a502092279a2be37317718045d984759fe71762",
-          "h1": "",
-          "size": 0
+          "h1": "h1:6esEJv2Q7xU3ZTMXQ0w4g3M8uxzT2TqR/KdAAiNfYMs=",
+          "size": 4916325
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.5.1_windows_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_windows_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_windows_386.zip",
           "shasum": "eeb70d03918b3ec79b6681a250dea8f29f93c0b9514602ec314b05a9e27aecf9",
-          "h1": "",
-          "size": 0
+          "h1": "h1:EU/ALx4wGlYKR0NjeMiW6IVWUAOm0Itr62epqZjiesg=",
+          "size": 5176654
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.5.1_windows_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_windows_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_windows_amd64.zip",
           "shasum": "dae796f8136323bf1245cbffeb20424a3db0920ae7ebc4a920ddd86f288ba856",
-          "h1": "",
-          "size": 0
+          "h1": "h1:69owqrdcrnYv7+7KYa3zmSkmVHmgfFG+DodL3sLoVnQ=",
+          "size": 5402021
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.5.1_windows_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_windows_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_windows_arm.zip",
           "shasum": "a47c1a590a84348233e089d2e0340adba4b8d75d876c1db9dbec06fc4b3cc051",
-          "h1": "",
-          "size": 0
+          "h1": "h1:G+uaiTe/PatK3GsaQ5LS2WcDXVLe8duGUnectiiIhIM=",
+          "size": 5088640
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.5.1_windows_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_windows_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.1/terraform-provider-prismacloud_1.5.1_windows_arm64.zip",
           "shasum": "496176648efae26d4c7ebf35300075a4291ebbc0aafbc756b21364dce7a1eee7",
-          "h1": "",
-          "size": 0
+          "h1": "h1:AvPeXo8WNuNSQWttyYVNvLqtRsfMgyNxNACCUzbzvu8=",
+          "size": 4967556
         }
       ]
     },
@@ -1773,134 +1773,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.5.0_darwin_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_darwin_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_darwin_amd64.zip",
           "shasum": "e84fd553df6dbf643285bdf7327e82648391706663a20dda852b1f5009d8943d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:sgQeFSXBPKHFD+blEilDaXSAEaulXoqWkJzILBN0pPw=",
+          "size": 5548899
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.5.0_darwin_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_darwin_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_darwin_arm64.zip",
           "shasum": "3b32c1d52ebc662af0efcee3d060a1edde33c40c0624eb52766a5291fa992b24",
-          "h1": "",
-          "size": 0
+          "h1": "h1:0Yw1w8UcFfF4EUeggJdQ67yrgOoCrUh/vVnbNBL+pQQ=",
+          "size": 5477403
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.5.0_freebsd_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_freebsd_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_freebsd_386.zip",
           "shasum": "bf2d34d912209b381bb06fcf36857439f6ce6a6281de2d59724ae6b46f57c700",
-          "h1": "",
-          "size": 0
+          "h1": "h1:g80s88pCufGsLpBSEmhEDiKvgIgs79QNMqKSF+wQUTw=",
+          "size": 4947394
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.5.0_freebsd_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_freebsd_amd64.zip",
           "shasum": "a3df8fc50203b841370ecc71e0f0d81519fd74e57f3e99fb95bab96815ddd4fa",
-          "h1": "",
-          "size": 0
+          "h1": "h1:w1OWVVv0k4HeLEQ4TocFBlsbAUrkoFDmAyqddMmoPIE=",
+          "size": 5439574
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.5.0_freebsd_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_freebsd_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_freebsd_arm.zip",
           "shasum": "bcaba5cccd933abb4bafd2e71b323617c6b79d5e389a67cb28cd20c87984740b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:75Jmr7+IvI6YkQ6DN7xag9SlJryFPmjF79RNSCq+3Tk=",
+          "size": 4972314
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.5.0_freebsd_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_freebsd_arm64.zip",
           "shasum": "711fa79d2906b6f6ea8c84d666f43b64dd95c2eb48c31a318003fef6db81502a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:6Fz/Qnn5iImyI4bsBL6xhC6Go6KAHNypibuWB+zn3Gw=",
+          "size": 4915594
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.5.0_linux_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_linux_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_linux_386.zip",
           "shasum": "5247b560da2aa9fbcda3973d536d12d2e31df918176e2b0d2cc5c27bfe9c4d21",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Q5j0GBW2TDXjkJ8KYMG8zYpi894Q/rAoRALpITofkJw=",
+          "size": 4950279
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.5.0_linux_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_linux_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_linux_amd64.zip",
           "shasum": "a0b5ca9d221f4f5b180a91700fc56fc2c415f29b69f1fe76f99a01089b18d5bb",
-          "h1": "",
-          "size": 0
+          "h1": "h1:oFqf3qoekrOPzC8YqCll7V6P5YZW2zS+yFbpgolzPj8=",
+          "size": 5346253
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.5.0_linux_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_linux_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_linux_arm.zip",
           "shasum": "dbcd66cae21e24a3fae730923d75ea80f148a68ca27fc7a8109244470a404fe9",
-          "h1": "",
-          "size": 0
+          "h1": "h1:GYRxuHNWkBN3hOELgKFIEq0AMX1Ad5k5sUm5maE2ZnA=",
+          "size": 4971101
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.5.0_linux_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_linux_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_linux_arm64.zip",
           "shasum": "71e4913aa2ad41d37616c2a69b5ed8d571c05cfb826e5f915c3d21b5e82cfd91",
-          "h1": "",
-          "size": 0
+          "h1": "h1:cuXOxe/2Dbknlttl6/6JiJAlTi0AKyKf1YX6+u7R0lw=",
+          "size": 4914763
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.5.0_windows_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_windows_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_windows_386.zip",
           "shasum": "96a29620ecba3e484d9a98b5f3d78c69bebcfb84419a7c8e3ea71d680d159d55",
-          "h1": "",
-          "size": 0
+          "h1": "h1:vPWS70CP0o/onCKloreoo+/qtsHIQQBhiU9SBxiblKY=",
+          "size": 5174992
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.5.0_windows_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_windows_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_windows_amd64.zip",
           "shasum": "ba8703196581aa63878e7460f47681af3e99dd01ec263b7d0306f72e105d4741",
-          "h1": "",
-          "size": 0
+          "h1": "h1:IrVEHaT4MaTysSjRPrjnWUWH1RBzDRi0TOMN10EDvHY=",
+          "size": 5400731
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.5.0_windows_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_windows_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_windows_arm.zip",
           "shasum": "ff4a4a2f045b72330cd193b7643b6de193e6bc2fd7f4133511f9571648f82df5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:VNBlhXYKTM4AEQy0oAwFkSM4P6RbYB6CGrHjyNpBsxE=",
+          "size": 5087254
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.5.0_windows_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_windows_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.5.0/terraform-provider-prismacloud_1.5.0_windows_arm64.zip",
           "shasum": "f8a2d3e73ce6692476b7a50bb6178b4aff85b375cf47bcc6006dff7bf5f45ee9",
-          "h1": "",
-          "size": 0
+          "h1": "h1:1E0yshkT4F6me2kOFm4QbtuOUWESRtqsw8GhiuxRRnA=",
+          "size": 4966672
         }
       ]
     },
@@ -1909,134 +1909,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.9_darwin_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_darwin_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_darwin_amd64.zip",
           "shasum": "2a9123c5bd950252dd7d7b57d3c9afd929d06cdde69c93ee57d917f761c588c9",
-          "h1": "",
-          "size": 0
+          "h1": "h1:UxFbY5DsxMZpXh6NIdlgvkoBg4hypKVKWIbxem7cn9A=",
+          "size": 5548886
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.9_darwin_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_darwin_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_darwin_arm64.zip",
           "shasum": "28524cfc57680456a799443899e5b66c2d44d0b5e06ecdfc9e45b72ae3146178",
-          "h1": "",
-          "size": 0
+          "h1": "h1:wF60S7OJqGDnuWmiqq98jTr6qYT/5yCQTYMQH6QBGdM=",
+          "size": 5477388
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.9_freebsd_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_freebsd_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_freebsd_386.zip",
           "shasum": "d12bfe0ef125bc55e921269f4b879e8768e802770d44adf06ff3a674f7c6f600",
-          "h1": "",
-          "size": 0
+          "h1": "h1:zDx7DfIw6Gp+487xdfBx2WV2ALlg7gCUCLHDXuKQ/1U=",
+          "size": 4947379
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.9_freebsd_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_freebsd_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_freebsd_amd64.zip",
           "shasum": "d957920afe76a08e7bf0042396487cc697e8864beb46474f46237c666c148500",
-          "h1": "",
-          "size": 0
+          "h1": "h1:eCPE9E0ysE6WxK3B305/bKtNBAPZXlFtGjAvfNWRbuc=",
+          "size": 5439561
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.9_freebsd_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_freebsd_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_freebsd_arm.zip",
           "shasum": "75919450a4bc72ccedabc97cc9460884d440bc182cd001398f9b9362cc09d9f1",
-          "h1": "",
-          "size": 0
+          "h1": "h1:cJ+aB2DOuNTebFT8eoIHiK5gtZLpK2fABBsblngANf8=",
+          "size": 4972299
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.9_freebsd_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_freebsd_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_freebsd_arm64.zip",
           "shasum": "198edc444ca12e7c9b578a6695bd81138ec566d21e438847898ecdda76bbb192",
-          "h1": "",
-          "size": 0
+          "h1": "h1:13QkZoBpQvNrTtne6oaTcWnsJtbsEqBIhoHdkO5CoYI=",
+          "size": 4915581
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.9_linux_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_linux_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_linux_386.zip",
           "shasum": "b2396435b2a282c8fc04f305950c592349eceecd2d2131a6e74084043f7cc147",
-          "h1": "",
-          "size": 0
+          "h1": "h1:MIBddr5D/5EDXI9O89hSxUOp3SExhcojxFwkMrfn/j4=",
+          "size": 4950263
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.9_linux_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_linux_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_linux_amd64.zip",
           "shasum": "a84c50e3bdae5659c2dce30b7e51754ac38126d771fab116f5ddebf008078163",
-          "h1": "",
-          "size": 0
+          "h1": "h1:TNEHGs2mAocIEjzhKqJ8Oob79BDK+I9vsVC6K22z49o=",
+          "size": 5346240
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.9_linux_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_linux_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_linux_arm.zip",
           "shasum": "3f37fe088131e3f743f842270a5037a3a0197d26f28bf7054f8237070823e384",
-          "h1": "",
-          "size": 0
+          "h1": "h1:fJm/CKxL+n4SfCWqbBZlnGI8Cj/njVzH+zwccb+P/9s=",
+          "size": 4971084
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.9_linux_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_linux_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_linux_arm64.zip",
           "shasum": "c18f9c70b0141ffda0d85764702d70c839215bfced861f697b0597fd86a423c0",
-          "h1": "",
-          "size": 0
+          "h1": "h1:LcpSvVJO6SA6cv0TVul9Lb98YBfZpqQaQC5/94fTMSs=",
+          "size": 4914748
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.9_windows_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_windows_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_windows_386.zip",
           "shasum": "a42c726dd3512aeb0b81310f81be881c8b11c4cb7bedab637e92c5aaefb60a82",
-          "h1": "",
-          "size": 0
+          "h1": "h1:YmZiiW+IVv76EnkJcNoatBwd5ZuMaS0C7gtlpgW21lU=",
+          "size": 5174977
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.9_windows_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_windows_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_windows_amd64.zip",
           "shasum": "c58afdff2c43b8257f5dc31bdea1df9b2c70d398e3b4341057aa18c2cfb8b08d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:qnkX8QSPiBCnhTsam8m3m6KgbvjSFr6y6FSHPu97KVg=",
+          "size": 5400717
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.9_windows_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_windows_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_windows_arm.zip",
           "shasum": "2e4428d0db73d675d07b8561c079d32067ae19a5cd45c19553c35a44358170e9",
-          "h1": "",
-          "size": 0
+          "h1": "h1:cKIKllYAXbrovZU/ogD9kpnFnNKtZNhfa5ue7MEIf4o=",
+          "size": 5087239
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.9_windows_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_windows_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.9/terraform-provider-prismacloud_1.4.9_windows_arm64.zip",
           "shasum": "37f9e362884dc4989ed6d52970cbf6d0d22d7dd917ffdad21fac8791108819af",
-          "h1": "",
-          "size": 0
+          "h1": "h1:OlMbIA7wYnHOqpjKoE1hO5UiaTYfE1h8TMISuGjfokM=",
+          "size": 4966659
         }
       ]
     },
@@ -2045,134 +2045,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.8_darwin_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_darwin_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_darwin_amd64.zip",
           "shasum": "254852f5fbc6bf23cfb26ab7e55db83af53d136c403bfb6daa4906d3a0a8d979",
-          "h1": "",
-          "size": 0
+          "h1": "h1:jR1ZDJ9JKBLccFxsXEbdO6c3iMqmzCup54UNiYxAbqk=",
+          "size": 5547341
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.8_darwin_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_darwin_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_darwin_arm64.zip",
           "shasum": "995f54393eca850d0546bce2f4f60df7c49f9790ee7604311028e26840c1d7f4",
-          "h1": "",
-          "size": 0
+          "h1": "h1:bBEnVDMPnrD2FqqD9zVKg66ud5ANYDCmGe5BM9B+SSs=",
+          "size": 5475010
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.8_freebsd_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_freebsd_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_freebsd_386.zip",
           "shasum": "12c91cd7fd58de43de8ce47fde0efc8ece83315487d074d72296e1d635bdbce1",
-          "h1": "",
-          "size": 0
+          "h1": "h1:k4ayswoZO7eUK/d52BWM6GYFxbvJkitbd1L+Yb473HM=",
+          "size": 4945804
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.8_freebsd_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_freebsd_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_freebsd_amd64.zip",
           "shasum": "ed2e20307c8a568e74c66b61b1b2b03591056ed9d557592986c1dedb5737078c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Mp/+Gw3k897CcrGXKbTLHUpUomvOw4++u2f9r5k7OlI=",
+          "size": 5438456
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.8_freebsd_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_freebsd_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_freebsd_arm.zip",
           "shasum": "af7a478b89aae8795abc242d1e405d865b131e90e1548848f0d04dea4894a85f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:uUhLE+dkkOc0WIjuP2AloDQ1v3eZDhUUjPrbDcU7Q34=",
+          "size": 4971326
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.8_freebsd_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_freebsd_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_freebsd_arm64.zip",
           "shasum": "4d0165f864fe1e093acf9189dd9e89e0b4864df737700c01f5181f920ce2b0fb",
-          "h1": "",
-          "size": 0
+          "h1": "h1:F0eV6EbBu6f2KqkZVlTLPdPfyOKDqDVZnSVCQZbKnjA=",
+          "size": 4914681
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.8_linux_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_linux_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_linux_386.zip",
           "shasum": "5f506747ef830bc24dda0414284620b466d8df2f846d56d1945980b37334f88d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:jOjdS5BOPVV2NVWZgyAvtvBQg/oCnQsMYC/P8fiIXf4=",
+          "size": 4950338
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.8_linux_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_linux_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_linux_amd64.zip",
           "shasum": "a2e5e00a92cdffa985a474ddbe3e7e6aa41f44b463e7c5fadf637d462adbe27d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:MNf32juOAz7KbxeI9VLC3nZsPkyb4Ef9TqnsIlG4M1g=",
+          "size": 5344444
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.8_linux_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_linux_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_linux_arm.zip",
           "shasum": "0482347e0196ae3cc9961abedad8032b3fcbdb3454df9253e54d27098f13c30e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:kTqpwDcRDpMh1nSdfmFY8o0/LzQMnpuma5yW5C/CCIc=",
+          "size": 4970596
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.8_linux_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_linux_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_linux_arm64.zip",
           "shasum": "245403c788b2901154f0722088cb2e66553f10bdb8e93f9f05f3f6092242537d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:EfQY3xrR6X0isAIzGp5ehXPIdyGtJKDBqQcL6zhBdxo=",
+          "size": 4914692
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.8_windows_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_windows_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_windows_386.zip",
           "shasum": "dd6704832b893754c7b26d15a98482a3c87e6e946263625de545ca85b6d39bee",
-          "h1": "",
-          "size": 0
+          "h1": "h1:0F4t/mlHPsd9DLHpFHBAmzbz9nKPAuWjlvX3JcYFizU=",
+          "size": 5172624
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.8_windows_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_windows_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_windows_amd64.zip",
           "shasum": "e04b6f372d1bf77d10a5d1f3b5909b897243c608160dcb4df86d93dfd26b8405",
-          "h1": "",
-          "size": 0
+          "h1": "h1:v+3AmsN1e6NoHGb9VbZKYsqv7JWhmoxXSUEVUwO/ljI=",
+          "size": 5398747
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.8_windows_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_windows_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_windows_arm.zip",
           "shasum": "9ca4b834ddea00b422c4a3ecac89e4e5538e798ee677e5be9b849e674caed82a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:MmSZ+BOnzveGzm/XLb5Sv4jvA/xQnZdb9jBxgqB+opA=",
+          "size": 5085545
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.8_windows_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_windows_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.8/terraform-provider-prismacloud_1.4.8_windows_arm64.zip",
           "shasum": "e4388ff6acc834d1d0b71ed25a05afdef9efc485045f56e4cfa976299d5806ed",
-          "h1": "",
-          "size": 0
+          "h1": "h1:7XDor2wv1cCM8qez5enQQd5XOe28/5N1xV18JqdhqBM=",
+          "size": 4965118
         }
       ]
     },
@@ -2181,134 +2181,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.7_darwin_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_darwin_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_darwin_amd64.zip",
           "shasum": "77c28d69d67b53cfe8bedcb7cd8f353975bbe6b7b818ab26bcb4d6a63b4912de",
-          "h1": "",
-          "size": 0
+          "h1": "h1:5JjGdJJZfjv8FLYnVE6do6TsvGrNNAYBUWv2xQ6jYCI=",
+          "size": 5535344
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.7_darwin_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_darwin_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_darwin_arm64.zip",
           "shasum": "fb685206d40c8f26b20185849b6e4aecd0bd76462b4b2f8a687e21729973b4fd",
-          "h1": "",
-          "size": 0
+          "h1": "h1:eX6dCeI4yPkd1K+EM3ADvzJB/NddlHACBVIJJL0nfU4=",
+          "size": 5463429
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.7_freebsd_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_freebsd_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_freebsd_386.zip",
           "shasum": "7f7cbab5b17ded8e253435b56dc357748e45096148585360f9126cc3e7876fe4",
-          "h1": "",
-          "size": 0
+          "h1": "h1:K++B2+I2KtVSRfcHsz8A4FqDPvDSa+YJRizyp6XmO98=",
+          "size": 4933188
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.7_freebsd_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_freebsd_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_freebsd_amd64.zip",
           "shasum": "5650bd85e0d36da9fc0014bd251939ec0ba72aef7e480f3a5ae797e8bdde684e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:TrmMlHFKr588s6PiaCrm1P0mLVyytWCqbW7muD1B5X4=",
+          "size": 5420994
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.7_freebsd_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_freebsd_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_freebsd_arm.zip",
           "shasum": "902e3df25fab44bdc819bbc691c7b04d62125ece738bca146b5146b1e0be693e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:WW7HCw0UvPg7Zihb+F/aERZm0YjjKD4xvBglgbSn3f8=",
+          "size": 4956716
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.7_freebsd_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_freebsd_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_freebsd_arm64.zip",
           "shasum": "92230c9b444b9c4a296acb620ca700603017b976a9f512e78a349de788d658d5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:BIaUMA1FjnPJYwxW9ZLH54beGhEMyq/CyiR/beB3WJM=",
+          "size": 4902932
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.7_linux_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_linux_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_linux_386.zip",
           "shasum": "7f65845abaa248ed1db112b3920ce7f79434679349cc844aac1a383d7ab7e16a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:oGRQk29L/ucgkbSbSma83c0iAvKZDjob+5LmeTZ+MnA=",
+          "size": 4937235
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.7_linux_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_linux_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_linux_amd64.zip",
           "shasum": "c54059828a73f936242f46097fa13d15daf666c84b1d3230533307e9cd99b921",
-          "h1": "",
-          "size": 0
+          "h1": "h1:cjPl+OneatNYa9Ixq06F7KC5RdHAa6LrSKVeOzaBd7w=",
+          "size": 5329703
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.7_linux_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_linux_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_linux_arm.zip",
           "shasum": "6a84134a0f55a7a0719c7347f167c618c3d64ee0836e5b43458cd79df5cbf918",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Pw8rmEJx3E/33UxgWysDqTpvIMKlF8P0XaV/JBqg7dQ=",
+          "size": 4952746
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.7_linux_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_linux_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_linux_arm64.zip",
           "shasum": "91eefa1b476392296fa27ff068441bd7b792e19fc0122f1f003dddbb9833e6db",
-          "h1": "",
-          "size": 0
+          "h1": "h1:vyomm/ctC5OoBwRshF4vdtvRNsGRE4F1Sy50Z7XDFvo=",
+          "size": 4902595
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.7_windows_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_windows_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_windows_386.zip",
           "shasum": "f4b7c1f39e5d11e0f1464a3ee646a966d6d66bb504aa445f604aa65500f73aa4",
-          "h1": "",
-          "size": 0
+          "h1": "h1:82oih5MbAWi/7sKOUkdnG3O9RKKbGH/BLJURf78xQAw=",
+          "size": 5159411
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.7_windows_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_windows_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_windows_amd64.zip",
           "shasum": "7910ac9d6b8407e717bfb033347e4a6a45fe03f9235d7b708c058f5003974aae",
-          "h1": "",
-          "size": 0
+          "h1": "h1:u3FHdGod8pzj1GpW5a9a7UOwFFZfe3vVZX52xvXblYg=",
+          "size": 5384421
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.7_windows_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_windows_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_windows_arm.zip",
           "shasum": "4ee8d09631dc07d407a58ada5d2952d9e4e57374abe9087998051e8afa945562",
-          "h1": "",
-          "size": 0
+          "h1": "h1:sKhV9QEXr73E/U9KsxLESwjh3RPdXn8aAv7V/rtDIjQ=",
+          "size": 5070840
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.7_windows_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_windows_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.7/terraform-provider-prismacloud_1.4.7_windows_arm64.zip",
           "shasum": "b456e1ccda5b2dbdb666ed7441b81c7c80d107a85437e945d91dc734c8d5c76b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:D/ks0qqp9Q3sZhU0Y508o4fcYI7tYq8A9ci4BAevWOI=",
+          "size": 4952465
         }
       ]
     },
@@ -2317,134 +2317,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.6_darwin_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_darwin_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_darwin_amd64.zip",
           "shasum": "53f58f57ae8d16db4bea4f9df51c44e5d3096f9f041bfa5fb738d5e6c50600b3",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ocxQm707LoKwzAXTAL2oIrEQN2ve4KSTZFa268oFM60=",
+          "size": 5533835
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.6_darwin_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_darwin_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_darwin_arm64.zip",
           "shasum": "c5cc54f419c77730be208333a712b7d6bc6be468d671244adb7e8236cc33a401",
-          "h1": "",
-          "size": 0
+          "h1": "h1:HZvwWvLhME0J90OWeGyM7QHfjZvuPtuud5HFET5DPLE=",
+          "size": 5461554
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.6_freebsd_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_freebsd_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_freebsd_386.zip",
           "shasum": "7743594976d632c0be93368ae8aeba7250869e4c75ce94ea92697e78038003d7",
-          "h1": "",
-          "size": 0
+          "h1": "h1:eXT+kR1HADmp4ESYPaJT2USpEvF4yTsDfUbADECmYbU=",
+          "size": 4930927
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.6_freebsd_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_freebsd_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_freebsd_amd64.zip",
           "shasum": "7a13d351665c2e7e53cf9ae2c4f0dff1c5e2531ae69147083cd3db48ac4e7c7d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:udKa7W9BsUriORAnOdclemwSGWubDelhrHgVhbMvqXo=",
+          "size": 5419617
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.6_freebsd_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_freebsd_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_freebsd_arm.zip",
           "shasum": "35e24632819c25e3307011d996e3f1aafc122a08a1878bc6be389dc44a9bb148",
-          "h1": "",
-          "size": 0
+          "h1": "h1:iSu0tIz9P2NpNGOhXLFpl3sg/kVx2bLH7IOjDi0coRk=",
+          "size": 4954490
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.6_freebsd_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_freebsd_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_freebsd_arm64.zip",
           "shasum": "9f696a38feec5cce3372f443b2455ae4e69daad305298ac42f82db2dbf635f77",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Mh2zBpmjvTDCziG1D1qz3F2Gr25prgW9GEcmyQMxAcY=",
+          "size": 4902209
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.6_linux_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_linux_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_linux_386.zip",
           "shasum": "daec46e08c19624f168d3f9337cf4dc26dd30e4dc4c8b0d6aff64fb9f24fa592",
-          "h1": "",
-          "size": 0
+          "h1": "h1:5xTMdWmlTjrw2JHc1Mg9MIcaC4L8iRN9ZJRVK9DOQHg=",
+          "size": 4935293
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.6_linux_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_linux_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_linux_amd64.zip",
           "shasum": "a026cb6e206714f86d135ddb41c3b5389d2bee8cdc6634c88994193a5d815f78",
-          "h1": "",
-          "size": 0
+          "h1": "h1:k3tINiZ2U0jWaf4HjJFp7Ndq2DhLrA35tDybrnrq6UY=",
+          "size": 5328775
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.6_linux_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_linux_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_linux_arm.zip",
           "shasum": "d933bffb51118c36fcab0e7603b3156c93b6779fcd565bbc526e26f23eb46362",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Mz5Qpq0ONRRNRS1T3aQ6zegeBUlucdw7e1gtv5W4bvg=",
+          "size": 4951448
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.6_linux_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_linux_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_linux_arm64.zip",
           "shasum": "619b0aba24dd5dfb39be0e8ff247e42b173ef0a83105af7dd65c129ec2bf72bf",
-          "h1": "",
-          "size": 0
+          "h1": "h1:FaDwY+JxB+Dc3loAwBa320fvUNYwlbj5TXXhIIs+dKo=",
+          "size": 4900875
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.6_windows_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_windows_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_windows_386.zip",
           "shasum": "fc6c35cf846b2b79b061c64c9231106efd5e94cd643a69a9f0180932e9b84b1e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Gb8c5LH655JOtSKBzaWXl7wt1REhFFO/UybhAXeO6/0=",
+          "size": 5157236
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.6_windows_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_windows_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_windows_amd64.zip",
           "shasum": "9e6701b57a1a49f4bfc5f33b1afba0c2fad83f58385c6607a1b3466ae0697627",
-          "h1": "",
-          "size": 0
+          "h1": "h1:U9zgi+oh1t11gvDy92GQF2kcRlo/1HcUhotmvsX6J/I=",
+          "size": 5382613
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.6_windows_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_windows_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_windows_arm.zip",
           "shasum": "53fb2524daa77b17978af5d3b3141c3a915372d15f53418e87526a9e360653f2",
-          "h1": "",
-          "size": 0
+          "h1": "h1:xZV+mdnbrsMj/yqFoei2Rck9dTrR+QNbK6Ougke6iIU=",
+          "size": 5069406
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.6_windows_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_windows_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.6/terraform-provider-prismacloud_1.4.6_windows_arm64.zip",
           "shasum": "5ed0ed0db9a10eb653bf9f90029a8b91a4d847d5bd140ccba5ee005eeb00b3da",
-          "h1": "",
-          "size": 0
+          "h1": "h1:VGCO1LGq0ewYcBzNOhFQ6dOqEzYikqMbPeYG1FRrODg=",
+          "size": 4951745
         }
       ]
     },
@@ -2453,134 +2453,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.5_darwin_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_darwin_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_darwin_amd64.zip",
           "shasum": "74603a584339c520e4375c50d813ce7f2bb9506ca678f6fbc36cfee2b515a6f2",
-          "h1": "",
-          "size": 0
+          "h1": "h1:APUJ7956ii44b4pkjeWxLJYJiNxFEsRX7sIL56ZC8Vo=",
+          "size": 5533851
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.5_darwin_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_darwin_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_darwin_arm64.zip",
           "shasum": "cb4379dcae220feb7465c85d8e66051dc6e89702dfafc253ebe08fac2dd710f9",
-          "h1": "",
-          "size": 0
+          "h1": "h1:1roqXndecBssQNwdNxCkuZx5ZFGQXqswdFlDCmcZY1s=",
+          "size": 5461394
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.5_freebsd_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_freebsd_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_freebsd_386.zip",
           "shasum": "fdd1799217307108bcee06b1851c0d250be653763e4370540b975341e57b517e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:n/hDsMf5TnKZT2bo5eVPqPft5GQT2CwqkzvKxHL8YbQ=",
+          "size": 4930643
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.5_freebsd_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_freebsd_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_freebsd_amd64.zip",
           "shasum": "27fa2b2c8bb26dafd23cf8fe85144c52d6edcdd863bf31c28516aab3df7f2b76",
-          "h1": "",
-          "size": 0
+          "h1": "h1:C+5lk0teCExHNb8SzlMyPgLvdFysCTS03QN7ZEled4Y=",
+          "size": 5419407
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.5_freebsd_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_freebsd_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_freebsd_arm.zip",
           "shasum": "df74ace39b017373d26241d891a35c163bdc6187c25596f8670efa39d4983fc5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:mFdSgzSae3BS9HwdOMJ28ZXWINOfszE5lMisHlVTtCI=",
+          "size": 4953864
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.5_freebsd_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_freebsd_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_freebsd_arm64.zip",
           "shasum": "ed1b067a04e62b70de9f823493cdd1960fa343a8670af6da46259398086190ed",
-          "h1": "",
-          "size": 0
+          "h1": "h1:bGcwQ3I2Z4IM9+jRKUgvaxKqWV/10wT+O8vSDLEKn1E=",
+          "size": 4901767
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.5_linux_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_linux_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_linux_386.zip",
           "shasum": "6d8d31c7eb8a3e9dfa4f8dce30f17720704086f334762359eac8957738a5b3fd",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ed74Jj2ph2DC17jAW3lEHI7jZfG6H0pGcLzxIClFJxI=",
+          "size": 4934922
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.5_linux_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_linux_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_linux_amd64.zip",
           "shasum": "3ef942b7abcd30a4c0d6c17e97e9d16b332fa255d26b70fe841f53ae3ef81f09",
-          "h1": "",
-          "size": 0
+          "h1": "h1:tEWm4KZsiO6BB9GjJGmCCUsUrsrMDis+lPC/lOxs9hU=",
+          "size": 5329172
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.5_linux_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_linux_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_linux_arm.zip",
           "shasum": "dfe9d1820f1befb1b8d8c92c41a6be7e010b1889b34e645fc01fb93551a29912",
-          "h1": "",
-          "size": 0
+          "h1": "h1:i0US+gyEesI1qxbH5AXLS/24KFHIxjNxkzoQSxpxodY=",
+          "size": 4951240
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.5_linux_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_linux_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_linux_arm64.zip",
           "shasum": "2f99d2fc70eb87b5eff891d9644bcbdf4ea8ce248c9684217e9bdafd596cec32",
-          "h1": "",
-          "size": 0
+          "h1": "h1:sPABoCSxs+HCTC14KUrIaV1WEJZjtdEpePKf5LlqoaA=",
+          "size": 4900419
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.5_windows_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_windows_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_windows_386.zip",
           "shasum": "9cdb7bd3c87840b02b456ee32ccc0f1b88f39983b8b1257c74b51db9d6b90f01",
-          "h1": "",
-          "size": 0
+          "h1": "h1:/SYW7gyBF/o4iJ+4fkWev7j/HdCzhhuwKV7GR9gUHOo=",
+          "size": 5157022
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.5_windows_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_windows_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_windows_amd64.zip",
           "shasum": "8768ef98a359fb12f9c5f4a5ce86bcb185bb8685544e6f5e3622360aae0e982b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:tMst1yHMxG19uhTwA+CEIwHjiYERD6ylv2ZycuPRmFU=",
+          "size": 5382110
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.5_windows_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_windows_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_windows_arm.zip",
           "shasum": "044e0e209f6a03ee8322564ea6d1bd9f7c1f3c1d0dc346830ded5da3c709052f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:SiQCBpAK5V7m0dYV68EEBQMO8r2uw13Z4rtixSLyW1w=",
+          "size": 5068875
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.5_windows_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_windows_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.5/terraform-provider-prismacloud_1.4.5_windows_arm64.zip",
           "shasum": "f401b0d06f92dd22e8ecf7ca63819dead0e21c48b3bd6d9706c22b76905dfee2",
-          "h1": "",
-          "size": 0
+          "h1": "h1:JZERPbFj+0NJDZDraFcZjPEda7AagIfkxxJqPkXdb8E=",
+          "size": 4951542
         }
       ]
     },
@@ -2589,134 +2589,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.4_darwin_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_darwin_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_darwin_amd64.zip",
           "shasum": "02b14758f21746aa3a8cd47b94e2def9fed175f4c3e79f3c8ccc0407f85e0373",
-          "h1": "",
-          "size": 0
+          "h1": "h1:5wIcyKux8aToMEtBzTok6JLqRDwc7YnBUUul23Pvgic=",
+          "size": 5533789
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.4_darwin_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_darwin_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_darwin_arm64.zip",
           "shasum": "cdd9c0de2d4c601d6a54fb31d366390ad4c045e487ace615f062660a13a5d108",
-          "h1": "",
-          "size": 0
+          "h1": "h1:RTRstsmu6ox2+b7CvILuJmw/VzdR9URxDUfL5XI/pZs=",
+          "size": 5461328
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.4_freebsd_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_freebsd_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_freebsd_386.zip",
           "shasum": "c1fd5fe174a68bcf38f6ab4a3d07d2b1bccc13c2df7fbce9f85f0edd96aa606c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:UCM2nHP7YXboDE7WLJEGaqVoT3uWggSLbk2aBHXDi2w=",
+          "size": 4930580
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.4_freebsd_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_freebsd_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_freebsd_amd64.zip",
           "shasum": "8053aa0756cc73a28265290702b90e71965abbbbbd2911ff4e3df311d22a814a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:z6DIem1rJ1JgiDPfJDyyJVfATs8oK/ZGbnRpDjtHsHs=",
+          "size": 5419355
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.4_freebsd_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_freebsd_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_freebsd_arm.zip",
           "shasum": "e60285240f3e0da2ec4ea504d3b6bb44d0050fd3657020cb8595c12b4904e4b3",
-          "h1": "",
-          "size": 0
+          "h1": "h1:UbRlrbuEdfCuYogdNaQf2dG1ErP3fae4sIqmvqC1NQE=",
+          "size": 4953808
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.4_freebsd_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_freebsd_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_freebsd_arm64.zip",
           "shasum": "51e14776975610a00fd307cecb38c0f723af223a74536faedf236c7ca010289d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:y9jrHT1Poy8nUn6asfFlSplUJgYl+XDY03WUb1mrWiA=",
+          "size": 4901707
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.4_linux_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_linux_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_linux_386.zip",
           "shasum": "bca55e41f42ed77c2a7c030662ab969696df0def777da796ae742318ebc5ed73",
-          "h1": "",
-          "size": 0
+          "h1": "h1:D0OuvW7IUDqQbCY7s/Irw7XPAlXG+FtUrWEe0X56J2o=",
+          "size": 4934866
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.4_linux_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_linux_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_linux_amd64.zip",
           "shasum": "7371bebd9225d803154cedb94f1f3e688dba9b481cc910aa5d6974a70967961e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:euzrdAy7CAKfRxfJkOlwoZKv/ouOaAeiRPprh24K9iQ=",
+          "size": 5329113
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.4_linux_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_linux_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_linux_arm.zip",
           "shasum": "c66cfefbda180df58706f87ec3ed03a722528fcaf0b74b0984de613cc477ab58",
-          "h1": "",
-          "size": 0
+          "h1": "h1:gn0CdclB2PhZFF5ZLABsOHPDMCJj9VB8qzJHf8+ZM94=",
+          "size": 4951184
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.4_linux_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_linux_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_linux_arm64.zip",
           "shasum": "e7356684c49eb36621727d74a9e672bf9c8d2f0f453c471f806a37398ca50643",
-          "h1": "",
-          "size": 0
+          "h1": "h1:/6bZwLFYLJT57KP5sFkXCd1kzDrldM+Npj9fhlLnUtg=",
+          "size": 4900371
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.4_windows_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_windows_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_windows_386.zip",
           "shasum": "5c0dccf16420784a3063e8ac5aaec3f59517c98920c90327d278223aa660ac59",
-          "h1": "",
-          "size": 0
+          "h1": "h1:qCx0H5voyGTr/7svBVEwlYWGJJ2wTe5W/V2QPp69oQ4=",
+          "size": 5156963
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.4_windows_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_windows_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_windows_amd64.zip",
           "shasum": "4214f40f2912afa56dd34c6c104fe00877f4471029c5f7806421bd72b2694928",
-          "h1": "",
-          "size": 0
+          "h1": "h1:BTyxpF+M8K1pvs9YjK8WhMitfLLsPeh1EZYmU+dYQBM=",
+          "size": 5382056
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.4_windows_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_windows_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_windows_arm.zip",
           "shasum": "86b373e556d4ab162e9460ea87a409ae13c637f6181bcd400101583b24b5b0b0",
-          "h1": "",
-          "size": 0
+          "h1": "h1:/3tYeDBhDwi/Ate6LKXsLChewwvrKam8LuwooYD/YZc=",
+          "size": 5068818
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.4_windows_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_windows_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.4/terraform-provider-prismacloud_1.4.4_windows_arm64.zip",
           "shasum": "9ea541d2fdf8a19f69e685b05dda388f045aada4e0a8bc5f8bd25f4f4969f40f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:UThGc/eCui91eknuhnakSb5o0VU6AofAYn6QUvMX4ws=",
+          "size": 4951482
         }
       ]
     },
@@ -2725,134 +2725,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.3_darwin_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_darwin_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_darwin_amd64.zip",
           "shasum": "4f1591a4a8f030b100609a05dad16d86b15c0d5042858c3b7426d1a22e2692ca",
-          "h1": "",
-          "size": 0
+          "h1": "h1:OMjtncDyRxIiDQDrQmVlIPAzZ8Be+4q0lJZhh6Gd9aw=",
+          "size": 5533348
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.3_darwin_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_darwin_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_darwin_arm64.zip",
           "shasum": "4e91eb903280f2c2fbd09d5368eb01a9c82a15da0902757da397caf1003aa30e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:fNKjx1iTkBtrJJQ6KFP7QABh2bmxSUI1xoeIas/f6kU=",
+          "size": 5460505
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.3_freebsd_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_freebsd_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_freebsd_386.zip",
           "shasum": "b98decc58b326038cfcf4e80f3ce58e9dcdd04a252857df2fa51d745ffce7283",
-          "h1": "",
-          "size": 0
+          "h1": "h1:yau2+ZxZSpwmK+jBwRv5yUPPr7H75ypHt1gJO620Lyo=",
+          "size": 4930462
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.3_freebsd_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_freebsd_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_freebsd_amd64.zip",
           "shasum": "ecd8a54a5461671e07569a37c636b47644911f13f8d92a5e656336afe89108c6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:7UqE6qDRfmWY76TyU5uAd2URvOnSGG7v30GnsGZrpU8=",
+          "size": 5419240
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.3_freebsd_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_freebsd_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_freebsd_arm.zip",
           "shasum": "a3ae342113e94bc098ca653a5a72c70c78ce7b4887992684ebe82aa984f8230b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:zFN/eQNfL55WLQh90t7OqikXGKN3C6bvqZkX4C79taw=",
+          "size": 4953731
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.3_freebsd_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_freebsd_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_freebsd_arm64.zip",
           "shasum": "131e646f870df8122efe0810ef5316f174220db14b9ce42b29fbcad39fd8ddd8",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Afo5m164luoZTcw76tgWJjOA1zfA4sDRchqdjYTuIN8=",
+          "size": 4901548
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.3_linux_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_linux_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_linux_386.zip",
           "shasum": "710994f38fa4c030a28b04fd7fd78fa050333c6c815d035b2ab94c4249dca476",
-          "h1": "",
-          "size": 0
+          "h1": "h1:fVII/zJfmgS186HC68fyD8BZoV6LjYbW/DUbqLCR2So=",
+          "size": 4934959
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.3_linux_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_linux_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_linux_amd64.zip",
           "shasum": "ab4ea0676b9854beb281ebd4ccb0c9996758f9ee534543aaf2d2b11532c28808",
-          "h1": "",
-          "size": 0
+          "h1": "h1:DQ0sQ621UQUC2sGefo7sl1aiTmgShh9NtHs2iyKMsZs=",
+          "size": 5328956
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.3_linux_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_linux_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_linux_arm.zip",
           "shasum": "6dccd9ad38b5c5bb6f770d70151c9e32f157bb7a989d49f5ac911ba9dd0c29e7",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Uw4H08OjwjaYvLvbYra8oNLVgFEIBRLBpowKU0B4TPE=",
+          "size": 4950415
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.3_linux_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_linux_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_linux_arm64.zip",
           "shasum": "064585197584ee7840f46852cb0167ea976fcc5f5b9f4d63c05bedd1248a319a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:LScT1resZ09xHxJJPArJYc7cY+Ni3q/Z7FAhskPeVwc=",
+          "size": 4900289
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.3_windows_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_windows_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_windows_386.zip",
           "shasum": "920f9f9001fe578147f7e9853b9f2cf08a5d51eaedd2e616d6f52542e11adf5e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:WfgRTjdh2SFElTV5WU+GyqLeGFjH9dIlifkjLa3B7YE=",
+          "size": 5157378
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.3_windows_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_windows_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_windows_amd64.zip",
           "shasum": "af7a6ced40bb4bcef22f2ec6cb077bbfa315c05255ad785d84e64b7a91423ef5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:CzETT81P5KxuruUgExFhwvCEpmVWn+qaiQHKA/yUmrE=",
+          "size": 5382429
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.3_windows_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_windows_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_windows_arm.zip",
           "shasum": "7986165957cc6d65c57447a8b80b8c4a21365add4eaa8fa290fe451b8679e51f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:GNxse9PBmdkL/EXsgECfaP3m1PuNz7zLVkUtZ2JcG4g=",
+          "size": 5068591
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.3_windows_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_windows_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.3/terraform-provider-prismacloud_1.4.3_windows_arm64.zip",
           "shasum": "cae1adc9f878830c808ff9fb56a567f2a4ec9695d819e07d84e4be8f1e4118a9",
-          "h1": "",
-          "size": 0
+          "h1": "h1:GkvsHIzp37kxZqsWoeXceRg3kQSmtjMv1PxlZ10hQTw=",
+          "size": 4950991
         }
       ]
     },
@@ -2861,134 +2861,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.2_darwin_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_darwin_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_darwin_amd64.zip",
           "shasum": "46bccc8cc9c0905e43e4abf56b56e5ffa0b36376b9c727d31301e4a3e7821bf1",
-          "h1": "",
-          "size": 0
+          "h1": "h1:wrLjQnFlPty+6QQhiaT+h1RSfu/kGT149dKPNFP5iO8=",
+          "size": 5505494
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.2_darwin_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_darwin_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_darwin_arm64.zip",
           "shasum": "23e3b9f2b0144b58731f7e3843843023e90b076a428f341298ff83e7b34931b2",
-          "h1": "",
-          "size": 0
+          "h1": "h1:quw74F3y3RD3iQdtnplqkw1m5TvqDPLsGMTVDSlgap8=",
+          "size": 5434704
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.2_freebsd_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_freebsd_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_freebsd_386.zip",
           "shasum": "abd12a986af2abe04018a8fc73dffa5b04c2fd1d98bea4d4873d1ae705115721",
-          "h1": "",
-          "size": 0
+          "h1": "h1:/cbdk5shIK4bIei33fFVEMb7dAiplZs9nvaexkBjAZc=",
+          "size": 4910533
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.2_freebsd_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_freebsd_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_freebsd_amd64.zip",
           "shasum": "12ab1620e9a95615df41eff5d1991f1f24195801b28e87e0e776a4ed63bb706b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:krliMT7B7Wvb1IEDTMAuVdfgwMkB0DHwXvRVPsJBJWk=",
+          "size": 5396229
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.2_freebsd_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_freebsd_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_freebsd_arm.zip",
           "shasum": "cdeb13a1b75c744db339348e1f80987e7de0244408475b72724f2899da338cde",
-          "h1": "",
-          "size": 0
+          "h1": "h1:1av0kh6bXeigKUFMewv7Qfb1pDRz5sdqh+yQkQfVk+g=",
+          "size": 4933510
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.2_freebsd_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_freebsd_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_freebsd_arm64.zip",
           "shasum": "5ab96317d42ff3a550702db455fbf93f3dc973ab39f5dca6fd5394d9b9591b6a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:uPuwggFNhl7cnjhfJ23n8w/mL9LhNqkbvgWx2Yv0JpY=",
+          "size": 4880452
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.2_linux_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_linux_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_linux_386.zip",
           "shasum": "49e5e6ef7b0b1cc3832c5a6de3d2d98804e274d819eb712132f54032072bdfab",
-          "h1": "",
-          "size": 0
+          "h1": "h1:S27sPk7NWeeZmLfWM4BmBNIS0xha9ZjlI49CV5mSUrw=",
+          "size": 4910255
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.2_linux_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_linux_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_linux_amd64.zip",
           "shasum": "609688bd1c839e2512874d0820c5efbc05ab52eed6d27fae6e3ff8a8d35b8700",
-          "h1": "",
-          "size": 0
+          "h1": "h1:LJu6mu1PXip99zmMhmtgLye5Jd13giU5PIVUCPnE7Gk=",
+          "size": 5301724
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.2_linux_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_linux_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_linux_arm.zip",
           "shasum": "934eafd53e171d8278deae7dba1b90fe65b9bdc497551442feb2b10e89eb021e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:6zWaso2zJWUZO3iBYfcVHc4w2sva9mKrn936lggAscA=",
+          "size": 4930951
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.2_linux_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_linux_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_linux_arm64.zip",
           "shasum": "e7b51a804d25bde394f4fedc88f8e93a9e8be3af80710b9e71f2794b3ad48112",
-          "h1": "",
-          "size": 0
+          "h1": "h1:CwS5Iv6EfxKAziS1izP6tU6h6ZKH+uBGeEUuhxoMx/U=",
+          "size": 4875683
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.2_windows_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_windows_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_windows_386.zip",
           "shasum": "7d159123860edb5a2a88cf5bb9c0d4fc90846f81806102fc6c8561aa96e8ad65",
-          "h1": "",
-          "size": 0
+          "h1": "h1:xhQU6pHCwDyu1Y0q6I0cF5aoehghqhFLCsTXLcu0byk=",
+          "size": 5122142
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.2_windows_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_windows_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_windows_amd64.zip",
           "shasum": "576156c7ecefce564186abfdb91079a21b1184698db111ddca2136ed0a5ac687",
-          "h1": "",
-          "size": 0
+          "h1": "h1:bpaIl8m8clRxxLYcl01IkfEIjGdtnQ+c6eMXlJINLWg=",
+          "size": 5345039
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.2_windows_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_windows_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_windows_arm.zip",
           "shasum": "d5b7d45bfcbf0992518fa69cb37f2014c1a2c6c62ccab3c3099aa35134f5723a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:kv+ugvNMiHI8PqagrWSQaT9mktzOmOOOhoj1EhUCOwU=",
+          "size": 5035228
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.2_windows_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_windows_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.2/terraform-provider-prismacloud_1.4.2_windows_arm64.zip",
           "shasum": "9c47054a2d35acd6bdbdf36b686ca2d0388b585a3861005c81a222faf9745cfe",
-          "h1": "",
-          "size": 0
+          "h1": "h1:sgJLysLHmmYcZ/Tm2rC3XkSs6FwhYbpINz7KONbf54Q=",
+          "size": 4916339
         }
       ]
     },
@@ -2997,134 +2997,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.1_darwin_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_darwin_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_darwin_amd64.zip",
           "shasum": "253e6386c294871ca2aebc839b4139603d6a1d542eaa3cd849f73d500c8097ef",
-          "h1": "",
-          "size": 0
+          "h1": "h1:wSWBv5Ixk6SZ0oZjaeZcYnLwYxeee5Nc3W2cURWmPn4=",
+          "size": 5503964
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.1_darwin_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_darwin_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_darwin_arm64.zip",
           "shasum": "683207f7b90d3400a696612f54a240aa5c6e1342f7c0ce1c0000a27b11dbf6b6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:fVR60KPLuEMeocjsdJP4xD6ZggPXVKwJBpqvgq9SQso=",
+          "size": 5433132
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.1_freebsd_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_freebsd_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_freebsd_386.zip",
           "shasum": "abdc8e8f65b5fcaf73a9b8651c5a599849dc5a18f9d9ccaf21d39fb662349192",
-          "h1": "",
-          "size": 0
+          "h1": "h1:zZJC4DG6eQkxUwDOMG8s13C4v+Q/ZscerFxxjcwEBeY=",
+          "size": 4909564
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.1_freebsd_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_freebsd_amd64.zip",
           "shasum": "883cff571340622337628c6222cf6d93a56e5e8936d00bcd4b92b2f73c40c64c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:cYOU1jDh5V9j6QRyYT6Rzauth7OWUZZjJ/4W26FwcEU=",
+          "size": 5394373
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.1_freebsd_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_freebsd_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_freebsd_arm.zip",
           "shasum": "0cc5a276cd2612be768720990635d3bc50b5469d93854bc2576390430e009405",
-          "h1": "",
-          "size": 0
+          "h1": "h1:fvkNnGbe9Z2fRgqxkGFUZ59CEmmoGUGs9dmuWLdPERk=",
+          "size": 4932759
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.1_freebsd_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_freebsd_arm64.zip",
           "shasum": "87a95e9a3e5f3d59aa61d921af95125db0be983080bc3fedc09b0491ea646768",
-          "h1": "",
-          "size": 0
+          "h1": "h1:S1+PcIdCDOXScqlRWibcPonodyHA54TMTnv44Rl47zo=",
+          "size": 4879497
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.1_linux_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_linux_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_linux_386.zip",
           "shasum": "386ea4909a0070cf2e4ab4606977038d9333785d04481be094520d1b3a7bfd94",
-          "h1": "",
-          "size": 0
+          "h1": "h1:IvoJ+Bkm69+PGJmavc/EfCTil0KnL7E05BWFXkpezHI=",
+          "size": 4909451
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.1_linux_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_linux_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_linux_amd64.zip",
           "shasum": "dc13f2d0c6f22a39e6166dd85fcb7cccfb5fed2b4ad16f5e12e120799af87c83",
-          "h1": "",
-          "size": 0
+          "h1": "h1:f4wF/6nU3mK+4kKkic+b3/ZgxttsfU4Drpyka6zzZEY=",
+          "size": 5299873
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.1_linux_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_linux_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_linux_arm.zip",
           "shasum": "3a309f0fcae612297d1258727ae87bb2138858e793b364e75a84be89abc1c179",
-          "h1": "",
-          "size": 0
+          "h1": "h1:2axPqVBrAsazqt8jE2uLlj76zRrxiXyR7++FVmSApiU=",
+          "size": 4928643
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.1_linux_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_linux_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_linux_arm64.zip",
           "shasum": "096a313fca5828be60f91e0e57ca33f2f28a67c80754486d1af11acb18d884ee",
-          "h1": "",
-          "size": 0
+          "h1": "h1:J0qfrVWPHy8Tks3Fb4tAdtpXGdNVzg1E9h4scJtrOqQ=",
+          "size": 4874290
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.1_windows_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_windows_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_windows_386.zip",
           "shasum": "3705f0e53e8c68852054ff2692c9c4b16042d426b80bc8df9f8b443d502f9cf7",
-          "h1": "",
-          "size": 0
+          "h1": "h1:KhTGqhnT5NV7hD3dJ/pY7KT0TW+VBJNqaQ6vxuUaGhE=",
+          "size": 5121289
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.1_windows_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_windows_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_windows_amd64.zip",
           "shasum": "f4a29eeafe258d72a5961ad59129ac843a5758ed53a21a26f97a6f0e105c51e1",
-          "h1": "",
-          "size": 0
+          "h1": "h1:sErFGK/Gog7DtXq017OdB+4HE8TB2bEnC4jNtUCPQso=",
+          "size": 5344017
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.1_windows_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_windows_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_windows_arm.zip",
           "shasum": "0cea6792baf2eed1a533fc989fe889ae6d4f8c99b8a62de09e797421f950b19e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:OULhRZJ3B7jQs6eiGkoEP1bZY+Go5a5vQdHeWf358xw=",
+          "size": 5034025
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.1_windows_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_windows_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.1/terraform-provider-prismacloud_1.4.1_windows_arm64.zip",
           "shasum": "a4be7344eea9701445b20394c69cd612d3d706bbe30a985d0a1b3040e8cf0c22",
-          "h1": "",
-          "size": 0
+          "h1": "h1:/QcCJaRlSlXbD3drY5qAyY93iXiT49A46JoTZv78Tnw=",
+          "size": 4914661
         }
       ]
     },
@@ -3133,134 +3133,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.0_darwin_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_darwin_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_darwin_amd64.zip",
           "shasum": "015a080621fbab216dc6231b6468ca4de5a4c5806c3605c97b76e4f8e997ee04",
-          "h1": "",
-          "size": 0
+          "h1": "h1:J+hlyPkneQJvbKaHNDoaEKUUg7uClLoyVep+YxFfcWU=",
+          "size": 5502179
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.0_darwin_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_darwin_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_darwin_arm64.zip",
           "shasum": "c2b8bb80d5d6faf97c12b7c431d52a7d82a34721172b64ac4743952d7a9e3862",
-          "h1": "",
-          "size": 0
+          "h1": "h1:qUyQLtwohETH2Af1WGupEQlXK/YGAY1tG9so7D+rNY0=",
+          "size": 5432041
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.0_freebsd_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_freebsd_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_freebsd_386.zip",
           "shasum": "8463ef0bb6aa623d4b77e7647aead5027be91802c25edc6a2a9dfee0cda22cb2",
-          "h1": "",
-          "size": 0
+          "h1": "h1:OC9X7NadQdt/zuWiFSxLwsTZiBAGrt1IS1NRyaY9JdQ=",
+          "size": 4907971
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.0_freebsd_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_freebsd_amd64.zip",
           "shasum": "0c78419849eae8f732384737e5812d4930df9d448cf99a57d4bfbd339e675007",
-          "h1": "",
-          "size": 0
+          "h1": "h1:uYGVCCt26QA54R/hT7V9xWgTKLyuP7x4y8GXoRTnPzU=",
+          "size": 5391722
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.0_freebsd_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_freebsd_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_freebsd_arm.zip",
           "shasum": "d145fe9955bade5c2f0489f120c4b6c1aa79bc454fcb9a05e2c49b29dd9c3b36",
-          "h1": "",
-          "size": 0
+          "h1": "h1:KpNnKaXaDNYd1OEgHpzSBCs4Hr8CJK12g/o6SY7BigE=",
+          "size": 4932047
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.0_freebsd_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_freebsd_arm64.zip",
           "shasum": "1bf47537bc7f96cd866a16fe706725d97b503f86f1a3cfec453f95fef2899805",
-          "h1": "",
-          "size": 0
+          "h1": "h1:+muVAHPid7C3KCxtJ6zegQSt7TqU0qT6RHZ0L/tVRvk=",
+          "size": 4877784
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.0_linux_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_linux_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_linux_386.zip",
           "shasum": "deb13e2e5abfe05281dc2affeebc4f8246cecef499e8c6896a56043eae5e8c58",
-          "h1": "",
-          "size": 0
+          "h1": "h1:NzhM9W36Ea4k+fpnVTn48fYUxtXiZgBGNcyBU/vtfQY=",
+          "size": 4909037
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.0_linux_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_linux_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_linux_amd64.zip",
           "shasum": "f13b446921e640f55db2f6019ad3c1761c216cc2a5aff0385d870187af29e556",
-          "h1": "",
-          "size": 0
+          "h1": "h1:AfYLYoNnYfB9B2sTqLcZgv8q4lDwGtRom7agOJs59cA=",
+          "size": 5297630
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.0_linux_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_linux_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_linux_arm.zip",
           "shasum": "710ffaf863d186902bc808af61c617689d253f4c065d1620c86264d0614502ce",
-          "h1": "",
-          "size": 0
+          "h1": "h1:84zYKWl63V6aVAJuMcbfCHJqBrFKwpwXe/guNH2z3jI=",
+          "size": 4926785
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.0_linux_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_linux_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_linux_arm64.zip",
           "shasum": "099b8b20265008bf3604cb365c2c87741d109feb5984b447412dff4ec6a3b36b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:LQ1b/eOVevquRfAOPWI+BEm+9bVlZQPHhvkvyCWCkYY=",
+          "size": 4871844
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.4.0_windows_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_windows_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_windows_386.zip",
           "shasum": "0e433bf6833b53ac7d2d03a48bcdcec1df3a1ae313aea0d192a1e8bffedf7366",
-          "h1": "",
-          "size": 0
+          "h1": "h1:A7TyrXDsceXFPieW9fhg0kpqxIGft9PmHCzUWF4nmsI=",
+          "size": 5119575
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.4.0_windows_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_windows_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_windows_amd64.zip",
           "shasum": "ad923d82923c411fd00dadd9fcec8eb70b77e4ff11f126b4db243315fb6a9f6b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:f5eFElRAQ1sG352RPM+cC4DzfSkkWkSoZ42Cw6dwvC0=",
+          "size": 5340699
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.4.0_windows_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_windows_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_windows_arm.zip",
           "shasum": "b368a6ddeb902ada103362f0bd5d75eaa93b3815730e26dda6f2bcd0139668f1",
-          "h1": "",
-          "size": 0
+          "h1": "h1:PNQnLebtGQeZA40M9b+b6c7S6bMcQslCvdvMwchHI+o=",
+          "size": 5033033
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.4.0_windows_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_windows_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.4.0/terraform-provider-prismacloud_1.4.0_windows_arm64.zip",
           "shasum": "c8a1f63d3aa4bf6c24b299d2a21c74cec5759dcac54e80b2705f8bd3618ea144",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Dh1Wip/quWCqSD+N+3gorF4jCh3qZ9sxVA2EpLayyO4=",
+          "size": 4911756
         }
       ]
     },
@@ -3269,134 +3269,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.3.9_darwin_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_darwin_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_darwin_amd64.zip",
           "shasum": "20fe8203ee252f330a360e63b87d79431bdf9cc9fbd2665c5a7813e4c52f0068",
-          "h1": "",
-          "size": 0
+          "h1": "h1:hnnIAKIB7W/22zf3e6vxAkOEzSsBGJAv4jYQpAdpLmY=",
+          "size": 5496375
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.3.9_darwin_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_darwin_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_darwin_arm64.zip",
           "shasum": "f485ec46ece6bc0d9ff7d099d434e950d3a53f9390894caa06c5b2f096b7c047",
-          "h1": "",
-          "size": 0
+          "h1": "h1:R6XB2CqTvLbfxCb4MBLtzrCInAnwkV7sV3Gmrvd6cCU=",
+          "size": 5426986
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.3.9_freebsd_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_freebsd_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_freebsd_386.zip",
           "shasum": "db37772452e3b4c2263e20aa0bf2e91bcb168c1252e8c6171f0f5b7e7a395de7",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Q4jeKT9pBq+NcehK8RjgO2bLlTOHuonAUC3Bglvvqhs=",
+          "size": 4903822
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.3.9_freebsd_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_freebsd_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_freebsd_amd64.zip",
           "shasum": "8cd06108f7094dbc0c5fe8d178cb537c19c1f96ef5d710210900ffbba1ea4675",
-          "h1": "",
-          "size": 0
+          "h1": "h1:sUrJ5p2RhcWgGzexykEXGB8BjgqY93SThqZXy23RPKw=",
+          "size": 5386653
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.3.9_freebsd_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_freebsd_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_freebsd_arm.zip",
           "shasum": "f85e396494d28164d6fb50c6867772d39b2746d710de6988884837010bdcd90e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:UdHFzdI45iQmQajvqa2P/PqLHqwbEKK4w8oEt9PfFR8=",
+          "size": 4926188
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.3.9_freebsd_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_freebsd_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_freebsd_arm64.zip",
           "shasum": "3b35040bf6dd2357164c3a2fc7fe79958a88382b7687555d661fbc3cde3a1182",
-          "h1": "",
-          "size": 0
+          "h1": "h1:O8OpM3ib3/XXMtGdedItpUE03x2jxv3SBltCmOTWauk=",
+          "size": 4871232
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.3.9_linux_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_linux_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_linux_386.zip",
           "shasum": "233d9b6cc685d7423bd8b650d12f7277f491410db868e2e6e6dd0940526bceef",
-          "h1": "",
-          "size": 0
+          "h1": "h1:quimwgUyEpGtrxMUc7uDx3Dc0Eg4gAn02vVf3sWB3u8=",
+          "size": 4904808
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.3.9_linux_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_linux_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_linux_amd64.zip",
           "shasum": "f9cb28302e77e0c12bffe6bb18d7a602aa7abda346c6aba213bcc9599a4c1b38",
-          "h1": "",
-          "size": 0
+          "h1": "h1:OQtQqSGYflsjkJRNqkBrhcPFmxfBEHoveuMpPTUXGEQ=",
+          "size": 5292991
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.3.9_linux_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_linux_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_linux_arm.zip",
           "shasum": "0feaee1391fbfd91eef2513da93d1baf1b82c0213d2201bd80308691175d9eee",
-          "h1": "",
-          "size": 0
+          "h1": "h1:kCavyLjSMYpXHhcaLcPeKWTnCWhLEqFQQbnam5o9cNw=",
+          "size": 4920688
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.3.9_linux_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_linux_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_linux_arm64.zip",
           "shasum": "46ee3244a1fd51e39afe118b3d331e2394f6b38a7b80758f82dea52821d376a6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:0LoGiQsfUwjGvbc2T1yq7NkTWsbKQ9N1kiS3o8YfnLQ=",
+          "size": 4866820
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-prismacloud_1.3.9_windows_386.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_windows_386.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_windows_386.zip",
           "shasum": "30deae97508924d59d77dd66bd85635f73801a71c90953922007287d56398d3f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:JNp4E0jLcJfZG7P/IDdC/oe8q1oCJBguC1znTxOGzBM=",
+          "size": 5115833
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-prismacloud_1.3.9_windows_amd64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_windows_amd64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_windows_amd64.zip",
           "shasum": "cc00f86d9eecf80d7aaa521db1b356d4ef61737984ff5f5dcb236c7c607bc52f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Q+TF+DGt6ERc0z5q61t5eVZkVYyZkGo6IwtUqKo0vw8=",
+          "size": 5335270
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-prismacloud_1.3.9_windows_arm.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_windows_arm.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_windows_arm.zip",
           "shasum": "9d1327ee76ce8b2da2e1e637ccbc1f73c2e02cc753aaebd9d37e44d10e5655a1",
-          "h1": "",
-          "size": 0
+          "h1": "h1:VO8DwQFFV3cBVri63ssjJ1+EYxv8wpUIHwLPyIwRFIU=",
+          "size": 5027359
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-prismacloud_1.3.9_windows_arm64.zip",
-          "download_url": "https://github.com/PaloAltoNetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_windows_arm64.zip",
+          "download_url": "https://github.com/paloaltonetworks/terraform-provider-prismacloud/releases/download/v1.3.9/terraform-provider-prismacloud_1.3.9_windows_arm64.zip",
           "shasum": "ffe935f42d177dede9330877143e8baec44b7cf2ef062865e1a35f8962e50ed4",
-          "h1": "",
-          "size": 0
+          "h1": "h1:LPIPPwFIEo75ivjN0qh4GiZowTnhjzXgVcLSWIvE3fo=",
+          "size": 4909517
         }
       ]
     },

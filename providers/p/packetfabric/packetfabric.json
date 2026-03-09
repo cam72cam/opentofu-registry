@@ -1501,134 +1501,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.2.1_darwin_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_darwin_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_darwin_amd64.zip",
           "shasum": "8e8d7f3a90a50d526a3c73a9e57f4b63d393b6a3055a747faebb056f610f8423",
-          "h1": "",
-          "size": 0
+          "h1": "h1:u0Dbg1etbV3TWYTDDXMS7hfaQ7zxWLjWIT77zaPQHHc=",
+          "size": 6035229
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.2.1_darwin_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_darwin_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_darwin_arm64.zip",
           "shasum": "b58b7ecc49608ef9f66c60ef1fe2b4771242227e304ca9531d45b6d32fb48c37",
-          "h1": "",
-          "size": 0
+          "h1": "h1:5g9GQG2T5unpxE+yXkEkXUcYUTjCPCtAFHekNtoc6JY=",
+          "size": 5813962
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.2.1_freebsd_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_freebsd_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_freebsd_386.zip",
           "shasum": "1fa33cb18a0ce306361be2762b21aa5d3d97e6b3ec030ebbf4a945b79df46a60",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ZDw5ABnHTyuPPyuv/brkJa3cJJ4HXIx1Il3j2Veeleg=",
+          "size": 5528549
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.2.1_freebsd_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_freebsd_amd64.zip",
           "shasum": "347a76c5aac973d92ed08b4ba136511d30c4b0e0ecccf13ee43940970cdbc223",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Ru7kfjCcxuY5x6OKeNpzfKW6C0ueIBDOevNQu88S34k=",
+          "size": 5815150
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.2.1_freebsd_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_freebsd_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_freebsd_arm.zip",
           "shasum": "7c543bca9e1f6ead783f6fb38e8c17824637ac5ddf263e22f43aa58ee7ac022e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:+4/OPlkc9IWLBUDYupAJMJObpLv4NL5Xsv/5eZGlIow=",
+          "size": 5508523
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.2.1_freebsd_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_freebsd_arm64.zip",
           "shasum": "3a5e4425bf1316621a1140f54c851b2baa033af4c982bd366ce2474ab0e9dd33",
-          "h1": "",
-          "size": 0
+          "h1": "h1:OKIhyIJXY29VHQPUpKMUmRYdKkFZoFuML0GlgKoXJVw=",
+          "size": 5325386
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.2.1_linux_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_linux_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_linux_386.zip",
           "shasum": "910594f2b8836437bcac297d7b7fe92b076d5d394c86be140c2936f8ee571c0f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ugj1AyGnI4p/TIBgvSdDQm3AsS2jSGiLUdFn8312W54=",
+          "size": 5532918
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.2.1_linux_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_linux_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_linux_amd64.zip",
           "shasum": "61451a146bf0068d558c9610e595d8a219ee94a2ed06698402ced298da1d65d0",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Skmv67s+1x+c3jnk6hBF6qBxAry3TI8jR6UEmdK+BVc=",
+          "size": 5811740
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.2.1_linux_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_linux_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_linux_arm.zip",
           "shasum": "518770b51280f1c6d42f9de0c9dcfabd94233c7e4af672fa2c6eb4fb5f02d5cb",
-          "h1": "",
-          "size": 0
+          "h1": "h1:cgEHf+U6BS8E5dXE71VT+DaiUCB0w/l2ezW805Y6PbM=",
+          "size": 5505934
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.2.1_linux_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_linux_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_linux_arm64.zip",
           "shasum": "1b2d5809e9620d8114e24e646a934dbc21157c22da06c965088f4927056c815c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:V6Hdr88hLGiXOY2q/ssI3EmNaee2RCRCRyoDe/3uA5E=",
+          "size": 5323707
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.2.1_windows_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_windows_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_windows_386.zip",
           "shasum": "7587f047fc5b87fb7b69cbea6328b3416256572dc36753fcb3c20778b3676925",
-          "h1": "",
-          "size": 0
+          "h1": "h1:X4In5M11VTx8s5FVxhtMQjsLE1R7LyK2vLRnVk4Z/Lw=",
+          "size": 5716408
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.2.1_windows_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_windows_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_windows_amd64.zip",
           "shasum": "abf296742400fa1b1c427e08954a12482acdc492bbd578a3fc6ad5978a037590",
-          "h1": "",
-          "size": 0
+          "h1": "h1:oU/gcUGomLbVjSS7J1LjNl1TkW+rgnw3we/x9Apg/kk=",
+          "size": 5824423
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.2.1_windows_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_windows_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_windows_arm.zip",
           "shasum": "f2bf24d854001163729e9b3e63f9ae30d15d88733b4bb7d625a8c5842b7496ec",
-          "h1": "",
-          "size": 0
+          "h1": "h1:f2e5Kkmmoe406brNNZxz/o9nyH+/4Zb5FXpsai5YPSE=",
+          "size": 5578324
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.2.1_windows_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_windows_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.1/terraform-provider-packetfabric_1.2.1_windows_arm64.zip",
           "shasum": "6b1f83f10f4bbe12a413acca535d65fffdf355bc1cfbf9d5984c156900f5850d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:8ThvlGO3n1x8KoODsiS/SasQ3faFfZBx5h0MIyt8cVc=",
+          "size": 5339461
         }
       ]
     },
@@ -1637,134 +1637,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.2.0_darwin_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_darwin_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_darwin_amd64.zip",
           "shasum": "bc323c752b9c32ec746d9cb7be703d1b617a13f9840002c0f7897b76a871a85f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:v3S31kDgVzkluQ/X0QVrw7j/CQVlPhQ0l2INTZpxAE0=",
+          "size": 6034583
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.2.0_darwin_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_darwin_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_darwin_arm64.zip",
           "shasum": "4d1983a12b06dd7af1f4891944dd1e1bbc8747fc9b1b350a5b0e15d4158b0f8b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:o8LRnfNQRB3zCkVfISMo+Kfzmg52OTQevTyOt5skZFY=",
+          "size": 5813638
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.2.0_freebsd_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_freebsd_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_freebsd_386.zip",
           "shasum": "5a255f6174c70dfb132e2e0ef50873840bbfb4ce9aac81b49b65ea9e5aa7471b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:pu+1vBsI1Jcvn7HDwJA0mWf9G5MVRDNOvZZR2qXgxoI=",
+          "size": 5528165
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.2.0_freebsd_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_freebsd_amd64.zip",
           "shasum": "f9f8a2e293f5564ceffc36e31612cb4e65186050c8526be5071f13a322da2067",
-          "h1": "",
-          "size": 0
+          "h1": "h1:yGxtAkJe6+ymBEKnqnVtInTkImeSPou5aWVV0qcabFY=",
+          "size": 5814711
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.2.0_freebsd_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_freebsd_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_freebsd_arm.zip",
           "shasum": "56076f27544952e4f1e5fca615a00343a4e56f02ee83e8409b71783353b9a920",
-          "h1": "",
-          "size": 0
+          "h1": "h1:HsQGPTMDikdy89/UPcyNM/yUk1duotciQnxivms/d/E=",
+          "size": 5507722
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.2.0_freebsd_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_freebsd_arm64.zip",
           "shasum": "29a011914ac9e0df6ec1500012c9dfa0195c6a277fd69eec3243943220979814",
-          "h1": "",
-          "size": 0
+          "h1": "h1:9JPyM21fCJgzWuwuMqODFIzAnksMEUQFmOrVUmR18GQ=",
+          "size": 5324544
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.2.0_linux_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_linux_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_linux_386.zip",
           "shasum": "01669fe324f228d6a26e9e1e14e516750dc300447404703139ec820ea2e89499",
-          "h1": "",
-          "size": 0
+          "h1": "h1:bKiE2kqJXgw9epSwPt4msrayeokSkwXMWOZvdS9y4no=",
+          "size": 5532171
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.2.0_linux_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_linux_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_linux_amd64.zip",
           "shasum": "9e7cba2e72f60a3617addaf170fa2f07aec40a58e5974f5d72a75356ee60d3f9",
-          "h1": "",
-          "size": 0
+          "h1": "h1:8631hEwZR4wcvzQyS4JtkeyhQDr/01FN39ebKJC8r0k=",
+          "size": 5811131
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.2.0_linux_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_linux_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_linux_arm.zip",
           "shasum": "72a9104fcaa97eb1f56b973ba1b6afde0b08db9265baf1f30defd6ff970d8110",
-          "h1": "",
-          "size": 0
+          "h1": "h1:lxjpvqIxfiWtINffglr+k68A8T4MFMYjA8oPfKyYQbQ=",
+          "size": 5504344
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.2.0_linux_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_linux_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_linux_arm64.zip",
           "shasum": "34e60762d3ade439d8b736c3cfbfe2f28bfee3286668e264c431946db5a267b3",
-          "h1": "",
-          "size": 0
+          "h1": "h1:hCK7Nj2Yb6EVp64FP+HtQHMtlV2vBX4tr1+EXJ114GQ=",
+          "size": 5322839
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.2.0_windows_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_windows_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_windows_386.zip",
           "shasum": "29557ccbba391af95ccb5ea4ce88c5d06123c350fab4a49f9bc2bf847ba043aa",
-          "h1": "",
-          "size": 0
+          "h1": "h1:wZyYXCLrSwvX7gvHhCnekhC/LVODDJ7iD4L64UDrLxg=",
+          "size": 5715907
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.2.0_windows_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_windows_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_windows_amd64.zip",
           "shasum": "7f26e21fb188a75ee8b5c1c0c63b4c679d362e425b2b70e5db41a3617d1a4d52",
-          "h1": "",
-          "size": 0
+          "h1": "h1:kAcavNapsph8RKtohefYe49/FXSPm0l4kAo43Zpeoko=",
+          "size": 5823014
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.2.0_windows_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_windows_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_windows_arm.zip",
           "shasum": "be4e81c442e1f1c6f462804f4bce6b1d59fdd3b612ef69ac473b88b0533b5693",
-          "h1": "",
-          "size": 0
+          "h1": "h1:duf3o1kNtHr26H2b7a/VWr59kVbZB4R41MR3+oyi06s=",
+          "size": 5575717
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.2.0_windows_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_windows_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.2.0/terraform-provider-packetfabric_1.2.0_windows_arm64.zip",
           "shasum": "e50dc6f3977a49b644053ac28c56b445476da7c1ca2ea57cd390e091e7d15482",
-          "h1": "",
-          "size": 0
+          "h1": "h1:eNEwUW5bb6ny5S5/UN0VAknZgRfEjfRk1NNFfg9M3IE=",
+          "size": 5339491
         }
       ]
     },
@@ -1773,134 +1773,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.1.0_darwin_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_darwin_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_darwin_amd64.zip",
           "shasum": "0f2e8c5d707d0727466e14163eb1b85d4de9cca26d86978ef95172542daa653e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:BJ6PHweLR6wZqdIwLktvF53+6y9qub6R4IuJt5ojZbo=",
+          "size": 6011278
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.1.0_darwin_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_darwin_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_darwin_arm64.zip",
           "shasum": "f23e85a5a708418417e38fe07a06b298080280d81d8425026d8e667e7257c075",
-          "h1": "",
-          "size": 0
+          "h1": "h1:EZonLoRwoJIrjs1RIzeR/Al42gP3EvOx1R+yk6X8/aI=",
+          "size": 5793605
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.1.0_freebsd_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_freebsd_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_freebsd_386.zip",
           "shasum": "021258553764ea7ab19de2a5ff5280159da9acad47cb9a646cd52ab7595c7370",
-          "h1": "",
-          "size": 0
+          "h1": "h1:TyyQpjpHjbcVSIBKyUQTaDF3VAGSGpdAwlQx8ZxYabk=",
+          "size": 5506702
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.1.0_freebsd_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_freebsd_amd64.zip",
           "shasum": "eee0effb86c938c2a81725b5f132f87d4db3e96342fe7f5056439295831dbdb4",
-          "h1": "",
-          "size": 0
+          "h1": "h1:BnZ2nZYx2SzJeJZ98H7k6OisigOIWl4NYnbUg/rZIeE=",
+          "size": 5790036
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.1.0_freebsd_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_freebsd_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_freebsd_arm.zip",
           "shasum": "309db512b29ebd5b75574675ba07d2dbd50e93bd75e5f501b458f2877fdeebbf",
-          "h1": "",
-          "size": 0
+          "h1": "h1:zr4xShYKLRON59sEunS5d7eP2GeKS8JWiC/oW+7D06g=",
+          "size": 5486450
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.1.0_freebsd_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_freebsd_arm64.zip",
           "shasum": "89845f7fb5d990e44fba5d0aecca31111490bca7096d057151b095245dd7e0f6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:i1j1qx+AbmcVlW4VDGdH1tKJiKMxZzNc6N51lP4Lm8w=",
+          "size": 5307156
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.1.0_linux_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_linux_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_linux_386.zip",
           "shasum": "7dd2639d5f245ff490ae6d811650957ec1427e66262aa008687a26b2643b9212",
-          "h1": "",
-          "size": 0
+          "h1": "h1:cmCBziiHHnQzRvOku8r5qSRe/SeAWIGhqfQfaOfc1AQ=",
+          "size": 5509223
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.1.0_linux_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_linux_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_linux_amd64.zip",
           "shasum": "45eb0a2f8e58187316d58927dcb698f29eff36d4ec93cc750a1736bedc2fb731",
-          "h1": "",
-          "size": 0
+          "h1": "h1:A2dmSAJuB3qVDY76V/B0/baxMifje6i0fx4igAhKu50=",
+          "size": 5788677
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.1.0_linux_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_linux_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_linux_arm.zip",
           "shasum": "4d7f63f9641c042467fac422c7425f5275b1c138fa5052286fd041c626852b57",
-          "h1": "",
-          "size": 0
+          "h1": "h1:xxHpVwW4n10q0Wd5rhmwANKwdv3ZOFU7g8mvOuCIQvQ=",
+          "size": 5479245
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.1.0_linux_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_linux_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_linux_arm64.zip",
           "shasum": "3b862f556dd6f5ac2aba1228b72091f30ba8e2a5f0baa862570eef00b1e00d77",
-          "h1": "",
-          "size": 0
+          "h1": "h1:KQCPoJBIfvWNI7IbVJEZcTIRwkIwuBRD6zYAiSbtjig=",
+          "size": 5306493
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.1.0_windows_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_windows_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_windows_386.zip",
           "shasum": "d658d354f74e682e4f0a95e47e535534a008780d435fceb2177d11ee42a83b79",
-          "h1": "",
-          "size": 0
+          "h1": "h1:wC/fzC3Q432YEehvF11QNlzst48OsEIL4MXXPzFcOPY=",
+          "size": 5696063
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.1.0_windows_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_windows_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_windows_amd64.zip",
           "shasum": "d87a7c0eb6e1531a9c61d55a3ef540a240e02cd84ef379b7ce1ba95b708115d0",
-          "h1": "",
-          "size": 0
+          "h1": "h1:V8lzvZjZQY9T1Pv/XnXVQq0ZgXHpCUwAcB8tRZDfZnI=",
+          "size": 5798880
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.1.0_windows_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_windows_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_windows_arm.zip",
           "shasum": "d6042d2d386af481492a04171dc939ca019bfb1356c50a7a73791272ac880079",
-          "h1": "",
-          "size": 0
+          "h1": "h1:r/RC1Ds/z+qaKSwDacdai/0GA8BsWXQm3OmjtR10E2g=",
+          "size": 5553130
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.1.0_windows_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_windows_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.1.0/terraform-provider-packetfabric_1.1.0_windows_arm64.zip",
           "shasum": "ce624759b4acfdb7e0fce087d5de1e2970297d668474b4041bd31b51d913298d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:fjTo1q779pmrzvxAbtqd8EodO4+BHVHDdTD7xkSTZYE=",
+          "size": 5322915
         }
       ]
     },
@@ -1909,134 +1909,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.7_darwin_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_darwin_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_darwin_amd64.zip",
           "shasum": "db58573aebbefe988f5f1cd773c5673f2401d7dcd076d49e0a0bee8baaad8bdf",
-          "h1": "",
-          "size": 0
+          "h1": "h1:UpnS06pzamoS3To8WTQOaFNW+hRsa6G+FZ0K5JLKW8Q=",
+          "size": 5997534
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.7_darwin_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_darwin_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_darwin_arm64.zip",
           "shasum": "eef3f9de0bdb6262821769cbaf564288146a5b0d799d0647b707e90b4031f81a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:uA3sRwY7ioB684s1L8vTQInEYF8eKRGWzkBEkFVAd7w=",
+          "size": 5783998
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.7_freebsd_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_freebsd_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_freebsd_386.zip",
           "shasum": "ac2b6ce54b7903a008b51d1638c6f8a09002413cfd6bbad2ab3753365de0017f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:zQe5urCAOOdqdhFOoWyL9YgkIfJC7m6Uu5RFNKv0wBI=",
+          "size": 5496508
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.7_freebsd_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_freebsd_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_freebsd_amd64.zip",
           "shasum": "69cea7e3ad2c46c6837ffe9f1a8724e6cbf3114637c0de7a0f2b3e7994a52001",
-          "h1": "",
-          "size": 0
+          "h1": "h1:MMxLe08Rdya+qMQJOQRvjc2xaDQj6O9swvtUDWGUfsg=",
+          "size": 5780024
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.7_freebsd_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_freebsd_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_freebsd_arm.zip",
           "shasum": "a6cc045bd134a546cf183a58698777366737c30716abb3536d621e8b6c92d8dd",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ZggkDoDUKm1FXxKR4fEjPNFpSVpH8faT0eHcleRlORc=",
+          "size": 5473450
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.7_freebsd_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_freebsd_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_freebsd_arm64.zip",
           "shasum": "bb4fb26fe327b83bf3578fdcf28658689c93d5e66799f6cdc0b3ce74ce046b6c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ejCy1NvSSx8UyMQ7UlNzk6i3E8WvhS49UI6FCkSGy7w=",
+          "size": 5295278
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.7_linux_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_linux_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_linux_386.zip",
           "shasum": "fe69845474c75fb2297891de3a6639cc06abae2e0c4cfa3d859151c7b62c0a37",
-          "h1": "",
-          "size": 0
+          "h1": "h1:wNXSJgugQG78njGKdeJZBBgcQ0KGOgs1UxTChWOKi1M=",
+          "size": 5500490
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.7_linux_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_linux_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_linux_amd64.zip",
           "shasum": "bc2c97f9bb9b94b2c7ddffb028ebed2048d1b697ad7184f10d9fcfce5371dd11",
-          "h1": "",
-          "size": 0
+          "h1": "h1:6+aes+BdBBhcJ3i/MTehR8rznsIhJTLxBq8H4UQAifQ=",
+          "size": 5774947
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.7_linux_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_linux_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_linux_arm.zip",
           "shasum": "049df731a1200b29d4b1c43a4ee9abaff713639a79ac3afdadfa18fd7d64cb06",
-          "h1": "",
-          "size": 0
+          "h1": "h1:XvNZkhlgasfteQFmz5yP/Uu7nCNeJNhRA9rhPVM2pI0=",
+          "size": 5472304
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.7_linux_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_linux_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_linux_arm64.zip",
           "shasum": "82353a462f0463df01c7a21fa3253526358c1a97272e75d8f21e2673c3b813b1",
-          "h1": "",
-          "size": 0
+          "h1": "h1:TYhTYuYaxD+kNnRhVdzLd57NO3+vQO/X1u5JK+2kMpc=",
+          "size": 5292797
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.7_windows_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_windows_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_windows_386.zip",
           "shasum": "1c3b27ff03d1b07587e09ba3141bfb38c37aca6310e0d122b78f7a0d8807745c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:TqdiA8H9Brl7JBUkojfPB2FB91jA9RNUuqDfsrp0M6E=",
+          "size": 5682239
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.7_windows_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_windows_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_windows_amd64.zip",
           "shasum": "7c9d45c2e29d32421515dbe9549bef343aefdc4b32c6bcbb83d224bd17d5d0f6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:+VYj/T7Yx7ausG3uOwiz6jVKL3G2sY2qlTuC53Pziq4=",
+          "size": 5788567
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.7_windows_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_windows_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_windows_arm.zip",
           "shasum": "4d9104aa1ed6443ee015b71ffa99c8e4c98873704f16b5cb7de71255a17663e4",
-          "h1": "",
-          "size": 0
+          "h1": "h1:T5Qi1xJG7E3V6lShiz58odl8eQpi6wP4vfBe5J/GRQE=",
+          "size": 5540473
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.7_windows_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_windows_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.7/terraform-provider-packetfabric_1.0.7_windows_arm64.zip",
           "shasum": "05f03ed20f41e4851d67855cf4f2daa6eddfdbb31e9805a3f8275afc0a1ff85c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:5K43X412VdpppvTyVDYP2I/JTc7RcJBp3E2vbmjFAmU=",
+          "size": 5309783
         }
       ]
     },
@@ -2045,134 +2045,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.6_darwin_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_darwin_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_darwin_amd64.zip",
           "shasum": "e3fb7a1db6d811d8658ca51e0b04cfc1d3d6e687d89d1625e72d851fe8c73888",
-          "h1": "",
-          "size": 0
+          "h1": "h1:86/Fh4BsDxQw1AtDYdCx77bUhORgRTwtDIegt8sGBOo=",
+          "size": 5997033
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.6_darwin_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_darwin_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_darwin_arm64.zip",
           "shasum": "f9794c76b9c975693526d053954e883adb0bcd502acfa1255389fd6f896651e4",
-          "h1": "",
-          "size": 0
+          "h1": "h1:HCgmfdyCzxq4GPADDH36Ib37e9yzj1jH6jBIb7gMLkQ=",
+          "size": 5783684
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.6_freebsd_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_freebsd_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_freebsd_386.zip",
           "shasum": "c654ac3e0e4b745363687cd15498152de52aef8d0aceac58daec2b866c6b44bd",
-          "h1": "",
-          "size": 0
+          "h1": "h1:nYqKy22GJXB0QkTlakHFAsfQqfi0SNyM6n1rJDQX1h8=",
+          "size": 5495585
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.6_freebsd_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_freebsd_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_freebsd_amd64.zip",
           "shasum": "4b3363759b0ffa39506a85461dae1c60a6ca687d3b50b6f047f76224e40d2a58",
-          "h1": "",
-          "size": 0
+          "h1": "h1:e3wOOVJN7eprHGV20wSdcKJUwo8EqwOMSwcat/O1/0Y=",
+          "size": 5779571
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.6_freebsd_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_freebsd_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_freebsd_arm.zip",
           "shasum": "9ac6d8704a22c8ef289dd03cdf0b21d57564e96747cc9eddca6c6dadb8ce6d26",
-          "h1": "",
-          "size": 0
+          "h1": "h1:MBeG5gkQ4hjjO70GlMS7Uj8knlcLDyse8R9xlbsDMZk=",
+          "size": 5473223
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.6_freebsd_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_freebsd_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_freebsd_arm64.zip",
           "shasum": "46895299db7b2013ae2b6b341a1847299c88bc2423b077eea47cffcdeedf6292",
-          "h1": "",
-          "size": 0
+          "h1": "h1:drMnf6nT3WsEROA/VUtrIdwQla7uzXd1pHxXYY3a5WE=",
+          "size": 5295116
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.6_linux_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_linux_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_linux_386.zip",
           "shasum": "dfde6e917e94171df4bc69a77a300db655ef0e37be89f6795b184d9233732144",
-          "h1": "",
-          "size": 0
+          "h1": "h1:4Ywz+O1+Vi+hvqPOaIB/zKuguMi4MXftRP0JUsVIyhc=",
+          "size": 5499843
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.6_linux_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_linux_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_linux_amd64.zip",
           "shasum": "7adabf88db2e98611a29cccb1c9967e2bb563677ecced581166b17db9624a354",
-          "h1": "",
-          "size": 0
+          "h1": "h1:/l0YvSl9pOngwdYZfgQQXHhYRisxs9q4DJkay39DqA0=",
+          "size": 5773764
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.6_linux_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_linux_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_linux_arm.zip",
           "shasum": "d3e73ba386ad32c11214b9f6b76452f81a5d69a29c75b0d3be081993f6aee5b3",
-          "h1": "",
-          "size": 0
+          "h1": "h1:sYs1rRejavVA9Q1/s236aNxIcYGPyq3v/I5nd3yPDv4=",
+          "size": 5471597
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.6_linux_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_linux_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_linux_arm64.zip",
           "shasum": "9d8b87c3e0f7eacfe619a95270d30195d53831b01d7e7fa15a6f4604937d4b70",
-          "h1": "",
-          "size": 0
+          "h1": "h1:XovfVHihR/x1uA8DZ/OL8/N6b7wwf+cObFa3X1YAi/o=",
+          "size": 5292805
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.6_windows_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_windows_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_windows_386.zip",
           "shasum": "0fcc1e47f1d695a097cc7a63f96bfb242b57305bc15d87bfabfa5ee41073de4c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ov2we0SA6Ppi7NIK9FCzqHr/PF12+S5sYbkeSqRXbyI=",
+          "size": 5681066
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.6_windows_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_windows_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_windows_amd64.zip",
           "shasum": "a2308bc12952d8c565d2bd7f87afcdc849851a82c9101988709866b9cbe260cb",
-          "h1": "",
-          "size": 0
+          "h1": "h1:W3Vt+fIu0I2zpbyqt0gmWk8ScD4KZJhik4IsYKHkJ9Q=",
+          "size": 5788342
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.6_windows_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_windows_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_windows_arm.zip",
           "shasum": "266f24672f8baa4af897e447d79fcf4b79096b28f535317f4c1059e05eaf2fd7",
-          "h1": "",
-          "size": 0
+          "h1": "h1:FCY733K3LXflcWFTnVRvUFv4C5t5wOtL4+L97iKJyrs=",
+          "size": 5539859
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.6_windows_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_windows_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.6/terraform-provider-packetfabric_1.0.6_windows_arm64.zip",
           "shasum": "097506a4b2955be46a15284e95b5e127c4d4443cf2d83ae9a4624306a2eacb82",
-          "h1": "",
-          "size": 0
+          "h1": "h1:fxngPfd+8SC0J6HBcJmDIl0j5G3dfI/xhF7jc/2oaOo=",
+          "size": 5309049
         }
       ]
     },
@@ -2181,134 +2181,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.5_darwin_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_darwin_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_darwin_amd64.zip",
           "shasum": "c761cbaa60dc7db2319ec6bc6c9c73550a4906b63211a1fea44e7ac7f99ebb11",
-          "h1": "",
-          "size": 0
+          "h1": "h1:mDM8wiUwgHk6VwHvkQfqGzd+rkhAabv3W8XxD2Fi/Ck=",
+          "size": 5996820
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.5_darwin_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_darwin_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_darwin_arm64.zip",
           "shasum": "1c91798b50885ada61f789a021bdbd93bad0b1a4806db6857ef845c4586e9390",
-          "h1": "",
-          "size": 0
+          "h1": "h1:wAxOytxMr9HMvkNwj943y4BzH3iAlxYqGhgrwf3LWxA=",
+          "size": 5783551
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.5_freebsd_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_freebsd_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_freebsd_386.zip",
           "shasum": "c443916b8e1801539d6ee068aed205f58db1844718c2c07253291b02d426a1ec",
-          "h1": "",
-          "size": 0
+          "h1": "h1:z0qWpBjXvBCNuYu1tnj2PKWXbLd9oMV2dM/qvMM6BY8=",
+          "size": 5496369
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.5_freebsd_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_freebsd_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_freebsd_amd64.zip",
           "shasum": "2f17071e5e192be6428da55ba70191ff6a6855cf20a2eda4167a9d192505cc3c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:cwdFjDkw3zx+3DkOrrU1PIOjERsbPAMtgvf8xyo2b2A=",
+          "size": 5779736
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.5_freebsd_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_freebsd_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_freebsd_arm.zip",
           "shasum": "2fc9a4d05aa5b043a31679e15440ece43f9d6388df466dbf4ed130a5d8a2f11a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:5gz0zjR3h8Mvld/pBP9nXo9BvTNeBXZ1fRk9OjfaF+I=",
+          "size": 5474013
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.5_freebsd_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_freebsd_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_freebsd_arm64.zip",
           "shasum": "4c1b97b253acc10aa2d2a3d29e8c9a7ce740053e69a1908f22f5fb48e13a37ed",
-          "h1": "",
-          "size": 0
+          "h1": "h1:LYnlTQkiCo1S1uX66Uq9wP57NTZNJThwud3f9hl7JwI=",
+          "size": 5295601
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.5_linux_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_linux_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_linux_386.zip",
           "shasum": "87b2c01ce7366e3e7e70a149282acd87f974aeccae8e69ec0ba265de8ab80e54",
-          "h1": "",
-          "size": 0
+          "h1": "h1:DJAcNy2cKqpvsRifOE8COcSU58RVaXnfV6FFyU123Ro=",
+          "size": 5500483
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.5_linux_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_linux_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_linux_amd64.zip",
           "shasum": "e1f946d7eb279f82d3b101c9133c9fb40e6c37f7217e524d965ce0f2004eef5d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:oxcNT4oDX770SsOtaFax4PAXiBr0eC1xVPUO3enGysM=",
+          "size": 5773704
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.5_linux_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_linux_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_linux_arm.zip",
           "shasum": "df54327823fac3576fc2163a1c77aebdc1d0e931e904ad5e55aa355e1aaa2c14",
-          "h1": "",
-          "size": 0
+          "h1": "h1:AnBx3LjDFhpFfN/9uvYmwg/lN8YngiQNxFCb+ViNWIk=",
+          "size": 5471432
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.5_linux_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_linux_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_linux_arm64.zip",
           "shasum": "f8e019112482d66a42b95387d19b9145d9b3088e671a534b56b9908bb50a4c65",
-          "h1": "",
-          "size": 0
+          "h1": "h1:1JH/L1EcqFDEeZr2hdpSpb8y8n51yI8slCxdwZadd3s=",
+          "size": 5292849
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.5_windows_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_windows_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_windows_386.zip",
           "shasum": "a0d13f5999630db4f881aa08fd66456a9637ee91e9c2adae2aa0c596cc99f14b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:xJ059hZ8VQYDn+i0zhBcVkxQtrC4C0OxEMFBFGb/XyA=",
+          "size": 5680632
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.5_windows_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_windows_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_windows_amd64.zip",
           "shasum": "f2466926a6c29d3951ac9c98afe39da49523ca18e69a07b43edc992f0ae11383",
-          "h1": "",
-          "size": 0
+          "h1": "h1:6KmmVnqz/gFiBVt1bWQB1HyAHsECWKKQQnSHZrQBZtM=",
+          "size": 5788242
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.5_windows_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_windows_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_windows_arm.zip",
           "shasum": "417a584722c23a0157e6538fe49a4090869d189acbb5e110eb8cda02b8b7d7d5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:pZbSRiBKIVKbsHYsyTy/2tklda7L8clqHvVhfMxvF9U=",
+          "size": 5539899
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.5_windows_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_windows_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.5/terraform-provider-packetfabric_1.0.5_windows_arm64.zip",
           "shasum": "003d13ed99ef2f8fdd9f11b9fb9bcd0bb98ddd6836383feee2b4429bace22e84",
-          "h1": "",
-          "size": 0
+          "h1": "h1:TgsIdJeiidARHfBknkg8GS6OliWGnvsa9DpZY3IGH9Q=",
+          "size": 5309070
         }
       ]
     },
@@ -2317,134 +2317,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.4_darwin_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_darwin_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_darwin_amd64.zip",
           "shasum": "51447155d443e379291d83d548bfcb032c46d93132703680a9a525ada1b82089",
-          "h1": "",
-          "size": 0
+          "h1": "h1:e+qI/3tUgs39cetAej1mcQ+tgIPqFXAc4nIAihxCm2M=",
+          "size": 5993075
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.4_darwin_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_darwin_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_darwin_arm64.zip",
           "shasum": "9caca3460e213767c837da4bafc91cf481cdb96496286c7a7b64506e1f3308bb",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Z1hZKnqnSwKjiY8AAilu5Ut92mGeKUrcqNq2IxC63wc=",
+          "size": 5778922
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.4_freebsd_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_freebsd_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_freebsd_386.zip",
           "shasum": "3a5d3c3b5349b31f27bc30f5228c37101e7f8c586a343c8d4e97821111d1beae",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Nevq0YKGOOV+ke0Ftg2MOa0h4zHsRB0+tBoshhP2ydE=",
+          "size": 5492198
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.4_freebsd_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_freebsd_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_freebsd_amd64.zip",
           "shasum": "6970ead05dd24e4fa55c14af1e0c275f43ae87b7cf5bfc81ad6824a464b567b5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:NObQMcB0aXKDPvm5DjVNKKCZc/D2W/HuRwNZDSPgvYI=",
+          "size": 5774237
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.4_freebsd_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_freebsd_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_freebsd_arm.zip",
           "shasum": "10824314e56b635f4311f33bef3b19e6b9f528de46a0a5752ac7f8da44386bad",
-          "h1": "",
-          "size": 0
+          "h1": "h1:rNHcmkS/PTX+7XW8QVA1dDemsPVK8OTqtXjCKQMiQAA=",
+          "size": 5469502
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.4_freebsd_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_freebsd_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_freebsd_arm64.zip",
           "shasum": "12e4dff3707f81db2d7ab152bb617eff8566471f315981de1e53bbfd762136a9",
-          "h1": "",
-          "size": 0
+          "h1": "h1:+ry4RYHYajDvIB5F9RRY4/R6t3STYScSJJY3owcoOKk=",
+          "size": 5289942
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.4_linux_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_linux_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_linux_386.zip",
           "shasum": "74823ba3aa38b60333704294d11727ca645c712f797520e91f4e16a8ec808878",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ui2X4yYPnCnTV36B8c8fdVhYKv78qE99FMhiheJsOF8=",
+          "size": 5496160
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.4_linux_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_linux_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_linux_amd64.zip",
           "shasum": "a94e9c4900403abe982703d60ca5d566473dd6b8d47e7e0022760f9e0292416b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:iJmsDKra9vl2uQpHuhsF0QDMaIe87gPh+ox+PH6j9F8=",
+          "size": 5769765
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.4_linux_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_linux_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_linux_arm.zip",
           "shasum": "1fc4dc6f7fcd44fd3b5a1bf4ebefaaf3358b8863e6d08b608507638f41723970",
-          "h1": "",
-          "size": 0
+          "h1": "h1:wkDpzy+oiz3fazqWpbh7LxiTha6EwN4eJy07ka0eqJ4=",
+          "size": 5467416
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.4_linux_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_linux_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_linux_arm64.zip",
           "shasum": "b729a575960456785509a7c85ecd33b9b66b5f900fabdcfe321026425920ff66",
-          "h1": "",
-          "size": 0
+          "h1": "h1:NwSprllCk58lYFbRZkbcJEb6NQnt0Jj5+cgi+5UMW3I=",
+          "size": 5288933
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.4_windows_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_windows_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_windows_386.zip",
           "shasum": "439a95f37d11a30ef377561c2588e9ed7aa23451608426d712fb91404441ff09",
-          "h1": "",
-          "size": 0
+          "h1": "h1:lBS8P3QZnF4NEVgHdXpQ8D7Ua3mo62g51GajzpTeS8E=",
+          "size": 5676818
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.4_windows_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_windows_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_windows_amd64.zip",
           "shasum": "0b000fe2ada7552199f07d8a5ec4db36565086ed95812e733fea1964d9b27e90",
-          "h1": "",
-          "size": 0
+          "h1": "h1:0H7P3U1DxzZyTF0Xe4Tji7J06u4ezs0/r4pSfUFmJvE=",
+          "size": 5784153
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.4_windows_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_windows_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_windows_arm.zip",
           "shasum": "d6125f3ded70676e6f6440fb6c5fdebe5a5c0f1aa7ca2dd435d3eb97d7f2ad25",
-          "h1": "",
-          "size": 0
+          "h1": "h1:nmJhZzsugVodIqO5E1q3FnvgcBIFWLWf6Bch76EXWbI=",
+          "size": 5536011
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.4_windows_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_windows_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.4/terraform-provider-packetfabric_1.0.4_windows_arm64.zip",
           "shasum": "c28d9c2a602258837c1a4ddb4fefc09bc8a3b0d7945e9a7ac099c99e57207bcf",
-          "h1": "",
-          "size": 0
+          "h1": "h1:cGg7QIA3MxDgIh7Usk7j1ghrRHhhcF+jJxaXQo+v1Ww=",
+          "size": 5305245
         }
       ]
     },
@@ -2453,134 +2453,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.3_darwin_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_darwin_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_darwin_amd64.zip",
           "shasum": "5aaa56a1f4f11263880809bc5fc1479809ae3636e6627fa1d59fe86a746fed2f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:j1KKnEB9feLf6sXRzItLi93YZa6oO9SKin7btJL12Dc=",
+          "size": 5989500
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.3_darwin_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_darwin_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_darwin_arm64.zip",
           "shasum": "7c60649ee4870560059452f5da8721b21ebfd8da8c36e31a848b581c8c16624a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:7WBxr4Tu4bNn0eFbf7GTs0MtDe6lYZftTieltCDhsF4=",
+          "size": 5776890
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.3_freebsd_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_freebsd_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_freebsd_386.zip",
           "shasum": "f6e30209caea4b1ac21635f37221f144e72ef8e139caae247f91cc9f79f6d788",
-          "h1": "",
-          "size": 0
+          "h1": "h1:vUDprlyytFmybaBsDMN4BUwfrT0+JqfOLd2YXGXfQ0o=",
+          "size": 5488511
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.3_freebsd_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_freebsd_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_freebsd_amd64.zip",
           "shasum": "f17955aa358978ae52e7744f4eb1eae8c420bed8ceb8c174d2029c7b70c38fed",
-          "h1": "",
-          "size": 0
+          "h1": "h1:HwTTomK1ARV8yjuFcY7f6NmE7BiB5LskpfZgs/7i9I4=",
+          "size": 5770055
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.3_freebsd_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_freebsd_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_freebsd_arm.zip",
           "shasum": "5cef31d243a986518fd89743d6ec39893e25664dea65414fa100d32afd923aa6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:yj51Bw3dnVsaCAxgt8DkMNbjZNTe7+uFlhFqJmDkCDg=",
+          "size": 5467499
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.3_freebsd_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_freebsd_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_freebsd_arm64.zip",
           "shasum": "55af4c4a531c86e8300a9c4abe910119c1f028400eacfbd6a6324568d6c84be8",
-          "h1": "",
-          "size": 0
+          "h1": "h1:QEC4ObLau5MbjeyjFpt7HOSCKMBY95NIB2bIh0N5q50=",
+          "size": 5287438
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.3_linux_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_linux_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_linux_386.zip",
           "shasum": "de538197ebd3ceba8ad02e1808ad2697a6376de06003274125829aa94be6f879",
-          "h1": "",
-          "size": 0
+          "h1": "h1:KIt9gTNrB1apqQcl8ZEjLy8dLDBZwQmfup3FTbb03Js=",
+          "size": 5493946
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.3_linux_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_linux_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_linux_amd64.zip",
           "shasum": "2e7fb81b4ef9e0fd928a5aa32ec71be6b88c174cab4d44004f24a541d371140b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:G8VD5WuDiBVExWGH2rcYDDBueGPlcM8zGnTMi7cOgMM=",
+          "size": 5766921
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.3_linux_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_linux_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_linux_arm.zip",
           "shasum": "5ff7cd98229e82adff3be2b240e74c5645aedb6993f7a05697a0907a07f0a0c3",
-          "h1": "",
-          "size": 0
+          "h1": "h1:PEOlkUM46h3Qja0JKEAkpbhOXW5RoDhn4T3BWkrrGM0=",
+          "size": 5464370
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.3_linux_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_linux_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_linux_arm64.zip",
           "shasum": "29704f22d9180eacadb45eb54321a6fd6e0b83b0cc8a14e1a63052932d592296",
-          "h1": "",
-          "size": 0
+          "h1": "h1:2CDKc42CQxopkLo5G2A7g9ExVG5UQ3TdTQGUrLYuxL4=",
+          "size": 5286302
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.3_windows_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_windows_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_windows_386.zip",
           "shasum": "22517e0215e0ea98b04fb22941b74cf314419452f841e5410b638d086a554cb0",
-          "h1": "",
-          "size": 0
+          "h1": "h1:s7d6Noh5ZeM2Qbso60zWWO3Mvnv+XCkxGUo0phjW6y8=",
+          "size": 5674231
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.3_windows_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_windows_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_windows_amd64.zip",
           "shasum": "b3a01b5fdb4468cd1311a7449113e8f84303af27f48dd7a813a2efa540664ed7",
-          "h1": "",
-          "size": 0
+          "h1": "h1:WYqJGtgXEoIxde47QAjA/MSKrqLUQVJ2hrb5oNU5lSk=",
+          "size": 5780722
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.3_windows_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_windows_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_windows_arm.zip",
           "shasum": "9077535d0f239b047596d5466ec8e95dff74b13099f19d1e1146687daaf109dc",
-          "h1": "",
-          "size": 0
+          "h1": "h1:dLlObdakoBjwMHaBrNkHVa+BahOFcsX1BK34uhyBgWw=",
+          "size": 5533577
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.3_windows_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_windows_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.3/terraform-provider-packetfabric_1.0.3_windows_arm64.zip",
           "shasum": "077f9e2b8b65d764c9db573af3df2dcef05a3d27af49b3b4a33d37dfcb9e9fae",
-          "h1": "",
-          "size": 0
+          "h1": "h1:kdx7Bv6yJgrFQ4QbUndQwEihannZD6Fge3wq0gJVt9I=",
+          "size": 5303948
         }
       ]
     },
@@ -2589,134 +2589,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.2_darwin_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_darwin_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_darwin_amd64.zip",
           "shasum": "1d4cef4ebfa5fb6b6511ea0fd07e96a8cf5c8433157b593e3f9a54a6737851ad",
-          "h1": "",
-          "size": 0
+          "h1": "h1:hg3G3HdKGReIEE/5RZDtBotsYf2OPfZFORtAWB7icrE=",
+          "size": 5990293
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.2_darwin_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_darwin_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_darwin_arm64.zip",
           "shasum": "b86942652ff59f1cb046ecbe827c5b245d5d71fa3efcbd4559f197af15ac88dc",
-          "h1": "",
-          "size": 0
+          "h1": "h1:72/YxLsAglMXdSERkfihR6gOfXlEH2RaanaYWwAYDVw=",
+          "size": 5777216
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.2_freebsd_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_freebsd_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_freebsd_386.zip",
           "shasum": "a41ff58250ae635a23b263ccc7cd8a2dd3d0ee3adfdbfba73339eca0642add2e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:EQJvp0QVKMtqAzXbnGIXDH4RgReAUE2xQdAvotfg/As=",
+          "size": 5489776
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.2_freebsd_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_freebsd_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_freebsd_amd64.zip",
           "shasum": "270428698018129fd99bdebd0469f42c06a9539b3382cbfc2e9fdac717cd2b21",
-          "h1": "",
-          "size": 0
+          "h1": "h1:U2PQ6jGbjZywJkciC7VmSjOBhcaB2sehXji3vj80kdQ=",
+          "size": 5771042
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.2_freebsd_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_freebsd_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_freebsd_arm.zip",
           "shasum": "acc77be90d7a73940b58431db25b1399f94ac593596646219d12d275d1af9247",
-          "h1": "",
-          "size": 0
+          "h1": "h1:j7RoJWb8lOqyjtebS7xiSE7yvnUquTgCnEHZfJQnE50=",
+          "size": 5468060
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.2_freebsd_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_freebsd_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_freebsd_arm64.zip",
           "shasum": "62224c3e5f47eb378363a229284c5a22dff07460c74213b859b35ff477a28921",
-          "h1": "",
-          "size": 0
+          "h1": "h1:OPldw8VXHu/a8ZbuMOAZcSiYLTz+ekX8Q2uW1C7+Cks=",
+          "size": 5287727
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.2_linux_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_linux_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_linux_386.zip",
           "shasum": "96cfa065653ff689695a34c8286a423b920c2a7319d8e9202ac824020a0cf192",
-          "h1": "",
-          "size": 0
+          "h1": "h1:XB52dWAyz5pV3heP+XIwO0hlxCm1MGEI5QKWyeIm96Y=",
+          "size": 5494807
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.2_linux_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_linux_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_linux_amd64.zip",
           "shasum": "63a0c6d3c9f78418c39ab8e96d66e1d12beddb44264d7461f4e9a2c73982d58f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:PIB4eQoXoBO4bmXMCeIeOh5G0ho7Q7uI2Zcea4TW4qA=",
+          "size": 5767963
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.2_linux_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_linux_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_linux_arm.zip",
           "shasum": "1331194a5cfac77e95b8e78db67c066535b636df6bb9370c6970ff823341e239",
-          "h1": "",
-          "size": 0
+          "h1": "h1:BuMdkvxy9fEie66FMzf0umeLUGIqZRo4dTxf+rlnLOE=",
+          "size": 5463960
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.2_linux_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_linux_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_linux_arm64.zip",
           "shasum": "9d87e69200a1d7bd2b6c2744f87d979fa4012971b202c01fa271efc13f1fe23d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:c4qeho7GevFBFqOmJKpMo0TPoYgRDOLWgXoXOa6wOFI=",
+          "size": 5286862
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.2_windows_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_windows_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_windows_386.zip",
           "shasum": "73ea2987ec33d82a2b363a128a945d00f77b93d71e3e44d6b9e7dbd26591c3de",
-          "h1": "",
-          "size": 0
+          "h1": "h1:fnXKiPb4lS+iYjWsgqsq/pHrfzBlyn0VfgEX39/A72w=",
+          "size": 5675196
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.2_windows_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_windows_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_windows_amd64.zip",
           "shasum": "6010d71ee07e5a97f47e0fb3cf78fbd2b440c16d4fdad0d3d1b6e78f4fff46a6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:P+14m70M/l3vcaX0Ljs+5RylOvyEBKUyoPJXjKcnSUs=",
+          "size": 5781500
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.2_windows_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_windows_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_windows_arm.zip",
           "shasum": "91f98fb0435c68f6ce0e068ac974d81691117649693bf9f579bd3a783755c95e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:WX3FyQaSaQO7jV87Cdz39qjNWOGHrHyxOyRuPIVppuo=",
+          "size": 5534033
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.2_windows_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_windows_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.2/terraform-provider-packetfabric_1.0.2_windows_arm64.zip",
           "shasum": "75bc9c7098c3cdc14e2bfd548693a08f5bd36731db351b2e6d4846671f115e0f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:0h5Kwuxks4fAY/CZpsiYZghFOE48yqu0sC57mTzJ/x0=",
+          "size": 5303992
         }
       ]
     },
@@ -2725,134 +2725,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.1_darwin_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_darwin_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_darwin_amd64.zip",
           "shasum": "2995657007e1110154d2cadf309ac3d823d530be819efe244e49f14f212437eb",
-          "h1": "",
-          "size": 0
+          "h1": "h1:GPVO3NHDIPHiFCqf30HOunthUpvKmyg8d4jwws64tYs=",
+          "size": 5989591
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.1_darwin_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_darwin_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_darwin_arm64.zip",
           "shasum": "f3748aed4e2857dd415017daab41fca1eb4bd8bc02ed90ced6c69c31d36394fa",
-          "h1": "",
-          "size": 0
+          "h1": "h1:WG2xaCzFN00pCIl/4p+iWWzYhHBYJDwtQqxNi22u0g4=",
+          "size": 5776975
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.1_freebsd_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_freebsd_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_freebsd_386.zip",
           "shasum": "5ec27782a76a5df9961863665449d649fd04835db951d37485cf597c246c030d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:KM5d8RXK4PIBScbiYH01XGVKwWPCTsTjvFns6XMIOhU=",
+          "size": 5488755
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.1_freebsd_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_freebsd_amd64.zip",
           "shasum": "8a690fa5774910ed4eb32c5cfe8731175150d3d217bf7bfea79cb3a648cddd51",
-          "h1": "",
-          "size": 0
+          "h1": "h1:jqqfWhCIZmwmEEjXTHxHpTe3M1m0SeFqTSrJT5bwMTc=",
+          "size": 5770048
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.1_freebsd_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_freebsd_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_freebsd_arm.zip",
           "shasum": "9a39bc7fc211f236eca86da294ea6b315346f08d9aae77879f0979978a872b92",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Of3ZD0iF2QdthDEXYFALrMGF5dA4dlOATNqAbg2F59E=",
+          "size": 5467438
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.1_freebsd_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_freebsd_arm64.zip",
           "shasum": "92398c1af867cccd39c66a1241d0b500ab0c86a07e0cb70f1a63530f11b6a64d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:hR7Y4jv2k2Fq8+HURewJV8iz8ImI+UaoPxFqFfhH6CE=",
+          "size": 5287327
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.1_linux_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_linux_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_linux_386.zip",
           "shasum": "50156c56c0c2e7954e093d761d8616e2d35c64adbddc49e05c4cdddb9074f863",
-          "h1": "",
-          "size": 0
+          "h1": "h1:dnnzHf3Ljn4JQYpmyeOBIrQ7GER+LIwi3QP0mJaI4Zw=",
+          "size": 5493818
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.1_linux_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_linux_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_linux_amd64.zip",
           "shasum": "71234a070b06813b046b6f42016bdcbf0039b072a6c6cab3b2e77d06e0060392",
-          "h1": "",
-          "size": 0
+          "h1": "h1:1MIzKqOUCCI42V2PzQAhi3gy6YmC8RaWWvLlb1uH3vA=",
+          "size": 5766916
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.1_linux_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_linux_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_linux_arm.zip",
           "shasum": "f302d735e162e18d06c96ce28239c4feac56e18bcb55dc5e55570d5a20ea5dca",
-          "h1": "",
-          "size": 0
+          "h1": "h1:XC9fynt/pkljJ1imMNenZPwEg9XFYTuQxNS7qzv2Z6w=",
+          "size": 5464168
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.1_linux_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_linux_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_linux_arm64.zip",
           "shasum": "bdbd53329d91bf6ebe4be668906b8af867eb409211b643b2ecea74634a261448",
-          "h1": "",
-          "size": 0
+          "h1": "h1:DsYWCZXOgYeOhwdeeD6sZIjdiERCzp3QIv+TmqAepOw=",
+          "size": 5286157
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.1_windows_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_windows_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_windows_386.zip",
           "shasum": "3a5d5c13b953c70674b82265636498f86c93e0a8d629d85c7e65900da4ea2963",
-          "h1": "",
-          "size": 0
+          "h1": "h1:cUQKbxrGjYu/xqpbOYBK4iqCFTYayRUTP5vFxconcoA=",
+          "size": 5675125
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.1_windows_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_windows_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_windows_amd64.zip",
           "shasum": "644cd6d31d5ff9b26c6ee7e6370b4d10b458574213ca4b9a3679e033bd959695",
-          "h1": "",
-          "size": 0
+          "h1": "h1:B2yA12fiT9wuG3z0MzKdDIlmoG9joRyPZFLqZYV7axs=",
+          "size": 5780547
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.1_windows_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_windows_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_windows_arm.zip",
           "shasum": "66f90756484a2e1e9503a22d053d2063dd17ca54985bf352d0d0e6516c9d5ac1",
-          "h1": "",
-          "size": 0
+          "h1": "h1:OWp4ATsP0mbYyH8v1nEWfTs+fYl7B4clhQ0oWkrpnds=",
+          "size": 5533901
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.1_windows_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_windows_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.1/terraform-provider-packetfabric_1.0.1_windows_arm64.zip",
           "shasum": "eef34b950bccec13bf1bb0f6e5ce9796ba496d052b5661028c03abcc209cab6c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:6H0ZTM9x3tjUspJdGeuuTpCFazc1yIwb1e1HaySGDuA=",
+          "size": 5303604
         }
       ]
     },
@@ -2861,134 +2861,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.0_darwin_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_darwin_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_darwin_amd64.zip",
           "shasum": "38e45bd2a79b52f74daae6f3e6dea5e6bd03df56061559ba16d3f0a872b9814e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:/mCiBsimlTjLVG98IlWFQRsxzyUCnlFbFpX18TiZ8K0=",
+          "size": 5989194
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.0_darwin_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_darwin_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_darwin_arm64.zip",
           "shasum": "0ef8a439a3e7199a85420484afc71ce9f40c1485ac209104737b313d83e47887",
-          "h1": "",
-          "size": 0
+          "h1": "h1:0AMlUygxA81dR3FJbJg1U7eAv4LfaWTF5sbXHRLJmGI=",
+          "size": 5776318
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.0_freebsd_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_freebsd_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_freebsd_386.zip",
           "shasum": "c26aaa8b34772495b422c79b454768e854e3531c59ecfdcc4aee620bca6313df",
-          "h1": "",
-          "size": 0
+          "h1": "h1:DaCMlVTgdbgvezDdex9ss6YOd+D7RbdQF4TG4mSDRoE=",
+          "size": 5488496
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.0_freebsd_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_freebsd_amd64.zip",
           "shasum": "452b522336555b44377ca8ba4b2054274806df3513b006fbb0679139315521fa",
-          "h1": "",
-          "size": 0
+          "h1": "h1:HabpApZJC4HKXgtT/JdVy19kVXLUBWowcm0xy+ck3so=",
+          "size": 5770020
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.0_freebsd_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_freebsd_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_freebsd_arm.zip",
           "shasum": "a8f3b88c6150c140917d67bb335e28d53397bc28d0b5b58c40cd213093ccd5e6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:jiRTp8IgA1eyosZX7fLd/Rqg8TzmjGZEgFeBcftDVa8=",
+          "size": 5467242
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.0_freebsd_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_freebsd_arm64.zip",
           "shasum": "77e57ab7e7c1aeb10b109935e0ff599272531230fb0d247dacdb96f0fa515806",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Vbm9C2pepmh/zNIjmnU19SjPD7qp1ELmOCeK2fVW4xA=",
+          "size": 5286762
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.0_linux_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_linux_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_linux_386.zip",
           "shasum": "120eb055fe864ecca7e22eb6bf85d4c4b6d807c3069b3e9ff3c4787625141f58",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Sd7ezGyOdZ0iAMMg4+RhO37eWKwNaiiCGuTxJN+J01M=",
+          "size": 5493557
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.0_linux_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_linux_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_linux_amd64.zip",
           "shasum": "ec9feaa79854849347e0f68916331c8b60a5c7887102be2145d160696f68754d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:MpyOrE9Kv/tkhi6lQsFZGu99x/RLWLI9Q/kCpmDo1L8=",
+          "size": 5766586
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.0_linux_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_linux_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_linux_arm.zip",
           "shasum": "19eb96af76112a6a12e1cdb3add7b56569e4fb45dc43e5e99888300d22991d44",
-          "h1": "",
-          "size": 0
+          "h1": "h1:hi60WLfpBMNUdGaTpi41UfaXq5joE/1xetfoK3UWD+w=",
+          "size": 5463793
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.0_linux_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_linux_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_linux_arm64.zip",
           "shasum": "485b2e140f0f2fd28d32abf778cd6166f7bbe0b22fa95495ad73ebdf187a293a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:1k0fQLSD6PtLWCrOSQfzHGaVuX5FxlCeUHJ8e0+A9RQ=",
+          "size": 5285881
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_1.0.0_windows_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_windows_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_windows_386.zip",
           "shasum": "74df2d8a8efdd218321ff3947265cd5f1533caa098f70f279dbede2c753cfca9",
-          "h1": "",
-          "size": 0
+          "h1": "h1:yKBp5szHjhGJnBchNUSeOHIRSD9zwpkVYaJbHyY1Lrg=",
+          "size": 5674745
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_1.0.0_windows_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_windows_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_windows_amd64.zip",
           "shasum": "f5b9f6c6f17b5304d99096f14cd4b25e94ee6ce0d0e2e0cca88c9c2fd09938df",
-          "h1": "",
-          "size": 0
+          "h1": "h1:/fes3G+Yeo+vI1oV8LRu4oTOsAnRg4jOZhW5rK9tpiU=",
+          "size": 5780211
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_1.0.0_windows_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_windows_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_windows_arm.zip",
           "shasum": "a8991c7c58cd1c15f7d8c373011a9f1f48cef6e7068f837bf37de57fe8158df0",
-          "h1": "",
-          "size": 0
+          "h1": "h1:UKuE75fjDdtQWOYrYiJUqnD0lmViicXDk1XhfrSxg80=",
+          "size": 5533609
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_1.0.0_windows_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_windows_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v1.0.0/terraform-provider-packetfabric_1.0.0_windows_arm64.zip",
           "shasum": "b5a17d300b2d6ea0c3f7cfe0ab0278d0a9d10b5af33c85a3154a24d5d08b275d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:id+A0oEGTO0yuUCSYIJ0U/c601oUdnIizR4s/Wqsh6I=",
+          "size": 5303580
         }
       ]
     },
@@ -2997,134 +2997,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_0.9.0_darwin_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_darwin_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_darwin_amd64.zip",
           "shasum": "e7e62f5f926f367b8b56f95adf67135e33f7253f5b1b818340cd0fd5c5d27947",
-          "h1": "",
-          "size": 0
+          "h1": "h1:xi8/jMvnvcS0zne+sgr1YjtrkRLb3yeTgi/ZaAVskAE=",
+          "size": 5990301
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_0.9.0_darwin_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_darwin_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_darwin_arm64.zip",
           "shasum": "648d493afd0a15e7785cbacf8744b17c40d2473f37f205d6eef3678b9d0bdb1f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Vh8BqbghP7EK4jO9ZhF3Wh2TpfsImlyrkrcYVNzgUBg=",
+          "size": 5776681
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_0.9.0_freebsd_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_freebsd_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_freebsd_386.zip",
           "shasum": "7197ea7020afab30c03adb672f79b03f5b4b153170677fe2fcd93f9913f94ff6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:f1BwyFSGYPLFd010twOL0pRUHZXWRuzLR8+KBBB0Fz4=",
+          "size": 5488223
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_0.9.0_freebsd_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_freebsd_amd64.zip",
           "shasum": "2b45e7bd7f82aaed06c4f9d52fb39b1dcfef12fa59a0c55b88037f9db04616c6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:gyqwR0jX2+quTdIy6z878E1Iv+aWJ9RsP4I/6ekq5+A=",
+          "size": 5771172
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_0.9.0_freebsd_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_freebsd_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_freebsd_arm.zip",
           "shasum": "5e19981d6cb6a6290b64ad25e1c3e54802fd181f88e8911786f9acccdf97fdf0",
-          "h1": "",
-          "size": 0
+          "h1": "h1:E6VyeHZh0BBiz2zfvSWp7CpfuF57drsn/KJiRhwhTws=",
+          "size": 5467665
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_0.9.0_freebsd_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_freebsd_arm64.zip",
           "shasum": "000093d870eae36c692d3ee07288e9bad64f7af4b75289bdab9c94d294102ee1",
-          "h1": "",
-          "size": 0
+          "h1": "h1:T8TKzrG0g4M/I0szu2iMiAEryKsaujCofloxDfGYgdU=",
+          "size": 5287997
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_0.9.0_linux_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_linux_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_linux_386.zip",
           "shasum": "ce73c4b822189f1ffad850d5425dc796a816be3f8e69f9abad23c9ed0d21460b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ULuckbuWwA/a2nm6QOG7J2+ou/fK7lQ1aPqNquAfct0=",
+          "size": 5493784
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_0.9.0_linux_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_linux_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_linux_amd64.zip",
           "shasum": "5e5c6cfef7c82357040a02233a5199facd8a421794c5d05b835b4e8b52473986",
-          "h1": "",
-          "size": 0
+          "h1": "h1:4W5yj4c2dEcqJkKzkW9frVro9ef/tkIBcQ5Cn02aROE=",
+          "size": 5767927
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_0.9.0_linux_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_linux_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_linux_arm.zip",
           "shasum": "4161d12052358cb455b2d00b9e711bbc5ef4cf23fd4e540d41fc7a2319a57acf",
-          "h1": "",
-          "size": 0
+          "h1": "h1:h5Bk96vDaFOx/VTezK+/tBpug/mSnfYj/2CcPkkX3kQ=",
+          "size": 5464858
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_0.9.0_linux_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_linux_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_linux_arm64.zip",
           "shasum": "16125712a7a52a4723d26bea45e7541e1b31ec9b0c3756ddab06e128bc6da5ec",
-          "h1": "",
-          "size": 0
+          "h1": "h1:nwtlDH7mrEODutPLztb2rqOcdhLKjEYQ4O+kvdBmF3s=",
+          "size": 5286617
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_0.9.0_windows_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_windows_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_windows_386.zip",
           "shasum": "38641dc3ec662db11ee5209a345b6725e43e9170905808b3bc43b8ccf70eb1d4",
-          "h1": "",
-          "size": 0
+          "h1": "h1:W2UIgkqGo5NebbqJuUL6H2SFw9C/pKFb7ppE8K+IxmA=",
+          "size": 5674714
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_0.9.0_windows_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_windows_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_windows_amd64.zip",
           "shasum": "c612ea45cfa743efa8183099f85f33549519adf01dbeac2888ad3c00dfe043e7",
-          "h1": "",
-          "size": 0
+          "h1": "h1:T3gMSoXxqVJZEw0XxMRKk9zmv8xL2a5UOixEmO4iom4=",
+          "size": 5781302
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_0.9.0_windows_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_windows_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_windows_arm.zip",
           "shasum": "3d25e57b06fcd63866db5a9d012adc96303172bd00159efe68456ae7f1616633",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ateFKrl+yzGF6Hiqj3F89+JTAa0cce5KKpTuBx3hlYc=",
+          "size": 5534788
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_0.9.0_windows_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_windows_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.9.0/terraform-provider-packetfabric_0.9.0_windows_arm64.zip",
           "shasum": "3b4ec5fe9bcbd3c5cb54b7df62b01bf0a83ffa02e6eeb82b196e3b1e73f1fe32",
-          "h1": "",
-          "size": 0
+          "h1": "h1:WSlKFgWg+YeULlLFv1/eArnMCBGaDtwykKu541Lvy0M=",
+          "size": 5303687
         }
       ]
     },
@@ -3133,134 +3133,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_0.8.0_darwin_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_darwin_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_darwin_amd64.zip",
           "shasum": "d2a5423dbf51bd5fd2624560208c83c54c07fa3a5941e31b9a17209d788df07b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:IMpvUj6pYPWPG+/zB7HfVGHy5SVBP3kJfkeiO7ORjqg=",
+          "size": 5965219
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_0.8.0_darwin_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_darwin_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_darwin_arm64.zip",
           "shasum": "3bec8814f84fee9d3aa6b68deca535cebb40dfa7e70b69bffc0d882a00c936d3",
-          "h1": "",
-          "size": 0
+          "h1": "h1:LzZaj73blFNOIrmfwcy2JXdAo5fiOwoLL6ybCglwz6E=",
+          "size": 5750818
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_0.8.0_freebsd_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_freebsd_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_freebsd_386.zip",
           "shasum": "31406d482d53540c7b3cbb496d287f58b3e213e2f5d269ee33df1139571b59ad",
-          "h1": "",
-          "size": 0
+          "h1": "h1:NQAaH1ealA9RfGAoiX853588ugVcY8/aJRREZL+10N8=",
+          "size": 5467372
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_0.8.0_freebsd_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_freebsd_amd64.zip",
           "shasum": "f548588c22abd0813671cc42182046f44474f4d73d7d0ed837849e5045b72f4f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:+/tFIpqVA3GGx0+GBUrYBzNO8BaPzUJsSZz8FLu4nas=",
+          "size": 5747339
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_0.8.0_freebsd_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_freebsd_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_freebsd_arm.zip",
           "shasum": "09677f232b8f4e272ba00be04acee7c7c4698c1c8c03b7bc98747c4627e44f42",
-          "h1": "",
-          "size": 0
+          "h1": "h1:XHGArH9J+HGf3YFtbvGhmGsho95eT+7iibxopZNiiz8=",
+          "size": 5441280
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_0.8.0_freebsd_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_freebsd_arm64.zip",
           "shasum": "1f18c1454fd5fec6b05d0c12cd670f6b07cdeb2bedfec9fb6ccf12ddabe6f89d",
-          "h1": "",
-          "size": 0
+          "h1": "h1:lHxO3bUvED6SveDAXfTpXfk0ku3eB7f8CglUYBXrU+s=",
+          "size": 5266390
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_0.8.0_linux_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_linux_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_linux_386.zip",
           "shasum": "5e176a848529811091f5ee129bf4fbc97c3dab6e87654200b84eb5ac81b2e3fc",
-          "h1": "",
-          "size": 0
+          "h1": "h1:UZdwOOqa8zU74ffXkSUPHMhXdH7pwjXftW00P/tHSik=",
+          "size": 5469798
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_0.8.0_linux_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_linux_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_linux_amd64.zip",
           "shasum": "9c6d087ec02345f98ca701f1c23b3426aaf0e506ed5d9402625793ef969a1220",
-          "h1": "",
-          "size": 0
+          "h1": "h1:FjOg2s1Zom7q8LWfWL+wXTIQDudWKtCYLLTwwrAJCqs=",
+          "size": 5743580
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_0.8.0_linux_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_linux_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_linux_arm.zip",
           "shasum": "cd5f460fd062a115567a8bd247899195006f95e403c154d65f823f38ef0ca9b2",
-          "h1": "",
-          "size": 0
+          "h1": "h1:FxxpytiA16z5Np0mKEhW1RDPXEis1VP1s6SDw3gBC6E=",
+          "size": 5438788
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_0.8.0_linux_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_linux_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_linux_arm64.zip",
           "shasum": "1cb939315af3c9ba3defadc4f030956b146f7067ed225a656f909b74306c6731",
-          "h1": "",
-          "size": 0
+          "h1": "h1:j9SxNyUVOB82s5toGK71EfFSrGHZUfGLLbqAjN69DNA=",
+          "size": 5265528
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_0.8.0_windows_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_windows_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_windows_386.zip",
           "shasum": "b051652c6484e8707a44460c2ce06169e0f8b727c44b945247cb2db4336b787b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:h7mpbFJFRdAkQkeTxGzndcJhl/Q6DEj7XS/vjnWIO3M=",
+          "size": 5652727
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_0.8.0_windows_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_windows_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_windows_amd64.zip",
           "shasum": "a055e946fde3fc0e4a93aa002aba009f3cf1463079a9b37088867a8553c8b75a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:68xRd/ycAUuynRU/Y+IwNKjdK4ndTXGVxA9tzfQ85A4=",
+          "size": 5754402
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_0.8.0_windows_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_windows_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_windows_arm.zip",
           "shasum": "de49b1c442d06c1f15183c44da7051ac33586ebc914926f02dab149f4d8d5446",
-          "h1": "",
-          "size": 0
+          "h1": "h1:lAd+shfmppheMUa+NDgfURD4zApnTPLUbALuNk4TxLw=",
+          "size": 5509025
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_0.8.0_windows_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_windows_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.8.0/terraform-provider-packetfabric_0.8.0_windows_arm64.zip",
           "shasum": "c9a6931ffccdafc1fe7771ceb167458c86195691bdcfdce9fce7b34ff9711ff9",
-          "h1": "",
-          "size": 0
+          "h1": "h1:sH0rUSCjQw8H9ejKv6SLvijL9EirTD6my2dy6BACYLI=",
+          "size": 5282430
         }
       ]
     },
@@ -3269,134 +3269,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_0.7.0_darwin_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_darwin_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_darwin_amd64.zip",
           "shasum": "86b6baf965f2f5f19629f3a631e7b8ea8fa019e5ad4e47394d09090d882f02ce",
-          "h1": "",
-          "size": 0
+          "h1": "h1:MAFzKTUr+cCyyIKsGhQGBqLBRdB00CZiuzrPlqo3URA=",
+          "size": 5957944
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_0.7.0_darwin_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_darwin_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_darwin_arm64.zip",
           "shasum": "688a8a222fa9b1d9b475ce52c785916a93ea56a1267e3d1b48cf2bf21f83ea96",
-          "h1": "",
-          "size": 0
+          "h1": "h1:dKPfQXAkDq0UbTeRMbhdtQfU7UXZYJsEdXs55J3mtXQ=",
+          "size": 5748089
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_0.7.0_freebsd_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_freebsd_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_freebsd_386.zip",
           "shasum": "7ffa66edb7ffaecbf99a9b3761f64740e70ec894f2a27dae0b15cba2bc0b4550",
-          "h1": "",
-          "size": 0
+          "h1": "h1:gmnwdHxcDgG1NbztFSEQs1wY91IO00AOKTANpZ5n71A=",
+          "size": 5462849
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_0.7.0_freebsd_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_freebsd_amd64.zip",
           "shasum": "ccebe0263bf18aac10114a7f833405049d6b2dcb14e1b7292055f5a74d44741a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:JWFv34HcPmrAL3286Mn6vWYYbekjapNq6y85l1gyiMg=",
+          "size": 5743060
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_0.7.0_freebsd_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_freebsd_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_freebsd_arm.zip",
           "shasum": "04a82424670346f49b0b6aa3e031029072acc4159f5d9a29796bcba1c24bd363",
-          "h1": "",
-          "size": 0
+          "h1": "h1:kwfeafiQmQo3yIYbFAx1BTL72tks1WW0bSHJVFKNWq4=",
+          "size": 5436870
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_0.7.0_freebsd_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_freebsd_arm64.zip",
           "shasum": "956e132bdd733dff7dd8ec8c7d9686d91dfb61c87c4feff0314e9bb37f574abc",
-          "h1": "",
-          "size": 0
+          "h1": "h1:9C2En2r6k+32/9HT6ZKlhPjAfEv5mFaFlNBH4jjGVn4=",
+          "size": 5262924
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_0.7.0_linux_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_linux_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_linux_386.zip",
           "shasum": "8f3877613d86d945371260bf95e463d7e735e3de822de4f4d72d4e0519027257",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Rt/iCCqbvVYa4XS4357/k39tYrmCzNDQ/ZuyZpoIhhE=",
+          "size": 5466917
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_0.7.0_linux_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_linux_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_linux_amd64.zip",
           "shasum": "666a7df6029a54fcf7cad07f42ee158c9c3b4960726573e3cf1e58d622155e06",
-          "h1": "",
-          "size": 0
+          "h1": "h1:sulh5tPdFEc3yOuiZMj3VcrkUHJhLr26JRoduiDulRo=",
+          "size": 5738216
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_0.7.0_linux_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_linux_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_linux_arm.zip",
           "shasum": "a6bb5b022405b3fcab837f6c196dff15070661fe7d30d5446e8a43e64f74deff",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Lmt0uzfTZZFFAhjdHXqjTpBwURM/LkVovJXE3HYdgos=",
+          "size": 5435930
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_0.7.0_linux_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_linux_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_linux_arm64.zip",
           "shasum": "7203c4e1b6bf89f2c7ec0433da43c7ba8ff8893ba014001acc39d69a5934fbf8",
-          "h1": "",
-          "size": 0
+          "h1": "h1:pDGq8V+oBws+dhCGkayFJsuevD+A1YTs4f1dJ+yebzg=",
+          "size": 5261169
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-packetfabric_0.7.0_windows_386.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_windows_386.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_windows_386.zip",
           "shasum": "5c1870a3431b58dd24a5b8b9dfd560d65752c69317082493a21c14844ef6e427",
-          "h1": "",
-          "size": 0
+          "h1": "h1:y8AArrungFSd0KRn2mYwv3d+bmo7w8OlDBjLVF7EHp4=",
+          "size": 5646322
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-packetfabric_0.7.0_windows_amd64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_windows_amd64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_windows_amd64.zip",
           "shasum": "1e4238d1f6c6da1b9e3d33e2b896eef4e782fd4a33f85205d0537c5cae97882b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:waYlQWTWtF+PJfRQGczZm2OZor4yAIHaxLW9RUIk+FQ=",
+          "size": 5751327
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-packetfabric_0.7.0_windows_arm.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_windows_arm.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_windows_arm.zip",
           "shasum": "f60c0f20f02c2d68ae4ea1da06ab24db77b4a6138b366988797cc39924163c78",
-          "h1": "",
-          "size": 0
+          "h1": "h1:yo33ILBdbWpAPxHsowNZQkiFdw6/vB83AcQuA9tf3YU=",
+          "size": 5502081
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-packetfabric_0.7.0_windows_arm64.zip",
-          "download_url": "https://github.com/PacketFabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_windows_arm64.zip",
+          "download_url": "https://github.com/packetfabric/terraform-provider-packetfabric/releases/download/v0.7.0/terraform-provider-packetfabric_0.7.0_windows_arm64.zip",
           "shasum": "6f1f3f54a0fb9449bf940f2537429b8513ec80f86eb91a53d396e1c42f04d1ea",
-          "h1": "",
-          "size": 0
+          "h1": "h1:3W1COH+oNJ9oIrKqmTWaLT4yi+f+Ee/bzeeU3Rh7jgg=",
+          "size": 5278397
         }
       ]
     },
