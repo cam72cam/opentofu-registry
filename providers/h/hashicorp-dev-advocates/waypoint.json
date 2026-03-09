@@ -103,6 +103,214 @@
           "shasum": "e4fb26fcd5b20cde396e674ce3f3a0b7922b76ae8d9cdbbf2fed055373d806e6"
         }
       ]
+    },
+    {
+      "version": "0.2.1",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.2.1/terraform-provider-waypoint_v0.2.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.2.1/terraform-provider-waypoint_v0.2.1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-waypoint_v0.2.1_darwin_amd64.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.2.1/terraform-provider-waypoint_v0.2.1_darwin_amd64.zip",
+          "shasum": "f59b4d07d505d0d0202d4232802414e0e7864e96fcdf11ca6a7ce0dfb996336b"
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-waypoint_v0.2.1_darwin_arm64.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.2.1/terraform-provider-waypoint_v0.2.1_darwin_arm64.zip",
+          "shasum": "2a49096862618284561de3d089d5e2997feedb0052582bcfafb422489b82c8cb"
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-waypoint_v0.2.1_linux_amd64.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.2.1/terraform-provider-waypoint_v0.2.1_linux_amd64.zip",
+          "shasum": "399be7931b281fed2800516370570a9fd09d6008e6148cfdafe5228de1543724"
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-waypoint_v0.2.1_linux_arm64.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.2.1/terraform-provider-waypoint_v0.2.1_linux_arm64.zip",
+          "shasum": "86676db33b7745129ae7a25cf6c95db7c437603e013b7f64bf0e1fa9dfac3f45"
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-waypoint_v0.2.1_windows_386.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.2.1/terraform-provider-waypoint_v0.2.1_windows_386.zip",
+          "shasum": "9ad88a99e02e119484be201e82283eb32f2aa874888ccdefdd87414f7027b8c3"
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-waypoint_v0.2.1_windows_amd64.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.2.1/terraform-provider-waypoint_v0.2.1_windows_amd64.zip",
+          "shasum": "23d75df8c3e83206158c988fadebf42d3c0fbbe177ab51e7ab4453cbac5ab653"
+        }
+      ]
+    },
+    {
+      "version": "0.2.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.2.0/terraform-provider-waypoint_v0.2.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.2.0/terraform-provider-waypoint_v0.2.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-waypoint_v0.2.0_darwin_amd64.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.2.0/terraform-provider-waypoint_v0.2.0_darwin_amd64.zip",
+          "shasum": "4c0b070cde65c4c75490e471ec04620c6eeb71b480b162abdf0467cc4d833066"
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-waypoint_v0.2.0_darwin_arm64.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.2.0/terraform-provider-waypoint_v0.2.0_darwin_arm64.zip",
+          "shasum": "b106ae56f4ed1506198105ea1b2f731088ac655a4cf756352875026332afd5d0"
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-waypoint_v0.2.0_linux_amd64.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.2.0/terraform-provider-waypoint_v0.2.0_linux_amd64.zip",
+          "shasum": "aa7e7e4935d551343d6a0a8ca8983777ad4ae621c3575773f61267662c9ae5f1"
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-waypoint_v0.2.0_linux_arm64.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.2.0/terraform-provider-waypoint_v0.2.0_linux_arm64.zip",
+          "shasum": "67fae257101c516fcfbe68c6561c91d31f439d7322912d304dcaa37dfebfeb92"
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-waypoint_v0.2.0_windows_386.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.2.0/terraform-provider-waypoint_v0.2.0_windows_386.zip",
+          "shasum": "c2158d5091802a7be3bab1ff24fbadc8dcb729173b89e840fef8f3713ccb0042"
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-waypoint_v0.2.0_windows_amd64.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.2.0/terraform-provider-waypoint_v0.2.0_windows_amd64.zip",
+          "shasum": "e213704a50f7266b6385a7b105c3b372c9a5e806a3ce2d9f6676f0b05ea7828f"
+        }
+      ]
+    },
+    {
+      "version": "0.1.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.1.0/terraform-provider-waypoint_v0.1.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.1.0/terraform-provider-waypoint_v0.1.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-waypoint_v0.1.0_darwin_amd64.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.1.0/terraform-provider-waypoint_v0.1.0_darwin_amd64.zip",
+          "shasum": "3140e87c55fc1c1ea5da06ad2e6fb8866e1d4ce45c1caf5e120437b63d026294"
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-waypoint_v0.1.0_darwin_arm64.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.1.0/terraform-provider-waypoint_v0.1.0_darwin_arm64.zip",
+          "shasum": "1051ba99c2504e146b01c967d0667e6fe63811cb9c4f515a9cc1167163616718"
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-waypoint_v0.1.0_linux_amd64.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.1.0/terraform-provider-waypoint_v0.1.0_linux_amd64.zip",
+          "shasum": "62bf9c6dfa045b1532f3121adfd2ba039714321e5043bce21a1d35501d8ed125"
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-waypoint_v0.1.0_linux_arm64.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.1.0/terraform-provider-waypoint_v0.1.0_linux_arm64.zip",
+          "shasum": "6362d6902644ec6f536073eacfe458942a01382f96983480068cdade5a83b82f"
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-waypoint_v0.1.0_windows_386.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.1.0/terraform-provider-waypoint_v0.1.0_windows_386.zip",
+          "shasum": "97e07ccac4309331fa65e1ec21ae005e9aa88b96856ddff0af671ae8bf92da05"
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-waypoint_v0.1.0_windows_amd64.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.1.0/terraform-provider-waypoint_v0.1.0_windows_amd64.zip",
+          "shasum": "5c7bdd7b9875bffcf71d792c9c8d51fa5505fb8d6df6c566ea9f6cf9e6cd776b"
+        }
+      ]
+    },
+    {
+      "version": "0.1.0-rc1",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.1.0-rc1/terraform-provider-waypoint_v0.1.0-rc1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.1.0-rc1/terraform-provider-waypoint_v0.1.0-rc1_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-waypoint_v0.1.0-rc1_darwin_amd64.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.1.0-rc1/terraform-provider-waypoint_v0.1.0-rc1_darwin_amd64.zip",
+          "shasum": "654ff01e78534f7f82df2e8b784562ee7cf9822761236545ad07e7b98a4414f7"
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-waypoint_v0.1.0-rc1_darwin_arm64.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.1.0-rc1/terraform-provider-waypoint_v0.1.0-rc1_darwin_arm64.zip",
+          "shasum": "1eb2bb843f367b6c6c628a15b947c6c93e753976cd741edd203c19ed2b841a82"
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-waypoint_v0.1.0-rc1_linux_amd64.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.1.0-rc1/terraform-provider-waypoint_v0.1.0-rc1_linux_amd64.zip",
+          "shasum": "a1d0352f48a302b52379bbfd8916a32872daf32830e7a28a2d173913e5c672e5"
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-waypoint_v0.1.0-rc1_linux_arm64.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.1.0-rc1/terraform-provider-waypoint_v0.1.0-rc1_linux_arm64.zip",
+          "shasum": "883211cd978999335a4130ec368ad0e9d6595530bd94a606766ef71cbc89b8f9"
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-waypoint_v0.1.0-rc1_windows_386.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.1.0-rc1/terraform-provider-waypoint_v0.1.0-rc1_windows_386.zip",
+          "shasum": "f112694a3f22966a5cb153af108c136b479969d5db089b17d2680d0346a1449e"
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-waypoint_v0.1.0-rc1_windows_amd64.zip",
+          "download_url": "https://github.com/hashicorp-dev-advocates/terraform-provider-waypoint/releases/download/v0.1.0-rc1/terraform-provider-waypoint_v0.1.0-rc1_windows_amd64.zip",
+          "shasum": "89a1a57cf743c48a581908692271a6fa301d53183bc6d48bda7fc81ce4ed0ff4"
+        }
+      ]
     }
   ]
 }
