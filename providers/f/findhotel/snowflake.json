@@ -5,22 +5,26 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/FindHotel/terraform-provider-snowflake/releases/download/v0.13.2-fh3/terraform-provider-snowflake_0.13.2-fh3_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/FindHotel/terraform-provider-snowflake/releases/download/v0.13.2-fh3/terraform-provider-snowflake_0.13.2-fh3_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/findhotel/terraform-provider-snowflake/releases/download/v0.13.2-fh3/terraform-provider-snowflake_0.13.2-fh3_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/findhotel/terraform-provider-snowflake/releases/download/v0.13.2-fh3/terraform-provider-snowflake_0.13.2-fh3_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-snowflake_0.13.2-fh3_darwin_amd64.zip",
-          "download_url": "https://github.com/FindHotel/terraform-provider-snowflake/releases/download/v0.13.2-fh3/terraform-provider-snowflake_0.13.2-fh3_darwin_amd64.zip",
-          "shasum": "34cb2af30f421cf256c360e2643458dbb97f1c63be1165d08c277fbd3790f97e"
+          "download_url": "https://github.com/findhotel/terraform-provider-snowflake/releases/download/v0.13.2-fh3/terraform-provider-snowflake_0.13.2-fh3_darwin_amd64.zip",
+          "shasum": "34cb2af30f421cf256c360e2643458dbb97f1c63be1165d08c277fbd3790f97e",
+          "h1": "h1:Qe4OPHqVJWM6IsLa2FRWvMyo/fUXrwkHdPGSAHiw8mw=",
+          "size": 9093163
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-snowflake_0.13.2-fh3_linux_amd64.zip",
-          "download_url": "https://github.com/FindHotel/terraform-provider-snowflake/releases/download/v0.13.2-fh3/terraform-provider-snowflake_0.13.2-fh3_linux_amd64.zip",
-          "shasum": "7d766b3fccaaaa10585ab970b18e8e5475fd94b30ba57e7fd03149fae62e20fe"
+          "download_url": "https://github.com/findhotel/terraform-provider-snowflake/releases/download/v0.13.2-fh3/terraform-provider-snowflake_0.13.2-fh3_linux_amd64.zip",
+          "shasum": "7d766b3fccaaaa10585ab970b18e8e5475fd94b30ba57e7fd03149fae62e20fe",
+          "h1": "h1:rJY20RTnlyKHNRLE7RQ4msA0dAjRc+o7eE3c0EHjKj0=",
+          "size": 8728180
         }
       ]
     },
@@ -37,14 +41,18 @@
           "arch": "amd64",
           "filename": "terraform-provider-snowflake_v0.13.2-fh2_darwin_amd64.zip",
           "download_url": "https://github.com/findhotel/terraform-provider-snowflake/releases/download/v0.13.2-fh2/terraform-provider-snowflake_v0.13.2-fh2_darwin_amd64.zip",
-          "shasum": "b69bb236de18a83e72ad6f01db0f68634a0c3eaef0c98a759042267e6d137a08"
+          "shasum": "b69bb236de18a83e72ad6f01db0f68634a0c3eaef0c98a759042267e6d137a08",
+          "h1": "",
+          "size": 0
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-snowflake_v0.13.2-fh2_linux_amd64.zip",
           "download_url": "https://github.com/findhotel/terraform-provider-snowflake/releases/download/v0.13.2-fh2/terraform-provider-snowflake_v0.13.2-fh2_linux_amd64.zip",
-          "shasum": "188a19223bc2ceca0c3bb85e76ee913a4ff3bf3d113237ffda87bf3bf2cfec7e"
+          "shasum": "188a19223bc2ceca0c3bb85e76ee913a4ff3bf3d113237ffda87bf3bf2cfec7e",
+          "h1": "",
+          "size": 0
         }
       ]
     }
