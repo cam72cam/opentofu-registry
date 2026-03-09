@@ -821,134 +821,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.1.2_darwin_amd64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_darwin_amd64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_darwin_amd64.zip",
           "shasum": "9aa1d33571e16322a4f657fcdb368e5620706a962c6b5762939484f4c4d26b1c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:XzEWeRhPBeun+PDHIkHDabSyTLk8z88g5mD0XSjSx/I=",
+          "size": 7314548
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.1.2_darwin_arm64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_darwin_arm64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_darwin_arm64.zip",
           "shasum": "410be1d94817c04ec8fec9717831c388de9fc740f31e8cb6b4d06affd92bd5d8",
-          "h1": "",
-          "size": 0
+          "h1": "h1:XrSRK9ecyC8gHtHupsERP7OlbobDYk37HlHW1pgkh7U=",
+          "size": 7059636
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-mysql_1.1.2_freebsd_386.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_freebsd_386.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_freebsd_386.zip",
           "shasum": "557f6e5c9a2458c5841b13c836bec9da33dfd77a9ec0b2db28b6e362e4acda24",
-          "h1": "",
-          "size": 0
+          "h1": "h1:5WDuT8Fm+fjQNV8S7MuaTLd9gW8Oh7stXfqHK3e+9gY=",
+          "size": 6692572
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.1.2_freebsd_amd64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_freebsd_amd64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_freebsd_amd64.zip",
           "shasum": "1a2ab81839430a08bd93ece1be4dbee87d4e7e8034a530336d5fbdbb754f60b3",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Xz6OWEQhyMSHx99Sk2MMt2sMGotgv4jGGnTfgiCOoVE=",
+          "size": 7044684
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-mysql_1.1.2_freebsd_arm.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_freebsd_arm.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_freebsd_arm.zip",
           "shasum": "a2c480b1d7aaa61c83ff0b0df802203c68ec34217bdabc419e4c0c58a16f1ad0",
-          "h1": "",
-          "size": 0
+          "h1": "h1:3p6QhyudG1UgQHarzkN1YOE1SQuBLU9e6Q5kv2vf3kY=",
+          "size": 6784820
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.1.2_freebsd_arm64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_freebsd_arm64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_freebsd_arm64.zip",
           "shasum": "70590121cf08f000cb6ef06848f4ec24cbcbb0b357bb93f5413ce356cb79ae0a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:OT6COPwh3erfehF9A/EmympwXY+U0Hio0LLHZ5irGkY=",
+          "size": 6467183
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-mysql_1.1.2_linux_386.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_linux_386.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_linux_386.zip",
           "shasum": "1050d5ec5ff112d5c1e9605d396710bd88ff4ff4c8b8c8abe7bb404a0f795e33",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Ch7jw3FpZxIP7j1duO/WPornZtS5wYgnjRDSPxJGMUw=",
+          "size": 6700088
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.1.2_linux_amd64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_linux_amd64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_linux_amd64.zip",
           "shasum": "bb6f6579a2b6a045c360543aa12ed7909298141ee635e5a108fa42fd6c53d105",
-          "h1": "",
-          "size": 0
+          "h1": "h1:bqIMCSzc/6rb0q91Q1+e0zo+Gwk7bumfLB9T3+gSKqQ=",
+          "size": 7046694
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-mysql_1.1.2_linux_arm.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_linux_arm.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_linux_arm.zip",
           "shasum": "e698bec834525647490e50736296ace77fa96ba817855c30ef6b7f113c91e5e5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:h2e4nEjOhXoF1nZfLjd8pAtCjcFMraAvuX3krkp/Lmk=",
+          "size": 6783812
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.1.2_linux_arm64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_linux_arm64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_linux_arm64.zip",
           "shasum": "77eec13cb79e0b9c7aa083cdb45cba964bc25684ceec6557a4407a77da72eb09",
-          "h1": "",
-          "size": 0
+          "h1": "h1:bXOEjV+2BpnmLv1RF/TFHD/1ikkjFf/gdZIx585dBXg=",
+          "size": 6472612
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-mysql_1.1.2_windows_386.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_windows_386.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_windows_386.zip",
           "shasum": "e32ed08d8b30f0fb612ae91a85383712896b40f0bccf80ca87c49c42f1798e24",
-          "h1": "",
-          "size": 0
+          "h1": "h1:y3KBKuOphlUTMzOgnRBG8dxwobMNd+iZ5Qo8KL88cns=",
+          "size": 6940304
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.1.2_windows_amd64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_windows_amd64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_windows_amd64.zip",
           "shasum": "363bcdf504bda24d53e4e2cf1b74539316753e51151a1576c06e685394e0f7e9",
-          "h1": "",
-          "size": 0
+          "h1": "h1:5L/xq0PSZSt27+VGBFsbT/E5+ci5QKHpmiyFfk+gNIY=",
+          "size": 7079245
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-mysql_1.1.2_windows_arm.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_windows_arm.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_windows_arm.zip",
           "shasum": "68f72aa7e13ed476faed149e1f42dc7b5cfbd3ee319edba373d723332dc2a39b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:TuiKfQYx9za7BoZneiN0hXSgjwbOeuBvLEN0FrTQwks=",
+          "size": 6885514
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.1.2_windows_arm64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_windows_arm64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.2/terraform-provider-mysql_1.1.2_windows_arm64.zip",
           "shasum": "debbe79695fa3bf4a1510a68c015f68014ad2ba4db76208c010cf2095e264306",
-          "h1": "",
-          "size": 0
+          "h1": "h1:DDDZ9mAsAAu5zccEb53oxqSaqL6ETTQskQAQlN7qqvo=",
+          "size": 6504790
         }
       ]
     },
@@ -957,134 +957,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.1.1_darwin_amd64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_darwin_amd64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_darwin_amd64.zip",
           "shasum": "e29261860386cf46e3d08a9097c94ea1035c3b1009c63082f901ed9b59f755b1",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Xudlig8dTw4QGBCHJlzXnN+iM6/Vvg0V8ZS169RI4RY=",
+          "size": 7314549
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.1.1_darwin_arm64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_darwin_arm64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_darwin_arm64.zip",
           "shasum": "64e735630fbd79e60983d75cd96ff1c3983f0161620162d5d3911710e6503fa3",
-          "h1": "",
-          "size": 0
+          "h1": "h1:3DSLt1hN3C16m6B0Vzve8IU5cUwfz1vdmicZVGZg0VQ=",
+          "size": 7059636
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-mysql_1.1.1_freebsd_386.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_freebsd_386.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_freebsd_386.zip",
           "shasum": "6ef0fddea4dfd8d394378a63b674496d8b9ceca078fe02e92361510d66d66063",
-          "h1": "",
-          "size": 0
+          "h1": "h1:BVJTrL2bh46CB8m+cgdmLo+xP8VpElVPFs8D/Q7Eon8=",
+          "size": 6692570
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.1.1_freebsd_amd64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_freebsd_amd64.zip",
           "shasum": "21a8ffee85c4c53634fa1633c7af11b91818e4e675564cfc16275207d60c4e9c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:PGMw6XQM3OXREwdcec/cpbhf5334rSkAwUB9HwkUEis=",
+          "size": 7044684
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-mysql_1.1.1_freebsd_arm.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_freebsd_arm.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_freebsd_arm.zip",
           "shasum": "a3ffb1e5f3273a1bcc913232974a46432616cd137df6e2830859affe73d1bee8",
-          "h1": "",
-          "size": 0
+          "h1": "h1:xvhPIbyjk4PgNPnmBw9TqMhGa3vpB60gv/uzIJEJuKI=",
+          "size": 6784819
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.1.1_freebsd_arm64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_freebsd_arm64.zip",
           "shasum": "291f3deaad40d000042cdf3eb95662385c1f42f9f4c75e4bcf315405da3b5d86",
-          "h1": "",
-          "size": 0
+          "h1": "h1:jheO5/iWlEqBMLhOuftdHFlSf9JpFNubkrnf2K2SuX4=",
+          "size": 6467182
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-mysql_1.1.1_linux_386.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_linux_386.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_linux_386.zip",
           "shasum": "3bf690d12eecc6d05d172608a54a1f02bb0d6aa049a5b79f14ceb8f2d0046551",
-          "h1": "",
-          "size": 0
+          "h1": "h1:0XG71UzmoaOceS+YCoHmMlhwJCXxvpAGOSkU5A+DYno=",
+          "size": 6700086
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.1.1_linux_amd64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_linux_amd64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_linux_amd64.zip",
           "shasum": "7096e4eec844bc2a76327682a5c3235b95aedf0a55440cc80b9fe930d64a4bc8",
-          "h1": "",
-          "size": 0
+          "h1": "h1:FMr0m9yZBb2/SsmyuJ6hnU1NuHJa9yBvBs1bqYAXfak=",
+          "size": 7046692
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-mysql_1.1.1_linux_arm.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_linux_arm.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_linux_arm.zip",
           "shasum": "08e1d89151b1fffba829941a7685528845e6c6181d7e3b2755f3576b383c1140",
-          "h1": "",
-          "size": 0
+          "h1": "h1:V55dknZlMVTiDhR87Hej6xi0Uc83Qky3nRACWHYfs3Y=",
+          "size": 6783809
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.1.1_linux_arm64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_linux_arm64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_linux_arm64.zip",
           "shasum": "a9b7144b21e9e62c7f5c91d725b7774603841476d50f7f87bfae3ecbbe3858c0",
-          "h1": "",
-          "size": 0
+          "h1": "h1:LwDW+cYojBu6Vd/S/4gHwnKR1/wuQP7KFuVWBPRgeH4=",
+          "size": 6472607
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-mysql_1.1.1_windows_386.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_windows_386.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_windows_386.zip",
           "shasum": "8a1a75c9928d1e31817613b142589f574bab1106c9514b273a2113c43af6e42e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:UdYX2t4m6061cvTrYw+kP8kFjfVp+kfiLV43DZUB0A8=",
+          "size": 6940304
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.1.1_windows_amd64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_windows_amd64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_windows_amd64.zip",
           "shasum": "d4b89c689e4447b6bc3b19fece11dc5df21b6c07aeaa4a60b25d02398e7479d6",
-          "h1": "",
-          "size": 0
+          "h1": "h1:BxHttk7uC45JS1+SZhIA2j9KON0NutSkpwA2VZ8lwpk=",
+          "size": 7079242
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-mysql_1.1.1_windows_arm.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_windows_arm.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_windows_arm.zip",
           "shasum": "2d081ef7fabdc699598af7e1701ea4b913b63c38474b4093f89c82d07931cdf8",
-          "h1": "",
-          "size": 0
+          "h1": "h1:HG1op5WIFxsD2gZAoUHcaTCPv3NJ+AAgG2YSF0XlKzo=",
+          "size": 6885520
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.1.1_windows_arm64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_windows_arm64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.1/terraform-provider-mysql_1.1.1_windows_arm64.zip",
           "shasum": "15cbaf33744eaac046126e68f9579e5b86c0c55bae2b66b1a7cfb3decdd1b2d9",
-          "h1": "",
-          "size": 0
+          "h1": "h1:NZj4SdNRi4257Q+4fdkjTnfVZbm4Swr7VTSxcTk1sGI=",
+          "size": 6504786
         }
       ]
     },
@@ -1093,134 +1093,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.1.0_darwin_amd64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_darwin_amd64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_darwin_amd64.zip",
           "shasum": "3f2ccf60783d8269cb6116c7d5254cc03e29bd7b79aacb8be2e6d0d9ca901519",
-          "h1": "",
-          "size": 0
+          "h1": "h1:p1sNPigy85oPyQo4Bppbz/Xc+biwvmFB9yX5uVFo9gA=",
+          "size": 7314547
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.1.0_darwin_arm64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_darwin_arm64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_darwin_arm64.zip",
           "shasum": "d80e9f3ef01fd9e9dd6957eb2e795f4bdf11c319c61a07a25cac58d3518c450f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:RWjj+UeFK8B0PjNJeIqlmPGR8ENhyrxAVStlSG9141c=",
+          "size": 7059637
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-mysql_1.1.0_freebsd_386.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_freebsd_386.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_freebsd_386.zip",
           "shasum": "83082f7542fa4771c27c59f22dad2ed1f709a8a4ea4d8e8201298dd5736a6593",
-          "h1": "",
-          "size": 0
+          "h1": "h1:tLEdL9CGkk5niAwh5xpPMuL+Usi8Ox+FCf0CUGMemqs=",
+          "size": 6692571
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.1.0_freebsd_amd64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_freebsd_amd64.zip",
           "shasum": "db7e5858e07085c75c3e66b92ee953790a7d82496f45072df34657a31aaa696b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:xgyLhOw1yFh7qFTFRppEpiZ9pGvPpAdaGoIiw5JMiOw=",
+          "size": 7044684
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-mysql_1.1.0_freebsd_arm.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_freebsd_arm.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_freebsd_arm.zip",
           "shasum": "81aca00a9240b3fa49ae96f001369311907a08fd479e81e7f8ab75f364f44853",
-          "h1": "",
-          "size": 0
+          "h1": "h1:abUuGd+JwoeOBLXQ8jqkNjXqjFC0O5zXZayI3RtnKwk=",
+          "size": 6784819
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.1.0_freebsd_arm64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_freebsd_arm64.zip",
           "shasum": "6be42e962dfbd2ed26ae90b03c0dde586ec66b95fabbdd02193d192977210182",
-          "h1": "",
-          "size": 0
+          "h1": "h1:3swLS62NrtCZvrSVj8DdBPlrtG2dxmn5jfbW2es8D7Q=",
+          "size": 6467184
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-mysql_1.1.0_linux_386.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_linux_386.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_linux_386.zip",
           "shasum": "0088bc1701e7bc7caa32b3bff27fef18fe7ca080b1c0915586dc879acb8f3569",
-          "h1": "",
-          "size": 0
+          "h1": "h1:6bElMe9VgMqW2lR/ErHkyAQNyhJSncSqaOt1GJCaZk0=",
+          "size": 6700085
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.1.0_linux_amd64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_linux_amd64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_linux_amd64.zip",
           "shasum": "0b4848901ad5610d6aa05be9ebb2875587f5fcc15797e0b781942c0f9a64e2fd",
-          "h1": "",
-          "size": 0
+          "h1": "h1:2r8dcoBe5OyUfMbxWaREq07tuRPGt3IziKvlPBeJKaw=",
+          "size": 7046696
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-mysql_1.1.0_linux_arm.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_linux_arm.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_linux_arm.zip",
           "shasum": "582bdebb80b09a493423be58ae70378000113358e1c40b906c115e0085bfeae9",
-          "h1": "",
-          "size": 0
+          "h1": "h1:a8FoflAUpoMl5CUbkVLVVeR8Bz57PIIidrI47PYRsBk=",
+          "size": 6783812
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.1.0_linux_arm64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_linux_arm64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_linux_arm64.zip",
           "shasum": "e6c71825611af8b1ceb964cbacf463be9b384f3e6ccc2d951b805321adaac98b",
-          "h1": "",
-          "size": 0
+          "h1": "h1:2A2KeJKd/fQqZXkF4qk1V/pIusPeApUs2axA8jqxr/c=",
+          "size": 6472610
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-mysql_1.1.0_windows_386.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_windows_386.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_windows_386.zip",
           "shasum": "a25b038b8d0fab2bdc550e2d0e570026044a1860ab13896de12e0f1dbc2b05de",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ec6VG2BQkTn9pQCnVf4KFKLY9vuTDHyvL4a6z5Z7ewE=",
+          "size": 6940301
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.1.0_windows_amd64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_windows_amd64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_windows_amd64.zip",
           "shasum": "9afd5eac1c14609d0a0d7ce539fc5191e2fdfe08bc9c729ea420d657a7bea3de",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ofa/6lkkZ0QyQFnI0hU9aYS3/oQY8zCjqcii98dvOEg=",
+          "size": 7079248
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-mysql_1.1.0_windows_arm.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_windows_arm.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_windows_arm.zip",
           "shasum": "ad1512c56c934ac50eeb771aa5e7115e2f30cea369ff65c471a5b8e02e8503a7",
-          "h1": "",
-          "size": 0
+          "h1": "h1:w+/FsjOaCOW7svNGl40ogS7cYMf92zDw7r13dnV5/GY=",
+          "size": 6885511
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.1.0_windows_arm64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_windows_arm64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.1.0/terraform-provider-mysql_1.1.0_windows_arm64.zip",
           "shasum": "9055f8e054881b3d127458f6b0dff20a3f2ce9f1cfb683ef84b6f7e2805720be",
-          "h1": "",
-          "size": 0
+          "h1": "h1:yhfKEbC6k93eieQwEsrZOyy9JbARJrsUwHCThkFnjt8=",
+          "size": 6504786
         }
       ]
     },
@@ -1229,134 +1229,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.0.1_darwin_amd64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_darwin_amd64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_darwin_amd64.zip",
           "shasum": "e501e948c5258dde445e8740d856e1d868065af6a9c665459ee90a7b6bed8fd0",
-          "h1": "",
-          "size": 0
+          "h1": "h1:SCQWSx5k+uQCv2L01ED7+lh2EiCLUMxHG6tsh3pwT58=",
+          "size": 6754223
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.0.1_darwin_arm64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_darwin_arm64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_darwin_arm64.zip",
           "shasum": "ab77ee0279392b211dc2aab8130b1414702ecafa4e89a0362a5a0f8a1e920bfa",
-          "h1": "",
-          "size": 0
+          "h1": "h1:sziWjN53oS4E2YlkyvuSfUTgZjNvT8MGMUVrEJG5vCQ=",
+          "size": 6489406
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-mysql_1.0.1_freebsd_386.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_freebsd_386.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_freebsd_386.zip",
           "shasum": "413130bcfbfe113e32192131867e4afed56efb97eb5979c93dcb6f1d226ec014",
-          "h1": "",
-          "size": 0
+          "h1": "h1:jIliW8q3dUQI47aRpIIyT8L0/Hx7f9C1cCzt1Z49Mrs=",
+          "size": 6193071
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.0.1_freebsd_amd64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_freebsd_amd64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_freebsd_amd64.zip",
           "shasum": "9938b7138394f5a19053f828a23fcc16ab0b9023792cc78b545952d0299d47f1",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ULvD7oEz4yJ/R37NDGmg/oMpQU7p8vKJOJ3cgcoUV3c=",
+          "size": 6512121
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-mysql_1.0.1_freebsd_arm.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_freebsd_arm.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_freebsd_arm.zip",
           "shasum": "d9389aabf3c3fbe740dc51bfedf2c4ae3d07a95798b377be71a5e1968f74d302",
-          "h1": "",
-          "size": 0
+          "h1": "h1:S17ie5JJ0F4kvJbiOY4YKHDuqWbjFFREPApb2qgQKG8=",
+          "size": 6202879
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.0.1_freebsd_arm64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_freebsd_arm64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_freebsd_arm64.zip",
           "shasum": "58aaec7094492ba919c535672a3a9a7002549063cd252b15c804ef5f1ea3ec4f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:W1Rsu0/Z8/NegrRsQU0Qv4aKrL3oXi4hfzZFbfK18IM=",
+          "size": 5967608
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-mysql_1.0.1_linux_386.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_linux_386.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_linux_386.zip",
           "shasum": "6610dcf95d653c31f7803c7d997b9f6975505d413d12fe6777f0d46b97748119",
-          "h1": "",
-          "size": 0
+          "h1": "h1:MGY2KMgZY8giMv8spZcRg+YXGiaUjMCPGK23D2RTQbk=",
+          "size": 6203169
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.0.1_linux_amd64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_linux_amd64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_linux_amd64.zip",
           "shasum": "24fdf10735b353dc2cb991320c0c789554d962cc23399a7ada789dc9c1d40124",
-          "h1": "",
-          "size": 0
+          "h1": "h1:CmyuiXawa/V/YlwiHwbxnVjWKT/gl12yXLF969QZMdw=",
+          "size": 6513055
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-mysql_1.0.1_linux_arm.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_linux_arm.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_linux_arm.zip",
           "shasum": "f915cbbd96a02a1e406e6f51e914b04b95832902dd517ff7eb96fb12f3ec93c4",
-          "h1": "",
-          "size": 0
+          "h1": "h1:zbmi3YFrdnUciC6Zgpipta0SGx6/g69R4l0799gRbPI=",
+          "size": 6202817
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.0.1_linux_arm64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_linux_arm64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_linux_arm64.zip",
           "shasum": "bd5f7d4c7afeb87b408e565270d73ddd4ad74c2e919fa5842f52f1b620392f0e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:xk+xUozGEAMW9l99elXcZEx5vD08vdzAjEqCkWoHKh0=",
+          "size": 5969498
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-mysql_1.0.1_windows_386.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_windows_386.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_windows_386.zip",
           "shasum": "e1cf4283e17c55d67553679e1a8fa6a9330c0eca8c0cec8e180a157bb34c7740",
-          "h1": "",
-          "size": 0
+          "h1": "h1:MfrM+05GgxJpvFNtisYKlyS1pdnMYIUbFFjCz5WO6GE=",
+          "size": 6408244
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.0.1_windows_amd64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_windows_amd64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_windows_amd64.zip",
           "shasum": "1e776f4c3a5b3077520a38d0f261a5444b301fbb6f3be940f41020bcb17692f5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:hLPJflxF8nHpzZ9aKv+R/hFlTgr9Pg5GkVcLk+oyyw4=",
+          "size": 6540184
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-mysql_1.0.1_windows_arm.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_windows_arm.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_windows_arm.zip",
           "shasum": "aba2fedffe3d82bc748517453977c0261f06ccf7953113803d0b3c36c593ff06",
-          "h1": "",
-          "size": 0
+          "h1": "h1:eucau6EKW+8zHLg8ZF952KcHzqrgZ52VlRBdqR0aZNw=",
+          "size": 6296041
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.0.1_windows_arm64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_windows_arm64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.1/terraform-provider-mysql_1.0.1_windows_arm64.zip",
           "shasum": "659db6e68a0c343cc6176fff1fe6e2ba1747bcd9cc78d84e664e6040131c034a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:7tY+GWSdG6FftkbpzryaFmTHCkb1I8hBOKdGBVpV9dA=",
+          "size": 5997078
         }
       ]
     },
@@ -1365,134 +1365,134 @@
       "protocols": [
         "5.0"
       ],
-      "shasums_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_SHA256SUMS",
-      "shasums_signature_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_SHA256SUMS.sig",
+      "shasums_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_SHA256SUMS.sig",
       "targets": [
         {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.0.0_darwin_amd64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_darwin_amd64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_darwin_amd64.zip",
           "shasum": "88fd0db596cfd8dc019e0c9029b65a251c7cac6836d841a71144d432e6190ba7",
-          "h1": "",
-          "size": 0
+          "h1": "h1:/LymJqogX9qWzNbj5Vz9TcnOffMsJuxzJn89fWb0ZoE=",
+          "size": 6750126
         },
         {
           "os": "darwin",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.0.0_darwin_arm64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_darwin_arm64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_darwin_arm64.zip",
           "shasum": "1f3201da74ec9072622d1ecafa121088f32c8b142f56f339582d3931efaacfed",
-          "h1": "",
-          "size": 0
+          "h1": "h1:7+aHF9JQQxGuZFTXePfKBs0h+eEtc/TzVgYIsIsxU8A=",
+          "size": 6485979
         },
         {
           "os": "freebsd",
           "arch": "386",
           "filename": "terraform-provider-mysql_1.0.0_freebsd_386.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_freebsd_386.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_freebsd_386.zip",
           "shasum": "1b717d253cd8203fb39808e7d5b6e0002075143380b7f77e9dcb5a2b15b65065",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Op2TOGZ9ekCnbud9wQaPH9HbiVOgzMWpbQh9nRs5vTw=",
+          "size": 6191238
         },
         {
           "os": "freebsd",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.0.0_freebsd_amd64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_freebsd_amd64.zip",
           "shasum": "5b804c49c44a65dad39309a7ff55b72cda8b59a337343f29e5557093eca2a1a3",
-          "h1": "",
-          "size": 0
+          "h1": "h1:nfS/aFsCVVvYnT7hqCWVNAx0pDyrKubiPDNIOxxAMR4=",
+          "size": 6510288
         },
         {
           "os": "freebsd",
           "arch": "arm",
           "filename": "terraform-provider-mysql_1.0.0_freebsd_arm.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_freebsd_arm.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_freebsd_arm.zip",
           "shasum": "c07a081a658c75a40d63bd847c531c571cbd6ab054e8997d42ecb14f4d591bb9",
-          "h1": "",
-          "size": 0
+          "h1": "h1:O/IujNBYy78WUZQNhZJTky5ocvy/zAzQBsrQgYSAwOU=",
+          "size": 6201505
         },
         {
           "os": "freebsd",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.0.0_freebsd_arm64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_freebsd_arm64.zip",
           "shasum": "d8ddfdf8410c9b0273a2ad4059238ae737c816520164e9f83a1042a68455e73a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:ozHhpMtnQ3R46TbDfQbqASYfi2tMe11U301EUQFg+/Q=",
+          "size": 5966394
         },
         {
           "os": "linux",
           "arch": "386",
           "filename": "terraform-provider-mysql_1.0.0_linux_386.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_linux_386.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_linux_386.zip",
           "shasum": "261fdefd23894acdfe8e30353c9621cefacc230eaacc95ef4f96f8abb35fca51",
-          "h1": "",
-          "size": 0
+          "h1": "h1:7Hwcr1PZw1GvqfOKT1pHCvvPct2ZDc3jFPEpG9uqB60=",
+          "size": 6200720
         },
         {
           "os": "linux",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.0.0_linux_amd64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_linux_amd64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_linux_amd64.zip",
           "shasum": "6c4fbb6deec4482f3f8e60375ff6cf6f6dfbc40ca437b2a166a7844e722876f7",
-          "h1": "",
-          "size": 0
+          "h1": "h1:r9g4rqwMWdxh8RDdS1IGfTpt/8Er3RRDeus+OKZMVlU=",
+          "size": 6511716
         },
         {
           "os": "linux",
           "arch": "arm",
           "filename": "terraform-provider-mysql_1.0.0_linux_arm.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_linux_arm.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_linux_arm.zip",
           "shasum": "90fd2cbba4451c8e71cdd42881b66b9002f487177a1da9a3731e135c322c6afd",
-          "h1": "",
-          "size": 0
+          "h1": "h1:qvC/WbNN4pmd84/Fm9lXyDXHgN5k7yYvqfvbNlI5EOg=",
+          "size": 6202250
         },
         {
           "os": "linux",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.0.0_linux_arm64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_linux_arm64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_linux_arm64.zip",
           "shasum": "b5684c6dbbc4ad60483939637fdc8a4b58f99c62f81f94ebdb0c74f0294840b0",
-          "h1": "",
-          "size": 0
+          "h1": "h1:+JwmEhox+v06lJ5WTPgtmPqSWJsz+HuqPJbqvFlbKLM=",
+          "size": 5968094
         },
         {
           "os": "windows",
           "arch": "386",
           "filename": "terraform-provider-mysql_1.0.0_windows_386.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_windows_386.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_windows_386.zip",
           "shasum": "36fb83d1b289803e86cecacd98e7b8b5e8bf9cf9ebec6573ef8d597cc5563a04",
-          "h1": "",
-          "size": 0
+          "h1": "h1:a5ZrQcp8Tamu70ybqALRQQrxRD3pn4Y0LK+Ca+7NPIw=",
+          "size": 6408223
         },
         {
           "os": "windows",
           "arch": "amd64",
           "filename": "terraform-provider-mysql_1.0.0_windows_amd64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_windows_amd64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_windows_amd64.zip",
           "shasum": "14943b26bc77a553dc40e463be4ab90f4012f00c13756214d6ce2e4ecb5465ba",
-          "h1": "",
-          "size": 0
+          "h1": "h1:zDo8Z4gJMPFFfDG39+MFIT+LCplPuDHzmluQq3KezoY=",
+          "size": 6538199
         },
         {
           "os": "windows",
           "arch": "arm",
           "filename": "terraform-provider-mysql_1.0.0_windows_arm.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_windows_arm.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_windows_arm.zip",
           "shasum": "9284cde20a50a7da7ce32a75e24d3aa0bc8f791b8e24e8b06d1fe9626186b9b9",
-          "h1": "",
-          "size": 0
+          "h1": "h1:XCPxTQG58ERxQEbC1Vr+WyG21YI608+oUf4vzo/hIcc=",
+          "size": 6293604
         },
         {
           "os": "windows",
           "arch": "arm64",
           "filename": "terraform-provider-mysql_1.0.0_windows_arm64.zip",
-          "download_url": "https://github.com/TakatoHano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_windows_arm64.zip",
+          "download_url": "https://github.com/takatohano/terraform-provider-mysql/releases/download/v1.0.0/terraform-provider-mysql_1.0.0_windows_arm64.zip",
           "shasum": "39c2070762f8329fc7948d0eb74d98e487b1ea42fd7ad64439edec688384d19f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:q/WZrGQ9dVuVqEisd3UJYT+YmFbDm8B9uFFsC2atrqA=",
+          "size": 5993963
         }
       ]
     }
