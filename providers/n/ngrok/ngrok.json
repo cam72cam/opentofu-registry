@@ -1,6 +1,114 @@
 {
   "versions": [
     {
+      "version": "0.7.0",
+      "protocols": [
+        "5.0"
+      ],
+      "shasums_url": "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.7.0/terraform-provider-ngrok_0.7.0_SHA256SUMS",
+      "shasums_signature_url": "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.7.0/terraform-provider-ngrok_0.7.0_SHA256SUMS.sig",
+      "targets": [
+        {
+          "os": "darwin",
+          "arch": "amd64",
+          "filename": "terraform-provider-ngrok_0.7.0_darwin_amd64.zip",
+          "download_url": "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.7.0/terraform-provider-ngrok_0.7.0_darwin_amd64.zip",
+          "shasum": "a6e81d7d018e648c40660bfcfb60b57b311996fdb69323854166f534af827d2a"
+        },
+        {
+          "os": "darwin",
+          "arch": "arm64",
+          "filename": "terraform-provider-ngrok_0.7.0_darwin_arm64.zip",
+          "download_url": "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.7.0/terraform-provider-ngrok_0.7.0_darwin_arm64.zip",
+          "shasum": "ac2994ef5b81f9cbfd07c9e17f18363c4e471ca7563a8916744fea95fc7c65b7"
+        },
+        {
+          "os": "freebsd",
+          "arch": "386",
+          "filename": "terraform-provider-ngrok_0.7.0_freebsd_386.zip",
+          "download_url": "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.7.0/terraform-provider-ngrok_0.7.0_freebsd_386.zip",
+          "shasum": "f5b7b681d7a25843bebf6f088167c402c892ceb52aae9fe233a1c3d1cab840d4"
+        },
+        {
+          "os": "freebsd",
+          "arch": "amd64",
+          "filename": "terraform-provider-ngrok_0.7.0_freebsd_amd64.zip",
+          "download_url": "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.7.0/terraform-provider-ngrok_0.7.0_freebsd_amd64.zip",
+          "shasum": "e2c11c525c48a9ad2fd9c3873652344325f615d1af47beae2baff6c2c9a4f389"
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm",
+          "filename": "terraform-provider-ngrok_0.7.0_freebsd_arm.zip",
+          "download_url": "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.7.0/terraform-provider-ngrok_0.7.0_freebsd_arm.zip",
+          "shasum": "d14c63634ddc7c239e26fa8f1db2cfc2decdc5b28cd5ca98534466816e48f44f"
+        },
+        {
+          "os": "freebsd",
+          "arch": "arm64",
+          "filename": "terraform-provider-ngrok_0.7.0_freebsd_arm64.zip",
+          "download_url": "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.7.0/terraform-provider-ngrok_0.7.0_freebsd_arm64.zip",
+          "shasum": "503f7464657d2757e75d9cb5e77f3456e1350406c4a1a05cceddac0f83bbe879"
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-ngrok_0.7.0_linux_386.zip",
+          "download_url": "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.7.0/terraform-provider-ngrok_0.7.0_linux_386.zip",
+          "shasum": "86803c70ec645e418efb41af6b2da5ff32a2fa8707682ff4ca2166dd55ce352c"
+        },
+        {
+          "os": "linux",
+          "arch": "amd64",
+          "filename": "terraform-provider-ngrok_0.7.0_linux_amd64.zip",
+          "download_url": "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.7.0/terraform-provider-ngrok_0.7.0_linux_amd64.zip",
+          "shasum": "d46aebb5a38ef5a64543947c363c913b5e4044851b6b01999189d26e80bb54bd"
+        },
+        {
+          "os": "linux",
+          "arch": "arm",
+          "filename": "terraform-provider-ngrok_0.7.0_linux_arm.zip",
+          "download_url": "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.7.0/terraform-provider-ngrok_0.7.0_linux_arm.zip",
+          "shasum": "0c58745dde0d361d1bc92589dbfbe2deab4062eda0886a716f7d2d7ffef34f17"
+        },
+        {
+          "os": "linux",
+          "arch": "arm64",
+          "filename": "terraform-provider-ngrok_0.7.0_linux_arm64.zip",
+          "download_url": "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.7.0/terraform-provider-ngrok_0.7.0_linux_arm64.zip",
+          "shasum": "ec37b4a836ddac49ebd432f2a8f3d6215271e58065987164b1f884d2a9efbbee"
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-ngrok_0.7.0_windows_386.zip",
+          "download_url": "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.7.0/terraform-provider-ngrok_0.7.0_windows_386.zip",
+          "shasum": "cf369e0c684ff1700869b13a2f51a329084bd211acb78358e46d2a625bcb544f"
+        },
+        {
+          "os": "windows",
+          "arch": "amd64",
+          "filename": "terraform-provider-ngrok_0.7.0_windows_amd64.zip",
+          "download_url": "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.7.0/terraform-provider-ngrok_0.7.0_windows_amd64.zip",
+          "shasum": "7d85be0ff116713e84522cc51b665fb8d1a270d8bae13c0f620fe69de9fbbe71"
+        },
+        {
+          "os": "windows",
+          "arch": "arm",
+          "filename": "terraform-provider-ngrok_0.7.0_windows_arm.zip",
+          "download_url": "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.7.0/terraform-provider-ngrok_0.7.0_windows_arm.zip",
+          "shasum": "f6277c6e07de78ded069230ef97bdfe8110eb2922134cd25a08ac13da4c87ccf"
+        },
+        {
+          "os": "windows",
+          "arch": "arm64",
+          "filename": "terraform-provider-ngrok_0.7.0_windows_arm64.zip",
+          "download_url": "https://github.com/ngrok/terraform-provider-ngrok/releases/download/v0.7.0/terraform-provider-ngrok_0.7.0_windows_arm64.zip",
+          "shasum": "ffba351431ca06ce7e159ae7685840687a295d544c5d1be37732b1c00d2f5fd6"
+        }
+      ]
+    },
+    {
       "version": "0.6.0",
       "protocols": [
         "5.0"
@@ -1911,6 +2019,13 @@
           "shasum": "9318ea81de3edaec8ab02330e7356f9129fff31e72d9f13c567b8d0b58caa9d3"
         }
       ]
+    }
+  ],
+  "versions_errors": [
+    {
+      "version": "0.0.21",
+      "message": "checksums not found in release",
+      "utc_time": "2026-03-09T12:35:10.685137459Z"
     }
   ]
 }
