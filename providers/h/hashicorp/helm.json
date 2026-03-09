@@ -5279,22 +5279,22 @@
       "shasums_signature_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.3.1/terraform-provider-helm_0.3.1_SHA256SUMS.sig",
       "targets": [
         {
-          "os": "linux",
-          "arch": "386",
-          "filename": "terraform-provider-helm_0.3.1_linux_386.zip",
-          "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.3.1/terraform-provider-helm_0.3.1_linux_386.zip",
-          "shasum": "7509ac4fa2a99fe167b7127a8073297bd42b1820547605623749586c5887fce7",
-          "h1": "",
-          "size": 0
-        },
-        {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-helm_0.3.1_darwin_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.3.1/terraform-provider-helm_0.3.1_darwin_amd64.zip",
           "shasum": "869cbf428abee8c78e3ce3015e0a07afd82a5a96edcfde9c8c897f495f9409d5",
-          "h1": "",
-          "size": 0
+          "h1": "h1:+yKepF7PWok6nK6SAtpI92D1o724ldg7Ji7ucc3UD2M=",
+          "size": 14036550
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-helm_0.3.1_linux_386.zip",
+          "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.3.1/terraform-provider-helm_0.3.1_linux_386.zip",
+          "shasum": "7509ac4fa2a99fe167b7127a8073297bd42b1820547605623749586c5887fce7",
+          "h1": "h1:7xgnPf3nSHgIe1Hg0QFUuylzaDUKlYEyNuebgZ+UPqY=",
+          "size": 12366975
         },
         {
           "os": "linux",
@@ -5302,8 +5302,8 @@
           "filename": "terraform-provider-helm_0.3.1_linux_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.3.1/terraform-provider-helm_0.3.1_linux_amd64.zip",
           "shasum": "f1c8c15dd034c5f0cba6b74402325ff51bd3ff65a8a8b1f49e6cc33161e73e56",
-          "h1": "",
-          "size": 0
+          "h1": "h1:8rH4FaQqkCj8NsqfPi6EEoyVqBWRi/zfmajqzyVkqis=",
+          "size": 13322168
         },
         {
           "os": "windows",
@@ -5311,8 +5311,8 @@
           "filename": "terraform-provider-helm_0.3.1_windows_386.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.3.1/terraform-provider-helm_0.3.1_windows_386.zip",
           "shasum": "d9f8dfbf6fe037aeba311823313353b5583815d9717a67c7b09cfeacd6c04b3e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:PJa/xGMXvSUKF8oEVHGQ/9FrejEugOcnaj7e4Tq1B74=",
+          "size": 12342236
         },
         {
           "os": "windows",
@@ -5320,8 +5320,8 @@
           "filename": "terraform-provider-helm_0.3.1_windows_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.3.1/terraform-provider-helm_0.3.1_windows_amd64.zip",
           "shasum": "2155ee7f8f12042da6fbee54906dd35259f39bb6294644a1342c04ae00414924",
-          "h1": "",
-          "size": 0
+          "h1": "h1:yMOaww7HGgTQr8QhbzFLC4vP0O7NEaMlFHOQ8n7K+0Q=",
+          "size": 13338169
         }
       ]
     },
@@ -5339,8 +5339,8 @@
           "filename": "terraform-provider-helm_0.3.0_darwin_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.3.0/terraform-provider-helm_0.3.0_darwin_amd64.zip",
           "shasum": "d0843e8b673293c0d63792ac0dae9db4f798732a1e427fedb8eceb4a7e18aa0c",
-          "h1": "",
-          "size": 0
+          "h1": "h1:zBx8wBe9w8tjgkarar2HFsIfyEOeKdvtPy4xN0Wx+bw=",
+          "size": 14036539
         },
         {
           "os": "linux",
@@ -5348,17 +5348,8 @@
           "filename": "terraform-provider-helm_0.3.0_linux_386.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.3.0/terraform-provider-helm_0.3.0_linux_386.zip",
           "shasum": "f6260f1eacdab1f300d67e46788fcc10dcf5c3017c479364b26e57c55f8f8c6a",
-          "h1": "",
-          "size": 0
-        },
-        {
-          "os": "windows",
-          "arch": "386",
-          "filename": "terraform-provider-helm_0.3.0_windows_386.zip",
-          "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.3.0/terraform-provider-helm_0.3.0_windows_386.zip",
-          "shasum": "ee15da9e54cde6c9d24a332fe2fae65711487eb17db9d3983e2e47d8e8307371",
-          "h1": "",
-          "size": 0
+          "h1": "h1:R7vSunj7HnAdJICTcVEcq4BkxAEOgJly9r5CRDbB25g=",
+          "size": 12366970
         },
         {
           "os": "linux",
@@ -5366,8 +5357,17 @@
           "filename": "terraform-provider-helm_0.3.0_linux_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.3.0/terraform-provider-helm_0.3.0_linux_amd64.zip",
           "shasum": "e82135b204146d484051a4aeef10e560a30300ac21f7f5e78fe5a2e806fcbf7a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:qKQbP+vlHz8Awgyun+CPCLQGAYiSnhhPkm0z5odOhd4=",
+          "size": 13322177
+        },
+        {
+          "os": "windows",
+          "arch": "386",
+          "filename": "terraform-provider-helm_0.3.0_windows_386.zip",
+          "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.3.0/terraform-provider-helm_0.3.0_windows_386.zip",
+          "shasum": "ee15da9e54cde6c9d24a332fe2fae65711487eb17db9d3983e2e47d8e8307371",
+          "h1": "h1:bzkGPg0f87K0Fmdn8suM19/Lft8teybVK0rN0eyFA4I=",
+          "size": 12342227
         },
         {
           "os": "windows",
@@ -5375,8 +5375,8 @@
           "filename": "terraform-provider-helm_0.3.0_windows_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.3.0/terraform-provider-helm_0.3.0_windows_amd64.zip",
           "shasum": "1b6a9cddf5016aabe987105dcd64dba1d97ce17c4091697499348fe395987692",
-          "h1": "",
-          "size": 0
+          "h1": "h1:wLnUksahBXZ9HCmyCdEKm/Rhwr+Tq0m+bh6AkyKMntc=",
+          "size": 13338177
         }
       ]
     },
@@ -5389,22 +5389,22 @@
       "shasums_signature_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.2.0/terraform-provider-helm_0.2.0_SHA256SUMS.sig",
       "targets": [
         {
-          "os": "linux",
-          "arch": "386",
-          "filename": "terraform-provider-helm_0.2.0_linux_386.zip",
-          "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.2.0/terraform-provider-helm_0.2.0_linux_386.zip",
-          "shasum": "402e6f32536273044873b73149dffca00e419895b9ab28c9c264de3211055c9b",
-          "h1": "",
-          "size": 0
-        },
-        {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-helm_0.2.0_darwin_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.2.0/terraform-provider-helm_0.2.0_darwin_amd64.zip",
           "shasum": "867aaa335721bd2a88f4b962cb8c5fbb92801ce8406640cc66ea57911221149e",
-          "h1": "",
-          "size": 0
+          "h1": "h1:pT2rDDdCDsiHF4DdLRKry047rkN6zJ76/tgsYhptcnw=",
+          "size": 12915400
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-helm_0.2.0_linux_386.zip",
+          "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.2.0/terraform-provider-helm_0.2.0_linux_386.zip",
+          "shasum": "402e6f32536273044873b73149dffca00e419895b9ab28c9c264de3211055c9b",
+          "h1": "h1:rGGe5Di0F/dfkZjcTdN34NRuxyyEPfT60dBShQwiMLQ=",
+          "size": 11393915
         },
         {
           "os": "linux",
@@ -5412,8 +5412,8 @@
           "filename": "terraform-provider-helm_0.2.0_linux_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.2.0/terraform-provider-helm_0.2.0_linux_amd64.zip",
           "shasum": "f492a4cd63909d22af1b7abf6b88079dc0c5ebb770084ae9743416cc44832618",
-          "h1": "",
-          "size": 0
+          "h1": "h1:Fhe2ntmDoy/dEdAQD16nb7UbpYDEbR+hApwcYGPL9rA=",
+          "size": 12254359
         },
         {
           "os": "windows",
@@ -5421,8 +5421,8 @@
           "filename": "terraform-provider-helm_0.2.0_windows_386.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.2.0/terraform-provider-helm_0.2.0_windows_386.zip",
           "shasum": "2c277bea6f68504aa176a53a028867eb5c073caf3af77c436f028ec2b9adfcfe",
-          "h1": "",
-          "size": 0
+          "h1": "h1:W/2gVMO9aKHFFQzsLAlEfVReLk28ekyu788kyUGr38U=",
+          "size": 11405607
         },
         {
           "os": "windows",
@@ -5430,8 +5430,8 @@
           "filename": "terraform-provider-helm_0.2.0_windows_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.2.0/terraform-provider-helm_0.2.0_windows_amd64.zip",
           "shasum": "0be3ccf042bd68e1ad89ef37f83a5dbc24b2bcbb45edfefdb1b8bf3e9b9aaf16",
-          "h1": "",
-          "size": 0
+          "h1": "h1:LYfcNQz+vwifUY6VP8fzSYtcPud2gNXz6TVDZ8RJw2s=",
+          "size": 12302074
         }
       ]
     },
@@ -5444,22 +5444,22 @@
       "shasums_signature_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.1.0/terraform-provider-helm_0.1.0_SHA256SUMS.sig",
       "targets": [
         {
-          "os": "linux",
-          "arch": "386",
-          "filename": "terraform-provider-helm_0.1.0_linux_386.zip",
-          "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.1.0/terraform-provider-helm_0.1.0_linux_386.zip",
-          "shasum": "fe59e8c4e54ae20482b81fe3ceb8137597f9ecab2883ed5a6a585b9a55000e12",
-          "h1": "",
-          "size": 0
-        },
-        {
           "os": "darwin",
           "arch": "amd64",
           "filename": "terraform-provider-helm_0.1.0_darwin_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.1.0/terraform-provider-helm_0.1.0_darwin_amd64.zip",
           "shasum": "4e1b277419cbdd7f9fe6d74fcea0c773ff4f68fa075d157c95628de72567324f",
-          "h1": "",
-          "size": 0
+          "h1": "h1:1tEtYAoBHdllQHxUqSMwI/kak8B8G4bksclrGa5WcT0=",
+          "size": 12914928
+        },
+        {
+          "os": "linux",
+          "arch": "386",
+          "filename": "terraform-provider-helm_0.1.0_linux_386.zip",
+          "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.1.0/terraform-provider-helm_0.1.0_linux_386.zip",
+          "shasum": "fe59e8c4e54ae20482b81fe3ceb8137597f9ecab2883ed5a6a585b9a55000e12",
+          "h1": "h1:IiiLgm/+RhgcLAde/NqWLgx1SSzehgC8jZ2LrPSlxPc=",
+          "size": 11392987
         },
         {
           "os": "linux",
@@ -5467,8 +5467,8 @@
           "filename": "terraform-provider-helm_0.1.0_linux_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.1.0/terraform-provider-helm_0.1.0_linux_amd64.zip",
           "shasum": "ef118735f1b8027457f3597054b65ab4bcdc736ffe207abb72f5dceba1c97f6a",
-          "h1": "",
-          "size": 0
+          "h1": "h1:R+Z5AWVOlH4+GCHmSOb8fqyduh8rSGYzCosBWUCHRK8=",
+          "size": 12254075
         },
         {
           "os": "windows",
@@ -5476,8 +5476,8 @@
           "filename": "terraform-provider-helm_0.1.0_windows_386.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.1.0/terraform-provider-helm_0.1.0_windows_386.zip",
           "shasum": "a2384cc48569bb89b5ab9814898535efa5d921f9875b7ea0bd783e18daa69e03",
-          "h1": "",
-          "size": 0
+          "h1": "h1:kMtGwwCm/+n38ogBxaUhp7GZOaOONImmOuPA201TdO0=",
+          "size": 11405190
         },
         {
           "os": "windows",
@@ -5485,8 +5485,8 @@
           "filename": "terraform-provider-helm_0.1.0_windows_amd64.zip",
           "download_url": "https://github.com/opentofu/terraform-provider-helm/releases/download/v0.1.0/terraform-provider-helm_0.1.0_windows_amd64.zip",
           "shasum": "b893df8fc62184e396368ae5f0a7a7f54a73b7221ff4e2ff6fd0b01f5b882d24",
-          "h1": "",
-          "size": 0
+          "h1": "h1:vVERMSqy0nPq0FEysmUCVyntBedV7kVlkdjBOYtELnA=",
+          "size": 12300954
         }
       ]
     }
