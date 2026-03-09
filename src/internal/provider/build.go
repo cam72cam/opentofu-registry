@@ -136,6 +136,7 @@ func (p Provider) buildMetadata() (*Metadata, error) {
 	}
 
 	var errs []error
+	addedReleases := false
 	for range newReleases {
 		result := <-verChan
 		if result.err != nil {
@@ -162,6 +163,11 @@ func (p Provider) buildMetadata() (*Metadata, error) {
 		meta.VersionErrors = slices.DeleteFunc(meta.VersionErrors, func(errored VersionError) bool {
 			return errored.Version == result.r
 		})
+		addedReleases = true
+	}
+	if !addedReleases {
+		// Prevent file modification if not changed
+		return nil, nil
 	}
 
 	semverSortFunc := func(a, b Version) int {
